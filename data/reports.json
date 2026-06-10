@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T18:09:14+00:00",
+  "generatedAt": "2026-06-10T18:32:16+00:00",
   "tournaments": [
     {
       "id": "live-rbc-canadian-open",
@@ -17,7 +17,7 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:14+00:00",
+          "generatedAt": "2026-06-10T18:32:17+00:00",
           "headline": "Inför RBC Canadian Open: fältet samlas på veckans bana",
           "insights": [
             {
@@ -100,6 +100,5621 @@
             }
           ]
         }
+      },
+      "edge": {
+        "modelVersion": "0.2.0",
+        "simulations": 10000,
+        "remainingRounds": 4,
+        "completedRounds": 0,
+        "sigmaPerRound": 2.8,
+        "assumedSSVig": 0.1,
+        "fieldSize": 147,
+        "hasRealOdds": true,
+        "picks": [
+          {
+            "name": "Brooks Koepka",
+            "mu": -2.0,
+            "muSource": "rank 4",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0454,
+                "fairOdds": 22.03,
+                "realSSOdds": 6.5,
+                "edgePct": -0.7049,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.1652,
+                "fairOdds": 6.05,
+                "realSSOdds": 6.0,
+                "edgePct": -0.0088,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top10": {
+                "prob": 0.2786,
+                "fairOdds": 3.59,
+                "realSSOdds": 3.5,
+                "edgePct": -0.0249,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.4445,
+                "fairOdds": 2.25,
+                "realSSOdds": 2.15,
+                "edgePct": -0.0443,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Sam Burns",
+            "mu": -2.0,
+            "muSource": "rank 2",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0434,
+                "fairOdds": 23.04,
+                "realSSOdds": 4.0,
+                "edgePct": -0.8264,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.1687,
+                "fairOdds": 5.93,
+                "realSSOdds": 3.75,
+                "edgePct": -0.3674,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top10": {
+                "prob": 0.28,
+                "fairOdds": 3.57,
+                "realSSOdds": 2.75,
+                "edgePct": -0.23,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.4491,
+                "fairOdds": 2.23,
+                "realSSOdds": 1.84,
+                "edgePct": -0.1737,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Alex Noren",
+            "mu": -2.0,
+            "muSource": "rank 9",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0432,
+                "fairOdds": 23.15,
+                "realSSOdds": 7.0,
+                "edgePct": -0.6976,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.1638,
+                "fairOdds": 6.11,
+                "realSSOdds": 6.5,
+                "edgePct": 0.0647,
+                "kellyFraction": 0.0029,
+                "recommendedStakePct": 0.29,
+                "confidence": "Jämn edge"
+              },
+              "top10": {
+                "prob": 0.2726,
+                "fairOdds": 3.67,
+                "realSSOdds": 4.0,
+                "edgePct": 0.0904,
+                "kellyFraction": 0.0075,
+                "recommendedStakePct": 0.75,
+                "confidence": "Lutar edge"
+              },
+              "top20": {
+                "prob": 0.4383,
+                "fairOdds": 2.28,
+                "realSSOdds": 2.38,
+                "edgePct": 0.0432,
+                "kellyFraction": 0.0078,
+                "recommendedStakePct": 0.78,
+                "confidence": "Jämn edge"
+              }
+            }
+          },
+          {
+            "name": "Justin Rose",
+            "mu": -2.0,
+            "muSource": "rank 6",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0431,
+                "fairOdds": 23.2,
+                "realSSOdds": 6.5,
+                "edgePct": -0.7198,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.1606,
+                "fairOdds": 6.23,
+                "realSSOdds": 6.0,
+                "edgePct": -0.0364,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top10": {
+                "prob": 0.2736,
+                "fairOdds": 3.65,
+                "realSSOdds": 3.5,
+                "edgePct": -0.0424,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.4364,
+                "fairOdds": 2.29,
+                "realSSOdds": 2.15,
+                "edgePct": -0.0617,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Collin Morikawa",
+            "mu": -2.0,
+            "muSource": "rank 5",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0425,
+                "fairOdds": 23.53,
+                "realSSOdds": 6.5,
+                "edgePct": -0.7238,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.1591,
+                "fairOdds": 6.29,
+                "realSSOdds": 6.0,
+                "edgePct": -0.0454,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top10": {
+                "prob": 0.2718,
+                "fairOdds": 3.68,
+                "realSSOdds": 3.5,
+                "edgePct": -0.0487,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.4345,
+                "fairOdds": 2.3,
+                "realSSOdds": 2.15,
+                "edgePct": -0.0658,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Matt Fitzpatrick",
+            "mu": -2.0,
+            "muSource": "rank 3",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0418,
+                "fairOdds": 23.92,
+                "realSSOdds": 4.5,
+                "edgePct": -0.8119,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.1667,
+                "fairOdds": 6.0,
+                "realSSOdds": 4.35,
+                "edgePct": -0.2749,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top10": {
+                "prob": 0.2794,
+                "fairOdds": 3.58,
+                "realSSOdds": 2.75,
+                "edgePct": -0.2317,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.4433,
+                "fairOdds": 2.26,
+                "realSSOdds": 1.91,
+                "edgePct": -0.1533,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Wyndham Clark",
+            "mu": -2.0,
+            "muSource": "rank 8",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0413,
+                "fairOdds": 24.21,
+                "realSSOdds": 6.5,
+                "edgePct": -0.7315,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.1604,
+                "fairOdds": 6.23,
+                "realSSOdds": 6.0,
+                "edgePct": -0.0376,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top10": {
+                "prob": 0.2794,
+                "fairOdds": 3.58,
+                "realSSOdds": 3.5,
+                "edgePct": -0.0221,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.4523,
+                "fairOdds": 2.21,
+                "realSSOdds": 2.15,
+                "edgePct": -0.0276,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Kristoffer Reitan",
+            "mu": -2.0,
+            "muSource": "rank 7",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0413,
+                "fairOdds": 24.21,
+                "realSSOdds": 6.5,
+                "edgePct": -0.7315,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.1569,
+                "fairOdds": 6.37,
+                "estimatedSSOdds": 5.73,
+                "confidence": "Lutar"
+              },
+              "top10": {
+                "prob": 0.2696,
+                "fairOdds": 3.71,
+                "realSSOdds": 3.75,
+                "edgePct": 0.011,
+                "kellyFraction": 0.001,
+                "recommendedStakePct": 0.1,
+                "confidence": "Marginal"
+              },
+              "top20": {
+                "prob": 0.4375,
+                "fairOdds": 2.29,
+                "realSSOdds": 2.2,
+                "edgePct": -0.0375,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Tommy Fleetwood",
+            "mu": -2.0,
+            "muSource": "rank 1",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0388,
+                "fairOdds": 25.77,
+                "realSSOdds": 3.5,
+                "edgePct": -0.8642,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.1607,
+                "fairOdds": 6.22,
+                "realSSOdds": 3.25,
+                "edgePct": -0.4777,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top10": {
+                "prob": 0.2712,
+                "fairOdds": 3.69,
+                "realSSOdds": 2.38,
+                "edgePct": -0.3545,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.4422,
+                "fairOdds": 2.26,
+                "realSSOdds": 1.67,
+                "edgePct": -0.2615,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Nicolai Højgaard",
+            "mu": -2.0,
+            "muSource": "rank 10",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0381,
+                "fairOdds": 26.25,
+                "realSSOdds": 7.0,
+                "edgePct": -0.7333,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.1579,
+                "fairOdds": 6.33,
+                "estimatedSSOdds": 5.7,
+                "confidence": "Lutar"
+              },
+              "top10": {
+                "prob": 0.2688,
+                "fairOdds": 3.72,
+                "realSSOdds": 4.35,
+                "edgePct": 0.1693,
+                "kellyFraction": 0.0126,
+                "recommendedStakePct": 1.26,
+                "confidence": "Stark edge"
+              },
+              "top20": {
+                "prob": 0.4373,
+                "fairOdds": 2.29,
+                "realSSOdds": 2.5,
+                "edgePct": 0.0933,
+                "kellyFraction": 0.0155,
+                "recommendedStakePct": 1.55,
+                "confidence": "Lutar edge"
+              }
+            }
+          },
+          {
+            "name": "Viktor Hovland",
+            "mu": -1.5,
+            "muSource": "rank 17",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0198,
+                "fairOdds": 50.51,
+                "realSSOdds": 8.0,
+                "edgePct": -0.8416,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0903,
+                "fairOdds": 11.07,
+                "estimatedSSOdds": 9.96,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1659,
+                "fairOdds": 6.03,
+                "realSSOdds": 4.35,
+                "edgePct": -0.2783,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.2997,
+                "fairOdds": 3.34,
+                "realSSOdds": 2.5,
+                "edgePct": -0.2507,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Alex Fitzpatrick",
+            "mu": -1.5,
+            "muSource": "rank 14",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0194,
+                "fairOdds": 51.55,
+                "realSSOdds": 8.0,
+                "edgePct": -0.8448,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0865,
+                "fairOdds": 11.56,
+                "estimatedSSOdds": 10.4,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1666,
+                "fairOdds": 6.0,
+                "realSSOdds": 4.35,
+                "edgePct": -0.2753,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.3018,
+                "fairOdds": 3.31,
+                "realSSOdds": 2.5,
+                "edgePct": -0.2455,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Aaron Rai",
+            "mu": -1.5,
+            "muSource": "rank 13",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0193,
+                "fairOdds": 51.81,
+                "realSSOdds": 8.0,
+                "edgePct": -0.8456,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.094,
+                "fairOdds": 10.64,
+                "estimatedSSOdds": 9.58,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.174,
+                "fairOdds": 5.75,
+                "realSSOdds": 4.35,
+                "edgePct": -0.2431,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.3062,
+                "fairOdds": 3.27,
+                "realSSOdds": 2.5,
+                "edgePct": -0.2345,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Jacob Bridgeman",
+            "mu": -1.5,
+            "muSource": "rank 15",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0192,
+                "fairOdds": 52.08,
+                "realSSOdds": 8.0,
+                "edgePct": -0.8464,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.092,
+                "fairOdds": 10.87,
+                "estimatedSSOdds": 9.78,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1684,
+                "fairOdds": 5.94,
+                "estimatedSSOdds": 5.35,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.3016,
+                "fairOdds": 3.32,
+                "estimatedSSOdds": 2.99,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Keith Mitchell",
+            "mu": -1.5,
+            "muSource": "rank 19",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0191,
+                "fairOdds": 52.36,
+                "realSSOdds": 9.0,
+                "edgePct": -0.8281,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0907,
+                "fairOdds": 11.03,
+                "estimatedSSOdds": 9.93,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1765,
+                "fairOdds": 5.67,
+                "realSSOdds": 5.0,
+                "edgePct": -0.1175,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.3171,
+                "fairOdds": 3.15,
+                "realSSOdds": 2.63,
+                "edgePct": -0.166,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Mac Meissner",
+            "mu": -1.5,
+            "muSource": "rank 23",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0191,
+                "fairOdds": 52.36,
+                "realSSOdds": 10.0,
+                "edgePct": -0.809,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0855,
+                "fairOdds": 11.7,
+                "estimatedSSOdds": 10.53,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1671,
+                "fairOdds": 5.98,
+                "estimatedSSOdds": 5.38,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.2989,
+                "fairOdds": 3.35,
+                "estimatedSSOdds": 3.02,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Harry Hall",
+            "mu": -1.5,
+            "muSource": "rank 25",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.019,
+                "fairOdds": 52.63,
+                "realSSOdds": 11.0,
+                "edgePct": -0.791,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0926,
+                "fairOdds": 10.8,
+                "estimatedSSOdds": 9.72,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1739,
+                "fairOdds": 5.75,
+                "estimatedSSOdds": 5.17,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.3063,
+                "fairOdds": 3.26,
+                "estimatedSSOdds": 2.93,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Nick Taylor",
+            "mu": -1.5,
+            "muSource": "rank 16",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0182,
+                "fairOdds": 54.95,
+                "realSSOdds": 8.0,
+                "edgePct": -0.8544,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0895,
+                "fairOdds": 11.17,
+                "estimatedSSOdds": 10.05,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1682,
+                "fairOdds": 5.95,
+                "estimatedSSOdds": 5.36,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.3049,
+                "fairOdds": 3.28,
+                "estimatedSSOdds": 2.95,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Bud Cauley",
+            "mu": -1.5,
+            "muSource": "rank 22",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.018,
+                "fairOdds": 55.56,
+                "realSSOdds": 10.0,
+                "edgePct": -0.82,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0906,
+                "fairOdds": 11.04,
+                "estimatedSSOdds": 9.94,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1691,
+                "fairOdds": 5.91,
+                "estimatedSSOdds": 5.32,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.3079,
+                "fairOdds": 3.25,
+                "estimatedSSOdds": 2.93,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Michael Thorbjornsen",
+            "mu": -1.5,
+            "muSource": "rank 21",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.018,
+                "fairOdds": 55.56,
+                "realSSOdds": 9.0,
+                "edgePct": -0.838,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0882,
+                "fairOdds": 11.34,
+                "estimatedSSOdds": 10.21,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1685,
+                "fairOdds": 5.93,
+                "realSSOdds": 5.0,
+                "edgePct": -0.1575,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.3051,
+                "fairOdds": 3.28,
+                "realSSOdds": 2.63,
+                "edgePct": -0.1976,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Christiaan Bezuidenhout",
+            "mu": -1.5,
+            "muSource": "rank 24",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0179,
+                "fairOdds": 55.87,
+                "realSSOdds": 11.0,
+                "edgePct": -0.8031,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0904,
+                "fairOdds": 11.06,
+                "estimatedSSOdds": 9.95,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1712,
+                "fairOdds": 5.84,
+                "estimatedSSOdds": 5.26,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.3052,
+                "fairOdds": 3.28,
+                "estimatedSSOdds": 2.95,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Robert MacIntyre",
+            "mu": -1.5,
+            "muSource": "rank 11",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0178,
+                "fairOdds": 56.18,
+                "realSSOdds": 7.0,
+                "edgePct": -0.8754,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0897,
+                "fairOdds": 11.15,
+                "realSSOdds": 6.5,
+                "edgePct": -0.4169,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top10": {
+                "prob": 0.1708,
+                "fairOdds": 5.85,
+                "realSSOdds": 4.0,
+                "edgePct": -0.3168,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.3105,
+                "fairOdds": 3.22,
+                "realSSOdds": 2.38,
+                "edgePct": -0.261,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Shane Lowry",
+            "mu": -1.5,
+            "muSource": "rank 12",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0176,
+                "fairOdds": 56.82,
+                "realSSOdds": 7.0,
+                "edgePct": -0.8768,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0843,
+                "fairOdds": 11.86,
+                "realSSOdds": 6.5,
+                "edgePct": -0.452,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top10": {
+                "prob": 0.1633,
+                "fairOdds": 6.12,
+                "realSSOdds": 4.0,
+                "edgePct": -0.3468,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.3029,
+                "fairOdds": 3.3,
+                "realSSOdds": 2.38,
+                "edgePct": -0.2791,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Eric Cole",
+            "mu": -1.5,
+            "muSource": "rank 18",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0161,
+                "fairOdds": 62.11,
+                "realSSOdds": 9.0,
+                "edgePct": -0.8551,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0862,
+                "fairOdds": 11.6,
+                "estimatedSSOdds": 10.44,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1631,
+                "fairOdds": 6.13,
+                "realSSOdds": 4.35,
+                "edgePct": -0.2905,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.2985,
+                "fairOdds": 3.35,
+                "realSSOdds": 2.63,
+                "edgePct": -0.2149,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Michael Brennan",
+            "mu": -1.5,
+            "muSource": "rank 20",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0159,
+                "fairOdds": 62.89,
+                "realSSOdds": 9.0,
+                "edgePct": -0.8569,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.091,
+                "fairOdds": 10.99,
+                "estimatedSSOdds": 9.89,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1724,
+                "fairOdds": 5.8,
+                "realSSOdds": 5.0,
+                "edgePct": -0.138,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top20": {
+                "prob": 0.3087,
+                "fairOdds": 3.24,
+                "realSSOdds": 2.63,
+                "edgePct": -0.1881,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              }
+            }
+          },
+          {
+            "name": "Zach Bauchou",
+            "mu": -0.9,
+            "muSource": "rank 50",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0076,
+                "fairOdds": 131.58,
+                "realSSOdds": 17.0,
+                "edgePct": -0.8708,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0378,
+                "fairOdds": 26.46,
+                "estimatedSSOdds": 23.81,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0812,
+                "fairOdds": 12.32,
+                "estimatedSSOdds": 11.09,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1736,
+                "fairOdds": 5.76,
+                "estimatedSSOdds": 5.18,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Matt Wallace",
+            "mu": -0.9,
+            "muSource": "rank 43",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0072,
+                "fairOdds": 138.89,
+                "realSSOdds": 15.0,
+                "edgePct": -0.892,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0382,
+                "fairOdds": 26.18,
+                "estimatedSSOdds": 23.56,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.08,
+                "fairOdds": 12.5,
+                "estimatedSSOdds": 11.25,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1711,
+                "fairOdds": 5.84,
+                "estimatedSSOdds": 5.26,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Taylor Pendrith",
+            "mu": -0.9,
+            "muSource": "rank 32",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0072,
+                "fairOdds": 138.89,
+                "realSSOdds": 12.0,
+                "edgePct": -0.9136,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0401,
+                "fairOdds": 24.94,
+                "estimatedSSOdds": 22.45,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.083,
+                "fairOdds": 12.05,
+                "estimatedSSOdds": 10.85,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1726,
+                "fairOdds": 5.79,
+                "estimatedSSOdds": 5.21,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Max Greyserman",
+            "mu": -0.9,
+            "muSource": "rank 29",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0071,
+                "fairOdds": 140.85,
+                "realSSOdds": 12.0,
+                "edgePct": -0.9148,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0404,
+                "fairOdds": 24.75,
+                "estimatedSSOdds": 22.28,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0871,
+                "fairOdds": 11.48,
+                "estimatedSSOdds": 10.33,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.178,
+                "fairOdds": 5.62,
+                "estimatedSSOdds": 5.06,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Jordan Smith",
+            "mu": -0.9,
+            "muSource": "rank 28",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.007,
+                "fairOdds": 142.86,
+                "realSSOdds": 12.0,
+                "edgePct": -0.916,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0406,
+                "fairOdds": 24.63,
+                "estimatedSSOdds": 22.17,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0873,
+                "fairOdds": 11.45,
+                "estimatedSSOdds": 10.3,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1832,
+                "fairOdds": 5.46,
+                "estimatedSSOdds": 4.91,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Doug Ghim",
+            "mu": -0.9,
+            "muSource": "rank 41",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0068,
+                "fairOdds": 147.06,
+                "realSSOdds": 15.0,
+                "edgePct": -0.898,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0354,
+                "fairOdds": 28.25,
+                "estimatedSSOdds": 25.43,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0832,
+                "fairOdds": 12.02,
+                "estimatedSSOdds": 10.82,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1759,
+                "fairOdds": 5.69,
+                "estimatedSSOdds": 5.12,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Stephan Jaeger",
+            "mu": -0.9,
+            "muSource": "rank 45",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0067,
+                "fairOdds": 149.25,
+                "realSSOdds": 15.0,
+                "edgePct": -0.8995,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0405,
+                "fairOdds": 24.69,
+                "estimatedSSOdds": 22.22,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0849,
+                "fairOdds": 11.78,
+                "estimatedSSOdds": 10.6,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1749,
+                "fairOdds": 5.72,
+                "estimatedSSOdds": 5.15,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Mackenzie Hughes",
+            "mu": -0.9,
+            "muSource": "rank 36",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0067,
+                "fairOdds": 149.25,
+                "realSSOdds": 13.0,
+                "edgePct": -0.9129,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0393,
+                "fairOdds": 25.45,
+                "estimatedSSOdds": 22.91,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0837,
+                "fairOdds": 11.95,
+                "estimatedSSOdds": 10.75,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1727,
+                "fairOdds": 5.79,
+                "estimatedSSOdds": 5.21,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Max Homa",
+            "mu": -0.9,
+            "muSource": "rank 48",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0067,
+                "fairOdds": 149.25,
+                "realSSOdds": 17.0,
+                "edgePct": -0.8861,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0402,
+                "fairOdds": 24.88,
+                "estimatedSSOdds": 22.39,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.086,
+                "fairOdds": 11.63,
+                "estimatedSSOdds": 10.47,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1753,
+                "fairOdds": 5.7,
+                "estimatedSSOdds": 5.13,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Steven Fisk",
+            "mu": -0.9,
+            "muSource": "rank 46",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0067,
+                "fairOdds": 149.25,
+                "realSSOdds": 15.0,
+                "edgePct": -0.8995,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0387,
+                "fairOdds": 25.84,
+                "estimatedSSOdds": 23.26,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0807,
+                "fairOdds": 12.39,
+                "estimatedSSOdds": 11.15,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1771,
+                "fairOdds": 5.65,
+                "estimatedSSOdds": 5.09,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Corey Conners",
+            "mu": -0.9,
+            "muSource": "rank 34",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0066,
+                "fairOdds": 151.52,
+                "realSSOdds": 13.0,
+                "edgePct": -0.9142,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0403,
+                "fairOdds": 24.81,
+                "estimatedSSOdds": 22.33,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0809,
+                "fairOdds": 12.36,
+                "estimatedSSOdds": 11.12,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1708,
+                "fairOdds": 5.85,
+                "estimatedSSOdds": 5.26,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Aldrich Potgieter",
+            "mu": -0.9,
+            "muSource": "rank 33",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0066,
+                "fairOdds": 151.52,
+                "realSSOdds": 13.0,
+                "edgePct": -0.9142,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0417,
+                "fairOdds": 23.98,
+                "estimatedSSOdds": 21.58,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0842,
+                "fairOdds": 11.88,
+                "estimatedSSOdds": 10.69,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1718,
+                "fairOdds": 5.82,
+                "estimatedSSOdds": 5.24,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Sudarshan Yellamaraju",
+            "mu": -0.9,
+            "muSource": "rank 26",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0063,
+                "fairOdds": 158.73,
+                "realSSOdds": 11.0,
+                "edgePct": -0.9307,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0387,
+                "fairOdds": 25.84,
+                "estimatedSSOdds": 23.26,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0837,
+                "fairOdds": 11.95,
+                "estimatedSSOdds": 10.75,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1754,
+                "fairOdds": 5.7,
+                "estimatedSSOdds": 5.13,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Andrew Putnam",
+            "mu": -0.9,
+            "muSource": "rank 40",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0063,
+                "fairOdds": 158.73,
+                "realSSOdds": 15.0,
+                "edgePct": -0.9055,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0396,
+                "fairOdds": 25.25,
+                "estimatedSSOdds": 22.73,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0845,
+                "fairOdds": 11.83,
+                "estimatedSSOdds": 10.65,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1772,
+                "fairOdds": 5.64,
+                "estimatedSSOdds": 5.08,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Ryan Fox",
+            "mu": -0.9,
+            "muSource": "rank 30",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0063,
+                "fairOdds": 158.73,
+                "realSSOdds": 12.0,
+                "edgePct": -0.9244,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0365,
+                "fairOdds": 27.4,
+                "estimatedSSOdds": 24.66,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0818,
+                "fairOdds": 12.22,
+                "estimatedSSOdds": 11.0,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1734,
+                "fairOdds": 5.77,
+                "estimatedSSOdds": 5.19,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Haotong Li",
+            "mu": -0.9,
+            "muSource": "rank 42",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0063,
+                "fairOdds": 158.73,
+                "realSSOdds": 15.0,
+                "edgePct": -0.9055,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0392,
+                "fairOdds": 25.51,
+                "estimatedSSOdds": 22.96,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0823,
+                "fairOdds": 12.15,
+                "estimatedSSOdds": 10.94,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1742,
+                "fairOdds": 5.74,
+                "estimatedSSOdds": 5.17,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Thorbjørn Olesen",
+            "mu": -0.9,
+            "muSource": "rank 49",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0062,
+                "fairOdds": 161.29,
+                "realSSOdds": 17.0,
+                "edgePct": -0.8946,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0392,
+                "fairOdds": 25.51,
+                "estimatedSSOdds": 22.96,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.085,
+                "fairOdds": 11.76,
+                "estimatedSSOdds": 10.58,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1775,
+                "fairOdds": 5.63,
+                "estimatedSSOdds": 5.07,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Tony Finau",
+            "mu": -0.9,
+            "muSource": "rank 39",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0061,
+                "fairOdds": 163.93,
+                "realSSOdds": 13.0,
+                "edgePct": -0.9207,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0374,
+                "fairOdds": 26.74,
+                "estimatedSSOdds": 24.07,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.086,
+                "fairOdds": 11.63,
+                "estimatedSSOdds": 10.47,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1762,
+                "fairOdds": 5.68,
+                "estimatedSSOdds": 5.11,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Ricky Castillo",
+            "mu": -0.9,
+            "muSource": "rank 44",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.006,
+                "fairOdds": 166.67,
+                "realSSOdds": 15.0,
+                "edgePct": -0.91,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0366,
+                "fairOdds": 27.32,
+                "estimatedSSOdds": 24.59,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0792,
+                "fairOdds": 12.63,
+                "estimatedSSOdds": 11.37,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1765,
+                "fairOdds": 5.67,
+                "estimatedSSOdds": 5.1,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Johnny Keefer",
+            "mu": -0.9,
+            "muSource": "rank 27",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0059,
+                "fairOdds": 169.49,
+                "realSSOdds": 12.0,
+                "edgePct": -0.9292,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0371,
+                "fairOdds": 26.95,
+                "estimatedSSOdds": 24.25,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0785,
+                "fairOdds": 12.74,
+                "estimatedSSOdds": 11.47,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1725,
+                "fairOdds": 5.8,
+                "estimatedSSOdds": 5.22,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Denny McCarthy",
+            "mu": -0.9,
+            "muSource": "rank 47",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0057,
+                "fairOdds": 175.44,
+                "realSSOdds": 17.0,
+                "edgePct": -0.9031,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0383,
+                "fairOdds": 26.11,
+                "estimatedSSOdds": 23.5,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0816,
+                "fairOdds": 12.25,
+                "estimatedSSOdds": 11.03,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1747,
+                "fairOdds": 5.72,
+                "estimatedSSOdds": 5.15,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Rico Hoey",
+            "mu": -0.9,
+            "muSource": "rank 37",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0057,
+                "fairOdds": 175.44,
+                "realSSOdds": 13.0,
+                "edgePct": -0.9259,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0363,
+                "fairOdds": 27.55,
+                "estimatedSSOdds": 24.8,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0805,
+                "fairOdds": 12.42,
+                "estimatedSSOdds": 11.18,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1747,
+                "fairOdds": 5.72,
+                "estimatedSSOdds": 5.15,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Davis Thompson",
+            "mu": -0.9,
+            "muSource": "rank 35",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0056,
+                "fairOdds": 178.57,
+                "realSSOdds": 13.0,
+                "edgePct": -0.9272,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0374,
+                "fairOdds": 26.74,
+                "estimatedSSOdds": 24.07,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0819,
+                "fairOdds": 12.21,
+                "estimatedSSOdds": 10.99,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1706,
+                "fairOdds": 5.86,
+                "estimatedSSOdds": 5.27,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Sahith Theegala",
+            "mu": -0.9,
+            "muSource": "rank 31",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0053,
+                "fairOdds": 188.68,
+                "realSSOdds": 12.0,
+                "edgePct": -0.9364,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0396,
+                "fairOdds": 25.25,
+                "estimatedSSOdds": 22.73,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0846,
+                "fairOdds": 11.82,
+                "estimatedSSOdds": 10.64,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1792,
+                "fairOdds": 5.58,
+                "estimatedSSOdds": 5.02,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Tom Kim",
+            "mu": -0.9,
+            "muSource": "rank 38",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0047,
+                "fairOdds": 212.77,
+                "realSSOdds": 13.0,
+                "edgePct": -0.9389,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0359,
+                "fairOdds": 27.86,
+                "estimatedSSOdds": 25.07,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0778,
+                "fairOdds": 12.85,
+                "estimatedSSOdds": 11.56,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1703,
+                "fairOdds": 5.87,
+                "estimatedSSOdds": 5.28,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Danny Willett",
+            "mu": -0.4,
+            "muSource": "rank 92",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0038,
+                "fairOdds": 263.16,
+                "realSSOdds": 51.0,
+                "edgePct": -0.8062,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0175,
+                "fairOdds": 57.14,
+                "estimatedSSOdds": 51.43,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0416,
+                "fairOdds": 24.04,
+                "estimatedSSOdds": 21.64,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0978,
+                "fairOdds": 10.22,
+                "estimatedSSOdds": 9.2,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Garrick Higgo",
+            "mu": -0.4,
+            "muSource": "rank 67",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0034,
+                "fairOdds": 294.12,
+                "realSSOdds": 26.0,
+                "edgePct": -0.9116,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0183,
+                "fairOdds": 54.64,
+                "estimatedSSOdds": 49.18,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0418,
+                "fairOdds": 23.92,
+                "estimatedSSOdds": 21.53,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0996,
+                "fairOdds": 10.04,
+                "estimatedSSOdds": 9.04,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Lee Hodges",
+            "mu": -0.4,
+            "muSource": "rank 68",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0034,
+                "fairOdds": 294.12,
+                "realSSOdds": 26.0,
+                "edgePct": -0.9116,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0173,
+                "fairOdds": 57.8,
+                "estimatedSSOdds": 52.02,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.043,
+                "fairOdds": 23.26,
+                "estimatedSSOdds": 20.93,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0936,
+                "fairOdds": 10.68,
+                "estimatedSSOdds": 9.61,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Sam Ryder",
+            "mu": -0.4,
+            "muSource": "rank 79",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0032,
+                "fairOdds": 312.5,
+                "realSSOdds": 34.0,
+                "edgePct": -0.8912,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0193,
+                "fairOdds": 51.81,
+                "estimatedSSOdds": 46.63,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0423,
+                "fairOdds": 23.64,
+                "estimatedSSOdds": 21.28,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0963,
+                "fairOdds": 10.38,
+                "estimatedSSOdds": 9.34,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "A.J. Ewart",
+            "mu": -0.4,
+            "muSource": "rank 62",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0032,
+                "fairOdds": 312.5,
+                "realSSOdds": 26.0,
+                "edgePct": -0.9168,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0165,
+                "fairOdds": 60.61,
+                "estimatedSSOdds": 54.55,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0394,
+                "fairOdds": 25.38,
+                "estimatedSSOdds": 22.84,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0972,
+                "fairOdds": 10.29,
+                "estimatedSSOdds": 9.26,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Karl Vilips",
+            "mu": -0.4,
+            "muSource": "rank 95",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.003,
+                "fairOdds": 333.33,
+                "realSSOdds": 51.0,
+                "edgePct": -0.847,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.019,
+                "fairOdds": 52.63,
+                "estimatedSSOdds": 47.37,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0433,
+                "fairOdds": 23.09,
+                "estimatedSSOdds": 20.78,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1006,
+                "fairOdds": 9.94,
+                "estimatedSSOdds": 8.95,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Lucas Glover",
+            "mu": -0.4,
+            "muSource": "rank 77",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.003,
+                "fairOdds": 333.33,
+                "realSSOdds": 34.0,
+                "edgePct": -0.898,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0165,
+                "fairOdds": 60.61,
+                "estimatedSSOdds": 54.55,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0409,
+                "fairOdds": 24.45,
+                "estimatedSSOdds": 22.0,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0961,
+                "fairOdds": 10.41,
+                "estimatedSSOdds": 9.37,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Beau Hossler",
+            "mu": -0.4,
+            "muSource": "rank 52",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.003,
+                "fairOdds": 333.33,
+                "realSSOdds": 21.0,
+                "edgePct": -0.937,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0178,
+                "fairOdds": 56.18,
+                "estimatedSSOdds": 50.56,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0429,
+                "fairOdds": 23.31,
+                "estimatedSSOdds": 20.98,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1013,
+                "fairOdds": 9.87,
+                "estimatedSSOdds": 8.88,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Emiliano Grillo",
+            "mu": -0.4,
+            "muSource": "rank 72",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.003,
+                "fairOdds": 333.33,
+                "realSSOdds": 34.0,
+                "edgePct": -0.898,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.02,
+                "fairOdds": 50.0,
+                "estimatedSSOdds": 45.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0422,
+                "fairOdds": 23.7,
+                "estimatedSSOdds": 21.33,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0944,
+                "fairOdds": 10.59,
+                "estimatedSSOdds": 9.53,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Keita Nakajima",
+            "mu": -0.4,
+            "muSource": "rank 74",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.003,
+                "fairOdds": 333.33,
+                "realSSOdds": 34.0,
+                "edgePct": -0.898,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0179,
+                "fairOdds": 55.87,
+                "estimatedSSOdds": 50.28,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0402,
+                "fairOdds": 24.88,
+                "estimatedSSOdds": 22.39,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0949,
+                "fairOdds": 10.54,
+                "estimatedSSOdds": 9.49,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Kevin Roy",
+            "mu": -0.4,
+            "muSource": "rank 75",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0028,
+                "fairOdds": 357.14,
+                "realSSOdds": 34.0,
+                "edgePct": -0.9048,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.018,
+                "fairOdds": 55.56,
+                "estimatedSSOdds": 50.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0405,
+                "fairOdds": 24.69,
+                "estimatedSSOdds": 22.22,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1009,
+                "fairOdds": 9.91,
+                "estimatedSSOdds": 8.92,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Austin Smotherman",
+            "mu": -0.4,
+            "muSource": "rank 64",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0028,
+                "fairOdds": 357.14,
+                "realSSOdds": 26.0,
+                "edgePct": -0.9272,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.02,
+                "fairOdds": 50.0,
+                "estimatedSSOdds": 45.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.043,
+                "fairOdds": 23.26,
+                "estimatedSSOdds": 20.93,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1033,
+                "fairOdds": 9.68,
+                "estimatedSSOdds": 8.71,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Luke Clanton",
+            "mu": -0.4,
+            "muSource": "rank 85",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0028,
+                "fairOdds": 357.14,
+                "realSSOdds": 41.0,
+                "edgePct": -0.8852,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0162,
+                "fairOdds": 61.73,
+                "estimatedSSOdds": 55.56,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0383,
+                "fairOdds": 26.11,
+                "estimatedSSOdds": 23.5,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0961,
+                "fairOdds": 10.41,
+                "estimatedSSOdds": 9.37,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Kevin Yu",
+            "mu": -0.4,
+            "muSource": "rank 55",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0028,
+                "fairOdds": 357.14,
+                "realSSOdds": 21.0,
+                "edgePct": -0.9412,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0167,
+                "fairOdds": 59.88,
+                "estimatedSSOdds": 53.89,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0406,
+                "fairOdds": 24.63,
+                "estimatedSSOdds": 22.17,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0975,
+                "fairOdds": 10.26,
+                "estimatedSSOdds": 9.23,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Austin Eckroat",
+            "mu": -0.4,
+            "muSource": "rank 51",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0028,
+                "fairOdds": 357.14,
+                "realSSOdds": 21.0,
+                "edgePct": -0.9412,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.019,
+                "fairOdds": 52.63,
+                "estimatedSSOdds": 47.37,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0419,
+                "fairOdds": 23.87,
+                "estimatedSSOdds": 21.48,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1003,
+                "fairOdds": 9.97,
+                "estimatedSSOdds": 8.97,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "John Parry",
+            "mu": -0.4,
+            "muSource": "rank 54",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0028,
+                "fairOdds": 357.14,
+                "realSSOdds": 21.0,
+                "edgePct": -0.9412,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0163,
+                "fairOdds": 61.35,
+                "estimatedSSOdds": 55.22,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0396,
+                "fairOdds": 25.25,
+                "estimatedSSOdds": 22.73,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0946,
+                "fairOdds": 10.57,
+                "estimatedSSOdds": 9.51,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Matti Schmid",
+            "mu": -0.4,
+            "muSource": "rank 69",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0027,
+                "fairOdds": 370.37,
+                "realSSOdds": 26.0,
+                "edgePct": -0.9298,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0152,
+                "fairOdds": 65.79,
+                "estimatedSSOdds": 59.21,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0372,
+                "fairOdds": 26.88,
+                "estimatedSSOdds": 24.19,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0939,
+                "fairOdds": 10.65,
+                "estimatedSSOdds": 9.59,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "William Mouw",
+            "mu": -0.4,
+            "muSource": "rank 60",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0027,
+                "fairOdds": 370.37,
+                "realSSOdds": 21.0,
+                "edgePct": -0.9433,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0196,
+                "fairOdds": 51.02,
+                "estimatedSSOdds": 45.92,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0441,
+                "fairOdds": 22.68,
+                "estimatedSSOdds": 20.41,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1007,
+                "fairOdds": 9.93,
+                "estimatedSSOdds": 8.94,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Zecheng Dou",
+            "mu": -0.4,
+            "muSource": "rank 90",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0027,
+                "fairOdds": 370.37,
+                "realSSOdds": 41.0,
+                "edgePct": -0.8893,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0155,
+                "fairOdds": 64.52,
+                "estimatedSSOdds": 58.07,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0389,
+                "fairOdds": 25.71,
+                "estimatedSSOdds": 23.14,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0965,
+                "fairOdds": 10.36,
+                "estimatedSSOdds": 9.32,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Erik van Rooyen",
+            "mu": -0.4,
+            "muSource": "rank 93",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0027,
+                "fairOdds": 370.37,
+                "realSSOdds": 51.0,
+                "edgePct": -0.8623,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0169,
+                "fairOdds": 59.17,
+                "estimatedSSOdds": 53.25,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0403,
+                "fairOdds": 24.81,
+                "estimatedSSOdds": 22.33,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0958,
+                "fairOdds": 10.44,
+                "estimatedSSOdds": 9.4,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Chris Kirk",
+            "mu": -0.4,
+            "muSource": "rank 66",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0026,
+                "fairOdds": 384.62,
+                "realSSOdds": 26.0,
+                "edgePct": -0.9324,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0169,
+                "fairOdds": 59.17,
+                "estimatedSSOdds": 53.25,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0387,
+                "fairOdds": 25.84,
+                "estimatedSSOdds": 23.26,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.097,
+                "fairOdds": 10.31,
+                "estimatedSSOdds": 9.28,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Hayden Springer",
+            "mu": -0.4,
+            "muSource": "rank 100",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0026,
+                "fairOdds": 384.62,
+                "realSSOdds": 51.0,
+                "edgePct": -0.8674,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0166,
+                "fairOdds": 60.24,
+                "estimatedSSOdds": 54.22,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0405,
+                "fairOdds": 24.69,
+                "estimatedSSOdds": 22.22,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0958,
+                "fairOdds": 10.44,
+                "estimatedSSOdds": 9.4,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Tom Hoge",
+            "mu": -0.4,
+            "muSource": "rank 88",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0026,
+                "fairOdds": 384.62,
+                "realSSOdds": 41.0,
+                "edgePct": -0.8934,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0177,
+                "fairOdds": 56.5,
+                "estimatedSSOdds": 50.85,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0427,
+                "fairOdds": 23.42,
+                "estimatedSSOdds": 21.08,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1007,
+                "fairOdds": 9.93,
+                "estimatedSSOdds": 8.94,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Adam Hadwin",
+            "mu": -0.4,
+            "muSource": "rank 80",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0025,
+                "fairOdds": 400.0,
+                "realSSOdds": 36.0,
+                "edgePct": -0.91,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0173,
+                "fairOdds": 57.8,
+                "estimatedSSOdds": 52.02,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0412,
+                "fairOdds": 24.27,
+                "estimatedSSOdds": 21.84,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0986,
+                "fairOdds": 10.14,
+                "estimatedSSOdds": 9.13,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Joel Dahmen",
+            "mu": -0.4,
+            "muSource": "rank 84",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0025,
+                "fairOdds": 400.0,
+                "realSSOdds": 41.0,
+                "edgePct": -0.8975,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0158,
+                "fairOdds": 63.29,
+                "estimatedSSOdds": 56.96,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.037,
+                "fairOdds": 27.03,
+                "estimatedSSOdds": 24.33,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.092,
+                "fairOdds": 10.87,
+                "estimatedSSOdds": 9.78,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Mark Hubbard",
+            "mu": -0.4,
+            "muSource": "rank 56",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0025,
+                "fairOdds": 400.0,
+                "realSSOdds": 21.0,
+                "edgePct": -0.9475,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0155,
+                "fairOdds": 64.52,
+                "estimatedSSOdds": 58.07,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0366,
+                "fairOdds": 27.32,
+                "estimatedSSOdds": 24.59,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0931,
+                "fairOdds": 10.74,
+                "estimatedSSOdds": 9.67,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Rasmus Neergaard-Petersen",
+            "mu": -0.4,
+            "muSource": "rank 57",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0025,
+                "fairOdds": 400.0,
+                "realSSOdds": 21.0,
+                "edgePct": -0.9475,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0159,
+                "fairOdds": 62.89,
+                "estimatedSSOdds": 56.6,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0372,
+                "fairOdds": 26.88,
+                "estimatedSSOdds": 24.19,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0937,
+                "fairOdds": 10.67,
+                "estimatedSSOdds": 9.6,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Adrien Dumont de Chassart",
+            "mu": -0.4,
+            "muSource": "rank 63",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0025,
+                "fairOdds": 400.0,
+                "realSSOdds": 26.0,
+                "edgePct": -0.935,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0159,
+                "fairOdds": 62.89,
+                "estimatedSSOdds": 56.6,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0383,
+                "fairOdds": 26.11,
+                "estimatedSSOdds": 23.5,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0966,
+                "fairOdds": 10.35,
+                "estimatedSSOdds": 9.31,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Jhonattan Vegas",
+            "mu": -0.4,
+            "muSource": "rank 94",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0024,
+                "fairOdds": 416.67,
+                "realSSOdds": 51.0,
+                "edgePct": -0.8776,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.017,
+                "fairOdds": 58.82,
+                "estimatedSSOdds": 52.94,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0412,
+                "fairOdds": 24.27,
+                "estimatedSSOdds": 21.84,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0995,
+                "fairOdds": 10.05,
+                "estimatedSSOdds": 9.05,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Chandler Blanchet",
+            "mu": -0.4,
+            "muSource": "rank 83",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0024,
+                "fairOdds": 416.67,
+                "realSSOdds": 41.0,
+                "edgePct": -0.9016,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0184,
+                "fairOdds": 54.35,
+                "estimatedSSOdds": 48.91,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0396,
+                "fairOdds": 25.25,
+                "estimatedSSOdds": 22.73,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0988,
+                "fairOdds": 10.12,
+                "estimatedSSOdds": 9.11,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Chad Ramey",
+            "mu": -0.4,
+            "muSource": "rank 81",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0023,
+                "fairOdds": 434.78,
+                "realSSOdds": 36.0,
+                "edgePct": -0.9172,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0166,
+                "fairOdds": 60.24,
+                "estimatedSSOdds": 54.22,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0386,
+                "fairOdds": 25.91,
+                "estimatedSSOdds": 23.32,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0946,
+                "fairOdds": 10.57,
+                "estimatedSSOdds": 9.51,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Matthieu Pavon",
+            "mu": -0.4,
+            "muSource": "rank 82",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0022,
+                "fairOdds": 454.55,
+                "realSSOdds": 36.0,
+                "edgePct": -0.9208,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0159,
+                "fairOdds": 62.89,
+                "estimatedSSOdds": 56.6,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0381,
+                "fairOdds": 26.25,
+                "estimatedSSOdds": 23.62,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0939,
+                "fairOdds": 10.65,
+                "estimatedSSOdds": 9.59,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Vince Whaley",
+            "mu": -0.4,
+            "muSource": "rank 89",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0022,
+                "fairOdds": 454.55,
+                "realSSOdds": 41.0,
+                "edgePct": -0.9098,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0159,
+                "fairOdds": 62.89,
+                "estimatedSSOdds": 56.6,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0386,
+                "fairOdds": 25.91,
+                "estimatedSSOdds": 23.32,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0915,
+                "fairOdds": 10.93,
+                "estimatedSSOdds": 9.84,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Ben James",
+            "mu": -0.4,
+            "muSource": "rank 61",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0022,
+                "fairOdds": 454.55,
+                "realSSOdds": 23.0,
+                "edgePct": -0.9494,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.016,
+                "fairOdds": 62.5,
+                "estimatedSSOdds": 56.25,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0396,
+                "fairOdds": 25.25,
+                "estimatedSSOdds": 22.73,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0912,
+                "fairOdds": 10.96,
+                "estimatedSSOdds": 9.86,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Patrick Fishburn",
+            "mu": -0.4,
+            "muSource": "rank 78",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0021,
+                "fairOdds": 476.19,
+                "realSSOdds": 34.0,
+                "edgePct": -0.9286,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0176,
+                "fairOdds": 56.82,
+                "estimatedSSOdds": 51.14,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0403,
+                "fairOdds": 24.81,
+                "estimatedSSOdds": 22.33,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0948,
+                "fairOdds": 10.55,
+                "estimatedSSOdds": 9.5,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Max McGreevy",
+            "mu": -0.4,
+            "muSource": "rank 70",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.002,
+                "fairOdds": 500.0,
+                "realSSOdds": 26.0,
+                "edgePct": -0.948,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0167,
+                "fairOdds": 59.88,
+                "estimatedSSOdds": 53.89,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0397,
+                "fairOdds": 25.19,
+                "estimatedSSOdds": 22.67,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0982,
+                "fairOdds": 10.18,
+                "estimatedSSOdds": 9.16,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Paul Waring",
+            "mu": -0.4,
+            "muSource": "rank 98",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.002,
+                "fairOdds": 500.0,
+                "realSSOdds": 51.0,
+                "edgePct": -0.898,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0156,
+                "fairOdds": 64.1,
+                "estimatedSSOdds": 57.69,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0423,
+                "fairOdds": 23.64,
+                "estimatedSSOdds": 21.28,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1008,
+                "fairOdds": 9.92,
+                "estimatedSSOdds": 8.93,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Neal Shipley",
+            "mu": -0.4,
+            "muSource": "rank 86",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.002,
+                "fairOdds": 500.0,
+                "realSSOdds": 41.0,
+                "edgePct": -0.918,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0181,
+                "fairOdds": 55.25,
+                "estimatedSSOdds": 49.73,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0451,
+                "fairOdds": 22.17,
+                "estimatedSSOdds": 19.95,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.104,
+                "fairOdds": 9.62,
+                "estimatedSSOdds": 8.66,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Trace Crowe",
+            "mu": -0.4,
+            "muSource": "rank 99",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.002,
+                "fairOdds": 500.0,
+                "realSSOdds": 51.0,
+                "edgePct": -0.898,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.015,
+                "fairOdds": 66.67,
+                "estimatedSSOdds": 60.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.037,
+                "fairOdds": 27.03,
+                "estimatedSSOdds": 24.33,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.091,
+                "fairOdds": 10.99,
+                "estimatedSSOdds": 9.89,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Takumi Kanaya",
+            "mu": -0.4,
+            "muSource": "rank 87",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0019,
+                "fairOdds": 526.32,
+                "realSSOdds": 41.0,
+                "edgePct": -0.9221,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0171,
+                "fairOdds": 58.48,
+                "estimatedSSOdds": 52.63,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0413,
+                "fairOdds": 24.21,
+                "estimatedSSOdds": 21.79,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0952,
+                "fairOdds": 10.5,
+                "estimatedSSOdds": 9.45,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Billy Horschel",
+            "mu": -0.4,
+            "muSource": "rank 65",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0019,
+                "fairOdds": 526.32,
+                "realSSOdds": 26.0,
+                "edgePct": -0.9506,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0153,
+                "fairOdds": 65.36,
+                "estimatedSSOdds": 58.82,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0392,
+                "fairOdds": 25.51,
+                "estimatedSSOdds": 22.96,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0957,
+                "fairOdds": 10.45,
+                "estimatedSSOdds": 9.4,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Lanto Griffin",
+            "mu": -0.4,
+            "muSource": "rank 96",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0018,
+                "fairOdds": 555.56,
+                "realSSOdds": 51.0,
+                "edgePct": -0.9082,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0168,
+                "fairOdds": 59.52,
+                "estimatedSSOdds": 53.57,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0388,
+                "fairOdds": 25.77,
+                "estimatedSSOdds": 23.19,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0974,
+                "fairOdds": 10.27,
+                "estimatedSSOdds": 9.24,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Taylor Moore",
+            "mu": -0.4,
+            "muSource": "rank 59",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0018,
+                "fairOdds": 555.56,
+                "realSSOdds": 21.0,
+                "edgePct": -0.9622,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0172,
+                "fairOdds": 58.14,
+                "estimatedSSOdds": 52.33,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0414,
+                "fairOdds": 24.15,
+                "estimatedSSOdds": 21.73,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0985,
+                "fairOdds": 10.15,
+                "estimatedSSOdds": 9.13,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Kris Ventura",
+            "mu": -0.4,
+            "muSource": "rank 76",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0018,
+                "fairOdds": 555.56,
+                "realSSOdds": 34.0,
+                "edgePct": -0.9388,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0162,
+                "fairOdds": 61.73,
+                "estimatedSSOdds": 55.56,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0417,
+                "fairOdds": 23.98,
+                "estimatedSSOdds": 21.58,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0979,
+                "fairOdds": 10.21,
+                "estimatedSSOdds": 9.19,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Adam Svensson",
+            "mu": -0.4,
+            "muSource": "rank 91",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0017,
+                "fairOdds": 588.24,
+                "realSSOdds": 51.0,
+                "edgePct": -0.9133,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0161,
+                "fairOdds": 62.11,
+                "estimatedSSOdds": 55.9,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0409,
+                "fairOdds": 24.45,
+                "estimatedSSOdds": 22.0,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0999,
+                "fairOdds": 10.01,
+                "estimatedSSOdds": 9.01,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Jackson Suber",
+            "mu": -0.4,
+            "muSource": "rank 53",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0016,
+                "fairOdds": 625.0,
+                "realSSOdds": 21.0,
+                "edgePct": -0.9664,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0165,
+                "fairOdds": 60.61,
+                "estimatedSSOdds": 54.55,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0411,
+                "fairOdds": 24.33,
+                "estimatedSSOdds": 21.9,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0999,
+                "fairOdds": 10.01,
+                "estimatedSSOdds": 9.01,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Nick Dunlap",
+            "mu": -0.4,
+            "muSource": "rank 97",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0015,
+                "fairOdds": 666.67,
+                "realSSOdds": 51.0,
+                "edgePct": -0.9235,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0167,
+                "fairOdds": 59.88,
+                "estimatedSSOdds": 53.89,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0406,
+                "fairOdds": 24.63,
+                "estimatedSSOdds": 22.17,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0962,
+                "fairOdds": 10.4,
+                "estimatedSSOdds": 9.36,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Jesper Svensson",
+            "mu": -0.4,
+            "muSource": "rank 73",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0015,
+                "fairOdds": 666.67,
+                "realSSOdds": 34.0,
+                "edgePct": -0.949,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0169,
+                "fairOdds": 59.17,
+                "estimatedSSOdds": 53.25,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0429,
+                "fairOdds": 23.31,
+                "estimatedSSOdds": 20.98,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1015,
+                "fairOdds": 9.85,
+                "estimatedSSOdds": 8.87,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Patton Kizzire",
+            "mu": 0.2,
+            "muSource": "rank 129",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0012,
+                "fairOdds": 833.33,
+                "realSSOdds": 101.0,
+                "edgePct": -0.8788,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0068,
+                "fairOdds": 147.06,
+                "estimatedSSOdds": 132.35,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.018,
+                "fairOdds": 55.56,
+                "estimatedSSOdds": 50.0,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0514,
+                "fairOdds": 19.46,
+                "estimatedSSOdds": 17.51,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Calen Sanderson",
+            "mu": 0.2,
+            "muSource": "rank 135",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.001,
+                "fairOdds": 1000.0,
+                "realSSOdds": 201.0,
+                "edgePct": -0.799,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0052,
+                "fairOdds": 192.31,
+                "estimatedSSOdds": 173.08,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0143,
+                "fairOdds": 69.93,
+                "estimatedSSOdds": 62.94,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0444,
+                "fairOdds": 22.52,
+                "estimatedSSOdds": 20.27,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Eric Zhao",
+            "mu": 0.2,
+            "muSource": "rank 139",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0009,
+                "fairOdds": 1111.11,
+                "realSSOdds": 201.0,
+                "edgePct": -0.8191,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0065,
+                "fairOdds": 153.85,
+                "estimatedSSOdds": 138.47,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0144,
+                "fairOdds": 69.44,
+                "estimatedSSOdds": 62.5,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0415,
+                "fairOdds": 24.1,
+                "estimatedSSOdds": 21.69,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "David Lipsky",
+            "mu": 0.2,
+            "muSource": "rank 104",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0009,
+                "fairOdds": 1111.11,
+                "realSSOdds": 67.0,
+                "edgePct": -0.9397,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0044,
+                "fairOdds": 227.27,
+                "estimatedSSOdds": 204.54,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0134,
+                "fairOdds": 74.63,
+                "estimatedSSOdds": 67.17,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0412,
+                "fairOdds": 24.27,
+                "estimatedSSOdds": 21.84,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Vince Covello",
+            "mu": 0.2,
+            "muSource": "rank 145",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0009,
+                "fairOdds": 1111.11,
+                "realSSOdds": 201.0,
+                "edgePct": -0.8191,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0048,
+                "fairOdds": 208.33,
+                "estimatedSSOdds": 187.5,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0133,
+                "fairOdds": 75.19,
+                "estimatedSSOdds": 67.67,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0407,
+                "fairOdds": 24.57,
+                "estimatedSSOdds": 22.11,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Pontus Nyholm",
+            "mu": 0.2,
+            "muSource": "rank 110",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0008,
+                "fairOdds": 1250.0,
+                "realSSOdds": 67.0,
+                "edgePct": -0.9464,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0055,
+                "fairOdds": 181.82,
+                "estimatedSSOdds": 163.64,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0146,
+                "fairOdds": 68.49,
+                "estimatedSSOdds": 61.64,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0435,
+                "fairOdds": 22.99,
+                "estimatedSSOdds": 20.69,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Ben Martin",
+            "mu": 0.2,
+            "muSource": "rank 147",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0008,
+                "fairOdds": 1250.0,
+                "realSSOdds": 201.0,
+                "edgePct": -0.8392,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0055,
+                "fairOdds": 181.82,
+                "estimatedSSOdds": 163.64,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0153,
+                "fairOdds": 65.36,
+                "estimatedSSOdds": 58.82,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0442,
+                "fairOdds": 22.62,
+                "estimatedSSOdds": 20.36,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Chandler Phillips",
+            "mu": 0.2,
+            "muSource": "rank 116",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0008,
+                "fairOdds": 1250.0,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9192,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0053,
+                "fairOdds": 188.68,
+                "estimatedSSOdds": 169.81,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0154,
+                "fairOdds": 64.94,
+                "estimatedSSOdds": 58.45,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0418,
+                "fairOdds": 23.92,
+                "estimatedSSOdds": 21.53,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Brian Campbell",
+            "mu": 0.2,
+            "muSource": "rank 113",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0008,
+                "fairOdds": 1250.0,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9192,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0065,
+                "fairOdds": 153.85,
+                "estimatedSSOdds": 138.47,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0158,
+                "fairOdds": 63.29,
+                "estimatedSSOdds": 56.96,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0435,
+                "fairOdds": 22.99,
+                "estimatedSSOdds": 20.69,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Jeevan Sihota",
+            "mu": 0.2,
+            "muSource": "rank 140",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0008,
+                "fairOdds": 1250.0,
+                "realSSOdds": 201.0,
+                "edgePct": -0.8392,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0057,
+                "fairOdds": 175.44,
+                "estimatedSSOdds": 157.9,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0171,
+                "fairOdds": 58.48,
+                "estimatedSSOdds": 52.63,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0425,
+                "fairOdds": 23.53,
+                "estimatedSSOdds": 21.18,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Sean O'Hair",
+            "mu": 0.2,
+            "muSource": "rank 144",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0008,
+                "fairOdds": 1250.0,
+                "realSSOdds": 201.0,
+                "edgePct": -0.8392,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0056,
+                "fairOdds": 178.57,
+                "estimatedSSOdds": 160.71,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0149,
+                "fairOdds": 67.11,
+                "estimatedSSOdds": 60.4,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0431,
+                "fairOdds": 23.2,
+                "estimatedSSOdds": 20.88,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Christo Lamprecht",
+            "mu": 0.2,
+            "muSource": "rank 118",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0008,
+                "fairOdds": 1250.0,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9192,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0061,
+                "fairOdds": 163.93,
+                "estimatedSSOdds": 147.54,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0154,
+                "fairOdds": 64.94,
+                "estimatedSSOdds": 58.45,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0425,
+                "fairOdds": 23.53,
+                "estimatedSSOdds": 21.18,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Roger Sloan",
+            "mu": 0.2,
+            "muSource": "rank 132",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0007,
+                "fairOdds": 1428.57,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9293,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0058,
+                "fairOdds": 172.41,
+                "estimatedSSOdds": 155.17,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0143,
+                "fairOdds": 69.93,
+                "estimatedSSOdds": 62.94,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0393,
+                "fairOdds": 25.45,
+                "estimatedSSOdds": 22.91,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Hank Lebioda",
+            "mu": 0.2,
+            "muSource": "rank 106",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0007,
+                "fairOdds": 1428.57,
+                "realSSOdds": 67.0,
+                "edgePct": -0.9531,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0054,
+                "fairOdds": 185.19,
+                "estimatedSSOdds": 166.67,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0154,
+                "fairOdds": 64.94,
+                "estimatedSSOdds": 58.45,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0484,
+                "fairOdds": 20.66,
+                "estimatedSSOdds": 18.59,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Joe Highsmith",
+            "mu": 0.2,
+            "muSource": "rank 123",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0007,
+                "fairOdds": 1428.57,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9293,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.006,
+                "fairOdds": 166.67,
+                "estimatedSSOdds": 150.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0155,
+                "fairOdds": 64.52,
+                "estimatedSSOdds": 58.07,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0419,
+                "fairOdds": 23.87,
+                "estimatedSSOdds": 21.48,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Mike Weir",
+            "mu": 0.2,
+            "muSource": "rank 143",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0007,
+                "fairOdds": 1428.57,
+                "realSSOdds": 201.0,
+                "edgePct": -0.8593,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0055,
+                "fairOdds": 181.82,
+                "estimatedSSOdds": 163.64,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0163,
+                "fairOdds": 61.35,
+                "estimatedSSOdds": 55.22,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0426,
+                "fairOdds": 23.47,
+                "estimatedSSOdds": 21.12,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Adam Schenk",
+            "mu": 0.2,
+            "muSource": "rank 111",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0007,
+                "fairOdds": 1428.57,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9293,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0051,
+                "fairOdds": 196.08,
+                "estimatedSSOdds": 176.47,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.015,
+                "fairOdds": 66.67,
+                "estimatedSSOdds": 60.0,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0431,
+                "fairOdds": 23.2,
+                "estimatedSSOdds": 20.88,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Declan O'Donovan",
+            "mu": 0.2,
+            "muSource": "rank 137",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0007,
+                "fairOdds": 1428.57,
+                "realSSOdds": 201.0,
+                "edgePct": -0.8593,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0077,
+                "fairOdds": 129.87,
+                "estimatedSSOdds": 116.88,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.018,
+                "fairOdds": 55.56,
+                "estimatedSSOdds": 50.0,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0462,
+                "fairOdds": 21.65,
+                "estimatedSSOdds": 19.48,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Davis Chatfield",
+            "mu": 0.2,
+            "muSource": "rank 120",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0007,
+                "fairOdds": 1428.57,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9293,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0062,
+                "fairOdds": 161.29,
+                "estimatedSSOdds": 145.16,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.015,
+                "fairOdds": 66.67,
+                "estimatedSSOdds": 60.0,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.041,
+                "fairOdds": 24.39,
+                "estimatedSSOdds": 21.95,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Drew Nesbitt",
+            "mu": 0.2,
+            "muSource": "rank 138",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0007,
+                "fairOdds": 1428.57,
+                "realSSOdds": 201.0,
+                "edgePct": -0.8593,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0058,
+                "fairOdds": 172.41,
+                "estimatedSSOdds": 155.17,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0163,
+                "fairOdds": 61.35,
+                "estimatedSSOdds": 55.22,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.045,
+                "fairOdds": 22.22,
+                "estimatedSSOdds": 20.0,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Rafael Campos",
+            "mu": 0.2,
+            "muSource": "rank 131",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0006,
+                "fairOdds": 1666.67,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9394,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0046,
+                "fairOdds": 217.39,
+                "estimatedSSOdds": 195.65,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0151,
+                "fairOdds": 66.23,
+                "estimatedSSOdds": 59.61,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0422,
+                "fairOdds": 23.7,
+                "estimatedSSOdds": 21.33,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Peter Malnati",
+            "mu": 0.2,
+            "muSource": "rank 130",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0006,
+                "fairOdds": 1666.67,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9394,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0054,
+                "fairOdds": 185.19,
+                "estimatedSSOdds": 166.67,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0166,
+                "fairOdds": 60.24,
+                "estimatedSSOdds": 54.22,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.042,
+                "fairOdds": 23.81,
+                "estimatedSSOdds": 21.43,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Charley Hoffman",
+            "mu": 0.2,
+            "muSource": "rank 117",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0006,
+                "fairOdds": 1666.67,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9394,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0058,
+                "fairOdds": 172.41,
+                "estimatedSSOdds": 155.17,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0172,
+                "fairOdds": 58.14,
+                "estimatedSSOdds": 52.33,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0426,
+                "fairOdds": 23.47,
+                "estimatedSSOdds": 21.12,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Brice Garnett",
+            "mu": 0.2,
+            "muSource": "rank 103",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0006,
+                "fairOdds": 1666.67,
+                "realSSOdds": 67.0,
+                "edgePct": -0.9598,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0042,
+                "fairOdds": 238.1,
+                "estimatedSSOdds": 214.29,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0138,
+                "fairOdds": 72.46,
+                "estimatedSSOdds": 65.21,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0401,
+                "fairOdds": 24.94,
+                "estimatedSSOdds": 22.45,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "David Skinns",
+            "mu": 0.2,
+            "muSource": "rank 101",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0006,
+                "fairOdds": 1666.67,
+                "realSSOdds": 51.0,
+                "edgePct": -0.9694,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0073,
+                "fairOdds": 136.99,
+                "estimatedSSOdds": 123.29,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0175,
+                "fairOdds": 57.14,
+                "estimatedSSOdds": 51.43,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0425,
+                "fairOdds": 23.53,
+                "estimatedSSOdds": 21.18,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Yohann Benson",
+            "mu": 0.2,
+            "muSource": "rank 146",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0006,
+                "fairOdds": 1666.67,
+                "realSSOdds": 201.0,
+                "edgePct": -0.8794,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0048,
+                "fairOdds": 208.33,
+                "estimatedSSOdds": 187.5,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.014,
+                "fairOdds": 71.43,
+                "estimatedSSOdds": 64.29,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0403,
+                "fairOdds": 24.81,
+                "estimatedSSOdds": 22.33,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Joey Savoie",
+            "mu": 0.2,
+            "muSource": "rank 124",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0006,
+                "fairOdds": 1666.67,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9394,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0055,
+                "fairOdds": 181.82,
+                "estimatedSSOdds": 163.64,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0145,
+                "fairOdds": 68.97,
+                "estimatedSSOdds": 62.07,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0412,
+                "fairOdds": 24.27,
+                "estimatedSSOdds": 21.84,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Kensei Hirata",
+            "mu": 0.2,
+            "muSource": "rank 109",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0006,
+                "fairOdds": 1666.67,
+                "realSSOdds": 67.0,
+                "edgePct": -0.9598,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.006,
+                "fairOdds": 166.67,
+                "estimatedSSOdds": 150.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0146,
+                "fairOdds": 68.49,
+                "estimatedSSOdds": 61.64,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0427,
+                "fairOdds": 23.42,
+                "estimatedSSOdds": 21.08,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Marcelo Rozo",
+            "mu": 0.2,
+            "muSource": "rank 126",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0006,
+                "fairOdds": 1666.67,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9394,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0059,
+                "fairOdds": 169.49,
+                "estimatedSSOdds": 152.54,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0153,
+                "fairOdds": 65.36,
+                "estimatedSSOdds": 58.82,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0427,
+                "fairOdds": 23.42,
+                "estimatedSSOdds": 21.08,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Justin Matthews",
+            "mu": 0.2,
+            "muSource": "rank 141",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0006,
+                "fairOdds": 1666.67,
+                "realSSOdds": 201.0,
+                "edgePct": -0.8794,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0055,
+                "fairOdds": 181.82,
+                "estimatedSSOdds": 163.64,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0142,
+                "fairOdds": 70.42,
+                "estimatedSSOdds": 63.38,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.041,
+                "fairOdds": 24.39,
+                "estimatedSSOdds": 21.95,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Paul Peterson",
+            "mu": 0.2,
+            "muSource": "rank 133",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0006,
+                "fairOdds": 1666.67,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9394,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0057,
+                "fairOdds": 175.44,
+                "estimatedSSOdds": 157.9,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0162,
+                "fairOdds": 61.73,
+                "estimatedSSOdds": 55.56,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0443,
+                "fairOdds": 22.57,
+                "estimatedSSOdds": 20.31,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Ben Silverman",
+            "mu": 0.2,
+            "muSource": "rank 102",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0005,
+                "fairOdds": 2000.0,
+                "realSSOdds": 67.0,
+                "edgePct": -0.9665,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.005,
+                "fairOdds": 200.0,
+                "estimatedSSOdds": 180.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0145,
+                "fairOdds": 68.97,
+                "estimatedSSOdds": 62.07,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0416,
+                "fairOdds": 24.04,
+                "estimatedSSOdds": 21.64,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Padraig Harrington",
+            "mu": 0.2,
+            "muSource": "rank 128",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0005,
+                "fairOdds": 2000.0,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9495,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0062,
+                "fairOdds": 161.29,
+                "estimatedSSOdds": 145.16,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0153,
+                "fairOdds": 65.36,
+                "estimatedSSOdds": 58.82,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0412,
+                "fairOdds": 24.27,
+                "estimatedSSOdds": 21.84,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Alejandro Tosti",
+            "mu": 0.2,
+            "muSource": "rank 112",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0005,
+                "fairOdds": 2000.0,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9495,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0054,
+                "fairOdds": 185.19,
+                "estimatedSSOdds": 166.67,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0151,
+                "fairOdds": 66.23,
+                "estimatedSSOdds": 59.61,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.041,
+                "fairOdds": 24.39,
+                "estimatedSSOdds": 21.95,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Jeffrey Kang",
+            "mu": 0.2,
+            "muSource": "rank 122",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0005,
+                "fairOdds": 2000.0,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9495,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0064,
+                "fairOdds": 156.25,
+                "estimatedSSOdds": 140.62,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0165,
+                "fairOdds": 60.61,
+                "estimatedSSOdds": 54.55,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0445,
+                "fairOdds": 22.47,
+                "estimatedSSOdds": 20.22,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Dylan Wu",
+            "mu": 0.2,
+            "muSource": "rank 105",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0004,
+                "fairOdds": 2500.0,
+                "realSSOdds": 67.0,
+                "edgePct": -0.9732,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0045,
+                "fairOdds": 222.22,
+                "estimatedSSOdds": 200.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0123,
+                "fairOdds": 81.3,
+                "estimatedSSOdds": 73.17,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0385,
+                "fairOdds": 25.97,
+                "estimatedSSOdds": 23.37,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Danny Walker",
+            "mu": 0.2,
+            "muSource": "rank 119",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0004,
+                "fairOdds": 2500.0,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9596,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0048,
+                "fairOdds": 208.33,
+                "estimatedSSOdds": 187.5,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0153,
+                "fairOdds": 65.36,
+                "estimatedSSOdds": 58.82,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0422,
+                "fairOdds": 23.7,
+                "estimatedSSOdds": 21.33,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Ashton McCulloch",
+            "mu": 0.2,
+            "muSource": "rank 134",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0004,
+                "fairOdds": 2500.0,
+                "realSSOdds": 201.0,
+                "edgePct": -0.9196,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.006,
+                "fairOdds": 166.67,
+                "estimatedSSOdds": 150.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0163,
+                "fairOdds": 61.35,
+                "estimatedSSOdds": 55.22,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0453,
+                "fairOdds": 22.08,
+                "estimatedSSOdds": 19.87,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Matthew Anderson",
+            "mu": 0.2,
+            "muSource": "rank 127",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0004,
+                "fairOdds": 2500.0,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9596,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0049,
+                "fairOdds": 204.08,
+                "estimatedSSOdds": 183.67,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0141,
+                "fairOdds": 70.92,
+                "estimatedSSOdds": 63.83,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0409,
+                "fairOdds": 24.45,
+                "estimatedSSOdds": 22.0,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Justin Lower",
+            "mu": 0.2,
+            "muSource": "rank 125",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0003,
+                "fairOdds": 3333.33,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9697,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0051,
+                "fairOdds": 196.08,
+                "estimatedSSOdds": 176.47,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0155,
+                "fairOdds": 64.52,
+                "estimatedSSOdds": 58.07,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0451,
+                "fairOdds": 22.17,
+                "estimatedSSOdds": 19.95,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Camilo Villegas",
+            "mu": 0.2,
+            "muSource": "rank 115",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0003,
+                "fairOdds": 3333.33,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9697,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0059,
+                "fairOdds": 169.49,
+                "estimatedSSOdds": 152.54,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0139,
+                "fairOdds": 71.94,
+                "estimatedSSOdds": 64.75,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0442,
+                "fairOdds": 22.62,
+                "estimatedSSOdds": 20.36,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Laurent Desmarchais",
+            "mu": 0.2,
+            "muSource": "rank 142",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0003,
+                "fairOdds": 3333.33,
+                "realSSOdds": 201.0,
+                "edgePct": -0.9397,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0049,
+                "fairOdds": 204.08,
+                "estimatedSSOdds": 183.67,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0151,
+                "fairOdds": 66.23,
+                "estimatedSSOdds": 59.61,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0416,
+                "fairOdds": 24.04,
+                "estimatedSSOdds": 21.64,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Davis Riley",
+            "mu": 0.2,
+            "muSource": "rank 121",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0003,
+                "fairOdds": 3333.33,
+                "realSSOdds": 101.0,
+                "edgePct": -0.9697,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0052,
+                "fairOdds": 192.31,
+                "estimatedSSOdds": 173.08,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0159,
+                "fairOdds": 62.89,
+                "estimatedSSOdds": 56.6,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.041,
+                "fairOdds": 24.39,
+                "estimatedSSOdds": 21.95,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Jimmy Stanger",
+            "mu": 0.2,
+            "muSource": "rank 107",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0002,
+                "fairOdds": 5000.0,
+                "realSSOdds": 67.0,
+                "edgePct": -0.9866,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0047,
+                "fairOdds": 212.77,
+                "estimatedSSOdds": 191.49,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0143,
+                "fairOdds": 69.93,
+                "estimatedSSOdds": 62.94,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0417,
+                "fairOdds": 23.98,
+                "estimatedSSOdds": 21.58,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Dawson Lew",
+            "mu": 0.2,
+            "muSource": "rank 136",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0002,
+                "fairOdds": 5000.0,
+                "realSSOdds": 201.0,
+                "edgePct": -0.9598,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0054,
+                "fairOdds": 185.19,
+                "estimatedSSOdds": 166.67,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0144,
+                "fairOdds": 69.44,
+                "estimatedSSOdds": 62.5,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0442,
+                "fairOdds": 22.62,
+                "estimatedSSOdds": 20.36,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "John VanDerLaan",
+            "mu": 0.2,
+            "muSource": "rank 108",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0002,
+                "fairOdds": 5000.0,
+                "realSSOdds": 67.0,
+                "edgePct": -0.9866,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Ingen edge"
+              },
+              "top5": {
+                "prob": 0.0051,
+                "fairOdds": 196.08,
+                "estimatedSSOdds": 176.47,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.015,
+                "fairOdds": 66.67,
+                "estimatedSSOdds": 60.0,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0433,
+                "fairOdds": 23.09,
+                "estimatedSSOdds": 20.78,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Séamus Power",
+            "mu": 1.5,
+            "muSource": "rank unranked",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0001,
+                "fairOdds": 10000.0,
+                "estimatedSSOdds": 9000.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0006,
+                "fairOdds": 1666.67,
+                "estimatedSSOdds": 1500.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0011,
+                "fairOdds": 909.09,
+                "estimatedSSOdds": 818.18,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0045,
+                "fairOdds": 222.22,
+                "estimatedSSOdds": 200.0,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Daniel Brown",
+            "mu": 1.5,
+            "muSource": "rank unranked",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0,
+                "fairOdds": null,
+                "estimatedSSOdds": null,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0004,
+                "fairOdds": 2500.0,
+                "estimatedSSOdds": 2250.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0016,
+                "fairOdds": 625.0,
+                "estimatedSSOdds": 562.5,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0056,
+                "fairOdds": 178.57,
+                "estimatedSSOdds": 160.71,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Cam Davis",
+            "mu": 1.5,
+            "muSource": "rank unranked",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0,
+                "fairOdds": null,
+                "estimatedSSOdds": null,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0002,
+                "fairOdds": 5000.0,
+                "estimatedSSOdds": 4500.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0013,
+                "fairOdds": 769.23,
+                "estimatedSSOdds": 692.31,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.0047,
+                "fairOdds": 212.77,
+                "estimatedSSOdds": 191.49,
+                "confidence": "Svag"
+              }
+            }
+          }
+        ],
+        "topByMarket": {
+          "win": [
+            {
+              "name": "Séamus Power",
+              "prob": 0.0001,
+              "fairOdds": 10000.0,
+              "confidence": "Svag",
+              "estimatedSSOdds": 9000.0
+            },
+            {
+              "name": "Alex Noren",
+              "prob": 0.0432,
+              "fairOdds": 23.15,
+              "confidence": "Ingen edge",
+              "realSSOdds": 7.0,
+              "edgePct": -0.6976,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
+            },
+            {
+              "name": "Brooks Koepka",
+              "prob": 0.0454,
+              "fairOdds": 22.03,
+              "confidence": "Ingen edge",
+              "realSSOdds": 6.5,
+              "edgePct": -0.7049,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
+            },
+            {
+              "name": "Justin Rose",
+              "prob": 0.0431,
+              "fairOdds": 23.2,
+              "confidence": "Ingen edge",
+              "realSSOdds": 6.5,
+              "edgePct": -0.7198,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
+            },
+            {
+              "name": "Collin Morikawa",
+              "prob": 0.0425,
+              "fairOdds": 23.53,
+              "confidence": "Ingen edge",
+              "realSSOdds": 6.5,
+              "edgePct": -0.7238,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
+            },
+            {
+              "name": "Wyndham Clark",
+              "prob": 0.0413,
+              "fairOdds": 24.21,
+              "confidence": "Ingen edge",
+              "realSSOdds": 6.5,
+              "edgePct": -0.7315,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
+            },
+            {
+              "name": "Kristoffer Reitan",
+              "prob": 0.0413,
+              "fairOdds": 24.21,
+              "confidence": "Ingen edge",
+              "realSSOdds": 6.5,
+              "edgePct": -0.7315,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
+            },
+            {
+              "name": "Nicolai Højgaard",
+              "prob": 0.0381,
+              "fairOdds": 26.25,
+              "confidence": "Ingen edge",
+              "realSSOdds": 7.0,
+              "edgePct": -0.7333,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
+            }
+          ],
+          "top5": [
+            {
+              "name": "Nicolai Højgaard",
+              "prob": 0.1579,
+              "fairOdds": 6.33,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 5.7
+            },
+            {
+              "name": "Kristoffer Reitan",
+              "prob": 0.1569,
+              "fairOdds": 6.37,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 5.73
+            },
+            {
+              "name": "Aaron Rai",
+              "prob": 0.094,
+              "fairOdds": 10.64,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 9.58
+            },
+            {
+              "name": "Harry Hall",
+              "prob": 0.0926,
+              "fairOdds": 10.8,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 9.72
+            },
+            {
+              "name": "Jacob Bridgeman",
+              "prob": 0.092,
+              "fairOdds": 10.87,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 9.78
+            },
+            {
+              "name": "Michael Brennan",
+              "prob": 0.091,
+              "fairOdds": 10.99,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 9.89
+            },
+            {
+              "name": "Keith Mitchell",
+              "prob": 0.0907,
+              "fairOdds": 11.03,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 9.93
+            },
+            {
+              "name": "Bud Cauley",
+              "prob": 0.0906,
+              "fairOdds": 11.04,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 9.94
+            }
+          ],
+          "top10": [
+            {
+              "name": "Harry Hall",
+              "prob": 0.1739,
+              "fairOdds": 5.75,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 5.17
+            },
+            {
+              "name": "Christiaan Bezuidenhout",
+              "prob": 0.1712,
+              "fairOdds": 5.84,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 5.26
+            },
+            {
+              "name": "Bud Cauley",
+              "prob": 0.1691,
+              "fairOdds": 5.91,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 5.32
+            },
+            {
+              "name": "Jacob Bridgeman",
+              "prob": 0.1684,
+              "fairOdds": 5.94,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 5.35
+            },
+            {
+              "name": "Nick Taylor",
+              "prob": 0.1682,
+              "fairOdds": 5.95,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 5.36
+            },
+            {
+              "name": "Mac Meissner",
+              "prob": 0.1671,
+              "fairOdds": 5.98,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 5.38
+            },
+            {
+              "name": "Jordan Smith",
+              "prob": 0.0873,
+              "fairOdds": 11.45,
+              "confidence": "Svag",
+              "estimatedSSOdds": 10.3
+            },
+            {
+              "name": "Max Greyserman",
+              "prob": 0.0871,
+              "fairOdds": 11.48,
+              "confidence": "Svag",
+              "estimatedSSOdds": 10.33
+            }
+          ],
+          "top20": [
+            {
+              "name": "Bud Cauley",
+              "prob": 0.3079,
+              "fairOdds": 3.25,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 2.93
+            },
+            {
+              "name": "Harry Hall",
+              "prob": 0.3063,
+              "fairOdds": 3.26,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 2.93
+            },
+            {
+              "name": "Christiaan Bezuidenhout",
+              "prob": 0.3052,
+              "fairOdds": 3.28,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 2.95
+            },
+            {
+              "name": "Nick Taylor",
+              "prob": 0.3049,
+              "fairOdds": 3.28,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 2.95
+            },
+            {
+              "name": "Jacob Bridgeman",
+              "prob": 0.3016,
+              "fairOdds": 3.32,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 2.99
+            },
+            {
+              "name": "Mac Meissner",
+              "prob": 0.2989,
+              "fairOdds": 3.35,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 3.02
+            },
+            {
+              "name": "Jordan Smith",
+              "prob": 0.1832,
+              "fairOdds": 5.46,
+              "confidence": "Svag",
+              "estimatedSSOdds": 4.91
+            },
+            {
+              "name": "Sahith Theegala",
+              "prob": 0.1792,
+              "fairOdds": 5.58,
+              "confidence": "Svag",
+              "estimatedSSOdds": 5.02
+            }
+          ]
+        },
+        "topEdges": [
+          {
+            "name": "Nicolai Højgaard",
+            "market": "top10",
+            "prob": 0.2688,
+            "fairOdds": 3.72,
+            "realSSOdds": 4.35,
+            "edgePct": 0.1693,
+            "kellyFraction": 0.0126,
+            "recommendedStakePct": 1.26,
+            "confidence": "Stark edge"
+          },
+          {
+            "name": "Nicolai Højgaard",
+            "market": "top20",
+            "prob": 0.4373,
+            "fairOdds": 2.29,
+            "realSSOdds": 2.5,
+            "edgePct": 0.0933,
+            "kellyFraction": 0.0155,
+            "recommendedStakePct": 1.55,
+            "confidence": "Lutar edge"
+          },
+          {
+            "name": "Alex Noren",
+            "market": "top10",
+            "prob": 0.2726,
+            "fairOdds": 3.67,
+            "realSSOdds": 4.0,
+            "edgePct": 0.0904,
+            "kellyFraction": 0.0075,
+            "recommendedStakePct": 0.75,
+            "confidence": "Lutar edge"
+          },
+          {
+            "name": "Alex Noren",
+            "market": "top5",
+            "prob": 0.1638,
+            "fairOdds": 6.11,
+            "realSSOdds": 6.5,
+            "edgePct": 0.0647,
+            "kellyFraction": 0.0029,
+            "recommendedStakePct": 0.29,
+            "confidence": "Jämn edge"
+          },
+          {
+            "name": "Alex Noren",
+            "market": "top20",
+            "prob": 0.4383,
+            "fairOdds": 2.28,
+            "realSSOdds": 2.38,
+            "edgePct": 0.0432,
+            "kellyFraction": 0.0078,
+            "recommendedStakePct": 0.78,
+            "confidence": "Jämn edge"
+          },
+          {
+            "name": "Kristoffer Reitan",
+            "market": "top10",
+            "prob": 0.2696,
+            "fairOdds": 3.71,
+            "realSSOdds": 3.75,
+            "edgePct": 0.011,
+            "kellyFraction": 0.001,
+            "recommendedStakePct": 0.1,
+            "confidence": "Marginal"
+          }
+        ]
       }
     },
     {
@@ -118,7 +5733,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:14+00:00",
+          "generatedAt": "2026-06-10T18:32:25+00:00",
           "headline": "R1 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
           "insights": [
             {
@@ -249,7 +5864,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:14+00:00",
+          "generatedAt": "2026-06-10T18:32:25+00:00",
           "headline": "R2 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
           "insights": [
             {
@@ -380,7 +5995,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:14+00:00",
+          "generatedAt": "2026-06-10T18:32:25+00:00",
           "headline": "R3 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
           "insights": [
             {
@@ -511,7 +6126,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:14+00:00",
+          "generatedAt": "2026-06-10T18:32:25+00:00",
           "headline": "Slutresultat: J.T. Poston vann på -12 — playoff/oavgjord",
           "insights": [
             {
@@ -657,7 +6272,7 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:14+00:00",
+          "generatedAt": "2026-06-10T18:32:25+00:00",
           "headline": "Inför U.S. Open: fältet samlas på veckans bana",
           "insights": [
             {
@@ -697,7 +6312,7 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:15+00:00",
+          "generatedAt": "2026-06-10T18:32:25+00:00",
           "headline": "Inför Dow Championship: fältet samlas på veckans bana",
           "insights": [
             {
@@ -737,7 +6352,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:15+00:00",
+          "generatedAt": "2026-06-10T18:32:25+00:00",
           "headline": "R1 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
           "insights": [
             {
@@ -868,7 +6483,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:15+00:00",
+          "generatedAt": "2026-06-10T18:32:25+00:00",
           "headline": "R2 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
           "insights": [
             {
@@ -999,7 +6614,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:15+00:00",
+          "generatedAt": "2026-06-10T18:32:25+00:00",
           "headline": "R3 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
           "insights": [
             {
@@ -1130,7 +6745,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:15+00:00",
+          "generatedAt": "2026-06-10T18:32:25+00:00",
           "headline": "Slutresultat: Nelly Korda vann på -8 — vinst med ett slag över Charley Hull",
           "insights": [
             {
@@ -1276,7 +6891,7 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:15+00:00",
+          "generatedAt": "2026-06-10T18:32:25+00:00",
           "headline": "Inför Meijer LPGA Classic for Simply Give: fältet samlas på veckans bana",
           "insights": [
             {
@@ -1330,7 +6945,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:16+00:00",
+          "generatedAt": "2026-06-10T18:32:26+00:00",
           "headline": "R1 utfall: Eugenio Chacarra leder -11 — Oliver Lindell jagar ett slag bakom",
           "insights": [
             {
@@ -1461,7 +7076,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:16+00:00",
+          "generatedAt": "2026-06-10T18:32:26+00:00",
           "headline": "R2 utfall: Eugenio Chacarra leder -11 — Oliver Lindell jagar ett slag bakom",
           "insights": [
             {
@@ -1592,7 +7207,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:16+00:00",
+          "generatedAt": "2026-06-10T18:32:26+00:00",
           "headline": "R3 utfall: Eugenio Chacarra leder -11 — Oliver Lindell jagar ett slag bakom",
           "insights": [
             {
@@ -1723,7 +7338,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:16+00:00",
+          "generatedAt": "2026-06-10T18:32:26+00:00",
           "headline": "Slutresultat: Eugenio Chacarra vann på -11 — vinst med ett slag över Oliver Lindell",
           "insights": [
             {
@@ -1883,7 +7498,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:17+00:00",
+          "generatedAt": "2026-06-10T18:32:27+00:00",
           "headline": "R1 utfall: Tyrrell Hatton leder -11 — Jon Rahm jagar 2 slag bakom",
           "insights": [
             {
@@ -2014,7 +7629,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:17+00:00",
+          "generatedAt": "2026-06-10T18:32:27+00:00",
           "headline": "R2 utfall: Tyrrell Hatton leder -11 — Jon Rahm jagar 2 slag bakom",
           "insights": [
             {
@@ -2145,7 +7760,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:17+00:00",
+          "generatedAt": "2026-06-10T18:32:27+00:00",
           "headline": "R3 utfall: Tyrrell Hatton leder -11 — Jon Rahm jagar 2 slag bakom",
           "insights": [
             {
@@ -2276,7 +7891,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:09:17+00:00",
+          "generatedAt": "2026-06-10T18:32:27+00:00",
           "headline": "Slutresultat: Tyrrell Hatton vann på -11 — vinst med 2 slag över Jon Rahm",
           "insights": [
             {

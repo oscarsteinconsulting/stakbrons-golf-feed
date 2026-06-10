@@ -21,11 +21,13 @@ import urllib.request
 from pathlib import Path
 
 import edge_engine  # lokal modul i samma scripts/-mapp
+import kambi_odds   # lokal modul: SS-odds via Kambis publika CDN
 
 ESPN_BASE = "https://site.api.espn.com/apis/site/v2/sports/golf"
 TIMEOUT = 15
 DATAGOLF_API_KEY = os.environ.get("DATAGOLF_API_KEY", "").strip()
 _DG_RANKINGS_CACHE: dict[str, int] | None = None
+_KAMBI_MARKETS_CACHE: dict[str, dict] | None = None
 
 
 def get_dg_rankings() -> dict[str, int]:
@@ -40,6 +42,44 @@ def get_dg_rankings() -> dict[str, int]:
         else:
             print("  ℹ️  Ingen DATAGOLF_API_KEY — edge-modellen kör utan rank-baseline")
     return _DG_RANKINGS_CACHE
+
+
+def get_kambi_markets() -> dict[str, dict]:
+    """Hämta Kambi-odds en gång per körning och cacha per event-slug."""
+    global _KAMBI_MARKETS_CACHE
+    if _KAMBI_MARKETS_CACHE is None:
+        try:
+            _KAMBI_MARKETS_CACHE = kambi_odds.fetch_all_markets()
+            if _KAMBI_MARKETS_CACHE:
+                print(f"  🎯 Kambi-odds: {len(_KAMBI_MARKETS_CACHE)} events laddade")
+            else:
+                print("  ⚠️  Kambi-odds: 0 events (CDN nere?)")
+        except Exception as exc:
+            print(f"  ⚠️  Kambi-odds failade: {exc}", file=sys.stderr)
+            _KAMBI_MARKETS_CACHE = {}
+    return _KAMBI_MARKETS_CACHE
+
+
+def kambi_markets_for_tournament(name: str, raw_name: str) -> dict[str, dict[str, float]] | None:
+    """Plocka Kambi-marknader som matchar denna tävling.
+
+    Försöker matcha via slugify på flera olika namnvarianter eftersom
+    Kambi och ESPN kan ha lite olika namn ("RBC Canadian Open 2026" vs
+    "RBC Canadian Open").
+    """
+    cache = get_kambi_markets()
+    if not cache:
+        return None
+    candidates = {kambi_odds.event_slug(name), kambi_odds.event_slug(raw_name)}
+    for cand in candidates:
+        if cand in cache:
+            return cache[cand]["markets"]
+    # Fallback: substring-match — gör matchningen mer förlåtande
+    for kambi_slug, info in cache.items():
+        for cand in candidates:
+            if cand and (cand in kambi_slug or kambi_slug in cand):
+                return info["markets"]
+    return None
 
 
 def to_edge_field(players: list[dict]) -> list[dict]:
@@ -939,6 +979,9 @@ def build_tournament_entry(board: dict) -> dict | None:
         # men för final clampar vi (vi exiterar redan ovan)
         completed = max(0, current - 1)
         edge_field = to_edge_field(board["players"])
+        kambi_markets = kambi_markets_for_tournament(
+            pretty_name(board["name"]), board["name"]
+        )
         try:
             edge_payload = edge_engine.build_edge_payload(
                 tournament_name=pretty_name(board["name"]),
@@ -946,6 +989,7 @@ def build_tournament_entry(board: dict) -> dict | None:
                 completed_rounds=completed,
                 field=edge_field,
                 rankings=get_dg_rankings(),
+                kambi_markets=kambi_markets,
             )
         except Exception as exc:
             print(f"  ⚠️  edge_engine fail för {board['name']}: {exc}", file=sys.stderr)
@@ -1002,9 +1046,12 @@ def main() -> int:
             edge_tag = ""
             if entry.get("edge"):
                 ep = entry["edge"]
+                real_tag = " 💰REAL" if ep.get("hasRealOdds") else ""
+                n_edges = len(ep.get("topEdges") or [])
+                edges_tag = f" · {n_edges} positiva edges" if n_edges else ""
                 edge_tag = (
-                    f" 📈 edge: {ep['fieldSize']} sp × {ep['simulations']} sims, "
-                    f"{ep['remainingRounds']}r kvar"
+                    f" 📈 edge v{ep['modelVersion']}: {ep['fieldSize']} sp × {ep['simulations']} sims,"
+                    f" {ep['remainingRounds']}r kvar{real_tag}{edges_tag}"
                 )
             print(
                 f"  ✓ {entry['name']} ({entry['tour']}) — status={entry['status']}, "

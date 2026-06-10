@@ -133,6 +133,19 @@ def normalize_name(name: str) -> str:
 # ---------------------------------------------------------------------------
 
 
+def implicit_rank_from_kambi(kambi_win_odds: dict[str, float]) -> dict[str, int]:
+    """Sortera spelare på Kambis vinst-odds → implicit ranking-position.
+
+    Lägst odds = mest favoriserad = rank 1. Detta funkar utmärkt som proxy
+    för world ranking eftersom SS:s odds redan kondensar bookmaker-konsensusen
+    om varje spelares form, course-fit, kondition och history.
+
+    Returnerar {normalized_name: implicit_rank}.
+    """
+    sorted_pairs = sorted(kambi_win_odds.items(), key=lambda x: x[1])
+    return {name: i + 1 for i, (name, _) in enumerate(sorted_pairs)}
+
+
 def estimate_player_mu(
     *,
     name: str,
@@ -145,7 +158,7 @@ def estimate_player_mu(
     Strategi:
       - Om vi har ≥1 spelad rond denna vecka → score_to_par / completed_rounds
         (rå current form, perfekt signal denna vecka)
-      - Annars använd ranking-baseline
+      - Annars använd ranking-baseline (DG-rank eller Kambi-implicit-rank)
     """
     if completed_rounds >= 1 and score_to_par_so_far is not None:
         mu_current = score_to_par_so_far / completed_rounds
@@ -167,7 +180,7 @@ def estimate_player_mu(
     # Pre-tournament / R1 ej startad → rent ranking-baserat
     normalized = normalize_name(name)
     rank = rankings.get(normalized)
-    return mu_from_rank(rank), f"DG rank {rank or 'unranked'}"
+    return mu_from_rank(rank), f"rank {rank or 'unranked'}"
 
 
 # ---------------------------------------------------------------------------
@@ -261,8 +274,9 @@ def estimated_ss_odds(fair: float | None, vig: float = ASSUMED_SS_VIG) -> float 
 
 
 def confidence_bucket(prob: float, market: str) -> str:
-    """Kategorisera självsäkerheten i ett tip.
+    """Kategorisera självsäkerheten i ett tip baserat på modellprob.
 
+    Används som fallback när vi saknar riktiga Kambi-odds.
     Trösklar är marknadsspecifika eftersom basisrate skiljer:
       - vinst: bas 1/156 ≈ 0.6% → 5%+ är stark favorit
       - topp 5: bas 3.2% → 12%+ är stark
@@ -285,6 +299,47 @@ def confidence_bucket(prob: float, market: str) -> str:
     return "Svag"
 
 
+def edge_confidence(edge_pct: float) -> str:
+    """Kategorisera självsäkerheten i en pick baserat på RIKTIG edge%.
+
+    Detta är mer ärligt än modellprob ensam — en spelare med 30% modellprob
+    men dåliga odds (under fair) är ingen edge oavsett vilken vinstchans
+    modellen tror på.
+    """
+    if edge_pct >= 0.15:
+        return "Stark edge"
+    if edge_pct >= 0.07:
+        return "Lutar edge"
+    if edge_pct >= 0.03:
+        return "Jämn edge"
+    if edge_pct >= 0:
+        return "Marginal"
+    return "Ingen edge"
+
+
+def compute_edge(prob: float, real_odds: float | None) -> dict[str, Any] | None:
+    """Räkna edge% + kvart-Kelly stake för en pick mot Kambi-odds.
+
+    Returnerar None om real_odds saknas eller är ogiltigt.
+
+    Kelly formula: f* = (p × odds - 1) / (odds - 1)
+    Vi rekommenderar kvart-Kelly för säkerhet mot modellosäkerhet.
+    """
+    if real_odds is None or real_odds <= 1.0:
+        return None
+    edge_pct = prob * real_odds - 1.0
+    if real_odds <= 1.0:
+        return None
+    kelly_full = edge_pct / (real_odds - 1)
+    # Kvart-Kelly, klamp till [0, 0.05] — aldrig mer än 5% av bankrullen per vad
+    kelly_quarter = max(0.0, min(0.05, kelly_full / 4.0))
+    return {
+        "edgePct": round(edge_pct, 4),
+        "kellyFraction": round(kelly_quarter, 4),
+        "recommendedStakePct": round(kelly_quarter * 100, 2),
+    }
+
+
 # ---------------------------------------------------------------------------
 # Pipeline
 # ---------------------------------------------------------------------------
@@ -297,6 +352,7 @@ def build_edge_payload(
     completed_rounds: int,
     field: list[dict[str, Any]],
     rankings: dict[str, int],
+    kambi_markets: dict[str, dict[str, float]] | None = None,
     n_sims: int = N_SIMULATIONS,
 ) -> dict[str, Any] | None:
     """Producera komplett edge-payload för en tävling.
@@ -312,10 +368,24 @@ def build_edge_payload(
     if not field:
         return None
 
-    # Skydd mot meningslös output: utan rankings OCH utan in-tournament-data
+    # Slå ihop DG-rankings med Kambi-implicit-rankings.
+    # DG-rank har prioritet (mer noggrann), Kambi fyller i de spelare som
+    # DG inte har täckning för. Det betyder att SS:s eget urval av "vilka
+    # spelare som är värda odds" påverkar vår modells μ — vilket är bra
+    # eftersom SS redan har bakat in form, kondition, course-fit i sin lista.
+    merged_rankings: dict[str, int] = {}
+    rank_source = "saknas"
+    if kambi_markets and kambi_markets.get("win"):
+        kambi_ranks = implicit_rank_from_kambi(kambi_markets["win"])
+        merged_rankings.update(kambi_ranks)
+        rank_source = f"Kambi-implicit ({len(kambi_ranks)} spelare)"
+    if rankings:
+        merged_rankings.update(rankings)  # DG overrider Kambi när tillgänglig
+        rank_source = f"DG ({len(rankings)} sp) + Kambi-fallback"
+
+    # Skydd mot meningslös output: utan något att basera μ på
     # blir alla spelares μ identiska (default 1.5) och Monte Carlo blir ren slump.
-    # Då är top-listorna bara brus → bättre att returnera None än att lura användaren.
-    has_useful_data = bool(rankings) or completed_rounds >= 1
+    has_useful_data = bool(merged_rankings) or completed_rounds >= 1
     if not has_useful_data:
         return None
 
@@ -328,7 +398,7 @@ def build_edge_payload(
         missed_cut = bool(raw.get("missed_cut", False))
         mu, source = estimate_player_mu(
             name=name,
-            rankings=rankings,
+            rankings=merged_rankings,
             completed_rounds=completed_rounds if not missed_cut else 0,
             score_to_par_so_far=score if not missed_cut else None,
         )
@@ -353,6 +423,7 @@ def build_edge_payload(
         market_probs = probs.get(p["name"])
         if not market_probs:
             continue
+        nname = normalize_name(p["name"])
         entry: dict[str, Any] = {
             "name": p["name"],
             "mu": round(p["mu"], 2),
@@ -362,46 +433,112 @@ def build_edge_payload(
         }
         for market, prob in market_probs.items():
             fair = fair_odds(prob)
-            entry["markets"][market] = {
+            real_odds = None
+            if kambi_markets:
+                real_odds = (kambi_markets.get(market) or {}).get(nname)
+            edge_data = compute_edge(prob, real_odds)
+            mk: dict[str, Any] = {
                 "prob": round(prob, 4),
                 "fairOdds": fair,
-                "estimatedSSOdds": estimated_ss_odds(fair),
-                "confidence": confidence_bucket(prob, market),
             }
+            if real_odds is not None:
+                mk["realSSOdds"] = round(real_odds, 2)
+            else:
+                mk["estimatedSSOdds"] = estimated_ss_odds(fair)
+            if edge_data:
+                mk.update(edge_data)
+                mk["confidence"] = edge_confidence(edge_data["edgePct"])
+            else:
+                mk["confidence"] = confidence_bucket(prob, market)
+            entry["markets"][market] = mk
         picks.append(entry)
 
+    # Sortera primärt på vinst-prob (för backward-kompat med UI). UI:t sorterar
+    # själv på edge% när det vill visa "bästa edge"-listan.
     picks.sort(key=lambda x: -(x["markets"].get("win", {}).get("prob", 0) or 0))
 
-    return {
-        "modelVersion": "0.1.0",
+    payload: dict[str, Any] = {
+        "modelVersion": "0.2.0",  # bump för Kambi-integration
         "simulations": n_sims,
         "remainingRounds": remaining,
         "completedRounds": completed_rounds,
         "sigmaPerRound": ROUND_STD_DEV,
         "assumedSSVig": ASSUMED_SS_VIG,
         "fieldSize": len([p for p in players if not p["missed_cut"]]),
+        "hasRealOdds": bool(kambi_markets),
         "picks": picks,
         "topByMarket": _top_picks_by_market(picks, k=8),
     }
+    if kambi_markets:
+        # Bonus: en sorterad lista över bästa edges över alla marknader
+        payload["topEdges"] = _top_edges(picks, k=10)
+    return payload
 
 
 def _top_picks_by_market(picks: list[dict[str, Any]], k: int) -> dict[str, list[dict[str, Any]]]:
-    """Returnera top-k spelare per marknad — för enkel UI-rendering."""
+    """Returnera top-k spelare per marknad — för enkel UI-rendering.
+
+    Prioriterar edge% när det finns (riktiga odds), annars bara modellprob.
+    """
     out: dict[str, list[dict[str, Any]]] = {}
     for market in ("win", "top5", "top10", "top20"):
-        ranked = sorted(
-            picks,
-            key=lambda p: -(p["markets"].get(market, {}).get("prob", 0) or 0),
-        )
-        out[market] = [
-            {
+        def sort_key(p, _m=market):
+            mk = p["markets"].get(_m, {})
+            edge = mk.get("edgePct")
+            # Spelare med edge%-data sorteras efter edge, övriga efter prob
+            if edge is not None:
+                return (1, -edge)  # högre edge = bättre
+            return (0, -(mk.get("prob") or 0))
+
+        ranked = sorted(picks, key=sort_key)
+        # Filtrera till spelare som har minst prob > 0
+        entries = []
+        for p in ranked:
+            mk = p["markets"].get(market, {})
+            if (mk.get("prob") or 0) <= 0:
+                continue
+            entry = {
                 "name": p["name"],
-                "prob": p["markets"][market]["prob"],
-                "fairOdds": p["markets"][market]["fairOdds"],
-                "estimatedSSOdds": p["markets"][market]["estimatedSSOdds"],
-                "confidence": p["markets"][market]["confidence"],
+                "prob": mk["prob"],
+                "fairOdds": mk.get("fairOdds"),
+                "confidence": mk["confidence"],
             }
-            for p in ranked[:k]
-            if p["markets"].get(market, {}).get("prob", 0) > 0
-        ]
+            if "realSSOdds" in mk:
+                entry["realSSOdds"] = mk["realSSOdds"]
+            if "estimatedSSOdds" in mk:
+                entry["estimatedSSOdds"] = mk["estimatedSSOdds"]
+            if "edgePct" in mk:
+                entry["edgePct"] = mk["edgePct"]
+                entry["kellyFraction"] = mk["kellyFraction"]
+                entry["recommendedStakePct"] = mk["recommendedStakePct"]
+            entries.append(entry)
+            if len(entries) >= k:
+                break
+        out[market] = entries
     return out
+
+
+def _top_edges(picks: list[dict[str, Any]], k: int) -> list[dict[str, Any]]:
+    """Sammanställ alla picks med edge > 0 över alla marknader, sorterade på edge%.
+
+    Detta är "find me the best bets right now"-listan — bortom marknad.
+    """
+    out: list[dict[str, Any]] = []
+    for p in picks:
+        for market_key, mk in p["markets"].items():
+            edge = mk.get("edgePct")
+            if edge is None or edge <= 0:
+                continue
+            out.append({
+                "name": p["name"],
+                "market": market_key,
+                "prob": mk["prob"],
+                "fairOdds": mk.get("fairOdds"),
+                "realSSOdds": mk.get("realSSOdds"),
+                "edgePct": edge,
+                "kellyFraction": mk["kellyFraction"],
+                "recommendedStakePct": mk["recommendedStakePct"],
+                "confidence": mk["confidence"],
+            })
+    out.sort(key=lambda x: -x["edgePct"])
+    return out[:k]
