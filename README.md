@@ -44,3 +44,4 @@ Actions → Generate Stakbrons Golf Feed → Run workflow
 
 Innehållet är redaktionell analys för informationssyften. Odds är indikativa och
 måste verifieras hos Svenska Spel innan spel. 18+, Stödlinjen 020-81 91 00.
+# stakbrons-golf-feed
