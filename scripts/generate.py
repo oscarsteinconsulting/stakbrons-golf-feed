@@ -21,6 +21,14 @@ from pathlib import Path
 ESPN_BASE = "https://site.api.espn.com/apis/site/v2/sports/golf"
 TIMEOUT = 15
 
+# (endpoint, label) — ESPN-stöd för golf-tour API:n
+TOURS = [
+    ("pga",  "PGA Tour"),
+    ("lpga", "LPGA"),
+    ("eur",  "DP World Tour"),
+    ("liv",  "LIV Golf"),
+]
+
 # ----------------------------------------------------------------------------
 # ESPN helpers
 # ----------------------------------------------------------------------------
@@ -179,10 +187,22 @@ def parse_event(event: dict, tour_label: str) -> dict:
 # Headline / insight / tips
 # ----------------------------------------------------------------------------
 
-def headline_text(round_num: int, players: list, is_current: bool) -> str:
+def headline_text(round_num: int, players: list, is_current: bool, is_final: bool = False) -> str:
     if not players:
         return f"R{round_num} live — leaderboard hämtas live från ESPN"
     leader = players[0]
+    if is_final and round_num == 4:
+        margin_text = ""
+        if len(players) >= 2:
+            gap = abs(players[1]["totalValue"] - leader["totalValue"])
+            n = int(round(gap))
+            if n == 0:
+                margin_text = " — playoff/oavgjord"
+            elif n == 1:
+                margin_text = f" — vinst med ett slag över {players[1]['name']}"
+            else:
+                margin_text = f" — vinst med {n} slag över {players[1]['name']}"
+        return f"Slutresultat: {leader['name']} vann på {leader['totalDisplay']}{margin_text}"
     label = "live" if is_current else "utfall"
     cluster = ""
     if len(players) >= 2:
@@ -384,16 +404,21 @@ def make_tips(round_num: int, players: list) -> list:
 
 def make_daily_report(round_num: int, board: dict, is_current: bool) -> dict:
     players = board["players"]
+    is_final = "final" in board["statusDetail"].lower() or board["state"] == "post"
     now_iso = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+    leaderboard_header = (
+        "Slutresultat" if (is_final and round_num == 4)
+        else f"Leaderboard live (R{round_num})"
+    )
     return {
         "kind": "daily",
         "locked": False,
         "generatedAt": now_iso,
-        "headline": headline_text(round_num, players, is_current),
+        "headline": headline_text(round_num, players, is_current, is_final=is_final),
         "insights": [
             {
                 "icon": "list.number",
-                "h": f"Leaderboard live (R{round_num})",
+                "h": leaderboard_header,
                 "b": leaderboard_body(players),
             },
             {
@@ -462,7 +487,7 @@ def main() -> int:
         "tournaments": [],
     }
 
-    for tour, label in (("pga", "PGA Tour"), ("lpga", "LPGA")):
+    for tour, label in TOURS:
         events = fetch_all_relevant_events(tour)
         if not events:
             print(f"  (inga {label}-events hittade)", file=sys.stderr)
