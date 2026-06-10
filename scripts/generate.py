@@ -713,6 +713,167 @@ def status_to_label(state: str, status_detail: str) -> str:
     return "upcoming"
 
 
+def _starts_within_days(start_iso: str | None, max_days: int = 7) -> bool:
+    """True om event-startdatumet ligger inom intervallet [idag, idag+max_days]."""
+    if not start_iso:
+        return False
+    try:
+        # ESPN-format: "2026-06-11T04:00Z"
+        start = dt.datetime.fromisoformat(start_iso.replace("Z", "+00:00"))
+    except ValueError:
+        return False
+    now = dt.datetime.now(dt.timezone.utc)
+    delta = (start - now).days
+    return -1 <= delta <= max_days   # tillåt redan-startat (delta=-1) också
+
+
+def make_preview_report(board: dict) -> dict:
+    """Onsdag-preview för upcoming tournament.
+
+    LLM-version: full analys-text. Fallback: mall-baserad med fält-overview,
+    svensk-callout och 5 namn ur fältet som "intressanta att hålla koll på".
+    """
+    players = board["players"]
+    field_size = len(players)
+    now_iso = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+
+    # LLM-rubrik
+    headline = llm_preview_headline(board)
+    if not headline:
+        course = board.get("venue") or "veckans bana"
+        headline = f"Inför {pretty_name(board['name'])}: fältet samlas på {course}"
+
+    insights: list[dict] = []
+
+    # LLM-skrivet reportage
+    summary = llm_preview_summary(board)
+    if summary:
+        insights.append({"icon": "newspaper", "h": "Reportage", "b": summary})
+
+    # Bana & datum-info
+    course = board.get("venue") or "—"
+    par = board.get("par") or 0
+    yards = board.get("yards") or 0
+    course_lines = [f"Bana: {course}"]
+    if par > 0:
+        course_lines.append(f"Par {par}" + (f" · {yards} yards" if yards > 0 else ""))
+    start_iso = board.get("startDate")
+    if start_iso:
+        try:
+            start = dt.datetime.fromisoformat(start_iso.replace("Z", "+00:00"))
+            course_lines.append(f"Starttid runda 1: {start.strftime('%A %d %B %Y')}")
+        except Exception:
+            pass
+    insights.append({
+        "icon": "flag.fill",
+        "h": "Banan & schemat",
+        "b": "\n".join(course_lines),
+    })
+
+    # Fältöversikt
+    insights.append({
+        "icon": "person.3.fill",
+        "h": "Fältöversikt",
+        "b": f"{field_size} spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN.",
+    })
+
+    # Svensk-callout om svenskar finns i fältet
+    sve = swedish_insight(players)
+    if sve:
+        sve = {**sve, "h": "🇸🇪 Svenskar i fältet"}
+        insights.append(sve)
+
+    # Metodologi
+    insights.append({
+        "icon": "wave.3.right",
+        "h": "Auto-genererat",
+        "b": (
+            "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. "
+            + ("Rubrik och reportage skrivs av Claude. " if USE_LLM else "")
+            + "Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+        ),
+    })
+
+    return {
+        "kind": "preview",
+        "locked": False,
+        "generatedAt": now_iso,
+        "headline": headline,
+        "insights": insights,
+        "top5": [],
+        "bets": make_preview_bets(players),
+    }
+
+
+def make_preview_bets(players: list) -> list:
+    """5-10 outright-tips baserat på fältordningen ESPN ger.
+    Utan rankings är detta en grov approximation — labelas tydligt."""
+    tips = []
+    for i, p in enumerate(players[:6]):
+        odds = round(8 + i * 3.5, 1)
+        tips.append({
+            "id": f"auto-preview-w{i+1}",
+            "cat": "🤖 Outright (förhand)",
+            "sel": p["name"],
+            "svs": odds,
+            "mkt": 0,
+            "units": 1.0 if i < 2 else 0.5,
+            "conf": 3 if i < 2 else 2,
+            "rat": (
+                f"{p['name']} står med i fältet. Indikativt pris baserat på fält-position; "
+                "verifiera linjen och formen hos Svenska Spel innan spel."
+            ),
+        })
+    return tips
+
+
+def llm_preview_headline(board: dict) -> str | None:
+    if not USE_LLM:
+        return None
+    top = board["players"][:15]
+    rows = "\n".join(f"{p['name']} ({p.get('country') or '?'})" for p in top)
+    swedish = ", ".join(p["name"] for p in swedish_players(board["players"])[:5])
+    prompt = (
+        "Du är en svensk sportreporter som skriver förhandsrubriker för Stakbrons Golf Odds. "
+        "Skriv en kort, kraftfull rubrik på svenska (max 110 tecken) inför kommande "
+        "golf-tävling. Var konkret — nämn bana, tour eller intressant spelare. Nämn en "
+        "svensk om någon är i fältet. Undvik klyschor.\n\n"
+        f"Tävling: {board['name']} ({board['tour']})\n"
+        f"Bana: {board.get('venue') or 'okänd'}\n"
+        f"Svenskar i fält: {swedish or 'inga relevanta'}\n\n"
+        "Första 15 i fältlistan från ESPN:\n"
+        f"{rows}\n\n"
+        "Returnera ENDAST rubriktexten."
+    )
+    key = f"preview-headline:{board['name']}:{','.join(p['name'] for p in top[:5])}"
+    txt = llm_generate(prompt, max_tokens=80, cache_key=key)
+    if txt:
+        txt = txt.strip().strip('"').strip("'").strip()
+    return txt
+
+
+def llm_preview_summary(board: dict) -> str | None:
+    if not USE_LLM:
+        return None
+    top = board["players"][:20]
+    rows = "\n".join(f"{p['name']} ({p.get('country') or '?'})" for p in top)
+    swedish = ", ".join(p["name"] for p in swedish_players(board["players"])[:5])
+    prompt = (
+        "Du är en svensk sportreporter som skriver förhandsanalyser för Stakbrons Golf Odds. "
+        "Skriv en kort förhandsanalys (3-4 meningar) inför kommande tävling. Fokus: tour, "
+        "intressanta namn, eventuella svenskar, vad som är värt att hålla koll på. "
+        "Saklig sportreportertilll, undvik klyschor.\n\n"
+        f"Tävling: {board['name']} ({board['tour']})\n"
+        f"Bana: {board.get('venue') or 'okänd'}\n"
+        f"Svenskar i fält: {swedish or 'inga relevanta'}\n\n"
+        "Första 20 i fältlistan från ESPN:\n"
+        f"{rows}\n\n"
+        "Returnera ENDAST analysen."
+    )
+    key = f"preview-summary:{board['name']}:{','.join(p['name'] for p in top[:5])}"
+    return llm_generate(prompt, max_tokens=400, cache_key=key)
+
+
 def build_tournament_entry(board: dict) -> dict | None:
     current = current_round(board["statusDetail"])
     state = board["state"]
@@ -722,6 +883,9 @@ def build_tournament_entry(board: dict) -> dict | None:
     if current >= 1:
         for r in range(1, current + 1):
             reports[day_key(r)] = make_daily_report(r, board, is_current=(r == current))
+    elif state == "pre" and _starts_within_days(board.get("startDate"), max_days=7):
+        # Upcoming-event som börjar inom en vecka — generera onsdag-preview
+        reports["onsdag"] = make_preview_report(board)
 
     return {
         "id": slugify(board["name"]),
