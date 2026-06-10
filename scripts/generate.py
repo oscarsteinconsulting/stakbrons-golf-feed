@@ -20,8 +20,48 @@ import sys
 import urllib.request
 from pathlib import Path
 
+import edge_engine  # lokal modul i samma scripts/-mapp
+
 ESPN_BASE = "https://site.api.espn.com/apis/site/v2/sports/golf"
 TIMEOUT = 15
+DATAGOLF_API_KEY = os.environ.get("DATAGOLF_API_KEY", "").strip()
+_DG_RANKINGS_CACHE: dict[str, int] | None = None
+
+
+def get_dg_rankings() -> dict[str, int]:
+    """Hämta DG-rankings en gång per körning och cacha för alla tävlingar."""
+    global _DG_RANKINGS_CACHE
+    if _DG_RANKINGS_CACHE is None:
+        _DG_RANKINGS_CACHE = edge_engine.fetch_dg_rankings(DATAGOLF_API_KEY or None)
+        if _DG_RANKINGS_CACHE:
+            print(f"  📊 DataGolf rankings: {len(_DG_RANKINGS_CACHE)} spelare laddade")
+        elif DATAGOLF_API_KEY:
+            print("  ⚠️  DataGolf nyckel satt men inga rankings returnerade")
+        else:
+            print("  ℹ️  Ingen DATAGOLF_API_KEY — edge-modellen kör utan rank-baseline")
+    return _DG_RANKINGS_CACHE
+
+
+def to_edge_field(players: list[dict]) -> list[dict]:
+    """Mappa ESPN-spelare → edge_engine-format. Hanterar CUT/WD/MC."""
+    out = []
+    for p in players:
+        position = (p.get("position") or "").strip().upper()
+        missed = position in ("CUT", "MC", "WD", "DQ", "DNS")
+        # Score-to-par från ESPN: 999 = saknas, annars integer
+        score: int | None = None
+        try:
+            tv = float(p.get("totalValue", 999))
+            if abs(tv) < 100:
+                score = int(round(tv))
+        except (TypeError, ValueError):
+            score = None
+        out.append({
+            "name": p.get("name") or "?",
+            "score_to_par": score,
+            "missed_cut": missed,
+        })
+    return out
 
 # (endpoint, label) — ESPN-stöd för golf-tour API:n
 TOURS = [
@@ -887,7 +927,31 @@ def build_tournament_entry(board: dict) -> dict | None:
         # Upcoming-event som börjar inom en vecka — generera onsdag-preview
         reports["onsdag"] = make_preview_report(board)
 
-    return {
+    # Edge-modell — bara för aktiva eller nära förestående tävlingar.
+    # LIV Golf har 3-rond, hoppa över tills vi har separat hantering.
+    edge_payload = None
+    is_final = status_label == "final"
+    is_liv = board["tour"].lower().startswith("liv")
+    has_reports = bool(reports)
+    if has_reports and not is_final and not is_liv:
+        # completed_rounds = antal fullt avslutade rondan
+        # current() returnerar "nuvarande pågående eller nästa rond", så avslutade = current - 1
+        # men för final clampar vi (vi exiterar redan ovan)
+        completed = max(0, current - 1)
+        edge_field = to_edge_field(board["players"])
+        try:
+            edge_payload = edge_engine.build_edge_payload(
+                tournament_name=pretty_name(board["name"]),
+                tour=board["tour"],
+                completed_rounds=completed,
+                field=edge_field,
+                rankings=get_dg_rankings(),
+            )
+        except Exception as exc:
+            print(f"  ⚠️  edge_engine fail för {board['name']}: {exc}", file=sys.stderr)
+            edge_payload = None
+
+    entry = {
         "id": slugify(board["name"]),
         "name": pretty_name(board["name"]),
         "rawName": board["name"],
@@ -901,6 +965,9 @@ def build_tournament_entry(board: dict) -> dict | None:
         "currentRound": current,
         "reports": reports,
     }
+    if edge_payload is not None:
+        entry["edge"] = edge_payload
+    return entry
 
 
 def main() -> int:
@@ -932,9 +999,16 @@ def main() -> int:
 
             swedes_count = len(swedish_players(board["players"]))
             sve_tag = f" 🇸🇪 {swedes_count} sv" if swedes_count else ""
+            edge_tag = ""
+            if entry.get("edge"):
+                ep = entry["edge"]
+                edge_tag = (
+                    f" 📈 edge: {ep['fieldSize']} sp × {ep['simulations']} sims, "
+                    f"{ep['remainingRounds']}r kvar"
+                )
             print(
                 f"  ✓ {entry['name']} ({entry['tour']}) — status={entry['status']}, "
-                f"R{entry['currentRound']}, rapporter: {list(entry['reports'].keys())}{sve_tag}"
+                f"R{entry['currentRound']}, rapporter: {list(entry['reports'].keys())}{sve_tag}{edge_tag}"
             )
 
     if history_saved:

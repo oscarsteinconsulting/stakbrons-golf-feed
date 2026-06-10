@@ -27,6 +27,11 @@ jobs:
           # Valfri. Sätt repo-secret ANTHROPIC_API_KEY för LLM-genererade rubriker + reportage.
           # Settings → Secrets and variables → Actions → New repository secret
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Valfri. Sätt repo-secret DATAGOLF_API_KEY för rank-baseline i edge-modellen.
+          # Gratis nyckel från https://datagolf.com/api-access (sign up + Free tier).
+          # Utan nyckel kör edge-modellen ändå, fast med svagare baseline för spelare
+          # som inte har tävlingsdata än.
+          DATAGOLF_API_KEY: ${{ secrets.DATAGOLF_API_KEY }}
         run: python3 scripts/generate.py
 
       - name: Commit & push om något ändrats
