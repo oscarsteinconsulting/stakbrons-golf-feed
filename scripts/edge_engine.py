@@ -30,6 +30,7 @@ Användaren får själv jämföra med riktiga SS-priser i deras app.
 from __future__ import annotations
 
 import json
+import math
 import os
 import random
 import urllib.error
@@ -63,14 +64,40 @@ RANK_TO_MU = [
 ]
 
 
+# μ för spelare som saknas helt i den oberoende rankingen (utanför OWGR topp
+# 600 / DG). Dessa är i praktiken Monday-qualifiers, amatörer och lokala pros —
+# de svagaste i fältet. Vi modellerar dem som tydligt svaga (men inte hopplösa)
+# istället för medel, annars övervärderar modellen dem grovt.
+UNRANKED_MU = 2.30
+
+
 def mu_from_rank(rank: int | None) -> float:
-    """Returnera baseline-μ från world rank."""
+    """Returnera baseline-μ från world rank. None = oberoende-oranked = svag."""
     if rank is None or rank <= 0:
-        return 1.50  # ingen rank → behandla som svagt klassificerad
+        return UNRANKED_MU
     for max_rank, mu in RANK_TO_MU:
         if rank <= max_rank:
             return mu
-    return 2.00
+    return 3.00
+
+
+def mu_from_points(points: float) -> float:
+    """Kontinuerlig μ från OWGR pointsAverage — mycket finkornigare än de 8
+    rank-bucketsen, vilket är avgörande för att differentiera topp-tiern
+    (annars klustras alla favoriter på samma vinst-sannolikhet).
+
+    Kalibrerad logaritmiskt mot OWGR-skalan:
+        pointsAverage 16 (Scheffler-nivå) → μ ≈ -2.2 (elit)
+        pointsAverage 5  (topp 10)        → μ ≈ -1.2
+        pointsAverage 2  (topp 50)        → μ ≈ -0.4
+        pointsAverage 1  (topp 150)       → μ ≈ +0.2
+        pointsAverage 0.5                 → μ ≈ +0.8
+    Formel: μ = 0.2 − 0.86·ln(points), klampad till [-2.5, +2.3].
+    """
+    if points <= 0:
+        return UNRANKED_MU
+    mu = 0.2 - 0.86 * math.log(points)
+    return max(-2.5, min(2.3, mu))
 
 
 # ---------------------------------------------------------------------------
@@ -146,10 +173,22 @@ def implicit_rank_from_kambi(kambi_win_odds: dict[str, float]) -> dict[str, int]
     return {name: i + 1 for i, (name, _) in enumerate(sorted_pairs)}
 
 
+def baseline_mu(normalized: str, rankings: dict[str, int],
+                points: dict[str, float] | None) -> float:
+    """Baseline-μ för en spelare: kontinuerlig OWGR-points om tillgänglig
+    (finkornig), annars rank-bucket, annars oranked=svag."""
+    if points:
+        pts = points.get(normalized)
+        if pts is not None:
+            return mu_from_points(pts)
+    return mu_from_rank(rankings.get(normalized))
+
+
 def estimate_player_mu(
     *,
     name: str,
     rankings: dict[str, int],
+    points: dict[str, float] | None,
     completed_rounds: int,
     score_to_par_so_far: int | None,
 ) -> tuple[float, str]:
@@ -158,29 +197,30 @@ def estimate_player_mu(
     Strategi:
       - Om vi har ≥1 spelad rond denna vecka → score_to_par / completed_rounds
         (rå current form, perfekt signal denna vecka)
-      - Annars använd ranking-baseline (DG-rank eller Kambi-implicit-rank)
+      - Annars baseline från OWGR-points (kontinuerlig) eller rank-bucket
     """
+    normalized = normalize_name(name)
+    mu_baseline = baseline_mu(normalized, rankings, points)
+
     if completed_rounds >= 1 and score_to_par_so_far is not None:
         mu_current = score_to_par_so_far / completed_rounds
-        # Blend mot ranking baseline för spelare med få rondan (regression to mean)
-        normalized = normalize_name(name)
-        rank = rankings.get(normalized)
-        mu_baseline = mu_from_rank(rank)
+        # Blend mot baseline för spelare med få rondan (regression to mean)
         if completed_rounds == 1:
             mu = 0.6 * mu_current + 0.4 * mu_baseline
-            source = f"r1 form blended w/ rank {rank or '?'}"
+            source = "r1 form + baseline"
         elif completed_rounds == 2:
             mu = 0.75 * mu_current + 0.25 * mu_baseline
-            source = f"r1+r2 form blended w/ rank {rank or '?'}"
+            source = "r1+r2 form + baseline"
         else:
             mu = mu_current
-            source = f"{completed_rounds}r form i tävlingen"
+            source = f"{completed_rounds}r form"
         return mu, source
 
-    # Pre-tournament / R1 ej startad → rent ranking-baserat
-    normalized = normalize_name(name)
+    # Pre-tournament / R1 ej startad → rent baseline
     rank = rankings.get(normalized)
-    return mu_from_rank(rank), f"rank {rank or 'unranked'}"
+    has_pts = bool(points and normalized in points)
+    src = "OWGR-points" if has_pts else (f"rank {rank}" if rank else "oranked")
+    return mu_baseline, src
 
 
 # ---------------------------------------------------------------------------
@@ -350,6 +390,7 @@ def build_edge_payload(
     completed_rounds: int,
     field: list[dict[str, Any]],
     rankings: dict[str, int],
+    points: dict[str, float] | None = None,
     kambi_markets: dict[str, dict[str, float]] | None = None,
     n_sims: int = N_SIMULATIONS,
 ) -> dict[str, Any] | None:
@@ -366,20 +407,22 @@ def build_edge_payload(
     if not field:
         return None
 
-    # Slå ihop DG-rankings med Kambi-implicit-rankings.
-    # DG-rank har prioritet (mer noggrann), Kambi fyller i de spelare som
-    # DG inte har täckning för. Det betyder att SS:s eget urval av "vilka
-    # spelare som är värda odds" påverkar vår modells μ — vilket är bra
-    # eftersom SS redan har bakat in form, kondition, course-fit i sin lista.
+    # Välj rank-källa. VIKTIGT: blanda INTE OWGR (skala 1-600, världsranking)
+    # med Kambi-implicit (skala 1-147, position i detta fält) — de ligger på
+    # olika skalor och skulle ge inkonsekvent μ.
+    #
+    # Prioritet:
+    #   1. Oberoende ranking (OWGR/DG) om den finns → bryter cirkulariteten.
+    #      Spelare som SAKNAS i den (utanför topp 600) = oberoende-oranked =
+    #      svag (UNRANKED_MU). Vi använder INTE Kambi-implicit som lapp här.
+    #   2. Annars Kambi-implicit för hela fältet (cirkulär men funkar).
     merged_rankings: dict[str, int] = {}
-    rank_source = "saknas"
-    if kambi_markets and kambi_markets.get("win"):
-        kambi_ranks = implicit_rank_from_kambi(kambi_markets["win"])
-        merged_rankings.update(kambi_ranks)
-        rank_source = f"Kambi-implicit ({len(kambi_ranks)} spelare)"
+    n_independent = 0
     if rankings:
-        merged_rankings.update(rankings)  # DG overrider Kambi när tillgänglig
-        rank_source = f"DG ({len(rankings)} sp) + Kambi-fallback"
+        merged_rankings = dict(rankings)   # ENBART oberoende ranking
+        n_independent = len(rankings)
+    elif kambi_markets and kambi_markets.get("win"):
+        merged_rankings = implicit_rank_from_kambi(kambi_markets["win"])
 
     # Skydd mot meningslös output: utan något att basera μ på
     # blir alla spelares μ identiska (default 1.5) och Monte Carlo blir ren slump.
@@ -397,6 +440,7 @@ def build_edge_payload(
         mu, source = estimate_player_mu(
             name=name,
             rankings=merged_rankings,
+            points=points if n_independent > 0 else None,
             completed_rounds=completed_rounds if not missed_cut else 0,
             score_to_par_so_far=score if not missed_cut else None,
         )
@@ -455,15 +499,23 @@ def build_edge_payload(
     # själv på edge% när det vill visa "bästa edge"-listan.
     picks.sort(key=lambda x: -(x["markets"].get("win", {}).get("prob", 0) or 0))
 
+    # Om vi har oberoende ranking (OWGR/DG) för en meningsfull andel av fältet
+    # är edgen icke-cirkulär. Annars härleds μ ur Kambis egna odds.
+    field_size = len([p for p in players if not p["missed_cut"]])
+    independent = n_independent > 0 and completed_rounds == 0
     payload: dict[str, Any] = {
-        "modelVersion": "0.3.0",  # korrekt marknadsmappning + longshot-filter
+        "modelVersion": "0.4.0",  # OWGR oberoende ranking
         "simulations": n_sims,
         "remainingRounds": remaining,
         "completedRounds": completed_rounds,
         "sigmaPerRound": ROUND_STD_DEV,
         "assumedSSVig": ASSUMED_SS_VIG,
-        "fieldSize": len([p for p in players if not p["missed_cut"]]),
+        "fieldSize": field_size,
         "hasRealOdds": bool(kambi_markets),
+        "independentRanking": independent or completed_rounds >= 1,
+        "rankingSource": (
+            "OWGR/DG" if n_independent > 0 else "Kambi-implicit (cirkulär)"
+        ),
         "picks": picks,
         "topByMarket": _top_picks_by_market(picks, k=8),
     }
@@ -515,19 +567,25 @@ def _top_picks_by_market(picks: list[dict[str, Any]], k: int) -> dict[str, list[
     return out
 
 
-# Lägsta modellsannolikhet för att en edge ska räknas som trovärdig.
-# Under detta domineras "edge%" av modellbrus (longshots där vi inte kan
-# skilja 0.4% från 0.8% men oddsen är enorma). Filtrerar bort dem.
-MIN_CREDIBLE_PROB = 0.04
-
-# Högsta odds vi litar på. Över detta är prissättningen så gles att vår
-# normalfördelnings-approximation inte är meningsfull.
-MAX_CREDIBLE_ODDS = 51.0
+# Trovärdighetsgränser för "Bästa edges"-listan. Syftet är att bara visa
+# picks där modellen faktiskt har signal och edgen är realistisk:
+#
+#   MIN_CREDIBLE_PROB  — under detta domineras edge% av modellbrus (longshots
+#                        där vi inte kan skilja 0.4% från 0.8%).
+#   MAX_CREDIBLE_ODDS  — över detta är prissättningen så gles att vår
+#                        normalfördelnings-approximation inte är meningsfull.
+#   MAX_CREDIBLE_EDGE  — riktiga golf-edges mot en skarp bookmaker (Kambi) är
+#                        2-15%, sällan över 20%. En "edge" över 40% är nästan
+#                        säkert modellfel (vi övervärderar spelaren), inte alfa.
+#                        Vi gömmer dem hellre än lurar användaren att satsa.
+MIN_CREDIBLE_PROB = 0.06
+MAX_CREDIBLE_ODDS = 26.0
+MAX_CREDIBLE_EDGE = 0.40
 
 
 def _is_credible_edge(mk: dict[str, Any]) -> bool:
-    """En edge är trovärdig om modellen har signal: tillräckligt hög
-    sannolikhet OCH inte ett extremt longshot-odds."""
+    """En edge är trovärdig om modellen har signal (hög nog sannolikhet,
+    rimligt odds) OCH edgen är realistisk (inte uppblåst modellbrus)."""
     prob = mk.get("prob") or 0
     odds = mk.get("realSSOdds") or 0
     edge = mk.get("edgePct")
@@ -536,6 +594,8 @@ def _is_credible_edge(mk: dict[str, Any]) -> bool:
     if prob < MIN_CREDIBLE_PROB:
         return False
     if odds > MAX_CREDIBLE_ODDS:
+        return False
+    if edge > MAX_CREDIBLE_EDGE:
         return False
     return True
 

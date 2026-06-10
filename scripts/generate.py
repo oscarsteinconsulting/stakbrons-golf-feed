@@ -20,28 +20,62 @@ import sys
 import urllib.request
 from pathlib import Path
 
-import edge_engine  # lokal modul i samma scripts/-mapp
-import kambi_odds   # lokal modul: SS-odds via Kambis publika CDN
+import edge_engine    # lokal modul i samma scripts/-mapp
+import kambi_odds      # lokal modul: SS-odds via Kambis publika CDN
+import owgr_rankings   # lokal modul: oberoende OWGR-ranking (gratis)
 
 ESPN_BASE = "https://site.api.espn.com/apis/site/v2/sports/golf"
 TIMEOUT = 15
 DATAGOLF_API_KEY = os.environ.get("DATAGOLF_API_KEY", "").strip()
-_DG_RANKINGS_CACHE: dict[str, int] | None = None
+_RANKINGS_CACHE: dict[str, int] | None = None
+_OWGR_POINTS_CACHE: dict[str, float] | None = None
 _KAMBI_MARKETS_CACHE: dict[str, dict] | None = None
 
 
+def get_owgr_points() -> dict[str, float]:
+    """OWGR pointsAverage (kontinuerlig skill) — cachas per körning."""
+    global _OWGR_POINTS_CACHE
+    if _OWGR_POINTS_CACHE is None:
+        _OWGR_POINTS_CACHE = owgr_rankings.fetch_owgr_points()
+    return _OWGR_POINTS_CACHE
+
+
 def get_dg_rankings() -> dict[str, int]:
-    """Hämta DG-rankings en gång per körning och cacha för alla tävlingar."""
-    global _DG_RANKINGS_CACHE
-    if _DG_RANKINGS_CACHE is None:
-        _DG_RANKINGS_CACHE = edge_engine.fetch_dg_rankings(DATAGOLF_API_KEY or None)
-        if _DG_RANKINGS_CACHE:
-            print(f"  📊 DataGolf rankings: {len(_DG_RANKINGS_CACHE)} spelare laddade")
-        elif DATAGOLF_API_KEY:
-            print("  ⚠️  DataGolf nyckel satt men inga rankings returnerade")
-        else:
-            print("  ℹ️  Ingen DATAGOLF_API_KEY — edge-modellen kör utan rank-baseline")
-    return _DG_RANKINGS_CACHE
+    """Hämta oberoende spelarranking en gång per körning.
+
+    Prioritet: DataGolf (om nyckel finns) > OWGR (gratis, oberoende).
+    Båda är oberoende av Svenska Spels odds, vilket bryter cirkulariteten
+    i edge-modellen. DG har prioritet eftersom dess strokes-gained-modell
+    är mer prediktiv; OWGR fyller i de spelare DG saknar (och täcker allt
+    när ingen DG-nyckel finns).
+    """
+    global _RANKINGS_CACHE
+    if _RANKINGS_CACHE is not None:
+        return _RANKINGS_CACHE
+
+    merged: dict[str, int] = {}
+
+    # OWGR först (bas-lager, alltid gratis)
+    owgr = owgr_rankings.fetch_owgr_rankings()
+    if owgr:
+        merged.update(owgr)
+        print(f"  🌍 OWGR-ranking: {len(owgr)} spelare (oberoende av SS-odds)")
+    else:
+        print("  ⚠️  OWGR-ranking ej tillgänglig")
+
+    # DataGolf ovanpå (om nyckel) — överskriver OWGR där den finns
+    dg = edge_engine.fetch_dg_rankings(DATAGOLF_API_KEY or None)
+    if dg:
+        merged.update(dg)
+        print(f"  📊 DataGolf rankings: {len(dg)} spelare (överskriver OWGR)")
+    elif DATAGOLF_API_KEY:
+        print("  ⚠️  DataGolf nyckel satt men inga rankings returnerade")
+
+    if not merged:
+        print("  ℹ️  Ingen oberoende ranking — edge-modellen faller tillbaka på Kambi-implicit")
+
+    _RANKINGS_CACHE = merged
+    return _RANKINGS_CACHE
 
 
 def get_kambi_markets() -> dict[str, dict]:
@@ -1029,6 +1063,7 @@ def build_tournament_entry(board: dict) -> dict | None:
                 completed_rounds=completed,
                 field=edge_field,
                 rankings=get_dg_rankings(),
+                points=get_owgr_points(),
                 kambi_markets=kambi_markets,
             )
         except Exception as exc:
