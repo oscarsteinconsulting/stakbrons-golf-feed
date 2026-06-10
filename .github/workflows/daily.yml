@@ -23,15 +23,19 @@ jobs:
           python-version: '3.12'
 
       - name: Generera reports.json
+        env:
+          # Valfri. Sätt repo-secret ANTHROPIC_API_KEY för LLM-genererade rubriker + reportage.
+          # Settings → Secrets and variables → Actions → New repository secret
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python3 scripts/generate.py
 
       - name: Commit & push om något ändrats
         run: |
           git config user.name  "Stakbrons Feed Bot"
           git config user.email "feed-bot@stakbrons.local"
-          git add data/reports.json
+          git add data/reports.json data/history/
           if git diff --staged --quiet; then
-            echo "Inga ändringar i reports.json — hoppar över push"
+            echo "Inga ändringar — hoppar över push"
           else
             git commit -m "feed: $(date -u +'%Y-%m-%d %H:%M UTC') auto-uppdatering"
             git push

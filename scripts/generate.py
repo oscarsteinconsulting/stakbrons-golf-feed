@@ -13,7 +13,9 @@ Kör lokalt med:  python3 scripts/generate.py
 from __future__ import annotations
 
 import datetime as dt
+import hashlib
 import json
+import os
 import sys
 import urllib.request
 from pathlib import Path
@@ -28,6 +30,12 @@ TOURS = [
     ("eur",  "DP World Tour"),
     ("liv",  "LIV Golf"),
 ]
+
+# Anthropic Claude — anropas valfritt om ANTHROPIC_API_KEY finns
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+USE_LLM = bool(ANTHROPIC_API_KEY)
+LLM_MODEL = os.environ.get("LLM_MODEL", "claude-haiku-4-5")
+LLM_CACHE_DIR = Path("data/.llm-cache")
 
 # ----------------------------------------------------------------------------
 # ESPN helpers
@@ -215,6 +223,156 @@ def headline_text(round_num: int, players: list, is_current: bool, is_final: boo
             gap_text = "ett slag" if n == 1 else f"{n} slag"
             cluster = f" — {next_p['name']} jagar {gap_text} bakom"
     return f"R{round_num} {label}: {leader['name']} leder {leader['totalDisplay']}{cluster}"
+
+
+# ----------------------------------------------------------------------------
+# Svensk-callouts
+# ----------------------------------------------------------------------------
+
+SWEDISH_VARIANTS = {"sweden", "sverige", "swe", "se"}
+
+
+def swedish_players(players: list) -> list:
+    """Returnera spelare med svensk landstilhörighet i topp 60."""
+    out = []
+    for p in players[:60]:
+        cc = (p.get("country") or "").strip().lower()
+        if cc in SWEDISH_VARIANTS:
+            out.append(p)
+    return out
+
+
+def swedish_insight(players: list) -> dict | None:
+    """Bygg en 'Svenskkollen'-insight om minst en svensk är i fältet."""
+    swedes = swedish_players(players)
+    if not swedes:
+        return None
+    rows = []
+    for p in swedes[:6]:
+        pos = p["position"] or "—"
+        cluster = ""
+        if p["totalValue"] <= 0:
+            cluster = "  (i röda siffror)"
+        rows.append(f"{pos}  {p['name']}  {p['totalDisplay']}{cluster}")
+    if any(p["position"].startswith(("1", "2", "3", "4", "5")) and not p["position"].startswith(("10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20")) for p in swedes):
+        prefix = "Stark svensk insats."
+    elif swedes:
+        prefix = f"{len(swedes)} svensk{'a' if len(swedes) > 1 else ''} kvar i fältet."
+    else:
+        prefix = ""
+    return {
+        "icon": "flag.fill",
+        "h": "🇸🇪 Svenskkollen",
+        "b": (prefix + "\n\n" if prefix else "") + "\n".join(rows),
+    }
+
+
+# ----------------------------------------------------------------------------
+# LLM (Anthropic Claude) — valfritt
+# ----------------------------------------------------------------------------
+
+def _llm_cache_path(key: str) -> Path:
+    h = hashlib.sha256(key.encode()).hexdigest()[:16]
+    LLM_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    return LLM_CACHE_DIR / f"{h}.txt"
+
+
+def llm_generate(prompt: str, max_tokens: int = 300, cache_key: str | None = None) -> str | None:
+    """Anropa Anthropic Claude. Returnerar None om ANTHROPIC_API_KEY saknas eller anropet failar."""
+    if not USE_LLM:
+        return None
+    # Enkel disk-cache: samma leaderboard-snapshot ger samma text utan att anropa API:t igen
+    if cache_key:
+        cp = _llm_cache_path(cache_key)
+        if cp.exists():
+            return cp.read_text(encoding="utf-8")
+
+    body = {
+        "model": LLM_MODEL,
+        "max_tokens": max_tokens,
+        "messages": [{"role": "user", "content": prompt}],
+    }
+    req = urllib.request.Request(
+        "https://api.anthropic.com/v1/messages",
+        data=json.dumps(body).encode("utf-8"),
+        headers={
+            "x-api-key": ANTHROPIC_API_KEY,
+            "anthropic-version": "2023-06-01",
+            "content-type": "application/json",
+        },
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = json.load(resp)
+        text = data["content"][0]["text"].strip()
+        if cache_key:
+            _llm_cache_path(cache_key).write_text(text, encoding="utf-8")
+        return text
+    except Exception as e:
+        print(f"  ! LLM-anrop failade: {e}", file=sys.stderr)
+        return None
+
+
+def llm_headline(round_num: int, board: dict, is_final: bool) -> str | None:
+    top = board["players"][:12]
+    if not top:
+        return None
+    leader = top[0]
+    state = "Slutresultat" if is_final else f"R{round_num} live"
+    rows = "\n".join(
+        f"{p['position'] or '—'}  {p['name']}  {p['totalDisplay']}  ({p.get('country') or '?'})"
+        for p in top
+    )
+    swedish = ", ".join(p["name"] for p in swedish_players(board["players"])[:5])
+    prompt = (
+        "Du är en svensk sportreporter som skriver för Stakbrons Golf Odds. "
+        "Skriv en kort, kraftfull rubrik på svenska (max 110 tecken) som fångar "
+        "leaderboard-situationen. Var konkret med namn och slag. Nämn en svensk om "
+        "någon är i topp 10 eller har en intressant position. Undvik klyschor.\n\n"
+        f"Tävling: {board['name']} ({board['tour']})\n"
+        f"Status: {state}\n"
+        f"Ledare: {leader['name']} på {leader['totalDisplay']}\n"
+        f"Svenskar i fält: {swedish or 'inga relevanta'}\n\n"
+        "Topp 12:\n"
+        f"{rows}\n\n"
+        "Returnera ENDAST rubriktexten — inga citationstecken, inga prefix."
+    )
+    key = f"headline:{board['name']}:{round_num}:{is_final}:" + ",".join(
+        f"{p['name']}={p['totalDisplay']}" for p in top
+    )
+    txt = llm_generate(prompt, max_tokens=80, cache_key=key)
+    if txt:
+        txt = txt.strip().strip('"').strip("'").strip()
+    return txt
+
+
+def llm_executive_summary(round_num: int, board: dict, is_final: bool) -> str | None:
+    top = board["players"][:15]
+    if not top:
+        return None
+    rows = "\n".join(
+        f"{p['position'] or '—'}  {p['name']}  {p['totalDisplay']}  ({p.get('country') or '?'})"
+        for p in top
+    )
+    state = "Tävlingen är klar." if is_final else f"R{round_num} pågår."
+    swedish = ", ".join(p["name"] for p in swedish_players(board["players"])[:5])
+    prompt = (
+        "Du är en svensk sportreporter som skriver för Stakbrons Golf Odds. "
+        "Skriv en kort analytisk sammanfattning på svenska (3-4 meningar) av "
+        "leaderboard-situationen. Fokus: vem leder och varför, vilka chasers, "
+        "vad som händer härnäst. Nämn relevant svensk om någon är i topp 20. "
+        "Skriv saklig sportreportertilll — undvik klyschor och floskler.\n\n"
+        f"Tävling: {board['name']} ({board['tour']})\n"
+        f"Status: {state}\n"
+        f"Svenskar i fält: {swedish or 'inga relevanta'}\n\n"
+        "Topp 15:\n"
+        f"{rows}\n\n"
+        "Returnera ENDAST den analytiska texten."
+    )
+    key = f"summary:{board['name']}:{round_num}:{is_final}:" + ",".join(
+        f"{p['name']}={p['totalDisplay']}" for p in top
+    )
+    return llm_generate(prompt, max_tokens=400, cache_key=key)
 
 
 def leaderboard_body(players: list) -> str:
@@ -410,36 +568,136 @@ def make_daily_report(round_num: int, board: dict, is_current: bool) -> dict:
         "Slutresultat" if (is_final and round_num == 4)
         else f"Leaderboard live (R{round_num})"
     )
+
+    # LLM-genererad rubrik om tillgänglig; mekaniskt fallback annars
+    headline = llm_headline(round_num, board, is_final) or headline_text(round_num, players, is_current, is_final=is_final)
+
+    # Bygg insights — exec summary först (LLM eller mekanisk spridning),
+    # leaderboard, svenskkollen (om relevant), metodologi
+    insights = []
+
+    summary = llm_executive_summary(round_num, board, is_final)
+    if summary:
+        insights.append({
+            "icon": "newspaper",
+            "h": "Reportage",
+            "b": summary,
+        })
+
+    insights.append({
+        "icon": "list.number",
+        "h": leaderboard_header,
+        "b": leaderboard_body(players),
+    })
+
+    sve = swedish_insight(players)
+    if sve:
+        insights.append(sve)
+
+    insights.append({
+        "icon": "scope",
+        "h": "Spridning i toppen",
+        "b": spread_body(players),
+    })
+
+    insights.append({
+        "icon": "wave.3.right",
+        "h": "Auto-genererat",
+        "b": (
+            "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid "
+            "från ESPN-leaderboarden via en publik feed på GitHub. "
+            + ("Reportage och rubrik skrivs av Claude. " if USE_LLM else "")
+            + "Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — "
+            "odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+        ),
+    })
+
     return {
         "kind": "daily",
         "locked": False,
         "generatedAt": now_iso,
-        "headline": headline_text(round_num, players, is_current, is_final=is_final),
-        "insights": [
-            {
-                "icon": "list.number",
-                "h": leaderboard_header,
-                "b": leaderboard_body(players),
-            },
-            {
-                "icon": "scope",
-                "h": "Spridning i toppen",
-                "b": spread_body(players),
-            },
-            {
-                "icon": "wave.3.right",
-                "h": "Auto-genererat",
-                "b": (
-                    "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid "
-                    "från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på "
-                    "spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är "
-                    "indikativa och måste verifieras mot Svenska Spel innan spel."
-                ),
-            },
-        ],
+        "headline": headline,
+        "insights": insights,
         "top5": [],
         "bets": make_tips(round_num, players),
     }
+
+
+# ----------------------------------------------------------------------------
+# Historik per tävling
+# ----------------------------------------------------------------------------
+
+def save_history(entry: dict, board: dict) -> Path | None:
+    """När en tävling blir final, spara snapshot till data/history/{year}/{slug}.json.
+    Filen skapas med årstal från startdatum och kompletteras med fullt leaderboard +
+    rubriker per dag. Säkert att köra flera gånger — vi skriver över."""
+    if entry["status"] != "final":
+        return None
+    start = entry.get("startDate") or ""
+    year = start[:4] if start[:4].isdigit() else dt.date.today().strftime("%Y")
+
+    out_dir = Path("data/history") / year
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f"{entry['id']}.json"
+
+    snapshot = {
+        "id": entry["id"],
+        "name": entry["name"],
+        "tour": entry["tour"],
+        "course": entry["course"],
+        "dates": entry.get("dates"),
+        "par": entry.get("par"),
+        "yards": entry.get("yards"),
+        "startDate": entry.get("startDate"),
+        "snapshotAt": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
+        "headlines": {day: r.get("headline") for day, r in entry["reports"].items()},
+        "finalLeaderboard": [
+            {
+                "position": p["position"] or "—",
+                "name": p["name"],
+                "country": p.get("country"),
+                "totalDisplay": p["totalDisplay"],
+                "totalValue": p["totalValue"],
+                "rounds": p.get("rounds", []),
+            }
+            for p in board["players"][:80]
+        ],
+    }
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(snapshot, f, indent=2, ensure_ascii=False)
+    return out_path
+
+
+def update_history_index() -> None:
+    """Indexera alla historiska filer i data/history/index.json för enkel listning."""
+    root = Path("data/history")
+    if not root.exists():
+        return
+    entries = []
+    for year_dir in sorted(root.iterdir()):
+        if not year_dir.is_dir():
+            continue
+        for f in sorted(year_dir.glob("*.json")):
+            try:
+                d = json.loads(f.read_text(encoding="utf-8"))
+                entries.append({
+                    "id": d["id"],
+                    "name": d["name"],
+                    "tour": d.get("tour"),
+                    "dates": d.get("dates"),
+                    "year": year_dir.name,
+                    "path": str(f.relative_to(root.parent)),
+                    "snapshotAt": d.get("snapshotAt"),
+                    "winnerHeadline": (d.get("headlines") or {}).get("sondag"),
+                })
+            except Exception:
+                continue
+    index_path = root / "index.json"
+    with open(index_path, "w", encoding="utf-8") as f:
+        json.dump({
+            "generatedAt": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
+            "entries": entries,
+        }, f, indent=2, ensure_ascii=False)
 
 
 # ----------------------------------------------------------------------------
@@ -487,6 +745,10 @@ def main() -> int:
         "tournaments": [],
     }
 
+    print(f"LLM-stöd: {'AKTIVT (' + LLM_MODEL + ')' if USE_LLM else 'AVSTÄNGT (ingen ANTHROPIC_API_KEY)'}")
+    print(f"Tours: {[t[1] for t in TOURS]}\n")
+
+    history_saved = []
     for tour, label in TOURS:
         events = fetch_all_relevant_events(tour)
         if not events:
@@ -498,10 +760,24 @@ def main() -> int:
             if entry is None:
                 continue
             output["tournaments"].append(entry)
+
+            # Spara historik om tävlingen är klar
+            hist_path = save_history(entry, board)
+            if hist_path:
+                history_saved.append(str(hist_path))
+
+            swedes_count = len(swedish_players(board["players"]))
+            sve_tag = f" 🇸🇪 {swedes_count} sv" if swedes_count else ""
             print(
                 f"  ✓ {entry['name']} ({entry['tour']}) — status={entry['status']}, "
-                f"R{entry['currentRound']}, rapporter: {list(entry['reports'].keys())}"
+                f"R{entry['currentRound']}, rapporter: {list(entry['reports'].keys())}{sve_tag}"
             )
+
+    if history_saved:
+        print(f"\n📚 Sparade historik: {len(history_saved)} st")
+        for p in history_saved:
+            print(f"    {p}")
+    update_history_index()
 
     out_path = Path("data/reports.json")
     out_path.parent.mkdir(parents=True, exist_ok=True)
