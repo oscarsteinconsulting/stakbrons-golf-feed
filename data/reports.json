@@ -1,0 +1,1099 @@
+{
+  "generatedAt": "2026-06-10T07:35:17+00:00",
+  "tournaments": [
+    {
+      "id": "live-rbc-canadian-open",
+      "name": "RBC Canadian Open",
+      "rawName": "RBC Canadian Open",
+      "tour": "PGA Tour",
+      "course": "—",
+      "startDate": "2026-06-11T04:00Z",
+      "par": 71,
+      "yards": 0,
+      "statusDetail": "Thu, June 10th at 12:00 AM EDT",
+      "status": "upcoming",
+      "currentRound": 0,
+      "reports": {}
+    },
+    {
+      "id": "live-memorial-tournament",
+      "name": "Memorial Tournament",
+      "rawName": "the Memorial Tournament pres. by Workday",
+      "tour": "PGA Tour",
+      "course": "—",
+      "startDate": "2026-06-04T04:00Z",
+      "par": 71,
+      "yards": 0,
+      "statusDetail": "Final",
+      "status": "final",
+      "currentRound": 4,
+      "reports": {
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-06-10T07:35:17+00:00",
+          "headline": "R1 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
+          "insights": [
+            {
+              "icon": "list.number",
+              "h": "Leaderboard live (R1)",
+              "b": "—  J.T. Poston  -12\n—  Ryan Gerard  -12\n—  Wyndham Clark  -11\n—  Tommy Fleetwood  -10\n—  Sam Burns  -10\n—  Kristoffer Reitan  -8\n—  Alex Fitzpatrick  -8\n—  Eric Cole  -7\n—  Alex Noren  -6\n—  Si Woo Kim  -5\n\nKälla: ESPN."
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 7 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r1-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "J.T. Poston",
+              "svs": 8.0,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "J.T. Poston leder fältet på -12 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r1-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Wyndham Clark",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Wyndham Clark ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r1-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Ryan Gerard",
+              "svs": 2.2,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Ryan Gerard (-12) sitter i topp-skiktet 0 slag (delar ledningen) bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r1-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Tommy Fleetwood",
+              "svs": 2.8,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Tommy Fleetwood (-10) sitter i topp-skiktet 2 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r1-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Kristoffer Reitan",
+              "svs": 2.6,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Kristoffer Reitan (-8) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
+            },
+            {
+              "id": "auto-r1-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Eric Cole",
+              "svs": 2.8,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Eric Cole (-7) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
+            },
+            {
+              "id": "auto-r1-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Scottie Scheffler",
+              "svs": 2.3,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Scottie Scheffler (-4) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r1-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Justin Thomas",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Justin Thomas (-2) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r1-low",
+              "cat": "🤖 Lägsta runda R2",
+              "sel": "Adam Scott",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Adam Scott (-4) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r1-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "J.T. Poston",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "J.T. Poston är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        },
+        "fredag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-06-10T07:35:17+00:00",
+          "headline": "R2 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
+          "insights": [
+            {
+              "icon": "list.number",
+              "h": "Leaderboard live (R2)",
+              "b": "—  J.T. Poston  -12\n—  Ryan Gerard  -12\n—  Wyndham Clark  -11\n—  Tommy Fleetwood  -10\n—  Sam Burns  -10\n—  Kristoffer Reitan  -8\n—  Alex Fitzpatrick  -8\n—  Eric Cole  -7\n—  Alex Noren  -6\n—  Si Woo Kim  -5\n\nKälla: ESPN."
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 7 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r2-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "J.T. Poston",
+              "svs": 5.0,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "J.T. Poston leder fältet på -12 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r2-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Wyndham Clark",
+              "svs": 7.5,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Wyndham Clark ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r2-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Ryan Gerard",
+              "svs": 2.2,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Ryan Gerard (-12) sitter i topp-skiktet 0 slag (delar ledningen) bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r2-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Tommy Fleetwood",
+              "svs": 2.8,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Tommy Fleetwood (-10) sitter i topp-skiktet 2 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r2-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Kristoffer Reitan",
+              "svs": 2.6,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Kristoffer Reitan (-8) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
+            },
+            {
+              "id": "auto-r2-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Eric Cole",
+              "svs": 2.8,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Eric Cole (-7) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
+            },
+            {
+              "id": "auto-r2-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Scottie Scheffler",
+              "svs": 2.3,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Scottie Scheffler (-4) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r2-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Justin Thomas",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Justin Thomas (-2) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r2-low",
+              "cat": "🤖 Lägsta runda R3",
+              "sel": "Adam Scott",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Adam Scott (-4) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r2-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "J.T. Poston",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "J.T. Poston är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        },
+        "lordag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-06-10T07:35:17+00:00",
+          "headline": "R3 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
+          "insights": [
+            {
+              "icon": "list.number",
+              "h": "Leaderboard live (R3)",
+              "b": "—  J.T. Poston  -12\n—  Ryan Gerard  -12\n—  Wyndham Clark  -11\n—  Tommy Fleetwood  -10\n—  Sam Burns  -10\n—  Kristoffer Reitan  -8\n—  Alex Fitzpatrick  -8\n—  Eric Cole  -7\n—  Alex Noren  -6\n—  Si Woo Kim  -5\n\nKälla: ESPN."
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 7 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r3-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "J.T. Poston",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "J.T. Poston leder fältet på -12 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r3-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Wyndham Clark",
+              "svs": 4.0,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Wyndham Clark ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r3-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Ryan Gerard",
+              "svs": 1.7,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Ryan Gerard (-12) sitter i topp-skiktet 0 slag (delar ledningen) bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r3-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Tommy Fleetwood",
+              "svs": 2.1,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Tommy Fleetwood (-10) sitter i topp-skiktet 2 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r3-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Kristoffer Reitan",
+              "svs": 1.8,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Kristoffer Reitan (-8) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
+            },
+            {
+              "id": "auto-r3-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Eric Cole",
+              "svs": 1.9,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Eric Cole (-7) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
+            },
+            {
+              "id": "auto-r3-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Scottie Scheffler",
+              "svs": 1.6,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Scottie Scheffler (-4) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r3-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Justin Thomas",
+              "svs": 1.7,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Justin Thomas (-2) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r3-low",
+              "cat": "🤖 Lägsta runda R4",
+              "sel": "Adam Scott",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Adam Scott (-4) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r3-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "J.T. Poston",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "J.T. Poston är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        },
+        "sondag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-06-10T07:35:17+00:00",
+          "headline": "R4 live: J.T. Poston leder -12 — flera spelare delar ledningen",
+          "insights": [
+            {
+              "icon": "list.number",
+              "h": "Leaderboard live (R4)",
+              "b": "—  J.T. Poston  -12\n—  Ryan Gerard  -12\n—  Wyndham Clark  -11\n—  Tommy Fleetwood  -10\n—  Sam Burns  -10\n—  Kristoffer Reitan  -8\n—  Alex Fitzpatrick  -8\n—  Eric Cole  -7\n—  Alex Noren  -6\n—  Si Woo Kim  -5\n\nKälla: ESPN."
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 7 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r4-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "J.T. Poston",
+              "svs": 1.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "J.T. Poston leder fältet på -12 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r4-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Wyndham Clark",
+              "svs": 4.0,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Wyndham Clark ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r4-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Ryan Gerard",
+              "svs": 1.7,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Ryan Gerard (-12) sitter i topp-skiktet 0 slag (delar ledningen) bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r4-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Tommy Fleetwood",
+              "svs": 2.1,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Tommy Fleetwood (-10) sitter i topp-skiktet 2 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r4-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Kristoffer Reitan",
+              "svs": 1.8,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Kristoffer Reitan (-8) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
+            },
+            {
+              "id": "auto-r4-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Eric Cole",
+              "svs": 1.9,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Eric Cole (-7) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
+            },
+            {
+              "id": "auto-r4-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Scottie Scheffler",
+              "svs": 1.6,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Scottie Scheffler (-4) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r4-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Justin Thomas",
+              "svs": 1.7,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Justin Thomas (-2) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r4-low",
+              "cat": "🤖 Lägsta runda R5",
+              "sel": "Adam Scott",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Adam Scott (-4) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r4-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "J.T. Poston",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "J.T. Poston är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "live-u-s-open",
+      "name": "U.S. Open",
+      "rawName": "U.S. Open",
+      "tour": "PGA Tour",
+      "course": "—",
+      "startDate": "2026-06-18T04:00Z",
+      "par": 71,
+      "yards": 0,
+      "statusDetail": "Thu, June 17th at 12:00 AM EDT",
+      "status": "upcoming",
+      "currentRound": 0,
+      "reports": {}
+    },
+    {
+      "id": "live-dow-championship",
+      "name": "Dow Championship",
+      "rawName": "Dow Championship",
+      "tour": "LPGA",
+      "course": "—",
+      "startDate": "2026-06-11T04:00Z",
+      "par": 71,
+      "yards": 0,
+      "statusDetail": "Thu, June 10th at 12:00 AM EDT",
+      "status": "upcoming",
+      "currentRound": 0,
+      "reports": {}
+    },
+    {
+      "id": "live-u-s-women-s-open",
+      "name": "U.S. Women's Open",
+      "rawName": "U.S. Women's Open pres. by Ally",
+      "tour": "LPGA",
+      "course": "—",
+      "startDate": "2026-06-04T04:00Z",
+      "par": 71,
+      "yards": 0,
+      "statusDetail": "Final",
+      "status": "final",
+      "currentRound": 4,
+      "reports": {
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-06-10T07:35:17+00:00",
+          "headline": "R1 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
+          "insights": [
+            {
+              "icon": "list.number",
+              "h": "Leaderboard live (R1)",
+              "b": "—  Nelly Korda  -8\n—  Charley Hull  -7\n—  Gaby Lopez  -7\n—  In Gee Chun  -6\n—  Sei Young Kim  -5\n—  Kiara Romero  -3\n—  Nasa Hataoka  -3\n—  Pajaree Anannarukarn  -2\n—  Maja Stark  -2\n—  Maria José Marin  -2\n\nKälla: ESPN."
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 6 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r1-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "Nelly Korda",
+              "svs": 8.0,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Nelly Korda leder fältet på -8 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r1-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Gaby Lopez",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Gaby Lopez ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r1-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Charley Hull",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Charley Hull (-7) sitter i topp-skiktet ett slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r1-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "In Gee Chun",
+              "svs": 2.8,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "In Gee Chun (-6) sitter i topp-skiktet 2 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r1-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Kiara Romero",
+              "svs": 2.8,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Kiara Romero (-3) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
+            },
+            {
+              "id": "auto-r1-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Pajaree Anannarukarn",
+              "svs": 3.0,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Pajaree Anannarukarn (-2) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
+            },
+            {
+              "id": "auto-r1-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Shiho Kuwaki",
+              "svs": 2.2,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Shiho Kuwaki (-1) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r1-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Minji Kang",
+              "svs": 2.4,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Minji Kang (+1) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r1-low",
+              "cat": "🤖 Lägsta runda R2",
+              "sel": "Ruoning Yin",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ruoning Yin (-2) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r1-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "Nelly Korda",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Nelly Korda är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        },
+        "fredag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-06-10T07:35:17+00:00",
+          "headline": "R2 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
+          "insights": [
+            {
+              "icon": "list.number",
+              "h": "Leaderboard live (R2)",
+              "b": "—  Nelly Korda  -8\n—  Charley Hull  -7\n—  Gaby Lopez  -7\n—  In Gee Chun  -6\n—  Sei Young Kim  -5\n—  Kiara Romero  -3\n—  Nasa Hataoka  -3\n—  Pajaree Anannarukarn  -2\n—  Maja Stark  -2\n—  Maria José Marin  -2\n\nKälla: ESPN."
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 6 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r2-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "Nelly Korda",
+              "svs": 5.0,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Nelly Korda leder fältet på -8 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r2-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Gaby Lopez",
+              "svs": 7.5,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Gaby Lopez ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r2-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Charley Hull",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Charley Hull (-7) sitter i topp-skiktet ett slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r2-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "In Gee Chun",
+              "svs": 2.8,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "In Gee Chun (-6) sitter i topp-skiktet 2 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r2-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Kiara Romero",
+              "svs": 2.8,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Kiara Romero (-3) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
+            },
+            {
+              "id": "auto-r2-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Pajaree Anannarukarn",
+              "svs": 3.0,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Pajaree Anannarukarn (-2) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
+            },
+            {
+              "id": "auto-r2-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Shiho Kuwaki",
+              "svs": 2.2,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Shiho Kuwaki (-1) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r2-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Minji Kang",
+              "svs": 2.4,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Minji Kang (+1) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r2-low",
+              "cat": "🤖 Lägsta runda R3",
+              "sel": "Ruoning Yin",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ruoning Yin (-2) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r2-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "Nelly Korda",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Nelly Korda är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        },
+        "lordag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-06-10T07:35:17+00:00",
+          "headline": "R3 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
+          "insights": [
+            {
+              "icon": "list.number",
+              "h": "Leaderboard live (R3)",
+              "b": "—  Nelly Korda  -8\n—  Charley Hull  -7\n—  Gaby Lopez  -7\n—  In Gee Chun  -6\n—  Sei Young Kim  -5\n—  Kiara Romero  -3\n—  Nasa Hataoka  -3\n—  Pajaree Anannarukarn  -2\n—  Maja Stark  -2\n—  Maria José Marin  -2\n\nKälla: ESPN."
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 6 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r3-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "Nelly Korda",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Nelly Korda leder fältet på -8 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r3-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Gaby Lopez",
+              "svs": 4.0,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Gaby Lopez ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r3-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Charley Hull",
+              "svs": 1.9,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Charley Hull (-7) sitter i topp-skiktet ett slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r3-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "In Gee Chun",
+              "svs": 2.1,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "In Gee Chun (-6) sitter i topp-skiktet 2 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r3-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Kiara Romero",
+              "svs": 1.9,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Kiara Romero (-3) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
+            },
+            {
+              "id": "auto-r3-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Pajaree Anannarukarn",
+              "svs": 2.0,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Pajaree Anannarukarn (-2) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
+            },
+            {
+              "id": "auto-r3-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Shiho Kuwaki",
+              "svs": 1.55,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Shiho Kuwaki (-1) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r3-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Minji Kang",
+              "svs": 1.65,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Minji Kang (+1) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r3-low",
+              "cat": "🤖 Lägsta runda R4",
+              "sel": "Ruoning Yin",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ruoning Yin (-2) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r3-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "Nelly Korda",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Nelly Korda är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        },
+        "sondag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-06-10T07:35:17+00:00",
+          "headline": "R4 live: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
+          "insights": [
+            {
+              "icon": "list.number",
+              "h": "Leaderboard live (R4)",
+              "b": "—  Nelly Korda  -8\n—  Charley Hull  -7\n—  Gaby Lopez  -7\n—  In Gee Chun  -6\n—  Sei Young Kim  -5\n—  Kiara Romero  -3\n—  Nasa Hataoka  -3\n—  Pajaree Anannarukarn  -2\n—  Maja Stark  -2\n—  Maria José Marin  -2\n\nKälla: ESPN."
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 6 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r4-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "Nelly Korda",
+              "svs": 1.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Nelly Korda leder fältet på -8 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r4-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Gaby Lopez",
+              "svs": 4.0,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Gaby Lopez ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r4-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Charley Hull",
+              "svs": 1.9,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Charley Hull (-7) sitter i topp-skiktet ett slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r4-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "In Gee Chun",
+              "svs": 2.1,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "In Gee Chun (-6) sitter i topp-skiktet 2 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r4-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Kiara Romero",
+              "svs": 1.9,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Kiara Romero (-3) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
+            },
+            {
+              "id": "auto-r4-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Pajaree Anannarukarn",
+              "svs": 2.0,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Pajaree Anannarukarn (-2) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
+            },
+            {
+              "id": "auto-r4-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Shiho Kuwaki",
+              "svs": 1.55,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Shiho Kuwaki (-1) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r4-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Minji Kang",
+              "svs": 1.65,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Minji Kang (+1) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r4-low",
+              "cat": "🤖 Lägsta runda R5",
+              "sel": "Ruoning Yin",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ruoning Yin (-2) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r4-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "Nelly Korda",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Nelly Korda är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "live-meijer-lpga-classic-for-simply-give",
+      "name": "Meijer LPGA Classic for Simply Give",
+      "rawName": "Meijer LPGA Classic for Simply Give",
+      "tour": "LPGA",
+      "course": "—",
+      "startDate": "2026-06-18T04:00Z",
+      "par": 71,
+      "yards": 0,
+      "statusDetail": "Thu, June 17th at 12:00 AM EDT",
+      "status": "upcoming",
+      "currentRound": 0,
+      "reports": {}
+    }
+  ]
+}
