@@ -302,19 +302,17 @@ def confidence_bucket(prob: float, market: str) -> str:
 def edge_confidence(edge_pct: float) -> str:
     """Kategorisera självsäkerheten i en pick baserat på RIKTIG edge%.
 
-    Detta är mer ärligt än modellprob ensam — en spelare med 30% modellprob
-    men dåliga odds (under fair) är ingen edge oavsett vilken vinstchans
-    modellen tror på.
+    Namnen är skrivna för slutanvändaren — direkta råd, inte tekniska termer.
     """
     if edge_pct >= 0.15:
-        return "Stark edge"
+        return "Spelvärt"
     if edge_pct >= 0.07:
-        return "Lutar edge"
+        return "Bra läge"
     if edge_pct >= 0.03:
-        return "Jämn edge"
+        return "Neutral"
     if edge_pct >= 0:
-        return "Marginal"
-    return "Ingen edge"
+        return "Chansning"
+    return "Övervärderad"
 
 
 def compute_edge(prob: float, real_odds: float | None) -> dict[str, Any] | None:
@@ -458,7 +456,7 @@ def build_edge_payload(
     picks.sort(key=lambda x: -(x["markets"].get("win", {}).get("prob", 0) or 0))
 
     payload: dict[str, Any] = {
-        "modelVersion": "0.2.0",  # bump för Kambi-integration
+        "modelVersion": "0.2.1",  # användarvänliga confidence-namn
         "simulations": n_sims,
         "remainingRounds": remaining,
         "completedRounds": completed_rounds,

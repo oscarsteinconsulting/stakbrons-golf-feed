@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T18:54:28+00:00",
+  "generatedAt": "2026-06-10T19:14:09+00:00",
   "tournaments": [
     {
       "id": "live-rbc-canadian-open",
@@ -17,14 +17,9 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-10T18:54:28+00:00",
-          "headline": "Mitchell söker prispott på kanadensisk hemmaplan – Silverman tvingas försvara hemgården",
+          "generatedAt": "2026-06-10T19:14:10+00:00",
+          "headline": "Inför RBC Canadian Open: fältet samlas på veckans bana",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "RBC Canadian Open lockar ett starkt PGA Tour-fält med flera intressanta namn i spetsen, där amerikanen Keith Mitchell leder seedningen följd av kanadensaren Ben Silverman som ofta presterar väl hemma. Engelsmannen Danny Willett och Justin Rose tillhör de mest rutinerade namn som finns med, medan ungdomarna Dylan Wu och Matti Schmid representerar en ny generation golfare som börjar slå igenom på högsta nivå. Tony Finaus form den senaste tiden och Sam Ryders konsistens är värda att följa när tävlingen går av stapeln."
-            },
             {
               "icon": "flag.fill",
               "h": "Banan & schemat",
@@ -38,7 +33,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -107,7 +102,7 @@
         }
       },
       "edge": {
-        "modelVersion": "0.2.0",
+        "modelVersion": "0.2.1",
         "simulations": 10000,
         "remainingRounds": 4,
         "completedRounds": 0,
@@ -129,7 +124,7 @@
                 "edgePct": -0.7049,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.1652,
@@ -138,7 +133,7 @@
                 "edgePct": -0.0088,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.2786,
@@ -147,7 +142,7 @@
                 "edgePct": -0.0249,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.4445,
@@ -156,7 +151,7 @@
                 "edgePct": -0.0443,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -173,7 +168,7 @@
                 "edgePct": -0.8264,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.1687,
@@ -182,7 +177,7 @@
                 "edgePct": -0.3674,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.28,
@@ -191,7 +186,7 @@
                 "edgePct": -0.23,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.4491,
@@ -200,7 +195,7 @@
                 "edgePct": -0.1737,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -217,7 +212,7 @@
                 "edgePct": -0.6976,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.1638,
@@ -226,7 +221,7 @@
                 "edgePct": 0.0647,
                 "kellyFraction": 0.0029,
                 "recommendedStakePct": 0.29,
-                "confidence": "Jämn edge"
+                "confidence": "Neutral"
               },
               "top10": {
                 "prob": 0.2726,
@@ -235,7 +230,7 @@
                 "edgePct": 0.0904,
                 "kellyFraction": 0.0075,
                 "recommendedStakePct": 0.75,
-                "confidence": "Lutar edge"
+                "confidence": "Bra läge"
               },
               "top20": {
                 "prob": 0.4383,
@@ -244,7 +239,7 @@
                 "edgePct": 0.0432,
                 "kellyFraction": 0.0078,
                 "recommendedStakePct": 0.78,
-                "confidence": "Jämn edge"
+                "confidence": "Neutral"
               }
             }
           },
@@ -261,7 +256,7 @@
                 "edgePct": -0.7198,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.1606,
@@ -270,7 +265,7 @@
                 "edgePct": -0.0364,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.2736,
@@ -279,7 +274,7 @@
                 "edgePct": -0.0424,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.4364,
@@ -288,7 +283,7 @@
                 "edgePct": -0.0617,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -305,7 +300,7 @@
                 "edgePct": -0.7238,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.1591,
@@ -314,7 +309,7 @@
                 "edgePct": -0.0454,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.2718,
@@ -323,7 +318,7 @@
                 "edgePct": -0.0487,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.4345,
@@ -332,7 +327,7 @@
                 "edgePct": -0.0658,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -349,7 +344,7 @@
                 "edgePct": -0.8119,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.1667,
@@ -358,7 +353,7 @@
                 "edgePct": -0.2749,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.2794,
@@ -367,7 +362,7 @@
                 "edgePct": -0.2317,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.4433,
@@ -376,7 +371,7 @@
                 "edgePct": -0.1533,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -393,7 +388,7 @@
                 "edgePct": -0.7315,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.1604,
@@ -402,7 +397,7 @@
                 "edgePct": -0.0376,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.2794,
@@ -411,7 +406,7 @@
                 "edgePct": -0.0221,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.4523,
@@ -420,7 +415,7 @@
                 "edgePct": -0.0276,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -437,7 +432,7 @@
                 "edgePct": -0.7315,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.1569,
@@ -452,7 +447,7 @@
                 "edgePct": 0.011,
                 "kellyFraction": 0.001,
                 "recommendedStakePct": 0.1,
-                "confidence": "Marginal"
+                "confidence": "Chansning"
               },
               "top20": {
                 "prob": 0.4375,
@@ -461,7 +456,7 @@
                 "edgePct": -0.0375,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -478,7 +473,7 @@
                 "edgePct": -0.8642,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.1607,
@@ -487,7 +482,7 @@
                 "edgePct": -0.4777,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.2712,
@@ -496,7 +491,7 @@
                 "edgePct": -0.3545,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.4422,
@@ -505,7 +500,7 @@
                 "edgePct": -0.2615,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -522,7 +517,7 @@
                 "edgePct": -0.7333,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.1579,
@@ -537,7 +532,7 @@
                 "edgePct": 0.1693,
                 "kellyFraction": 0.0126,
                 "recommendedStakePct": 1.26,
-                "confidence": "Stark edge"
+                "confidence": "Spelvärt"
               },
               "top20": {
                 "prob": 0.4373,
@@ -546,7 +541,7 @@
                 "edgePct": 0.0933,
                 "kellyFraction": 0.0155,
                 "recommendedStakePct": 1.55,
-                "confidence": "Lutar edge"
+                "confidence": "Bra läge"
               }
             }
           },
@@ -563,7 +558,7 @@
                 "edgePct": -0.8416,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0903,
@@ -578,7 +573,7 @@
                 "edgePct": -0.2783,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.2997,
@@ -587,7 +582,7 @@
                 "edgePct": -0.2507,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -604,7 +599,7 @@
                 "edgePct": -0.8448,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0865,
@@ -619,7 +614,7 @@
                 "edgePct": -0.2753,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.3018,
@@ -628,7 +623,7 @@
                 "edgePct": -0.2455,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -645,7 +640,7 @@
                 "edgePct": -0.8456,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.094,
@@ -660,7 +655,7 @@
                 "edgePct": -0.2431,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.3062,
@@ -669,7 +664,7 @@
                 "edgePct": -0.2345,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -686,7 +681,7 @@
                 "edgePct": -0.8464,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.092,
@@ -721,7 +716,7 @@
                 "edgePct": -0.8281,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0907,
@@ -736,7 +731,7 @@
                 "edgePct": -0.1175,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.3171,
@@ -745,7 +740,7 @@
                 "edgePct": -0.166,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -762,7 +757,7 @@
                 "edgePct": -0.809,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0855,
@@ -797,7 +792,7 @@
                 "edgePct": -0.791,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0926,
@@ -832,7 +827,7 @@
                 "edgePct": -0.8544,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0895,
@@ -867,7 +862,7 @@
                 "edgePct": -0.82,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0906,
@@ -902,7 +897,7 @@
                 "edgePct": -0.838,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0882,
@@ -917,7 +912,7 @@
                 "edgePct": -0.1575,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.3051,
@@ -926,7 +921,7 @@
                 "edgePct": -0.1976,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -943,7 +938,7 @@
                 "edgePct": -0.8031,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0904,
@@ -978,7 +973,7 @@
                 "edgePct": -0.8754,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0897,
@@ -987,7 +982,7 @@
                 "edgePct": -0.4169,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.1708,
@@ -996,7 +991,7 @@
                 "edgePct": -0.3168,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.3105,
@@ -1005,7 +1000,7 @@
                 "edgePct": -0.261,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -1022,7 +1017,7 @@
                 "edgePct": -0.8768,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0843,
@@ -1031,7 +1026,7 @@
                 "edgePct": -0.452,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.1633,
@@ -1040,7 +1035,7 @@
                 "edgePct": -0.3468,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.3029,
@@ -1049,7 +1044,7 @@
                 "edgePct": -0.2791,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -1066,7 +1061,7 @@
                 "edgePct": -0.8551,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0862,
@@ -1081,7 +1076,7 @@
                 "edgePct": -0.2905,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.2985,
@@ -1090,7 +1085,7 @@
                 "edgePct": -0.2149,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -1107,7 +1102,7 @@
                 "edgePct": -0.8569,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.091,
@@ -1122,7 +1117,7 @@
                 "edgePct": -0.138,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.3087,
@@ -1131,7 +1126,7 @@
                 "edgePct": -0.1881,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               }
             }
           },
@@ -1148,7 +1143,7 @@
                 "edgePct": -0.8708,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0378,
@@ -1183,7 +1178,7 @@
                 "edgePct": -0.892,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0382,
@@ -1218,7 +1213,7 @@
                 "edgePct": -0.9136,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0401,
@@ -1253,7 +1248,7 @@
                 "edgePct": -0.9148,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0404,
@@ -1288,7 +1283,7 @@
                 "edgePct": -0.916,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0406,
@@ -1323,7 +1318,7 @@
                 "edgePct": -0.898,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0354,
@@ -1358,7 +1353,7 @@
                 "edgePct": -0.8995,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0405,
@@ -1393,7 +1388,7 @@
                 "edgePct": -0.9129,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0393,
@@ -1428,7 +1423,7 @@
                 "edgePct": -0.8861,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0402,
@@ -1463,7 +1458,7 @@
                 "edgePct": -0.8995,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0387,
@@ -1498,7 +1493,7 @@
                 "edgePct": -0.9142,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0403,
@@ -1533,7 +1528,7 @@
                 "edgePct": -0.9142,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0417,
@@ -1568,7 +1563,7 @@
                 "edgePct": -0.9307,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0387,
@@ -1603,7 +1598,7 @@
                 "edgePct": -0.9055,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0396,
@@ -1638,7 +1633,7 @@
                 "edgePct": -0.9244,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0365,
@@ -1673,7 +1668,7 @@
                 "edgePct": -0.9055,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0392,
@@ -1708,7 +1703,7 @@
                 "edgePct": -0.8946,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0392,
@@ -1743,7 +1738,7 @@
                 "edgePct": -0.9207,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0374,
@@ -1778,7 +1773,7 @@
                 "edgePct": -0.91,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0366,
@@ -1813,7 +1808,7 @@
                 "edgePct": -0.9292,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0371,
@@ -1848,7 +1843,7 @@
                 "edgePct": -0.9031,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0383,
@@ -1883,7 +1878,7 @@
                 "edgePct": -0.9259,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0363,
@@ -1918,7 +1913,7 @@
                 "edgePct": -0.9272,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0374,
@@ -1953,7 +1948,7 @@
                 "edgePct": -0.9364,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0396,
@@ -1988,7 +1983,7 @@
                 "edgePct": -0.9389,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0359,
@@ -2023,7 +2018,7 @@
                 "edgePct": -0.8062,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0175,
@@ -2058,7 +2053,7 @@
                 "edgePct": -0.9116,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0183,
@@ -2093,7 +2088,7 @@
                 "edgePct": -0.9116,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0173,
@@ -2128,7 +2123,7 @@
                 "edgePct": -0.8912,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0193,
@@ -2163,7 +2158,7 @@
                 "edgePct": -0.9168,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0165,
@@ -2198,7 +2193,7 @@
                 "edgePct": -0.847,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.019,
@@ -2233,7 +2228,7 @@
                 "edgePct": -0.898,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0165,
@@ -2268,7 +2263,7 @@
                 "edgePct": -0.937,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0178,
@@ -2303,7 +2298,7 @@
                 "edgePct": -0.898,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.02,
@@ -2338,7 +2333,7 @@
                 "edgePct": -0.898,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0179,
@@ -2373,7 +2368,7 @@
                 "edgePct": -0.9048,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.018,
@@ -2408,7 +2403,7 @@
                 "edgePct": -0.9272,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.02,
@@ -2443,7 +2438,7 @@
                 "edgePct": -0.8852,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0162,
@@ -2478,7 +2473,7 @@
                 "edgePct": -0.9412,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0167,
@@ -2513,7 +2508,7 @@
                 "edgePct": -0.9412,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.019,
@@ -2548,7 +2543,7 @@
                 "edgePct": -0.9412,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0163,
@@ -2583,7 +2578,7 @@
                 "edgePct": -0.9298,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0152,
@@ -2618,7 +2613,7 @@
                 "edgePct": -0.9433,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0196,
@@ -2653,7 +2648,7 @@
                 "edgePct": -0.8893,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0155,
@@ -2688,7 +2683,7 @@
                 "edgePct": -0.8623,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0169,
@@ -2723,7 +2718,7 @@
                 "edgePct": -0.9324,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0169,
@@ -2758,7 +2753,7 @@
                 "edgePct": -0.8674,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0166,
@@ -2793,7 +2788,7 @@
                 "edgePct": -0.8934,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0177,
@@ -2828,7 +2823,7 @@
                 "edgePct": -0.91,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0173,
@@ -2863,7 +2858,7 @@
                 "edgePct": -0.8975,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0158,
@@ -2898,7 +2893,7 @@
                 "edgePct": -0.9475,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0155,
@@ -2933,7 +2928,7 @@
                 "edgePct": -0.9475,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0159,
@@ -2968,7 +2963,7 @@
                 "edgePct": -0.935,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0159,
@@ -3003,7 +2998,7 @@
                 "edgePct": -0.8776,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.017,
@@ -3038,7 +3033,7 @@
                 "edgePct": -0.9016,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0184,
@@ -3073,7 +3068,7 @@
                 "edgePct": -0.9172,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0166,
@@ -3108,7 +3103,7 @@
                 "edgePct": -0.9208,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0159,
@@ -3143,7 +3138,7 @@
                 "edgePct": -0.9098,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0159,
@@ -3178,7 +3173,7 @@
                 "edgePct": -0.9494,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.016,
@@ -3213,7 +3208,7 @@
                 "edgePct": -0.9286,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0176,
@@ -3248,7 +3243,7 @@
                 "edgePct": -0.948,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0167,
@@ -3283,7 +3278,7 @@
                 "edgePct": -0.898,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0156,
@@ -3318,7 +3313,7 @@
                 "edgePct": -0.918,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0181,
@@ -3353,7 +3348,7 @@
                 "edgePct": -0.898,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.015,
@@ -3388,7 +3383,7 @@
                 "edgePct": -0.9221,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0171,
@@ -3423,7 +3418,7 @@
                 "edgePct": -0.9506,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0153,
@@ -3458,7 +3453,7 @@
                 "edgePct": -0.9082,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0168,
@@ -3493,7 +3488,7 @@
                 "edgePct": -0.9622,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0172,
@@ -3528,7 +3523,7 @@
                 "edgePct": -0.9388,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0162,
@@ -3563,7 +3558,7 @@
                 "edgePct": -0.9133,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0161,
@@ -3598,7 +3593,7 @@
                 "edgePct": -0.9664,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0165,
@@ -3633,7 +3628,7 @@
                 "edgePct": -0.9235,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0167,
@@ -3668,7 +3663,7 @@
                 "edgePct": -0.949,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0169,
@@ -3703,7 +3698,7 @@
                 "edgePct": -0.8788,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0068,
@@ -3738,7 +3733,7 @@
                 "edgePct": -0.799,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0052,
@@ -3773,7 +3768,7 @@
                 "edgePct": -0.8191,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0065,
@@ -3808,7 +3803,7 @@
                 "edgePct": -0.9397,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0044,
@@ -3843,7 +3838,7 @@
                 "edgePct": -0.8191,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0048,
@@ -3878,7 +3873,7 @@
                 "edgePct": -0.9464,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0055,
@@ -3913,7 +3908,7 @@
                 "edgePct": -0.8392,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0055,
@@ -3948,7 +3943,7 @@
                 "edgePct": -0.9192,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0053,
@@ -3983,7 +3978,7 @@
                 "edgePct": -0.9192,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0065,
@@ -4018,7 +4013,7 @@
                 "edgePct": -0.8392,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0057,
@@ -4053,7 +4048,7 @@
                 "edgePct": -0.8392,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0056,
@@ -4088,7 +4083,7 @@
                 "edgePct": -0.9192,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0061,
@@ -4123,7 +4118,7 @@
                 "edgePct": -0.9293,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0058,
@@ -4158,7 +4153,7 @@
                 "edgePct": -0.9531,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0054,
@@ -4193,7 +4188,7 @@
                 "edgePct": -0.9293,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.006,
@@ -4228,7 +4223,7 @@
                 "edgePct": -0.8593,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0055,
@@ -4263,7 +4258,7 @@
                 "edgePct": -0.9293,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0051,
@@ -4298,7 +4293,7 @@
                 "edgePct": -0.8593,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0077,
@@ -4333,7 +4328,7 @@
                 "edgePct": -0.9293,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0062,
@@ -4368,7 +4363,7 @@
                 "edgePct": -0.8593,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0058,
@@ -4403,7 +4398,7 @@
                 "edgePct": -0.9394,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0046,
@@ -4438,7 +4433,7 @@
                 "edgePct": -0.9394,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0054,
@@ -4473,7 +4468,7 @@
                 "edgePct": -0.9394,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0058,
@@ -4508,7 +4503,7 @@
                 "edgePct": -0.9598,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0042,
@@ -4543,7 +4538,7 @@
                 "edgePct": -0.9694,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0073,
@@ -4578,7 +4573,7 @@
                 "edgePct": -0.8794,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0048,
@@ -4613,7 +4608,7 @@
                 "edgePct": -0.9394,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0055,
@@ -4648,7 +4643,7 @@
                 "edgePct": -0.9598,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.006,
@@ -4683,7 +4678,7 @@
                 "edgePct": -0.9394,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0059,
@@ -4718,7 +4713,7 @@
                 "edgePct": -0.8794,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0055,
@@ -4753,7 +4748,7 @@
                 "edgePct": -0.9394,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0057,
@@ -4788,7 +4783,7 @@
                 "edgePct": -0.9665,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.005,
@@ -4823,7 +4818,7 @@
                 "edgePct": -0.9495,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0062,
@@ -4858,7 +4853,7 @@
                 "edgePct": -0.9495,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0054,
@@ -4893,7 +4888,7 @@
                 "edgePct": -0.9495,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0064,
@@ -4928,7 +4923,7 @@
                 "edgePct": -0.9732,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0045,
@@ -4963,7 +4958,7 @@
                 "edgePct": -0.9596,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0048,
@@ -4998,7 +4993,7 @@
                 "edgePct": -0.9196,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.006,
@@ -5033,7 +5028,7 @@
                 "edgePct": -0.9596,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0049,
@@ -5068,7 +5063,7 @@
                 "edgePct": -0.9697,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0051,
@@ -5103,7 +5098,7 @@
                 "edgePct": -0.9697,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0059,
@@ -5138,7 +5133,7 @@
                 "edgePct": -0.9397,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0049,
@@ -5173,7 +5168,7 @@
                 "edgePct": -0.9697,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0052,
@@ -5208,7 +5203,7 @@
                 "edgePct": -0.9866,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0047,
@@ -5243,7 +5238,7 @@
                 "edgePct": -0.9598,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0054,
@@ -5278,7 +5273,7 @@
                 "edgePct": -0.9866,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Ingen edge"
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0051,
@@ -5410,7 +5405,7 @@
               "name": "Alex Noren",
               "prob": 0.0432,
               "fairOdds": 23.15,
-              "confidence": "Ingen edge",
+              "confidence": "Övervärderad",
               "realSSOdds": 7.0,
               "edgePct": -0.6976,
               "kellyFraction": 0.0,
@@ -5420,7 +5415,7 @@
               "name": "Brooks Koepka",
               "prob": 0.0454,
               "fairOdds": 22.03,
-              "confidence": "Ingen edge",
+              "confidence": "Övervärderad",
               "realSSOdds": 6.5,
               "edgePct": -0.7049,
               "kellyFraction": 0.0,
@@ -5430,7 +5425,7 @@
               "name": "Justin Rose",
               "prob": 0.0431,
               "fairOdds": 23.2,
-              "confidence": "Ingen edge",
+              "confidence": "Övervärderad",
               "realSSOdds": 6.5,
               "edgePct": -0.7198,
               "kellyFraction": 0.0,
@@ -5440,7 +5435,7 @@
               "name": "Collin Morikawa",
               "prob": 0.0425,
               "fairOdds": 23.53,
-              "confidence": "Ingen edge",
+              "confidence": "Övervärderad",
               "realSSOdds": 6.5,
               "edgePct": -0.7238,
               "kellyFraction": 0.0,
@@ -5450,7 +5445,7 @@
               "name": "Wyndham Clark",
               "prob": 0.0413,
               "fairOdds": 24.21,
-              "confidence": "Ingen edge",
+              "confidence": "Övervärderad",
               "realSSOdds": 6.5,
               "edgePct": -0.7315,
               "kellyFraction": 0.0,
@@ -5460,7 +5455,7 @@
               "name": "Kristoffer Reitan",
               "prob": 0.0413,
               "fairOdds": 24.21,
-              "confidence": "Ingen edge",
+              "confidence": "Övervärderad",
               "realSSOdds": 6.5,
               "edgePct": -0.7315,
               "kellyFraction": 0.0,
@@ -5470,7 +5465,7 @@
               "name": "Nicolai Højgaard",
               "prob": 0.0381,
               "fairOdds": 26.25,
-              "confidence": "Ingen edge",
+              "confidence": "Övervärderad",
               "realSSOdds": 7.0,
               "edgePct": -0.7333,
               "kellyFraction": 0.0,
@@ -5662,7 +5657,7 @@
             "edgePct": 0.1693,
             "kellyFraction": 0.0126,
             "recommendedStakePct": 1.26,
-            "confidence": "Stark edge"
+            "confidence": "Spelvärt"
           },
           {
             "name": "Nicolai Højgaard",
@@ -5673,7 +5668,7 @@
             "edgePct": 0.0933,
             "kellyFraction": 0.0155,
             "recommendedStakePct": 1.55,
-            "confidence": "Lutar edge"
+            "confidence": "Bra läge"
           },
           {
             "name": "Alex Noren",
@@ -5684,7 +5679,7 @@
             "edgePct": 0.0904,
             "kellyFraction": 0.0075,
             "recommendedStakePct": 0.75,
-            "confidence": "Lutar edge"
+            "confidence": "Bra läge"
           },
           {
             "name": "Alex Noren",
@@ -5695,7 +5690,7 @@
             "edgePct": 0.0647,
             "kellyFraction": 0.0029,
             "recommendedStakePct": 0.29,
-            "confidence": "Jämn edge"
+            "confidence": "Neutral"
           },
           {
             "name": "Alex Noren",
@@ -5706,7 +5701,7 @@
             "edgePct": 0.0432,
             "kellyFraction": 0.0078,
             "recommendedStakePct": 0.78,
-            "confidence": "Jämn edge"
+            "confidence": "Neutral"
           },
           {
             "name": "Kristoffer Reitan",
@@ -5717,7 +5712,7 @@
             "edgePct": 0.011,
             "kellyFraction": 0.001,
             "recommendedStakePct": 0.1,
-            "confidence": "Marginal"
+            "confidence": "Chansning"
           }
         ]
       }
@@ -5738,14 +5733,9 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:54:41+00:00",
-          "headline": "Poston och Gerard delar triumfen – Noren femte svensk på -6",
+          "generatedAt": "2026-06-10T19:14:17+00:00",
+          "headline": "R1 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "J.T. Poston och Ryan Gerard delade segern på -12 efter ett tight slutspel vid Muirfield Village, där båda amerikanska spelarna höll ett starkt slagläge genom slutrundan. Wyndham Clark följde tre slag efter på -11, medan Tommy Fleetwood och Sam Burns rundade toppen på -10 respektive. Alex Noren gjorde en solida insats för svenska delen och slutade nio slag under par på delad nionde plats, medan Ludvig Åberg inte nådde samma form under veckan."
-            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R1)",
@@ -5764,7 +5754,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -5874,14 +5864,9 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:54:44+00:00",
-          "headline": "Poston i playoff-thriller – Noren solid på nionde plats i Ohio",
+          "generatedAt": "2026-06-10T19:14:17+00:00",
+          "headline": "R2 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "J.T. Poston och Ryan Gerard delade segern på tolv under par efter en intensiv finalkamp vid Muirfield Village, medan Wyndham Clark följde på en skiva bakom. Alex Noren gjorde ett solitt slutspurt och slutade delad nionde på sex under par, vilket visar att svensken hittat sin form mot slutet av turneringen. Tommy Fleetwood och Sam Burns såg ut att kunna hota ledningen vid olika tillfällen men kunde inte hålla takten när det räknades som mest. För PGA Tour handlade detta Memorial om att Poston och Gerard visade bättre mental uthållighet än de etablerade namnen, där till exempel Scottie Scheffler endast nådde fyra under par."
-            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R2)",
@@ -5900,7 +5885,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6010,14 +5995,9 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:54:48+00:00",
-          "headline": "Poston och Gerard delar segern på -12 – Noren nio slag bakom i topp tio",
+          "generatedAt": "2026-06-10T19:14:17+00:00",
+          "headline": "R3 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "J.T. Poston och Ryan Gerard delade segern på tolv slag under par efter en spännande avslutning vid Muirfield Village, medan Wyndham Clark knappast missade på elva under par. Alex Noren levererade en solid prestation och slutade nionde på sex under par, vilket visar att svensken hävdade sig väl mot världseliten trots att han inte riktigt hade det som krävdes för en topplacering. De amerikanska spelarna dominerade turneringen påtagligt, och även om etablerade namn som Rory McIlroy och Scottie Scheffler fanns närvarande slutade de långt från sitt bästa i den här utgåvan av Memorial Tournament."
-            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R3)",
@@ -6036,7 +6016,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6146,14 +6126,9 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:54:53+00:00",
-          "headline": "Poston och Gerard delar segern på -12 – Noren nionde på sex slag under par",
+          "generatedAt": "2026-06-10T19:14:17+00:00",
+          "headline": "Slutresultat: J.T. Poston vann på -12 — playoff/oavgjord",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "J.T. Poston och Ryan Gerard delar seger på 12 under par efter en spännande avslutning vid Muirfield Village, där Clark på 11 under låg tätt efter de två ledande amerikanerna. Alex Noren levererade en solider prestation genom att slutföra på delad nionde plats på 6 under par, vilket placerar honom bland de bättre svenska resultaten under säsongen. Ludvig Åberg återfinns inte i topp 15, vilket tyder på en mindre framgångsrik vecka för honom vid denna klassiska golfklubb."
-            },
             {
               "icon": "list.number",
               "h": "Slutresultat",
@@ -6172,7 +6147,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6297,14 +6272,9 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-10T18:54:57+00:00",
-          "headline": "Jag saknar tyvärr den detaljerade fältlistan från ESPN som behövs för att skriva en konkret, kraft­full rubrik med specifika spelare­namn. Kan du dela fältlistan så skriver jag en rubrik omedelbar!",
+          "generatedAt": "2026-06-10T19:14:17+00:00",
+          "headline": "Inför U.S. Open: fältet samlas på veckans bana",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "U.S. Open är återigen här, och utan svenska representation i elitskiktet handlar det om att följa världselitens försök att dressera en av världens svåraste banor. Rory McIlroy, Jon Rahm och Collin Morikawa är några av namnen som kommer att brottas med det klassiska U.S. Open-formatet där precision och mental tålmodlighet väger tyngre än råkraft. Förväntansfullt är också hur den här årets setup slår – USGA:s val av fairwaybeskaffenhet och green-hastighet kan helt definiera vilken typ av golfare som lyfts fram, och det är väl värt att hålla koll på redan under första rundan."
-            },
             {
               "icon": "flag.fill",
               "h": "Banan & schemat",
@@ -6318,7 +6288,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6342,14 +6312,9 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-10T18:55:02+00:00",
-          "headline": "Dow Championship: Patty Tavatanakit jagar sitt andra LPGA-guld",
+          "generatedAt": "2026-06-10T19:14:18+00:00",
+          "headline": "Inför Dow Championship: fältet samlas på veckans bana",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "# Förhandsanalys: Dow Championship (LPGA)\n\nDow Championship står för dörren till LPGA:s slutspel och lockar golfens världselite till en tävling där form ofta väger tyngre än ranking. Utan svenska representanter blir fokus helt på hur elitspelarna hanterar pressurell golf – Patty Tavatanakit och andra toppnamn från säsongen söker sin plats i mästerskapen. Banans specifika utformning blir avgörande för vilka spelarstil som passar, men generellt gäller det att hålla koll på vilka som skapar momentum inför finalspelet."
-            },
             {
               "icon": "flag.fill",
               "h": "Banan & schemat",
@@ -6363,7 +6328,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6387,14 +6352,9 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:55:12+00:00",
-          "headline": "Nelly Kord vann – Maja Stark nionde på -2 i U.S. Women's Open",
+          "generatedAt": "2026-06-10T19:14:18+00:00",
+          "headline": "R1 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Nelly Kord dominerade U.S. Women's Open med en slagklar seger på åtta under par, vilket var tillräckligt för att hålla tillbaka en starkt pressande Charley Hull och Gaby Lopez två slag bakom. Kords konsistenta spel under hela veckan, kombinerat med hennes förmåga att hantera presset på målrakan, gjorde skillnaden mot ett fält med starka utmanare. Svenska Maja Stark levererade en solid prestation och slutade delad nionde på två under par, en stark placering i ett av golfens tuffaste majortävlingar."
-            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R1)",
@@ -6413,7 +6373,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6523,14 +6483,9 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:55:15+00:00",
-          "headline": "Nelly Kordos -8 för U.S. Women's Open – Maja Stark delade nionde på -2",
+          "generatedAt": "2026-06-10T19:14:18+00:00",
+          "headline": "R2 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Nelly Korda dominerade U.S. Women's Open och avslutade på -8, vilket gav henne en övertygande seger före engelskan Charley Hull och mexikanen Gaby Lopez på -7. Kords konstanta spel från tee och på green gjorde att hon aldrig tappade kontrollen under turneringen. Maja Stark representerade Sverige väl med en nionde plats på -2, vilket placerar henne bland turneringens bästa prestationer i elitserien."
-            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R2)",
@@ -6549,7 +6504,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6659,14 +6614,9 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:55:19+00:00",
-          "headline": "Korda återtar U.S. Women's Open – Stark jagar på -2",
+          "generatedAt": "2026-06-10T19:14:18+00:00",
+          "headline": "R3 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Nelly Kord dominerade U.S. Women's Open och vann en stroke före Charley Hull och Gaby Lopez, som båda slutade på -7. Kordes framgång byggde på solid ballstriking och mental stabilitet på den utmanande banan. Maja Stark representerade Sverige väl med en nionde plats på -2, vilket visar att hon håller sig i världseliten trots att den amerikanska meritokratin fortsatt dominerar damgolfen på toppnivå."
-            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R3)",
@@ -6685,7 +6635,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6795,14 +6745,9 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:55:23+00:00",
-          "headline": "Nelly Kord segrar i U.S. Women's Open – Maja Stark delar nionde",
+          "generatedAt": "2026-06-10T19:14:18+00:00",
+          "headline": "Slutresultat: Nelly Korda vann på -8 — vinst med ett slag över Charley Hull",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Nelly Korda kontrollerade U.S. Women's Open från start till mål och vann med ett slag före Charley Hull och Gaby Lopez, som delade andraplats på -7. Kordes femtonde majorseger byggde på solid längdspel och få misstag under hela veckan, medan Hull och Lopez höll sig nära utan att kunna skapa något verkligt tryck på ledaren. Maja Stark steg upp från anonymitet till en stabil niondeplats på -2, vilket indikerar att hennes utveckling inom damgolfen fortsätter. Sveriges andra representant, Meja Örtengren, nådde inte slutresultatet."
-            },
             {
               "icon": "list.number",
               "h": "Slutresultat",
@@ -6821,7 +6766,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6946,14 +6891,9 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-10T18:55:28+00:00",
-          "headline": "Patty Tavatanakit jagar tredje vinsten på LPGA – odds visar kamp om toppen",
+          "generatedAt": "2026-06-10T19:14:18+00:00",
+          "headline": "Inför Meijer LPGA Classic for Simply Give: fältet samlas på veckans bana",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "# Meijer LPGA Classic for Simply Give – Förhandsanalys\n\nMeijer LPGA Classic lockar återigen ett starkt internationellt fält till Michigan, där Patty Tavatanakit och Brooke Henderson utgör två av favoriterna efter starka säsonger. Tävlingen är klassisk Amerikaanse LPGA-golf på ett välskött amerikanskt kursträde, vilket historiskt sett premierar stabilitet framför spektakulära prestationer. Med tanke på att svenska spelare inte är representerade i topplistan är fokus på världselitens prestationsform – särskilt hur amerikanska spelare hanterar hemmaplan samt hur den aktuella säsongens form från europiska namn som spelar regelbundet på LPGA stannar sig. Värt att notera är att Simply Give-delen av turneringen ofta resulterar i kraftiga omväxlingar i sista omgången när presset skiftar mellan ekonomiska drivkrafter och ren golfskicklighet."
-            },
             {
               "icon": "flag.fill",
               "h": "Banan & schemat",
@@ -6967,7 +6907,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6976,9 +6916,9 @@
       }
     },
     {
-      "id": "live-open-d-italia",
-      "name": "Open d'Italia",
-      "rawName": "Open d'Italia",
+      "id": "live-ds-automobiles-83-open-d-italia",
+      "name": "DS Automobiles 83° Open d'Italia",
+      "rawName": "DS Automobiles 83° Open d'Italia",
       "tour": "DP World Tour",
       "course": "—",
       "startDate": "2026-06-25T04:00Z",
@@ -7005,14 +6945,9 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:55:35+00:00",
-          "headline": "Chacarra tog KLM Open – Söderberg delad fjärde på -8",
+          "generatedAt": "2026-06-10T19:14:18+00:00",
+          "headline": "R1 utfall: Eugenio Chacarra leder -11 — Oliver Lindell jagar ett slag bakom",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Eugenio Chacarra tog KLM Open med två slagars marginal framför finländaren Oliver Lindell, som långt före mållinjen inte kunde hålla tempot från spanjoren. Sebastian Söderberg levererade en solid insats och delade sjätteplats på -8, en placering som vittnar om konsekvent golf utan att helt kunna matcha topptrion. Chacarra demonstrerade stabilitet över de fyra rundorna vilket avgjorde på Golfclub St. Andrews Old Course, medan Lindells defensiva spel räckte inte för att minska avståndet i slutskedet."
-            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R1)",
@@ -7031,7 +6966,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -7141,14 +7076,9 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:55:40+00:00",
-          "headline": "Chacarra vinner KLM Open – Söderberg delar fjärde på -8",
+          "generatedAt": "2026-06-10T19:14:18+00:00",
+          "headline": "R2 utfall: Eugenio Chacarra leder -11 — Oliver Lindell jagar ett slag bakom",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Eugenio Chacarra dominerade KLM Open med elva slag under par och säkrade en överlägsen seger framför finländaren Oliver Lindell på tio slag under par. Sebastian Söderberg presterade solidt för Sverige och delade femteplats på åtta slag under par, vilket visar konsistent spel från svensken under turneringen. Strax bakom ledaren fanns ett gäng jaktande spelare på åtta slag under par, men Chacarras marginal mot konkurrenterna visade på en stark och kontrollerad avslutning."
-            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R2)",
@@ -7167,7 +7097,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -7277,14 +7207,9 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:55:44+00:00",
-          "headline": "Chacarra vinner KLM Open – Söderberg delar fjärde plats på -8",
+          "generatedAt": "2026-06-10T19:14:18+00:00",
+          "headline": "R3 utfall: Eugenio Chacarra leder -11 — Oliver Lindell jagar ett slag bakom",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Eugenio Chacarra tog segern på KLM Open med elva slag under par, ett slag före finländaren Oliver Lindell som slutade på tio under. En tätgrupp på tre slag runt åtta under par bestod av Joe Dean, Angel Ayora, Maximilian Steinlechner och Sebastian Söderberg, där Söderberg således levererade det starkaste svenska resultatet. Chacarra behöll kontrollen under finalrundorna och skapade tillräcklig marginal för att hålla den intensiva konkurrensen från Lindell och tätfältet på armslängds avstånd."
-            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R3)",
@@ -7303,7 +7228,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -7413,14 +7338,9 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:55:49+00:00",
-          "headline": "Chacarra vinner KLM Open – Söderberg stark fyra på -8",
+          "generatedAt": "2026-06-10T19:14:18+00:00",
+          "headline": "Slutresultat: Eugenio Chacarra vann på -11 — vinst med ett slag över Oliver Lindell",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Eugenio Chacarra från Spanien vann KLM Open med elva slag under par, ett slag före finländaren Oliver Lindell som slutade på tio under. Sebastian Söderberg var bäste svensk och delade sjätte plats på åtta under par tillsammans med engelske Joe Dean, spanjoren Angel Ayora och österrikaren Maximilian Steinlechner. Söderbergs prestation placerar honom solidt i turneringens mittskikt och visar konsistens i en stark konkurrens på DP World Tour."
-            },
             {
               "icon": "list.number",
               "h": "Slutresultat",
@@ -7439,7 +7359,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -7578,14 +7498,9 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:55:54+00:00",
-          "headline": "Hatton dominerar Andalucía – två slag före Rahm och spanskt överflöd i toppen",
+          "generatedAt": "2026-06-10T19:14:19+00:00",
+          "headline": "R1 utfall: Tyrrell Hatton leder -11 — Jon Rahm jagar 2 slag bakom",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Tyrrell Hatton dominerade Andalucía-turneringen och vann överlägset på elva under par, två slag före Jon Rahm som höll sig konkurrenskraftig på hemmaplan. Rahms andraplats följdes av en tätpressad grupp med Abraham Ancer, Sergio García och flera spelare på mellan fem och två under par, vilket tyder på svåra greenbedingelser under slutrundan. Björn Hellgren lyckades inte ta sig in i topp 15 men var representerad istarteliten för LIV Golf-evenemanget. Hattons överlägsenhet tyder på en konsekvent rond utan större misstag, något som skiljde honom från utmanarna som inte kunde upprätthålla samma fokus under pressade omständigheter."
-            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R1)",
@@ -7604,7 +7519,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -7714,14 +7629,9 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:56:02+00:00",
-          "headline": "Hatton storslog i Andalucía – två slag före Rahm på LIV-serien",
+          "generatedAt": "2026-06-10T19:14:19+00:00",
+          "headline": "R2 utfall: Tyrrell Hatton leder -11 — Jon Rahm jagar 2 slag bakom",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Tyrrell Hatton dominerade LIV Golf Andalucía genom att ta segern två slag före Jon Rahm, som levererade en solid insats på hemmaplan men inte räckte för att skrapa ihop tillräckligt på finaledagen. Hattons två-slagsledning över spanjoren förklaras av konsekvent spel genom hela turneringen, medan mittenfältet präglades av spretig form – flera toppspelare som DeChambeau, Watson och An kunde aldrig få ordentlig fart. Björn Hellgren tangerade inte topplaceringarna utan slutade långt ned på resultatlistan i ett fält där förmåga att hålla grönerna under kontroll blev avgörande."
-            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R2)",
@@ -7740,7 +7650,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -7850,14 +7760,9 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:56:08+00:00",
-          "headline": "Hatton dominerar Andalucía – två slag före Rahm i LIV-seger",
+          "generatedAt": "2026-06-10T19:14:19+00:00",
+          "headline": "R3 utfall: Tyrrell Hatton leder -11 — Jon Rahm jagar 2 slag bakom",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Tyrrell Hatton dominerade LIV Golf Andalucía med två slag före Jon Rahm, och engelsmännen styrka hela veckan gjorde honom till en säker vinnare på hemmaplan. Det spanska laget hade flera spelare högt upp i leaderboarden med Rahm och Sergio García på delad andraplats, men ingen lyckades skapa någon utmaning mot Hattons konsistens. Björn Hellgren fanns inte representerad i topp 15, vilket reflekterar ett tuffare utfall för svensken under denna turneringen."
-            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R3)",
@@ -7876,7 +7781,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -7986,14 +7891,9 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T18:56:12+00:00",
-          "headline": "Hatton dominerar Andalucía – två slag före Rahm på LIV-turneringen",
+          "generatedAt": "2026-06-10T19:14:19+00:00",
+          "headline": "Slutresultat: Tyrrell Hatton vann på -11 — vinst med 2 slag över Jon Rahm",
           "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Tyrrell Hatton dominerade LIV Golf Andalucía med en slagstark avslutning på elva slag under par, vilket gav honom ett övertygande segergrepp före Jon Rahm på nio slag under par. Hemmaåkaren Rahm pressade hårt från andra plats, men Hatton höll distansen genom stabilt spel under hela veckan. Sergio García, David Puig och en trio på fem slag under par – Dustin Johnson, Cameron Smith och Thomas Detry – kompletterade toppen, medan svensken Björn Hellgren inte gjorde sig hemma bland de absoluta toppresultaten denna gång."
-            },
             {
               "icon": "list.number",
               "h": "Slutresultat",
@@ -8012,7 +7912,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
