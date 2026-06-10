@@ -456,7 +456,7 @@ def build_edge_payload(
     picks.sort(key=lambda x: -(x["markets"].get("win", {}).get("prob", 0) or 0))
 
     payload: dict[str, Any] = {
-        "modelVersion": "0.2.1",  # användarvänliga confidence-namn
+        "modelVersion": "0.3.0",  # korrekt marknadsmappning + longshot-filter
         "simulations": n_sims,
         "remainingRounds": remaining,
         "completedRounds": completed_rounds,
@@ -480,13 +480,12 @@ def _top_picks_by_market(picks: list[dict[str, Any]], k: int) -> dict[str, list[
     """
     out: dict[str, list[dict[str, Any]]] = {}
     for market in ("win", "top5", "top10", "top20"):
+        # Sortera per-marknadsvyn på modellsannolikhet (favoriter först).
+        # Edge visas som annotation per rad. Detta håller longshot-brus borta
+        # från flik-vyn — "Bästa edges"-listan (topEdges) är den edge-sorterade.
         def sort_key(p, _m=market):
             mk = p["markets"].get(_m, {})
-            edge = mk.get("edgePct")
-            # Spelare med edge%-data sorteras efter edge, övriga efter prob
-            if edge is not None:
-                return (1, -edge)  # högre edge = bättre
-            return (0, -(mk.get("prob") or 0))
+            return -(mk.get("prob") or 0)
 
         ranked = sorted(picks, key=sort_key)
         # Filtrera till spelare som har minst prob > 0
@@ -516,16 +515,42 @@ def _top_picks_by_market(picks: list[dict[str, Any]], k: int) -> dict[str, list[
     return out
 
 
+# Lägsta modellsannolikhet för att en edge ska räknas som trovärdig.
+# Under detta domineras "edge%" av modellbrus (longshots där vi inte kan
+# skilja 0.4% från 0.8% men oddsen är enorma). Filtrerar bort dem.
+MIN_CREDIBLE_PROB = 0.04
+
+# Högsta odds vi litar på. Över detta är prissättningen så gles att vår
+# normalfördelnings-approximation inte är meningsfull.
+MAX_CREDIBLE_ODDS = 51.0
+
+
+def _is_credible_edge(mk: dict[str, Any]) -> bool:
+    """En edge är trovärdig om modellen har signal: tillräckligt hög
+    sannolikhet OCH inte ett extremt longshot-odds."""
+    prob = mk.get("prob") or 0
+    odds = mk.get("realSSOdds") or 0
+    edge = mk.get("edgePct")
+    if edge is None or edge <= 0:
+        return False
+    if prob < MIN_CREDIBLE_PROB:
+        return False
+    if odds > MAX_CREDIBLE_ODDS:
+        return False
+    return True
+
+
 def _top_edges(picks: list[dict[str, Any]], k: int) -> list[dict[str, Any]]:
-    """Sammanställ alla picks med edge > 0 över alla marknader, sorterade på edge%.
+    """Sammanställ trovärdiga picks med edge > 0 över alla marknader,
+    sorterade på edge%.
 
     Detta är "find me the best bets right now"-listan — bortom marknad.
+    Filtrerar bort longshot-brus (se _is_credible_edge).
     """
     out: list[dict[str, Any]] = []
     for p in picks:
         for market_key, mk in p["markets"].items():
-            edge = mk.get("edgePct")
-            if edge is None or edge <= 0:
+            if not _is_credible_edge(mk):
                 continue
             out.append({
                 "name": p["name"],
@@ -533,7 +558,7 @@ def _top_edges(picks: list[dict[str, Any]], k: int) -> list[dict[str, Any]]:
                 "prob": mk["prob"],
                 "fairOdds": mk.get("fairOdds"),
                 "realSSOdds": mk.get("realSSOdds"),
-                "edgePct": edge,
+                "edgePct": mk["edgePct"],
                 "kellyFraction": mk["kellyFraction"],
                 "recommendedStakePct": mk["recommendedStakePct"],
                 "confidence": mk["confidence"],

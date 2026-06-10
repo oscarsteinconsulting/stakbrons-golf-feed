@@ -42,15 +42,29 @@ KAMBI_QUERY = "channel_id=1&client_id=200&lang=sv_SE&market=SE&useCombined=true&
 TIMEOUT = 15
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) Safari/605.1.15"
 
-# Mapping: Kambi criterion-label → vår market-key.
-# Modellen producerar (win, top5, top10, top20). Vi mappar också cut.
-CRITERION_TO_MARKET = {
-    "Slutplacering":                              "win",
+# VIKTIGT: Kambi använder SAMMA criterion.label ("Slutplacering") för outright
+# vinnare OCH topp 5/10/20/30/40 — de skiljs bara åt via betOffer.description!
+# (Detta var en bugg tidigare: alla mappades till "win" och .update() gjorde
+#  att topp 5-oddsen skrev över vinnar-oddsen.)
+#
+# De fullfälts-markander (147 spelare) ligger under criterion "Slutplacering"
+# med betOfferType "Position". description avgör vilken:
+DESCRIPTION_TO_MARKET = {
+    "Vinnare":  "win",
+    "Topp 5":   "top5",
+    "Topp 10":  "top10",
+    "Topp 20":  "top20",
+}
+
+# Fallback: per-spelare Head-to-Head-marknader (~10-20 favoriter) om fullfälts-
+# marknaderna saknas. Kambi-label.
+H2H_LABEL_TO_MARKET = {
     "Bästa 5 - inklusive delade placeringar":     "top5",
     "Bästa 10 - inklusive delade placeringar":    "top10",
     "Bästa 20 - inklusive delade placeringar":    "top20",
-    "Att klara \"cutten\"":                       "cut",
 }
+
+CUT_LABEL = "Att klara \"cutten\""
 
 
 def _get(url: str) -> dict:
@@ -153,10 +167,17 @@ def _extract_yes_per_player(offer: dict) -> dict[str, float]:
 def extract_markets(offers: list[dict]) -> dict[str, dict[str, float]]:
     """Plocka ut alla intressanta marknader från en event:s betOffers.
 
+    Primärkälla: fullfälts-marknaderna under criterion "Slutplacering",
+    diskriminerade via betOffer.description ("Vinnare"/"Topp 5"/"Topp 10"/
+    "Topp 20"). Dessa prissätter ALLA spelare i fältet (147 för PGA).
+
+    Fallback per marknad: per-spelare Head-to-Head ("Bästa N") om fullfälts-
+    marknaden saknas helt.
+
     Returnerar:
       {
-        "win":   {"aaron rai": 34.0, ...},      # 147 spelare
-        "top5":  {"tommy fleetwood": 3.25, ...}, # ~10 spelare
+        "win":   {"tommy fleetwood": 12.0, "aaron rai": 34.0, ...},  # outright
+        "top5":  {"tommy fleetwood": 3.5, ...},
         "top10": {...}, "top20": {...}, "cut": {...}
       }
     """
@@ -164,21 +185,40 @@ def extract_markets(offers: list[dict]) -> dict[str, dict[str, float]]:
         "win": {}, "top5": {}, "top10": {}, "top20": {}, "cut": {}
     }
 
+    # Pass 1: fullfälts-marknader via description
+    for bo in offers:
+        if bo.get("closed") is True:
+            continue
+        crit = bo.get("criterion") or {}
+        if crit.get("label") != "Slutplacering":
+            continue
+        description = (bo.get("description") or "").strip()
+        market = DESCRIPTION_TO_MARKET.get(description)
+        if not market:
+            continue  # Topp 30/40 etc — vi modellerar dem inte
+        # Fullfälts-marknad → outright-style extraction (alla spelare)
+        odds_map = _extract_outright(bo)
+        if odds_map:
+            markets[market] = odds_map  # ersätt, inte merge — varje desc är unik
+
+    # Pass 2: H2H-fallback för topp-marknader som saknar fullfälts-data
     for bo in offers:
         if bo.get("closed") is True:
             continue
         label = (bo.get("criterion") or {}).get("label")
-        market = CRITERION_TO_MARKET.get(label)
-        if not market:
-            continue
-
-        if market == "win":
-            # Slutplacering = full lista. Vi kan möta dubletter (6 st) —
-            # de har samma vinnar-odds, så merge är OK (sista vinner).
-            markets["win"].update(_extract_outright(bo))
-        else:
-            # Bästa N + cut: 1 spelare per betOffer
+        market = H2H_LABEL_TO_MARKET.get(label)
+        if market and not markets[market]:
+            # bara om fullfälts-marknaden saknades
             markets[market].update(_extract_yes_per_player(bo))
+
+    # Pass 3: cut-marknad (Head-to-Head Ja/Nej per spelare)
+    for bo in offers:
+        if bo.get("closed") is True:
+            continue
+        label = (bo.get("criterion") or {}).get("label")
+        if label == CUT_LABEL:
+            markets["cut"].update(_extract_yes_per_player(bo))
+
     return markets
 
 
