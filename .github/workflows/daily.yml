@@ -36,12 +36,35 @@ jobs:
 
       - name: Commit & push om något ändrats
         run: |
+          set -e
           git config user.name  "Stakbrons Feed Bot"
           git config user.email "feed-bot@stakbrons.local"
-          git add data/reports.json data/history/
-          if git diff --staged --quiet; then
-            echo "Inga ändringar — hoppar över push"
-          else
+
+          # Retry-loop: hanterar concurrent push-konflikter. När remote har
+          # ändrats sedan vi checked out (t.ex. manuell push), syncar vi
+          # mot färsk remote, regenererar feeden mot senaste data, och
+          # försöker igen. Detta är säkert eftersom feeden alltid är ren
+          # output från ESPN + Kambi — inga lokala ändringar att förlora.
+          for attempt in 1 2 3; do
+            git add data/reports.json data/history/
+            if git diff --staged --quiet; then
+              echo "Inga ändringar — hoppar över push"
+              exit 0
+            fi
             git commit -m "feed: $(date -u +'%Y-%m-%d %H:%M UTC') auto-uppdatering"
-            git push
-          fi
+
+            if git push; then
+              echo "Push lyckades på försök $attempt"
+              exit 0
+            fi
+
+            echo "::warning::Push rejected, syncar mot remote (försök $attempt/3)"
+            git reset --soft HEAD~1            # behåll filerna i index
+            git reset                           # rensa index
+            git fetch origin
+            git reset --hard origin/main        # rensa lokala ändringar
+            python3 scripts/generate.py         # regenerera mot färsk remote
+          done
+
+          echo "::error::Push misslyckades efter 3 försök"
+          exit 1
