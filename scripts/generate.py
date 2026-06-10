@@ -807,7 +807,7 @@ def _starts_within_days(start_iso: str | None, max_days: int = 7) -> bool:
     return -1 <= delta <= max_days   # tillåt redan-startat (delta=-1) också
 
 
-def make_preview_report(board: dict) -> dict:
+def make_preview_report(board: dict, kambi_win_odds: dict[str, float] | None = None) -> dict:
     """Onsdag-preview för upcoming tournament.
 
     LLM-version: full analys-text. Fallback: mall-baserad med fält-overview,
@@ -881,28 +881,58 @@ def make_preview_report(board: dict) -> dict:
         "headline": headline,
         "insights": insights,
         "top5": [],
-        "bets": make_preview_bets(players),
+        "bets": make_preview_bets(players, kambi_win_odds=kambi_win_odds),
     }
 
 
-def make_preview_bets(players: list) -> list:
-    """5-10 outright-tips baserat på fältordningen ESPN ger.
-    Utan rankings är detta en grov approximation — labelas tydligt."""
+def make_preview_bets(players: list, kambi_win_odds: dict[str, float] | None = None) -> list:
+    """Outright-tips för pre-tournament-rapporten.
+
+    Om vi har Kambi-odds: sortera fältet efter SS:s vinnar-odds (lägst först)
+    och plocka topp 6 favoriter — DESSA finns garanterat på SS och är de
+    spelare användaren vill se. Confidence-stjärnor baseras på odds-spread.
+
+    Utan Kambi-odds: faller tillbaka på ESPN:s default-ordering, vilket
+    ofta är alfabetiskt och inte ger meningsfulla tips pre-tournament.
+    """
+    # Försök matcha spelare → Kambi-odds. Behåll bara spelare som SS prissatt.
+    if kambi_win_odds:
+        with_odds: list[tuple[float, dict]] = []
+        for p in players:
+            normalized = edge_engine.normalize_name(p["name"])
+            if normalized in kambi_win_odds:
+                with_odds.append((kambi_win_odds[normalized], p))
+        with_odds.sort(key=lambda x: x[0])  # lägst odds = störst favorit
+        ranked = [(odds, p) for odds, p in with_odds[:8]]
+    else:
+        ranked = [(round(8 + i * 3.5, 1), p) for i, p in enumerate(players[:6])]
+
     tips = []
-    for i, p in enumerate(players[:6]):
-        odds = round(8 + i * 3.5, 1)
+    for i, (odds, p) in enumerate(ranked):
+        # Confidence baseras på odds-rank: topp 2 = 3 stjärnor, 3-5 = 2★, övriga = 1★
+        if i < 2:
+            conf, units = 3, 1.0
+        elif i < 5:
+            conf, units = 2, 0.7
+        else:
+            conf, units = 2, 0.5
+        rat = (
+            f"{p['name']} är en av SS:s top-{i+1} favoriter pre-tournament "
+            f"(odds {odds:.2f}). Verifiera formen och kolla riktiga oddset på "
+            "Svenska Spel innan spel."
+            if kambi_win_odds else
+            f"{p['name']} står med i fältet. Indikativt pris baserat på fält-position; "
+            "verifiera linjen och formen hos Svenska Spel innan spel."
+        )
         tips.append({
             "id": f"auto-preview-w{i+1}",
             "cat": "🤖 Outright (förhand)",
             "sel": p["name"],
-            "svs": odds,
+            "svs": float(odds),
             "mkt": 0,
-            "units": 1.0 if i < 2 else 0.5,
-            "conf": 3 if i < 2 else 2,
-            "rat": (
-                f"{p['name']} står med i fältet. Indikativt pris baserat på fält-position; "
-                "verifiera linjen och formen hos Svenska Spel innan spel."
-            ),
+            "units": units,
+            "conf": conf,
+            "rat": rat,
         })
     return tips
 
@@ -964,8 +994,18 @@ def build_tournament_entry(board: dict) -> dict | None:
         for r in range(1, current + 1):
             reports[day_key(r)] = make_daily_report(r, board, is_current=(r == current))
     elif state == "pre" and _starts_within_days(board.get("startDate"), max_days=7):
-        # Upcoming-event som börjar inom en vecka — generera onsdag-preview
-        reports["onsdag"] = make_preview_report(board)
+        # Upcoming-event som börjar inom en vecka — generera onsdag-preview.
+        # Använd Kambi-odds (om vi har dem) för att sortera spelare efter SS:s
+        # vinnar-pris istället för ESPN:s alfabetiska default.
+        preview_kambi = None
+        is_liv_event = board["tour"].lower().startswith("liv")
+        if not is_liv_event:
+            preview_kambi_markets = kambi_markets_for_tournament(
+                pretty_name(board["name"]), board["name"]
+            )
+            if preview_kambi_markets:
+                preview_kambi = preview_kambi_markets.get("win")
+        reports["onsdag"] = make_preview_report(board, kambi_win_odds=preview_kambi)
 
     # Edge-modell — bara för aktiva eller nära förestående tävlingar.
     # LIV Golf har 3-rond, hoppa över tills vi har separat hantering.
