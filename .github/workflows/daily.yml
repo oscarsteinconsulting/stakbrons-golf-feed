@@ -2,9 +2,16 @@ name: Generate Stakbrons Golf Feed
 
 on:
   schedule:
-    # 06:00 UTC = 08:00 svensk sommartid, 07:00 vintertid
-    # Vill du fyra fler gånger per dag? Lägg till fler cron-rader.
-    - cron: '0 6 * * *'
+    # Flera körningar per dag så feeden hålls färsk MEDAN rundorna spelas.
+    # Tidigare kördes bara 06:00 UTC → en runda som teear av på eftermiddagen
+    # syntes inte i feeden förrän nästa morgon. Nu täcker vi hela spelfönstret
+    # för både europeiska (förmiddag-eftermiddag svensk tid) och nordamerikanska
+    # (eftermiddag-kväll svensk tid) rundor.
+    - cron: '0 6 * * *'    # 08:00 svensk — morgon: previews + gårdagens slutresultat
+    - cron: '0 12 * * *'   # 14:00 svensk — europeiska rundor igång
+    - cron: '0 15 * * *'   # 17:00 svensk — NA-rundor igång, europeiska klara
+    - cron: '0 18 * * *'   # 20:00 svensk — NA mitt i, europeiska slut
+    - cron: '0 21 * * *'   # 23:00 svensk — NA-rundor klara
   workflow_dispatch: {}   # manuell trigger från GitHub UI
 
 permissions:
