@@ -242,6 +242,10 @@ def round_from_date(start_iso: str | None, now: dt.datetime | None = None) -> in
         return 0
     now = now or dt.datetime.now(dt.timezone.utc)
     days = (now.date() - start.date()).days
+    # Dagen FÖRE start (onsdag för torsdagsstart) → visa redan torsdagsrapporten
+    # (alla pre-round-predictions görs innan rundan, så de finns klara -24h).
+    if days == -1:
+        return 1
     if 0 <= days <= 3:
         return days + 1
     return 0
@@ -1133,6 +1137,10 @@ def build_tournament_entry(board: dict) -> dict | None:
         if _km:
             kambi_win = _km.get("win")
 
+    # Rapporter genereras från dagen FÖRE start (onsdag) t.o.m. söndag.
+    # Onsdagsfliken är borttagen — torsdagsrapporten (R1, alla pre-round-
+    # predictions) görs synlig redan på onsdagen via round_from_date(-1).
+    # Fredag/lördag/söndag tillkommer på sin egen dag (08:00) i vanlig ordning.
     reports = {}
     if current >= 1:
         for r in range(1, current + 1):
@@ -1140,19 +1148,6 @@ def build_tournament_entry(board: dict) -> dict | None:
                 r, board, is_current=(r == current),
                 round_started=round_started, kambi_win_odds=kambi_win,
             )
-    elif state == "pre" and _starts_within_days(board.get("startDate"), max_days=7):
-        # Upcoming-event som börjar inom en vecka — generera onsdag-preview.
-        # Använd Kambi-odds (om vi har dem) för att sortera spelare efter SS:s
-        # vinnar-pris istället för ESPN:s alfabetiska default.
-        preview_kambi = None
-        is_liv_event = board["tour"].lower().startswith("liv")
-        if not is_liv_event:
-            preview_kambi_markets = kambi_markets_for_tournament(
-                pretty_name(board["name"]), board["name"]
-            )
-            if preview_kambi_markets:
-                preview_kambi = preview_kambi_markets.get("win")
-        reports["onsdag"] = make_preview_report(board, kambi_win_odds=preview_kambi)
 
     # Edge-modell — bara för aktiva eller nära förestående tävlingar.
     # LIV Golf har 3-rond, hoppa över tills vi har separat hantering.
