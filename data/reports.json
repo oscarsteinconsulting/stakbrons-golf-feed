@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T21:46:53+00:00",
+  "generatedAt": "2026-06-11T06:30:38+00:00",
   "tournaments": [
     {
       "id": "live-rbc-canadian-open",
@@ -12,28 +12,28 @@
       "yards": 0,
       "statusDetail": "Thu, June 10th at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
-        "onsdag": {
-          "kind": "preview",
+        "torsdag": {
+          "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:46:58+00:00",
-          "headline": "Inför RBC Canadian Open: fältet samlas på veckans bana",
+          "generatedAt": "2026-06-11T06:30:43+00:00",
+          "headline": "Inför torsdag (R1): Tommy Fleetwood, Matt Fitzpatrick, Sam Burns toppar oddsen — lägg spelen innan utslag",
           "insights": [
             {
-              "icon": "flag.fill",
-              "h": "Banan & schemat",
-              "b": "Bana: —\nStarttid runda 1: Thursday 11 June 2026"
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
             },
             {
-              "icon": "person.3.fill",
-              "h": "Fältöversikt",
-              "b": "147 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "12.00  Tommy Fleetwood\n15.00  Matt Fitzpatrick\n15.00  Sam Burns\n19.00  Wyndham Clark\n23.00  Collin Morikawa\n26.00  Kristoffer Reitan"
             },
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
             }
           ],
           "top5": [],
@@ -72,11 +72,11 @@
               "id": "auto-preview-w4",
               "cat": "🤖 Outright (förhand)",
               "sel": "Wyndham Clark",
-              "svs": 21.0,
+              "svs": 19.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Wyndham Clark är en av SS:s top-4 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Wyndham Clark är en av SS:s top-4 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w5",
@@ -101,22 +101,22 @@
             {
               "id": "auto-preview-w7",
               "cat": "🤖 Outright (förhand)",
+              "sel": "Nicolai Højgaard",
+              "svs": 26.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Nicolai Højgaard är en av SS:s top-7 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
               "sel": "Justin Rose",
               "svs": 29.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Justin Rose är en av SS:s top-7 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w8",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Robert MacIntyre",
-              "svs": 29.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Robert MacIntyre är en av SS:s top-8 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Justin Rose är en av SS:s top-8 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             }
           ]
         }
@@ -626,8 +626,8 @@
               "win": {
                 "prob": 0.0222,
                 "fairOdds": 45.05,
-                "realSSOdds": 21.0,
-                "edgePct": -0.5338,
+                "realSSOdds": 19.0,
+                "edgePct": -0.5782,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -635,8 +635,8 @@
               "top5": {
                 "prob": 0.1065,
                 "fairOdds": 9.39,
-                "realSSOdds": 6.5,
-                "edgePct": -0.3077,
+                "realSSOdds": 6.0,
+                "edgePct": -0.361,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -644,8 +644,8 @@
               "top10": {
                 "prob": 0.1934,
                 "fairOdds": 5.17,
-                "realSSOdds": 3.75,
-                "edgePct": -0.2748,
+                "realSSOdds": 3.6,
+                "edgePct": -0.3038,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -653,8 +653,8 @@
               "top20": {
                 "prob": 0.3501,
                 "fairOdds": 2.86,
-                "realSSOdds": 2.25,
-                "edgePct": -0.2123,
+                "realSSOdds": 2.2,
+                "edgePct": -0.2298,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -6222,7 +6222,7 @@
               "win": {
                 "prob": 0.0,
                 "fairOdds": null,
-                "realSSOdds": 29.0,
+                "realSSOdds": 26.0,
                 "edgePct": -1.0,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
@@ -6231,8 +6231,8 @@
               "top5": {
                 "prob": 0.0008,
                 "fairOdds": 1250.0,
-                "realSSOdds": 7.0,
-                "edgePct": -0.9944,
+                "realSSOdds": 6.5,
+                "edgePct": -0.9948,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -6240,8 +6240,8 @@
               "top10": {
                 "prob": 0.0015,
                 "fairOdds": 666.67,
-                "realSSOdds": 4.35,
-                "edgePct": -0.9935,
+                "realSSOdds": 4.0,
+                "edgePct": -0.994,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -7026,7 +7026,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:47+00:00",
           "headline": "R1 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
           "insights": [
             {
@@ -7157,7 +7157,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:47+00:00",
           "headline": "R2 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
           "insights": [
             {
@@ -7288,7 +7288,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:47+00:00",
           "headline": "R3 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
           "insights": [
             {
@@ -7419,7 +7419,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:47+00:00",
           "headline": "Slutresultat: J.T. Poston vann på -12 — playoff/oavgjord",
           "insights": [
             {
@@ -7565,7 +7565,7 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:47+00:00",
           "headline": "Inför U.S. Open: fältet samlas på veckans bana",
           "insights": [
             {
@@ -7590,6 +7590,20 @@
       }
     },
     {
+      "id": "live-travelers-championship",
+      "name": "Travelers Championship",
+      "rawName": "Travelers Championship",
+      "tour": "PGA Tour",
+      "course": "—",
+      "startDate": "2026-06-25T04:00Z",
+      "par": 71,
+      "yards": 0,
+      "statusDetail": "Thu, June 24th at 12:00 AM EDT",
+      "status": "upcoming",
+      "currentRound": 0,
+      "reports": {}
+    },
+    {
       "id": "live-dow-championship",
       "name": "Dow Championship",
       "rawName": "Dow Championship",
@@ -7600,28 +7614,28 @@
       "yards": 0,
       "statusDetail": "Thu, June 10th at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
-        "onsdag": {
-          "kind": "preview",
+        "torsdag": {
+          "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
-          "headline": "Inför Dow Championship: fältet samlas på veckans bana",
+          "generatedAt": "2026-06-11T06:30:48+00:00",
+          "headline": "Inför torsdag (R1): Hyo Joo Kimhyejin Choi, Somi Leejin Hee Im, Nelly Kordaolivia Cowan toppar oddsen — lägg spelen innan utslag",
           "insights": [
             {
-              "icon": "flag.fill",
-              "h": "Banan & schemat",
-              "b": "Bana: —\nStarttid runda 1: Thursday 11 June 2026"
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
             },
             {
-              "icon": "person.3.fill",
-              "h": "Fältöversikt",
-              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "6.00  Hyo Joo Kimhyejin Choi\n8.00  Somi Leejin Hee Im\n8.50  Nelly Kordaolivia Cowan\n11.00  A Lim Kimina Yoon\n11.00  Nasa Hataokajin Young Ko\n15.00  Aki Iwaichizzy Iwai"
             },
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
             }
           ],
           "top5": [],
@@ -7645,7 +7659,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:48+00:00",
           "headline": "R1 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
           "insights": [
             {
@@ -7776,7 +7790,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:48+00:00",
           "headline": "R2 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
           "insights": [
             {
@@ -7907,7 +7921,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:48+00:00",
           "headline": "R3 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
           "insights": [
             {
@@ -8038,7 +8052,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:48+00:00",
           "headline": "Slutresultat: Nelly Korda vann på -8 — vinst med ett slag över Charley Hull",
           "insights": [
             {
@@ -8184,7 +8198,7 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:48+00:00",
           "headline": "Inför Meijer LPGA Classic for Simply Give: fältet samlas på veckans bana",
           "insights": [
             {
@@ -8207,6 +8221,20 @@
           "bets": []
         }
       }
+    },
+    {
+      "id": "live-kpmg-women-s-pga-championship",
+      "name": "KPMG Women's PGA Championship",
+      "rawName": "KPMG Women's PGA Championship",
+      "tour": "LPGA",
+      "course": "—",
+      "startDate": "2026-06-25T04:00Z",
+      "par": 71,
+      "yards": 0,
+      "statusDetail": "Thu, June 24th at 12:00 AM EDT",
+      "status": "upcoming",
+      "currentRound": 0,
+      "reports": {}
     },
     {
       "id": "live-ds-automobiles-83-open-d-italia",
@@ -8238,7 +8266,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:48+00:00",
           "headline": "R1 utfall: Eugenio Chacarra leder -11 — Oliver Lindell jagar ett slag bakom",
           "insights": [
             {
@@ -8369,7 +8397,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:48+00:00",
           "headline": "R2 utfall: Eugenio Chacarra leder -11 — Oliver Lindell jagar ett slag bakom",
           "insights": [
             {
@@ -8500,7 +8528,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:48+00:00",
           "headline": "R3 utfall: Eugenio Chacarra leder -11 — Oliver Lindell jagar ett slag bakom",
           "insights": [
             {
@@ -8631,7 +8659,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:48+00:00",
           "headline": "Slutresultat: Eugenio Chacarra vann på -11 — vinst med ett slag över Oliver Lindell",
           "insights": [
             {
@@ -8791,7 +8819,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:49+00:00",
           "headline": "R1 utfall: Tyrrell Hatton leder -11 — Jon Rahm jagar 2 slag bakom",
           "insights": [
             {
@@ -8922,7 +8950,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:49+00:00",
           "headline": "R2 utfall: Tyrrell Hatton leder -11 — Jon Rahm jagar 2 slag bakom",
           "insights": [
             {
@@ -9053,7 +9081,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:49+00:00",
           "headline": "R3 utfall: Tyrrell Hatton leder -11 — Jon Rahm jagar 2 slag bakom",
           "insights": [
             {
@@ -9184,7 +9212,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-10T21:47:04+00:00",
+          "generatedAt": "2026-06-11T06:30:49+00:00",
           "headline": "Slutresultat: Tyrrell Hatton vann på -11 — vinst med 2 slag över Jon Rahm",
           "insights": [
             {

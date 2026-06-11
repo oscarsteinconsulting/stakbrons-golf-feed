@@ -224,6 +224,29 @@ def day_key(round_num: int) -> str:
     return ["torsdag", "fredag", "lordag", "sondag"][max(0, round_num - 1)]
 
 
+def round_from_date(start_iso: str | None, now: dt.datetime | None = None) -> int:
+    """Räkna ut rond baserat på DATUM istället för ESPN-status.
+
+    R1 = startdagen, R2 = dagen efter, osv. 0 om vi är före start eller mer
+    än 3 dagar efter (utanför tävlingsfönstret).
+
+    Används som GOLV så att rondens rapport finns redan på morgonen INNAN
+    ESPN flippat till 'in progress' — nordamerikanska rundor teear av på
+    eftermiddagen svensk tid, men användaren vill lägga spel på morgonen.
+    """
+    if not start_iso:
+        return 0
+    try:
+        start = dt.datetime.fromisoformat(start_iso.replace("Z", "+00:00"))
+    except ValueError:
+        return 0
+    now = now or dt.datetime.now(dt.timezone.utc)
+    days = (now.date() - start.date()).days
+    if 0 <= days <= 3:
+        return days + 1
+    return 0
+
+
 def slugify(name: str) -> str:
     """Förenkla namn till stabilt id som matchar iOS-appens slugify."""
     s = name.lower()
@@ -674,7 +697,76 @@ def make_tips(round_num: int, players: list) -> list:
     return tips
 
 
-def make_daily_report(round_num: int, board: dict, is_current: bool) -> dict:
+def make_preround_report(round_num: int, board: dict,
+                         kambi_win_odds: dict[str, float] | None) -> dict:
+    """Rapport för rondens morgon INNAN utslag (state='pre' men startdatum nått).
+
+    Visar fältets favoriter (Svenska Spels förhandsodds via Kambi) + pre-round
+    speltips, så användaren kan lägga spel innan rundan teear av. Edge-sektionen
+    (separat i entry['edge']) ger modellens picks mot riktiga odds. Rapporten
+    fylls på med live leaderboard när rundan väl startar (senare cron-körning).
+    """
+    players = board["players"]
+    now_iso = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+    day = day_key(round_num)
+
+    # Favoriter via Kambi vinnar-odds (lägst först), mappade till visningsnamn
+    favs: list[tuple[str, float]] = []
+    if kambi_win_odds:
+        name_map = {edge_engine.normalize_name(p["name"]): p["name"] for p in players}
+        for norm, odd in sorted(kambi_win_odds.items(), key=lambda x: x[1])[:6]:
+            favs.append((name_map.get(norm, norm.title()), odd))
+
+    if favs:
+        fav_str = ", ".join(f"{nm}" for nm, _ in favs[:3])
+        headline = f"Inför {day} (R{round_num}): {fav_str} toppar oddsen — lägg spelen innan utslag"
+    else:
+        headline = f"Inför {day} (R{round_num}): fältet gör sig redo — lägg spelen innan utslag"
+
+    insights: list[dict] = []
+    insights.append({
+        "icon": "clock",
+        "h": "Innan utslag",
+        "b": ("Rundan teear av senare idag. Oddsen nedan är Svenska Spels "
+              "förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls "
+              "på med live leaderboard när rundan startar."),
+    })
+    if favs:
+        rows = "\n".join(f"{odd:.2f}  {nm}" for nm, odd in favs)
+        insights.append({
+            "icon": "star.fill",
+            "h": "Svenska Spels favoriter (vinnare)",
+            "b": rows,
+        })
+    sve = swedish_insight(players)
+    if sve:
+        insights.append(sve)
+    insights.append({
+        "icon": "wave.3.right",
+        "h": "Auto-genererat",
+        "b": ("Pre-round-rapport — genereras på morgonen innan rundan teear av "
+              "så att du hinner lägga spel. Se Edge-sektionen för modellens picks "
+              "mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."),
+    })
+
+    return {
+        "kind": "daily",
+        "locked": False,
+        "generatedAt": now_iso,
+        "headline": headline,
+        "insights": insights,
+        "top5": [],
+        "bets": make_preview_bets(players, kambi_win_odds=kambi_win_odds),
+    }
+
+
+def make_daily_report(round_num: int, board: dict, is_current: bool,
+                      round_started: bool = True,
+                      kambi_win_odds: dict[str, float] | None = None) -> dict:
+    # Pre-round (rondens morgon innan utslag) → egen rapport med förhandstips
+    if not round_started:
+        return make_preround_report(round_num, board, kambi_win_odds)
+
     players = board["players"]
     is_final = "final" in board["statusDetail"].lower() or board["state"] == "post"
     now_iso = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
@@ -1019,14 +1111,35 @@ def llm_preview_summary(board: dict) -> str | None:
 
 
 def build_tournament_entry(board: dict) -> dict | None:
-    current = current_round(board["statusDetail"])
+    espn_round = current_round(board["statusDetail"])
     state = board["state"]
     status_label = status_to_label(state, board["statusDetail"])
+
+    # Datum-golv: om startdatumet redan nåtts men ESPN inte flippat ännu
+    # (vanligt på rondens morgon — NA-rundor teear av på eftermiddagen),
+    # generera ändå rondens rapport så användaren kan lägga spel innan utslag.
+    # För FINAL-tävlingar (state=post) struntar vi i datum-golvet.
+    date_round = round_from_date(board.get("startDate")) if state != "post" else 0
+    current = max(espn_round, date_round)
+
+    # Om rundan inte börjat (state='pre') har vi ingen leaderboard ännu →
+    # pre-round-rapport. Annars normal rapport med live/färdig data.
+    round_started = state != "pre"
+
+    # Kambi vinnar-odds för pre-round-tipsen
+    kambi_win = None
+    if not board["tour"].lower().startswith("liv"):
+        _km = kambi_markets_for_tournament(pretty_name(board["name"]), board["name"])
+        if _km:
+            kambi_win = _km.get("win")
 
     reports = {}
     if current >= 1:
         for r in range(1, current + 1):
-            reports[day_key(r)] = make_daily_report(r, board, is_current=(r == current))
+            reports[day_key(r)] = make_daily_report(
+                r, board, is_current=(r == current),
+                round_started=round_started, kambi_win_odds=kambi_win,
+            )
     elif state == "pre" and _starts_within_days(board.get("startDate"), max_days=7):
         # Upcoming-event som börjar inom en vecka — generera onsdag-preview.
         # Använd Kambi-odds (om vi har dem) för att sortera spelare efter SS:s
