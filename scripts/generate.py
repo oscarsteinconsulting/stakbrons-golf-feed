@@ -1173,6 +1173,7 @@ def build_tournament_entry(board: dict) -> dict | None:
                 rankings=get_dg_rankings(),
                 points=get_owgr_points(),
                 kambi_markets=kambi_markets,
+                round_started=round_started,
             )
         except Exception as exc:
             print(f"  ⚠️  edge_engine fail för {board['name']}: {exc}", file=sys.stderr)

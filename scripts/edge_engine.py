@@ -233,6 +233,10 @@ def gaussian(rng: random.Random, mu: float, sigma: float) -> float:
     return rng.gauss(mu, sigma)
 
 
+# Kvalgränsen (cut): topp 65 + delade efter 36 hål på de flesta tourer.
+CUT_LINE = 65
+
+
 def simulate_field(
     players: list[dict[str, Any]],
     *,
@@ -252,7 +256,9 @@ def simulate_field(
     `remaining_rounds`: antal ronder kvar att simulera (4 pre-tournament,
         3 efter R1, 2 efter R2, 1 efter R3, 0 efter R4).
 
-    Returnerar dict {player_name: {"win": p, "top5": p, "top10": p, "top20": p}}
+    Returnerar dict {player_name: {"win", "top5", "top10", "top20", "cut"}}.
+    "cut" (sannolikhet att klara kvalgränsen) räknas bara när kvalgränsen
+    ligger framför oss (innan 36 hål spelats), annars utelämnas den.
     """
     rng = random.Random(seed)
     active = [p for p in players if not p.get("missed_cut", False)]
@@ -260,22 +266,30 @@ def simulate_field(
     if n == 0 or remaining_rounds <= 0:
         return {}
 
+    # Ronder kvar tills kvalgränsen avgörs (efter 36 hål = 2 ronder från start).
+    # remaining=4 → 2 ronder kvar till cut; remaining=3 → 1; remaining≤2 → cut passerad.
+    rounds_to_cut = max(0, remaining_rounds - 2)
+    track_cut = rounds_to_cut > 0
+
     counts: dict[str, dict[str, int]] = {
-        p["name"]: {"win": 0, "top5": 0, "top10": 0, "top20": 0} for p in active
+        p["name"]: {"win": 0, "top5": 0, "top10": 0, "top20": 0, "cut": 0}
+        for p in active
     }
 
     for _ in range(n_sims):
         totals: list[tuple[float, str]] = []
+        cut_totals: list[tuple[float, str]] = []
         for p in active:
             score = p.get("completed_score", 0) or 0
-            for _ in range(remaining_rounds):
+            for r in range(remaining_rounds):
                 score += gaussian(rng, p["mu"], sigma)
+                if track_cut and r + 1 == rounds_to_cut:
+                    cut_totals.append((score, p["name"]))  # 36-hålsläget
             totals.append((score, p["name"]))
 
         totals.sort(key=lambda t: t[0])
-
         for idx, (_, name) in enumerate(totals):
-            position = idx + 1  # 1-indexed
+            position = idx + 1
             if position == 1:
                 counts[name]["win"] += 1
             if position <= 5:
@@ -285,10 +299,17 @@ def simulate_field(
             if position <= 20:
                 counts[name]["top20"] += 1
 
-    return {
-        name: {market: c / n_sims for market, c in markets.items()}
-        for name, markets in counts.items()
-    }
+        if track_cut:
+            cut_totals.sort(key=lambda t: t[0])
+            for idx, (_, name) in enumerate(cut_totals):
+                if idx + 1 <= CUT_LINE:
+                    counts[name]["cut"] += 1
+
+    out: dict[str, dict[str, float]] = {}
+    for name, markets in counts.items():
+        d = {m: c / n_sims for m, c in markets.items() if m != "cut" or track_cut}
+        out[name] = d
+    return out
 
 
 # ---------------------------------------------------------------------------
@@ -392,6 +413,7 @@ def build_edge_payload(
     rankings: dict[str, int],
     points: dict[str, float] | None = None,
     kambi_markets: dict[str, dict[str, float]] | None = None,
+    round_started: bool = True,
     n_sims: int = N_SIMULATIONS,
 ) -> dict[str, Any] | None:
     """Producera komplett edge-payload för en tävling.
@@ -504,10 +526,11 @@ def build_edge_payload(
     field_size = len([p for p in players if not p["missed_cut"]])
     independent = n_independent > 0 and completed_rounds == 0
     payload: dict[str, Any] = {
-        "modelVersion": "0.4.0",  # OWGR oberoende ranking
+        "modelVersion": "0.5.0",  # kvalgräns-marknad + pre-round/in-play-gating
         "simulations": n_sims,
         "remainingRounds": remaining,
         "completedRounds": completed_rounds,
+        "roundStarted": round_started,
         "sigmaPerRound": ROUND_STD_DEV,
         "assumedSSVig": ASSUMED_SS_VIG,
         "fieldSize": field_size,
@@ -520,8 +543,10 @@ def build_edge_payload(
         "topByMarket": _top_picks_by_market(picks, k=8),
     }
     if kambi_markets:
-        # Bonus: en sorterad lista över bästa edges över alla marknader
-        payload["topEdges"] = _top_edges(picks, k=10)
+        # "Bästa edges" — sorterad lista över bästa edges. PRE-ROUND (innan
+        # utslag, onsdag): bara slutplaceringar (vinnare + topp 5/10/20).
+        # IN-PLAY (torsdag–söndag): alla tillgängliga marknader inkl. kvalgräns.
+        payload["topEdges"] = _top_edges(picks, k=10, include_cut=round_started)
     return payload
 
 
@@ -600,16 +625,21 @@ def _is_credible_edge(mk: dict[str, Any]) -> bool:
     return True
 
 
-def _top_edges(picks: list[dict[str, Any]], k: int) -> list[dict[str, Any]]:
+def _top_edges(picks: list[dict[str, Any]], k: int,
+               include_cut: bool = True) -> list[dict[str, Any]]:
     """Sammanställ trovärdiga picks med edge > 0 över alla marknader,
     sorterade på edge%.
 
     Detta är "find me the best bets right now"-listan — bortom marknad.
-    Filtrerar bort longshot-brus (se _is_credible_edge).
+    Filtrerar bort longshot-brus (se _is_credible_edge). När `include_cut`
+    är False (pre-round) tas kvalgräns-marknaden bort så att endast
+    slutplaceringar (vinnare + topp 5/10/20) analyseras.
     """
     out: list[dict[str, Any]] = []
     for p in picks:
         for market_key, mk in p["markets"].items():
+            if market_key == "cut" and not include_cut:
+                continue
             if not _is_credible_edge(mk):
                 continue
             out.append({
