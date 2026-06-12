@@ -785,7 +785,7 @@ def make_daily_report(round_num: int, board: dict, is_current: bool,
         return make_preround_report(round_num, board, kambi_win_odds)
 
     players = board["players"]
-    is_final = "final" in board["statusDetail"].lower() or board["state"] == "post"
+    is_final = is_tournament_final(board["state"], board["statusDetail"])
     now_iso = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
     leaderboard_header = (
         "Slutresultat" if (is_final and round_num == 4)
@@ -927,11 +927,32 @@ def update_history_index() -> None:
 # Main pipeline
 # ----------------------------------------------------------------------------
 
-def status_to_label(state: str, status_detail: str) -> str:
+def is_tournament_final(state: str, status_detail: str) -> bool:
+    """True bara om tävlingen FAKTISKT är slut (alla 4 ronder klara).
+
+    OBS: ESPN sätter state='post' (completed=True) redan MELLAN rondan, t.ex.
+    natten efter R1 ("Round 1 - Play Complete"). Det betyder INTE att tävlingen
+    är slut. Vi behandlar det som final endast om vi inte sitter mellan en
+    tidig rond (1–3).
+    """
     s = status_detail.lower()
-    if "final" in s or state == "post":
+    if "final" in s:
+        return True
+    if state != "post":
+        return False
+    # state == post. Om detaljen pekar på en tidig rond (1/2/3) och inte R4
+    # → vi är mellan rondan, tävlingen pågår fortfarande.
+    for n in ("1", "2", "3"):
+        if f"round {n}" in s and "round 4" not in s:
+            return False
+    return True
+
+
+def status_to_label(state: str, status_detail: str) -> str:
+    if is_tournament_final(state, status_detail):
         return "final"
-    if state == "in":
+    # Mellan rondan (ESPN-post men inte final) eller aktiv rond → live.
+    if state in ("in", "post"):
         return "live"
     return "upcoming"
 
