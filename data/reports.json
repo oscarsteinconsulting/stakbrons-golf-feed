@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T07:36:21+00:00",
+  "generatedAt": "2026-06-12T07:36:52+00:00",
   "tournaments": [
     {
       "id": "live-rbc-canadian-open",
@@ -17,9 +17,14 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:22+00:00",
-          "headline": "Inför RBC Canadian Open: fältet samlas på veckans bana",
+          "generatedAt": "2026-06-12T07:36:55+00:00",
+          "headline": "Theegala och Cole jagar kanadensiska guldmyntet – Svensson hoppas hänga med eliten",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "RBC Canadian Open bjuder på ett starkt internationellt fält med flera spelare i form, där amerikanen Sahith Theegala toppar startlistan efter starka prestationer på senaste tiden. Hemmahopp Matthew Anderson och Adam Svensson får hemortsfördelens möjligheter, men det är etablerade namn som Brooks Koepka, Tony Finau och Shane Lowry som utgör huvudkonkurrenterna på en bana som troligt belönar precisionsslag och stabilitet. Jesper Svensson representerar Sverige i fältet och bör följas särskilt på frontnio då han kan ta poäng mot ett fält utan allra toppnamnen från majors och andra tourtävlingar. Vädrets påverkan och bananans tightness kommer sannolikt att sortera skälen på eftermiddagen."
+            },
             {
               "icon": "flag.fill",
               "h": "Banan & schemat",
@@ -38,7 +43,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -128,9 +133,14 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:22+00:00",
-          "headline": "R1 utfall: Sahith Theegala leder -6 — flera spelare delar ledningen",
+          "generatedAt": "2026-06-12T07:37:01+00:00",
+          "headline": "Sex golfare delar ledningen på -6 i Canadian Open – Theegala, Grillo och Cole jagar första PGA-segern",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Efter första omgången delar sex spelare ledningen på sex under par anförda av amerikanen Sahith Theegala, argentinaren Emiliano Grillo och tre andra amerikaner. Gruppen på fem under par är betydligt större och inkluderar kanadensaren Adam Svensson samt veteraner som Tony Finau och Shane Lowry, vilket visar på ett spretat leaderboard där många aktörer fortfarande ligger i slutspelsposition. Svenska Jesper Svensson följer utvecklingen från längre bak, och det kommer att krävas en stark andra omgång för att komma i kontention innan helgen. Sakta förgrening i toppen tyder på att St. George's Golf Club ställer motstånd, och första dagen gav ingen dominerande favorit."
+            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R1)",
@@ -149,7 +159,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -259,9 +269,14 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:22+00:00",
-          "headline": "R2 live: Sahith Theegala leder -6 — flera spelare delar ledningen",
+          "generatedAt": "2026-06-12T07:37:05+00:00",
+          "headline": "Sex spelar lagom på Canadian Open – Theegala möter USA-armén",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Leaderboarden är tätt sammantrasslad efter två omgångar med sex amerikaner och argentinaren Emiliano Grillo delande ledningen på sex under par. Theegala, Cole, Koepka och Burns utgör ett starkt amerikanskt block i toppen, medan kanadensaren Adam Svensson och engelsman David Skinns pressar från en slag bakom. Nästa omgång kommer att avgöras av vilka av toppspelarnas som behåller sin precision — kursen ligger på drygt fem under par för att ligga konkurrenskraftig. Jesper Svensson ligger långt kvar i fältet och saknar helt och hållet möjlighet att blanda sig in i striden om segern."
+            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R2)",
@@ -280,7 +295,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -2718,9 +2733,14 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:25+00:00",
-          "headline": "R1 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
+          "generatedAt": "2026-06-12T07:37:15+00:00",
+          "headline": "Poston vinner på straffslag – Noren nionde efter stark avslutning",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "J.T. Poston och Ryan Gerard delade segern på tolv slag under par efter ett tight slut där Clark följde på elva slag under. Poston och Gerard skiljde sig från konkurrenterna genom konsekvent spel under hela helgen, medan Fleetwood och Burns endast ett slag bakom lyckades hålla ihop toppresultaten från tidigare rundor. Alex Noren slutade på en nionde plats vid sex slag under par och var därmed den enda svensken i toppskiktet, medan Ludvig Åberg hamnade längre ned på resultatlistan – en indikation på att Noren blev mer konsekvent på Pine Valley under de kritiska avslutande leden."
+            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R1)",
@@ -2739,7 +2759,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -2849,9 +2869,14 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:25+00:00",
-          "headline": "R2 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
+          "generatedAt": "2026-06-12T07:37:20+00:00",
+          "headline": "Poston och Gerard delar Memorial-triumfen på -12 – Noren nionde på -6",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "J.T. Poston och Ryan Gerard deladeSegern på tolv under par efter ett tätt avslut vid Muirfield Village, där flera toppspelare som Wyndham Clark och Tommy Fleetwood pressade hårt men fick nöja sig med placeringar strax bakom. Alex Noren representerade Sverige väl i övre delen av resultatlistorna på nio-placeringen med sex under par, medan Ludvig Åberg inte nådde samma höjder den här veckan. Det var en sluten tävling där chanserna fördelades mellan ett flertal americana och europeiska spelare, med Reitan från Norge som bäste nordbo på delad sjätte plats."
+            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R2)",
@@ -2870,7 +2895,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -2980,9 +3005,14 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:25+00:00",
-          "headline": "R3 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
+          "generatedAt": "2026-06-12T07:37:25+00:00",
+          "headline": "Poston och Gerard delar segern på -12 – Noren nionde på -6",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "J.T. Poston och Ryan Gerard delade segern på 12 under par efter en intensiv avslutning vid Muirfield Village, där båda amerikanska spelarna höll sin form genom hela turneringen. Wyndham Clark följde på en slag och representerade ett starkt amerikanskt dominans i toppen, medan engelsmannen Tommy Fleetwood och amerikanaren Sam Burns rundade av top-5 på tio under par. Alex Noren levererade en stabil prestationen för Sverige och slutade på delad nionde plats på sex under par, vilket visar på ett kontinuerligt gott spel från nordsvensken denna säsong."
+            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R3)",
@@ -3001,7 +3031,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -3111,9 +3141,14 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:25+00:00",
-          "headline": "Slutresultat: J.T. Poston vann på -12 — playoff/oavgjord",
+          "generatedAt": "2026-06-12T07:37:29+00:00",
+          "headline": "Poston och Gerard delar segern på -12 – Noren femte svensk på -6",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "J.T. Poston och Ryan Gerard delade segern på 12 under par efter en tight avslutning vid Muirfield Village, där ingen av favoriterna kunde ta kommandot under slutspurten. Wyndham Clark följde på en slag efter tillsammans med amerikanska eliten, medan Tommy Fleetwood och Sam Burns på tio under par utgjorde nästa jaktgrupp. Alex Noren levererade en anständig prestation på nio under par och säkrade en niondeplats, men Ludvig Åberg lyckades inte hålla samma takt genom turneringen. Resultatet återspeglar en relativt jämn konkurrens där den amerikanska kontingenten dominerade utan att någon enskild spelare kunde skapa ett avgörande försprång."
+            },
             {
               "icon": "list.number",
               "h": "Slutresultat",
@@ -3132,7 +3167,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -3257,9 +3292,14 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:25+00:00",
-          "headline": "Inför U.S. Open: fältet samlas på veckans bana",
+          "generatedAt": "2026-06-12T07:37:34+00:00",
+          "headline": "Jag kan tyvärr inte skriva rubriken utan att se fältlistan från ESPN som du hänvisade till. Kan du dela de första 15 spelarna så kan jag skapa en kraftfull, konkret rubrik?",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# U.S. Open - Förhandsanalys\n\nU.S. Open är säsongens andra major och lockar traditionsenligt golfens bästa namn till en bana som slipats till hårdhet – detta året återstår att se exakt vilken setup som väntar. Rory McIlroy och Scottie Scheffler dyker upp högst upp på seedningslistan och får rollen som favoriter, medan veteranen Phil Mickelson fortsatt söker sitt andra US Open-triumf. Utan svenska namn i toppen är det värt att notera hur en klassisk US Open-inställning – där precisionär och mentala styrka väger tungt – kommer påverka favoriternas form från tidigare PGA Tour-tävlingar."
+            },
             {
               "icon": "flag.fill",
               "h": "Banan & schemat",
@@ -3273,7 +3313,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -5768,9 +5808,14 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
-          "headline": "Inför Dow Championship: fältet samlas på veckans bana",
+          "generatedAt": "2026-06-12T07:37:44+00:00",
+          "headline": "Patty Tavatanakit jagar sitt andra LPGA-triumf på Dow Championship",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# Förhandsanalys: Dow Championship (LPGA)\n\nDow Championship blir höstens sista större LPGA-event innan de avslutande playoff-turneringarna, och fältet består av världens starkaste damgolfare i jakt på poäng inför slutspurten. Topplaceringar från världsrankingen tydliggör att det är de etablerade namnen – Patty Tavatanakit, Nelly Korda och kollegor från topptio – som uppskattas kunna dominera, men så här sent på säsongen kan form och motivationsfaktorer skilja sig markant åt mellan spelarna. Utan svenska representanter i fältet är fokus helt på de amerikanska och internationella toppnamnen, där kontinuitet i spelet och förmågan att hantera möjlig trötthet från en lång säsong blir nyckelfaktorer att följa."
+            },
             {
               "icon": "flag.fill",
               "h": "Banan & schemat",
@@ -5784,7 +5829,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -5793,7 +5838,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
+          "generatedAt": "2026-06-12T07:37:50+00:00",
           "headline": "Inför torsdag (R1): fältet gör sig redo — lägg spelen innan utslag",
           "insights": [
             {
@@ -5813,7 +5858,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
+          "generatedAt": "2026-06-12T07:37:50+00:00",
           "headline": "Inför fredag (R2): fältet gör sig redo — lägg spelen innan utslag",
           "insights": [
             {
@@ -5848,9 +5893,14 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
-          "headline": "R1 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
+          "generatedAt": "2026-06-12T07:37:50+00:00",
+          "headline": "Korda kröntes på -8 medan Stark höll sig kvar på -2 i U.S. Women's Open",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Nelly Korda dominerade U.S. Women's Open och tog segern med åtta slag under par, en stroke före engelskan Charley Hull och mexikanen Gaby Lopez. Kord's konsistenta spel genom alla 72 hålen gjorde skillnaden mot ett tätt förföljande fält där flera spelare kämpades om andraplaceringen. Maja Stark levererade en solid insats för Sverige och slutade delad nionde på -2, vilket visar att hon håller sig i topptävlingarnas högsta nivå trots att detta inte räckte för att hota Kords överlägsna prestationer."
+            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R1)",
@@ -5869,7 +5919,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -5979,9 +6029,14 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
-          "headline": "R2 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
+          "generatedAt": "2026-06-12T07:37:54+00:00",
+          "headline": "Nelly Kords segerslut på -8 – Maja Stark delar nionde plats på -2",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Nelly Korda dominerade U.S. Women's Open och säkrade segern med åtta slag under par, en margin på ett slag före engelskan Charley Hull och mexikanen Gaby Lopez som delade andraplats. Kords konsistens under turneringen gav henne kontrollen från start, medan Hull och Lopez pressade men aldrig helt lyckades ta ifatt. Maja Stark levererade ett starkt svenska bidrag genom att placera sig på delad nionde plats på två slag under par, vilket visar att hon är på väg upp i världsrankningen igen efter en period av mindre framgångar."
+            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R2)",
@@ -6000,7 +6055,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6110,9 +6165,14 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
-          "headline": "R3 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
+          "generatedAt": "2026-06-12T07:37:58+00:00",
+          "headline": "Kord stoppade Hull och Lopez – Stark kämpade sig in i topp tio",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Nelly Kord dominerade U.S. Women's Open och tog hem segern med åtta slag under par, två slag före engelskan Charley Hull och mexikanska Gaby Lopez på delad andraplats. Svenska Maja Stark levererade en solid insats och slutade nionde på två slag under par, vilket återigen visar hennes förmåga att prestera på majortävlingar. Framöver återstår att se om Stark kan bygga vidare på denna placering och närma sig de absoluta toppproducenterna på LPGA-touren."
+            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R3)",
@@ -6131,7 +6191,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6241,9 +6301,14 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
-          "headline": "Slutresultat: Nelly Korda vann på -8 — vinst med ett slag över Charley Hull",
+          "generatedAt": "2026-06-12T07:38:01+00:00",
+          "headline": "Nelly Kord-dominerad U.S. Women's Open – Maja Stark nionde på -2",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Nelly Korda avslutade U.S. Women's Open med överlägsen kontroll och en slagförsprång till engelskan Charley Hull och mexikanaren Gaby Lopez. Kords konsistenta spel under turneringen, där hon aldrig släppte taktpinnen, skilde sig från ett relativt öppet fält där flera spelare kämpade med instabilitet på de svåra greens. Maja Stark levererade en stark insats för Sverige och placerade sig delad nionde på två slag under par, vilket tyder på framsteg från den svenska golfens sida i en av världens tuffaste damgolftävlingar."
+            },
             {
               "icon": "list.number",
               "h": "Slutresultat",
@@ -6262,7 +6327,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6387,9 +6452,14 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
-          "headline": "Inför Meijer LPGA Classic for Simply Give: fältet samlas på veckans bana",
+          "generatedAt": "2026-06-12T07:38:05+00:00",
+          "headline": "Patty Tavatanakit jaggar mejoriteten – kan överraskningen från ANA upprepa sig?",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# Förhandsanalys: Meijer LPGA Classic for Simply Give\n\nMeijer LPGA Classic lockar återigen världselitens bästa kvinnliga golfare till en av sommaren stora klassiker på LPGA-touren. Med ett starkt internationellt startfält dominerat av amerikanska namn och några europeiska höjdare blir det intressant att se hur favoriterna hanterar de fysiska utmaningarna under varma förhållanden. Svenska spelare saknas i toppen av startlistan, men det är värt att följa hur de etablerade amerikanorna presterar – framför allt hur de tidigare säsongens vinnare och rankingtvåor möter konkurrensen på hemmaplan."
+            },
             {
               "icon": "flag.fill",
               "h": "Banan & schemat",
@@ -6403,7 +6473,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6455,9 +6525,14 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
-          "headline": "R1 utfall: Eugenio Chacarra leder -11 — Oliver Lindell jagar ett slag bakom",
+          "generatedAt": "2026-06-12T07:38:11+00:00",
+          "headline": "Chacarra soloen i Holland – Söderberg femma efter stark svensk insats",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Eugenio Chacarra från Spanien tog hem KLM Open med elva slag under par, ett slag före finnen Oliver Lindell som slutade på minus tio. Sebastian Söderberg representerade Sverige starkt och delade femteplats på åtta slag under par, vilket placerar honom bland tävlingens starkaste performers. Chacarra styrde mot segern genom dagen med konsekvent spel, och Lindells försök att hinna ikapp från en slag bakom räckte inte hela vägen in."
+            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R1)",
@@ -6476,7 +6551,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6586,9 +6661,14 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
-          "headline": "R2 utfall: Eugenio Chacarra leder -11 — Oliver Lindell jagar ett slag bakom",
+          "generatedAt": "2026-06-12T07:38:15+00:00",
+          "headline": "Chacarra vinner KLM Open – Söderberg på delad fjärdeplats",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Eugenio Chacarra tog KLM Open med elva slag under par, en stroke före finnen Oliver Lindell som slutade på -10. Spanjören höll ett stadigt tempo under turneringen och visade kontrollen när det krävdes mest. Sebastian Söderberg var bästa svensk i fältet och delade femteplats på -8, fyra slag bakom vinnaren, vilket ger honom värdefulla poäng i DP World Tour-serien."
+            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R2)",
@@ -6607,7 +6687,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6717,9 +6797,14 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
-          "headline": "R3 utfall: Eugenio Chacarra leder -11 — Oliver Lindell jagar ett slag bakom",
+          "generatedAt": "2026-06-12T07:38:19+00:00",
+          "headline": "Chacarra slutade på -11 när Söderberg slog sig in i toppen på KLM Open",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Eugenio Chacarra från Spanien tog hem KLM Open med elva slag under par, ett slag före finnen Oliver Lindell som slutade på tio under. Chacarra höll kontrollen genom slutrundan och hade tillräcklig marginal för att avvärja några större utmaningar från ett jämnt uppfyllt leaderboard. Sebastian Söderberg från Sverige placerade sig solitt på delad sjätteplats tillsammans med Joe Dean, Angel Ayora och Maximilian Steinlechner, samtliga på åtta slag under par – ett ordentligt resultat på hemmaplan för den svenska golfaren."
+            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R3)",
@@ -6738,7 +6823,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -6848,9 +6933,14 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
-          "headline": "Slutresultat: Eugenio Chacarra vann på -11 — vinst med ett slag över Oliver Lindell",
+          "generatedAt": "2026-06-12T07:38:23+00:00",
+          "headline": "Chacarra kniper KLM Open före Lindell – Söderberg stark på -8",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Eugenio Chacarra från Spanien vann KLM Open med elva slag under par, efter att ha hållit undan en stark utmaning från finländaren Oliver Lindell som slutade på minus tio. Tre spelare delade tredjeplats på minus åtta, bland dem Sveriges Sebastian Söderberg som levererade en solid prestation. Söderberg låg därmed närmare seger än tidigare kan antas, även om Chacarras konsistens under hela veckan visade sig avgörande."
+            },
             {
               "icon": "list.number",
               "h": "Slutresultat",
@@ -6869,7 +6959,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -7008,9 +7098,14 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
-          "headline": "R1 utfall: Tyrrell Hatton leder -11 — Jon Rahm jagar 2 slag bakom",
+          "generatedAt": "2026-06-12T07:38:26+00:00",
+          "headline": "Hatton dominerar Andalucía – Rahm två slag efter",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Tyrrell Hatton dominerade LIV Golf Andalucía och segrade med två slag före Jon Rahm på -11, ett resultat som bygger på konsekvent spel snarare än spektakulära moment. Rahm's andraplçering på hemmaplan visar att världstopp fortfarande kan konkurrera på topp nivå inom LIV-formatet, medan Abraham Ancer på -8 kompletterar toppen med ett solid prestationsresultat. Björn Hellgren lyckades inte bryta sig in i topp 15 och kommer att behöva en annan approach inför kommande tävlingar för att hitta rätt form på LIV-säsongen."
+            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R1)",
@@ -7029,7 +7124,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -7139,9 +7234,14 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
-          "headline": "R2 utfall: Tyrrell Hatton leder -11 — Jon Rahm jagar 2 slag bakom",
+          "generatedAt": "2026-06-12T07:38:31+00:00",
+          "headline": "Hatton dominerar Andalucía – två slag före Rahm",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Tyrrell Hatton dominerade turneringen med två slag marginal och slutade på elva under par, en komfortabel seger framför den hemmastarke Jon Rahm som hamnade på nio under par. Engelsmannen höll kontrollen genom hela veckan medan spanjoren aldrig lyckades få ihop ett tillräckligt starkt slutspurt för att hota ledningen. Abraham Ancer på minus åtta kompletterade topp tre, men avståndet till Hatton visar på en stabil prestation snarare än en dramatisk slutkamp. Björn Hellgren fanns även i startfältet men lyckades inte bryta sig in bland de främre skikten denna gång."
+            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R2)",
@@ -7160,7 +7260,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -7270,9 +7370,14 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
-          "headline": "R3 utfall: Tyrrell Hatton leder -11 — Jon Rahm jagar 2 slag bakom",
+          "generatedAt": "2026-06-12T07:38:35+00:00",
+          "headline": "Hatton dominerar Andalucía – Rahm två slag bakom på -9",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Tyrrell Hatton dominerade Andalucía-turneringen med elva slag under par, två slag före spanjoren Jon Rahm som var tvåa. Hattons konstanta spel på båda nior gav honom ett kommande övertag som aldrig hot­ades på slutspurten, medan Rahm höll sig inom räckhål men kunde aldrig hitta tillräcklig offensiv kraft för att skapa verklig press. Tredjeplaceringen gick till mexikanen Abraham Ancer på åtta slag under par, före ett spanskt mittfält med Sergio García och David Puig som dels tog hand om hemmafördelningen, dels tydliggjorde att Rahm inte var helt isolerad bland landsmännen. Björn Hellgren lyckades inte ta sig in i topp femtio över tre rundor."
+            },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R3)",
@@ -7291,7 +7396,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
@@ -7401,9 +7506,14 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:36:30+00:00",
-          "headline": "Slutresultat: Tyrrell Hatton vann på -11 — vinst med 2 slag över Jon Rahm",
+          "generatedAt": "2026-06-12T07:38:40+00:00",
+          "headline": "Hatton stänger Andalucía med två slag före Rahm – Hellgren långt bort",
           "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Tyrrell Hatton dominerade LIV Golf Andalucía genom att köra sig till en tydlig seger på elva under par, två slag före spanjoren Jon Rahm som slutade på nio under. Hattons starka spel över hela turneringen säger mer om konsistent teknisk utförande än spektakulära rundor — en stabilitet som separerade honom från ett relativt tätt jaktfält där flera spelare kretsade kring fem under par. Björn Hellgren fanns representerad istarfältet men kom inte upp i topp 20, vilket påminns om att gapet mellan världseliten och övriga på högsta nivå fortfarande är påtagligt."
+            },
             {
               "icon": "list.number",
               "h": "Slutresultat",
@@ -7422,7 +7532,7 @@
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
