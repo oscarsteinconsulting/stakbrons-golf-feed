@@ -539,7 +539,9 @@ def build_edge_payload(
         "rankingSource": (
             "OWGR/DG" if n_independent > 0 else "Kambi-implicit (cirkulär)"
         ),
-        "picks": picks,
+        # picks sorterad på vinst-prob; trimma till topp 40 för Form-vyn
+        # (topByMarket/topEdges har redan beräknats på hela fältet).
+        "picks": picks[:40],
         "topByMarket": _top_picks_by_market(picks, k=8),
     }
     if kambi_markets:

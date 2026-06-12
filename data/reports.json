@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T07:09:13+00:00",
+  "generatedAt": "2026-06-12T07:15:11+00:00",
   "tournaments": [
     {
       "id": "live-rbc-canadian-open",
@@ -17,7 +17,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:15+00:00",
+          "generatedAt": "2026-06-12T07:15:13+00:00",
           "headline": "R1 utfall: Sahith Theegala leder -6 — flera spelare delar ledningen",
           "insights": [
             {
@@ -148,7 +148,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:15+00:00",
+          "generatedAt": "2026-06-12T07:15:13+00:00",
           "headline": "R2 live: Sahith Theegala leder -6 — flera spelare delar ledningen",
           "insights": [
             {
@@ -294,7 +294,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:15+00:00",
+          "generatedAt": "2026-06-12T07:15:13+00:00",
           "headline": "R1 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
           "insights": [
             {
@@ -425,7 +425,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:15+00:00",
+          "generatedAt": "2026-06-12T07:15:13+00:00",
           "headline": "R2 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
           "insights": [
             {
@@ -556,7 +556,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:15+00:00",
+          "generatedAt": "2026-06-12T07:15:13+00:00",
           "headline": "R3 utfall: J.T. Poston leder -12 — flera spelare delar ledningen",
           "insights": [
             {
@@ -687,7 +687,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:15+00:00",
+          "generatedAt": "2026-06-12T07:15:13+00:00",
           "headline": "Slutresultat: J.T. Poston vann på -12 — playoff/oavgjord",
           "insights": [
             {
@@ -829,7 +829,33 @@
       "statusDetail": "Thu, June 17th at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-06-12T07:15:13+00:00",
+          "headline": "Inför U.S. Open: fältet samlas på veckans bana",
+          "insights": [
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 18 June 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-travelers-championship",
@@ -858,10 +884,35 @@
       "status": "upcoming",
       "currentRound": 2,
       "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-06-12T07:15:14+00:00",
+          "headline": "Inför Dow Championship: fältet samlas på veckans bana",
+          "insights": [
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 11 June 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        },
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:16+00:00",
+          "generatedAt": "2026-06-12T07:15:14+00:00",
           "headline": "Inför torsdag (R1): fältet gör sig redo — lägg spelen innan utslag",
           "insights": [
             {
@@ -881,7 +932,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:16+00:00",
+          "generatedAt": "2026-06-12T07:15:14+00:00",
           "headline": "Inför fredag (R2): fältet gör sig redo — lägg spelen innan utslag",
           "insights": [
             {
@@ -916,7 +967,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:17+00:00",
+          "generatedAt": "2026-06-12T07:15:14+00:00",
           "headline": "R1 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
           "insights": [
             {
@@ -1047,7 +1098,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:17+00:00",
+          "generatedAt": "2026-06-12T07:15:14+00:00",
           "headline": "R2 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
           "insights": [
             {
@@ -1178,7 +1229,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:17+00:00",
+          "generatedAt": "2026-06-12T07:15:14+00:00",
           "headline": "R3 utfall: Nelly Korda leder -8 — Charley Hull jagar ett slag bakom",
           "insights": [
             {
@@ -1309,7 +1360,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:17+00:00",
+          "generatedAt": "2026-06-12T07:15:14+00:00",
           "headline": "Slutresultat: Nelly Korda vann på -8 — vinst med ett slag över Charley Hull",
           "insights": [
             {
@@ -1451,7 +1502,33 @@
       "statusDetail": "Thu, June 17th at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-06-12T07:15:14+00:00",
+          "headline": "Inför Meijer LPGA Classic for Simply Give: fältet samlas på veckans bana",
+          "insights": [
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 18 June 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-kpmg-women-s-pga-championship",
@@ -1497,7 +1574,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:17+00:00",
+          "generatedAt": "2026-06-12T07:15:14+00:00",
           "headline": "R1 utfall: Eugenio Chacarra leder -11 — Oliver Lindell jagar ett slag bakom",
           "insights": [
             {
@@ -1628,7 +1705,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:17+00:00",
+          "generatedAt": "2026-06-12T07:15:14+00:00",
           "headline": "R2 utfall: Eugenio Chacarra leder -11 — Oliver Lindell jagar ett slag bakom",
           "insights": [
             {
@@ -1759,7 +1836,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:17+00:00",
+          "generatedAt": "2026-06-12T07:15:14+00:00",
           "headline": "R3 utfall: Eugenio Chacarra leder -11 — Oliver Lindell jagar ett slag bakom",
           "insights": [
             {
@@ -1890,7 +1967,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:17+00:00",
+          "generatedAt": "2026-06-12T07:15:14+00:00",
           "headline": "Slutresultat: Eugenio Chacarra vann på -11 — vinst med ett slag över Oliver Lindell",
           "insights": [
             {
@@ -2050,7 +2127,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:18+00:00",
+          "generatedAt": "2026-06-12T07:15:15+00:00",
           "headline": "R1 utfall: Tyrrell Hatton leder -11 — Jon Rahm jagar 2 slag bakom",
           "insights": [
             {
@@ -2181,7 +2258,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:18+00:00",
+          "generatedAt": "2026-06-12T07:15:15+00:00",
           "headline": "R2 utfall: Tyrrell Hatton leder -11 — Jon Rahm jagar 2 slag bakom",
           "insights": [
             {
@@ -2312,7 +2389,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:18+00:00",
+          "generatedAt": "2026-06-12T07:15:15+00:00",
           "headline": "R3 utfall: Tyrrell Hatton leder -11 — Jon Rahm jagar 2 slag bakom",
           "insights": [
             {
@@ -2443,7 +2520,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-12T07:09:18+00:00",
+          "generatedAt": "2026-06-12T07:15:15+00:00",
           "headline": "Slutresultat: Tyrrell Hatton vann på -11 — vinst med 2 slag över Jon Rahm",
           "insights": [
             {

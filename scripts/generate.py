@@ -242,10 +242,6 @@ def round_from_date(start_iso: str | None, now: dt.datetime | None = None) -> in
         return 0
     now = now or dt.datetime.now(dt.timezone.utc)
     days = (now.date() - start.date()).days
-    # Dagen FÖRE start (onsdag för torsdagsstart) → visa redan torsdagsrapporten
-    # (alla pre-round-predictions görs innan rundan, så de finns klara -24h).
-    if days == -1:
-        return 1
     if 0 <= days <= 3:
         return days + 1
     return 0
@@ -1137,11 +1133,14 @@ def build_tournament_entry(board: dict) -> dict | None:
         if _km:
             kambi_win = _km.get("win")
 
-    # Rapporter genereras från dagen FÖRE start (onsdag) t.o.m. söndag.
-    # Onsdagsfliken är borttagen — torsdagsrapporten (R1, alla pre-round-
-    # predictions) görs synlig redan på onsdagen via round_from_date(-1).
-    # Fredag/lördag/söndag tillkommer på sin egen dag (08:00) i vanlig ordning.
+    # Onsdag = FÖRHANDSANALYS (slutplaceringar) för veckans tävlingar, oavsett
+    # om rundan startat. Torsdag–söndag = dagliga rapporter med bästa
+    # tillgängliga spel allt eftersom rundorna spelas.
+    is_final_state = status_label == "final"
+    in_current_week = _starts_within_days(board.get("startDate"), max_days=7) or current >= 1
     reports = {}
+    if not is_final_state and in_current_week:
+        reports["onsdag"] = make_preview_report(board, kambi_win_odds=kambi_win)
     if current >= 1:
         for r in range(1, current + 1):
             reports[day_key(r)] = make_daily_report(
