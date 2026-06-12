@@ -94,6 +94,23 @@ def get_kambi_markets() -> dict[str, dict]:
     return _KAMBI_MARKETS_CACHE
 
 
+def kambi_event_for_tournament(name: str, raw_name: str) -> dict | None:
+    """Som kambi_markets_for_tournament men returnerar HELA event-info-dicten
+    (markets + player_names), för att kunna bygga edge-fältet från Kambi."""
+    cache = get_kambi_markets()
+    if not cache:
+        return None
+    candidates = {kambi_odds.event_slug(name), kambi_odds.event_slug(raw_name)}
+    for cand in candidates:
+        if cand in cache:
+            return cache[cand]
+    for kambi_slug, info in cache.items():
+        for cand in candidates:
+            if cand and (cand in kambi_slug or kambi_slug in cand):
+                return info
+    return None
+
+
 def kambi_markets_for_tournament(name: str, raw_name: str) -> dict[str, dict[str, float]] | None:
     """Plocka Kambi-marknader som matchar denna tävling.
 
@@ -1160,9 +1177,20 @@ def build_tournament_entry(board: dict) -> dict | None:
         # men för final clampar vi (vi exiterar redan ovan)
         completed = max(0, current - 1)
         edge_field = to_edge_field(board["players"])
-        kambi_markets = kambi_markets_for_tournament(
-            pretty_name(board["name"]), board["name"]
-        )
+        km_info = kambi_event_for_tournament(pretty_name(board["name"]), board["name"])
+        kambi_markets = km_info["markets"] if km_info else None
+
+        # ESPN laddar inte startfältet förrän tävlingen är nära förestående
+        # (upcoming = 0 spelare). Då bygger vi fältet från Kambi istället, som
+        # har hela fältet med riktiga namn redan en vecka i förväg.
+        active = [p for p in edge_field if not p.get("missed_cut")]
+        if len(active) < 10 and kambi_markets and kambi_markets.get("win"):
+            names = (km_info or {}).get("player_names", {})
+            edge_field = [
+                {"name": names.get(norm, norm.title()),
+                 "score_to_par": None, "missed_cut": False}
+                for norm in kambi_markets["win"].keys()
+            ]
         try:
             edge_payload = edge_engine.build_edge_payload(
                 tournament_name=pretty_name(board["name"]),

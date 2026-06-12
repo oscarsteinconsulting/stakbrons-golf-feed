@@ -164,6 +164,37 @@ def _extract_yes_per_player(offer: dict) -> dict[str, float]:
     return out
 
 
+def extract_player_names(offers: list[dict]) -> dict[str, str]:
+    """Plocka ut {normaliserat_namn: visningsnamn} från vinnar-marknaden.
+
+    Används för att bygga edge-fältet när ESPN ännu inte laddat startfältet
+    (upcoming-tävlingar) — Kambi har hela fältet med riktiga namn.
+    """
+    names: dict[str, str] = {}
+    # Prioritera fullfälts "Vinnare"-marknaden (display-namn i participant)
+    for bo in offers:
+        if (bo.get("criterion") or {}).get("label") != "Slutplacering":
+            continue
+        if (bo.get("description") or "").strip() != "Vinnare":
+            continue
+        for o in bo.get("outcomes", []):
+            disp = o.get("participant") or o.get("label")
+            if disp:
+                names[normalize_name(disp)] = disp
+        if names:
+            return names
+    # Fallback: vilken Slutplacering-marknad som helst
+    for bo in offers:
+        if (bo.get("criterion") or {}).get("label") == "Slutplacering":
+            for o in bo.get("outcomes", []):
+                disp = o.get("participant") or o.get("label")
+                if disp:
+                    names[normalize_name(disp)] = disp
+            if names:
+                return names
+    return names
+
+
 def extract_markets(offers: list[dict]) -> dict[str, dict[str, float]]:
     """Plocka ut alla intressanta marknader från en event:s betOffers.
 
@@ -312,6 +343,7 @@ def fetch_all_markets() -> dict[str, dict[str, Any]]:
             "name": ev["name"],
             "tour": ev["tour_name"],
             "markets": markets,
+            "player_names": extract_player_names(offers),
             "stats": {
                 "win": len(markets["win"]),
                 "top5": len(markets["top5"]),
