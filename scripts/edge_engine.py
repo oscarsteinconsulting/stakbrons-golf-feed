@@ -558,7 +558,7 @@ def _top_picks_by_market(picks: list[dict[str, Any]], k: int) -> dict[str, list[
     Prioriterar edge% när det finns (riktiga odds), annars bara modellprob.
     """
     out: dict[str, list[dict[str, Any]]] = {}
-    for market in ("win", "top5", "top10", "top20"):
+    for market in ("win", "top5", "top10", "top20", "cut"):
         # Sortera per-marknadsvyn på modellsannolikhet (favoriter först).
         # Edge visas som annotation per rad. Detta håller longshot-brus borta
         # från flik-vyn — "Bästa edges"-listan (topEdges) är den edge-sorterade.
