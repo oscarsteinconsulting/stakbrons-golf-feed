@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T20:10:46+00:00",
+  "generatedAt": "2026-06-14T22:14:53+00:00",
   "tournaments": [
     {
       "id": "live-rbc-canadian-open",
@@ -10,121 +10,35 @@
       "startDate": "2026-06-11T04:00Z",
       "par": 71,
       "yards": 0,
-      "statusDetail": "Round 4 - In Progress",
-      "status": "live",
+      "statusDetail": "Round 4 - Play Complete",
+      "status": "final",
       "currentRound": 4,
       "reports": {
-        "onsdag": {
-          "kind": "preview",
-          "locked": false,
-          "generatedAt": "2026-06-14T20:10:50+00:00",
-          "headline": "Svensson jagar kanadensiska miljoner när Hovland och Fitzpatrick anfaller på hemmaplan",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "RBC Canadian Open lockar återigen PGA Tours elit till Kanada, med Viktor Hovland och Matt Fitzpatrick som favoriter att hålla koll på. Jesper Svensson åker in bland världseliten på plats 16 i fältlistan, vilket talar för stabil form från svensken under säsongen. Tommy Fleetwood och Wyndham Clark representerar en stark europeisk fraktion, men värt att notera är också hemmahoppen Justin Matthews och Matthew Anderson som kan dra nytta av hemmaplan. Topplaceringen för relativt okända namn som Bud Cauley och Jimmy Stanger antyder att detta kan bli en öppen turnering där form spelar större roll än ranking."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "Banan & schemat",
-              "b": "Bana: —\nStarttid runda 1: Thursday 11 June 2026"
-            },
-            {
-              "icon": "person.3.fill",
-              "h": "Fältöversikt",
-              "b": "147 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskar i fältet",
-              "b": "1 svensk kvar i fältet.\n\n—  Jesper Svensson  -11  (i röda siffror)"
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-preview-w1",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Bud Cauley",
-              "svs": 1.54,
-              "mkt": 0,
-              "units": 1.0,
-              "conf": 3,
-              "rat": "Bud Cauley är en av SS:s top-1 favoriter pre-tournament (odds 1.54). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w2",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Jackson Suber",
-              "svs": 3.75,
-              "mkt": 0,
-              "units": 1.0,
-              "conf": 3,
-              "rat": "Jackson Suber är en av SS:s top-2 favoriter pre-tournament (odds 3.75). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w3",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Jimmy Stanger",
-              "svs": 9.0,
-              "mkt": 0,
-              "units": 0.7,
-              "conf": 2,
-              "rat": "Jimmy Stanger är en av SS:s top-3 favoriter pre-tournament (odds 9.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w4",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Matt Fitzpatrick",
-              "svs": 15.0,
-              "mkt": 0,
-              "units": 0.7,
-              "conf": 2,
-              "rat": "Matt Fitzpatrick är en av SS:s top-4 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w5",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Viktor Hovland",
-              "svs": 67.0,
-              "mkt": 0,
-              "units": 0.7,
-              "conf": 2,
-              "rat": "Viktor Hovland är en av SS:s top-5 favoriter pre-tournament (odds 67.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            }
-          ]
-        },
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:10:53+00:00",
-          "headline": "Cauley spricker loss med -16 – Hovland i jakt på kanadensisk krona",
+          "generatedAt": "2026-06-14T22:14:55+00:00",
+          "headline": "Cauley knäcker kanadensarna – Svensson delar femteplats på -13",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Bud Cauley dominerar efter första omgången med imponerande 16 under par, två slag före amerikanska följeslagarna Jimmy Stanger och Jackson Suber, medan Matt Fitzpatrick på fjärde plats ligger tre slag efter ledaren. Viktor Hovland är närmaste europé på delad femte plats tre slag efter Cauley, men ett flertal namn från både PGA Tour och europeiska turen – inklusive engelmännen Fitzpatrick och Fleetwood – ligger redan inom räckhåll på raden omkring 11-14 under par. Jesper Svensson ligger inte i topp 15, vilket innebär att svensken har arbete framför sig under de kommande rundorna för att få reell chans på topplacering."
+              "b": "Bud Cauley dominerade RBC Canadian Open och tog första plats med 17 under par, två slag före engelske Matt Fitzpatrick. Norske Viktor Hovland placerade sig på tredje plats tre slag efter ledaren. Jesper Svensson levererade en solid insats och slutade delad sjätte på 13 under par, vilket placerar honom bland tävlingens bättre prestatörer, medan amerikanske Brice Garnett och Jimmy Stanger tillsammans med Svensson delade samma poäng på den positionen."
             },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R1)",
-              "b": "—  Bud Cauley  -16\n—  Jimmy Stanger  -15\n—  Jackson Suber  -15\n—  Matt Fitzpatrick  -14\n—  Viktor Hovland  -13\n—  Aldrich Potgieter  -12\n—  Justin Matthews  -12\n—  Ryan Fox  -12\n—  Sam Burns  -12\n—  Brice Garnett  -12\n\nKälla: ESPN."
+              "b": "—  Bud Cauley  -17\n—  Matt Fitzpatrick  -15\n—  Viktor Hovland  -14\n—  Jimmy Stanger  -13\n—  Brice Garnett  -13\n—  Jesper Svensson  -13\n—  Jackson Suber  -13\n—  Aldrich Potgieter  -12\n—  Sudarshan Yellamaraju  -12\n—  Ryan Fox  -12\n\nKälla: ESPN."
             },
             {
               "icon": "flag.fill",
               "h": "🇸🇪 Svenskkollen",
-              "b": "1 svensk kvar i fältet.\n\n—  Jesper Svensson  -11  (i röda siffror)"
+              "b": "1 svensk kvar i fältet.\n\n—  Jesper Svensson  -13  (i röda siffror)"
             },
             {
               "icon": "scope",
               "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
+              "b": "Topp 10 ligger inom 5 slag från ledaren. 2 spelare inom 3 slag — vinnar-poolen är smal."
             },
             {
               "icon": "wave.3.right",
@@ -142,87 +56,87 @@
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Bud Cauley leder fältet på -16 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+              "rat": "Bud Cauley leder fältet på -17 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
             },
             {
               "id": "auto-r1-w2",
               "cat": "🤖 Vinnare (värde)",
-              "sel": "Jackson Suber",
-              "svs": 12.0,
+              "sel": "Viktor Hovland",
+              "svs": 20.0,
               "mkt": 0,
               "units": 0.75,
               "conf": 2,
-              "rat": "Jackson Suber ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+              "rat": "Viktor Hovland ligger 3 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
             },
             {
               "id": "auto-r1-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Jimmy Stanger",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Jimmy Stanger (-15) sitter i topp-skiktet ett slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r1-t5-3",
               "cat": "🤖 Topp 5",
               "sel": "Matt Fitzpatrick",
               "svs": 2.8,
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Matt Fitzpatrick (-14) sitter i topp-skiktet 2 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Matt Fitzpatrick (-15) sitter i topp-skiktet 2 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r1-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Jimmy Stanger",
+              "svs": 3.4,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Jimmy Stanger (-13) sitter i topp-skiktet 4 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r1-t10-5",
               "cat": "🤖 Topp 10",
-              "sel": "Aldrich Potgieter",
+              "sel": "Jesper Svensson",
               "svs": 2.6,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Jesper Svensson (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
+            },
+            {
+              "id": "auto-r1-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Aldrich Potgieter",
+              "svs": 2.8,
               "mkt": 0,
               "units": 1,
               "conf": 3,
               "rat": "Aldrich Potgieter (-12) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
             },
             {
-              "id": "auto-r1-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Ryan Fox",
-              "svs": 2.6,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Ryan Fox (-12) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
-            },
-            {
               "id": "auto-r1-t20-14",
               "cat": "🤖 Topp 20",
-              "sel": "Tommy Fleetwood",
-              "svs": 2.0,
+              "sel": "Tom Kim",
+              "svs": 2.2,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Tommy Fleetwood (-11) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+              "rat": "Tom Kim (-10) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
             },
             {
               "id": "auto-r1-t20-18",
               "cat": "🤖 Topp 20",
-              "sel": "Doug Ghim",
-              "svs": 2.1,
+              "sel": "Billy Horschel",
+              "svs": 2.2,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Doug Ghim (-10) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+              "rat": "Billy Horschel (-10) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
             },
             {
               "id": "auto-r1-low",
               "cat": "🤖 Lägsta runda R2",
-              "sel": "David Skinns",
+              "sel": "Jacob Bridgeman",
               "svs": 12.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "David Skinns (-11) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+              "rat": "Jacob Bridgeman (-11) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
             },
             {
               "id": "auto-r1-bf",
@@ -239,28 +153,28 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:10:58+00:00",
-          "headline": "Cauley sprinter iväg – Stanger och Suber på hälarna vid Canadian Open",
+          "generatedAt": "2026-06-14T22:14:59+00:00",
+          "headline": "Cauley vinner Canadian Open – Svensson femte på -13",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Bud Cauley leder RBC Canadian Open efter två rundor med imponerande sexton under par, ett slag före amerikanska Jimmy Stanger och Jackson Suber. Cauleys stabilitet från fairway har gjort skillnaden – en kombination av träffsäkerhet från långvägen och effektiv puttning på grönerna håller honom i täten. Förföljarna Stanger och Suber håller tätt, men Fitzpatrick på fjärde plats minus fjorton och Hovland på femte minns alla att en omställning uppifrån skulle öppna upp turneringen radikalt. Svensson rapporteras inte placerad bland ledande, vilket tydliggör gapet mellan toppen och övriga fältet innan slutrundorna."
+              "b": "Bud Cauley vann RBC Canadian Open två slag före engelske Matt Fitzpatrick efter en stabil avslutning på -17. Norske Viktor Hovland slutade på tredje plats tre slag bakom segraren, medan Jesper Svensson höll sig i täten genom turneringen och slutade delad sjätte på -13 tillsammans med amerikanske Jimmy Stanger och Brice Garnett. Svenskens placering bekräftar hans stabilitet på PGA Tour, även om han inte kunde hålla jämna steg med Cauleys slutspurt."
             },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R2)",
-              "b": "—  Bud Cauley  -16\n—  Jimmy Stanger  -15\n—  Jackson Suber  -15\n—  Matt Fitzpatrick  -14\n—  Viktor Hovland  -13\n—  Aldrich Potgieter  -12\n—  Justin Matthews  -12\n—  Ryan Fox  -12\n—  Sam Burns  -12\n—  Brice Garnett  -12\n\nKälla: ESPN."
+              "b": "—  Bud Cauley  -17\n—  Matt Fitzpatrick  -15\n—  Viktor Hovland  -14\n—  Jimmy Stanger  -13\n—  Brice Garnett  -13\n—  Jesper Svensson  -13\n—  Jackson Suber  -13\n—  Aldrich Potgieter  -12\n—  Sudarshan Yellamaraju  -12\n—  Ryan Fox  -12\n\nKälla: ESPN."
             },
             {
               "icon": "flag.fill",
               "h": "🇸🇪 Svenskkollen",
-              "b": "1 svensk kvar i fältet.\n\n—  Jesper Svensson  -11  (i röda siffror)"
+              "b": "1 svensk kvar i fältet.\n\n—  Jesper Svensson  -13  (i röda siffror)"
             },
             {
               "icon": "scope",
               "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
+              "b": "Topp 10 ligger inom 5 slag från ledaren. 2 spelare inom 3 slag — vinnar-poolen är smal."
             },
             {
               "icon": "wave.3.right",
@@ -278,87 +192,87 @@
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Bud Cauley leder fältet på -16 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+              "rat": "Bud Cauley leder fältet på -17 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
             },
             {
               "id": "auto-r2-w2",
               "cat": "🤖 Vinnare (värde)",
-              "sel": "Jackson Suber",
-              "svs": 7.5,
+              "sel": "Viktor Hovland",
+              "svs": 12.5,
               "mkt": 0,
               "units": 0.75,
               "conf": 2,
-              "rat": "Jackson Suber ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+              "rat": "Viktor Hovland ligger 3 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
             },
             {
               "id": "auto-r2-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Jimmy Stanger",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Jimmy Stanger (-15) sitter i topp-skiktet ett slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r2-t5-3",
               "cat": "🤖 Topp 5",
               "sel": "Matt Fitzpatrick",
               "svs": 2.8,
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Matt Fitzpatrick (-14) sitter i topp-skiktet 2 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Matt Fitzpatrick (-15) sitter i topp-skiktet 2 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r2-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Jimmy Stanger",
+              "svs": 3.4,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Jimmy Stanger (-13) sitter i topp-skiktet 4 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r2-t10-5",
               "cat": "🤖 Topp 10",
-              "sel": "Aldrich Potgieter",
+              "sel": "Jesper Svensson",
               "svs": 2.6,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Jesper Svensson (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
+            },
+            {
+              "id": "auto-r2-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Aldrich Potgieter",
+              "svs": 2.8,
               "mkt": 0,
               "units": 1,
               "conf": 3,
               "rat": "Aldrich Potgieter (-12) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
             },
             {
-              "id": "auto-r2-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Ryan Fox",
-              "svs": 2.6,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Ryan Fox (-12) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
-            },
-            {
               "id": "auto-r2-t20-14",
               "cat": "🤖 Topp 20",
-              "sel": "Tommy Fleetwood",
-              "svs": 2.0,
+              "sel": "Tom Kim",
+              "svs": 2.2,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Tommy Fleetwood (-11) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+              "rat": "Tom Kim (-10) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
             },
             {
               "id": "auto-r2-t20-18",
               "cat": "🤖 Topp 20",
-              "sel": "Doug Ghim",
-              "svs": 2.1,
+              "sel": "Billy Horschel",
+              "svs": 2.2,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Doug Ghim (-10) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+              "rat": "Billy Horschel (-10) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
             },
             {
               "id": "auto-r2-low",
               "cat": "🤖 Lägsta runda R3",
-              "sel": "David Skinns",
+              "sel": "Jacob Bridgeman",
               "svs": 12.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "David Skinns (-11) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+              "rat": "Jacob Bridgeman (-11) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
             },
             {
               "id": "auto-r2-bf",
@@ -375,28 +289,28 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:11:04+00:00",
-          "headline": "Cauley går på två slag före Stanger och Suber – Svensson kämpar längre ned",
+          "generatedAt": "2026-06-14T22:15:03+00:00",
+          "headline": "Cauley dominerar Canadian Open – Svensson delar fjärde på -13",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Bud Cauley leder RBC Canadian Open efter tre rundor med 16 under par, ett slag före amerikanen Jimmy Stanger och Jackson Suber som delar andraplats. Cauleys stabilitet slår genom i en tätt samlad topp där engelske Matt Fitzpatrick på 14 under par är närmaste utmanare bland européerna, medan norske Viktor Hovland på 13 under par fortfarande är i räckhåll. Finalen lovar att bli öppen – endast fyra slag skiljer ledaren från sjundeplats – och Cauley måste hålla sitt fokus på den sista rundan för att säkra segern, medan jaktgruppen runt Stanger och Suber har realistiska vinnarchancer om Cauley tappar form."
+              "b": "Bud Cauley dominerade RBC Canadian Open och siktar in sig på segern med två slag före engelske Matt Fitzpatrick på -15, medan norske Viktor Hovland följer på -14. Svenssons starka slutspurt placerade honom delad femte på -13, tillsammans med amerikanska Stanger, Garnett och Suber, vilket visar att svensken höll sig framme i ett tätt mittfält genom hela tävlingen. Cauley behöll sin ledning genom att leverera stabila omgångar under slutrundan och tycks ha för stor marginal för att jaga in för konkurrenterna från banan."
             },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R3)",
-              "b": "—  Bud Cauley  -16\n—  Jimmy Stanger  -15\n—  Jackson Suber  -15\n—  Matt Fitzpatrick  -14\n—  Viktor Hovland  -13\n—  Aldrich Potgieter  -12\n—  Justin Matthews  -12\n—  Ryan Fox  -12\n—  Sam Burns  -12\n—  Brice Garnett  -12\n\nKälla: ESPN."
+              "b": "—  Bud Cauley  -17\n—  Matt Fitzpatrick  -15\n—  Viktor Hovland  -14\n—  Jimmy Stanger  -13\n—  Brice Garnett  -13\n—  Jesper Svensson  -13\n—  Jackson Suber  -13\n—  Aldrich Potgieter  -12\n—  Sudarshan Yellamaraju  -12\n—  Ryan Fox  -12\n\nKälla: ESPN."
             },
             {
               "icon": "flag.fill",
               "h": "🇸🇪 Svenskkollen",
-              "b": "1 svensk kvar i fältet.\n\n—  Jesper Svensson  -11  (i röda siffror)"
+              "b": "1 svensk kvar i fältet.\n\n—  Jesper Svensson  -13  (i röda siffror)"
             },
             {
               "icon": "scope",
               "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
+              "b": "Topp 10 ligger inom 5 slag från ledaren. 2 spelare inom 3 slag — vinnar-poolen är smal."
             },
             {
               "icon": "wave.3.right",
@@ -414,87 +328,87 @@
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Bud Cauley leder fältet på -16 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+              "rat": "Bud Cauley leder fältet på -17 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
             },
             {
               "id": "auto-r3-w2",
               "cat": "🤖 Vinnare (värde)",
-              "sel": "Jackson Suber",
-              "svs": 4.0,
+              "sel": "Viktor Hovland",
+              "svs": 6.25,
               "mkt": 0,
               "units": 0.75,
               "conf": 2,
-              "rat": "Jackson Suber ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+              "rat": "Viktor Hovland ligger 3 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
             },
             {
               "id": "auto-r3-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Jimmy Stanger",
-              "svs": 1.9,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Jimmy Stanger (-15) sitter i topp-skiktet ett slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r3-t5-3",
               "cat": "🤖 Topp 5",
               "sel": "Matt Fitzpatrick",
               "svs": 2.1,
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Matt Fitzpatrick (-14) sitter i topp-skiktet 2 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Matt Fitzpatrick (-15) sitter i topp-skiktet 2 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r3-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Jimmy Stanger",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Jimmy Stanger (-13) sitter i topp-skiktet 4 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r3-t10-5",
               "cat": "🤖 Topp 10",
-              "sel": "Aldrich Potgieter",
+              "sel": "Jesper Svensson",
               "svs": 1.8,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Jesper Svensson (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
+            },
+            {
+              "id": "auto-r3-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Aldrich Potgieter",
+              "svs": 1.9,
               "mkt": 0,
               "units": 1,
               "conf": 3,
               "rat": "Aldrich Potgieter (-12) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
             },
             {
-              "id": "auto-r3-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Ryan Fox",
-              "svs": 1.8,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Ryan Fox (-12) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
-            },
-            {
               "id": "auto-r3-t20-14",
               "cat": "🤖 Topp 20",
-              "sel": "Tommy Fleetwood",
-              "svs": 1.45,
+              "sel": "Tom Kim",
+              "svs": 1.55,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Tommy Fleetwood (-11) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+              "rat": "Tom Kim (-10) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
             },
             {
               "id": "auto-r3-t20-18",
               "cat": "🤖 Topp 20",
-              "sel": "Doug Ghim",
-              "svs": 1.5,
+              "sel": "Billy Horschel",
+              "svs": 1.55,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Doug Ghim (-10) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+              "rat": "Billy Horschel (-10) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
             },
             {
               "id": "auto-r3-low",
               "cat": "🤖 Lägsta runda R4",
-              "sel": "David Skinns",
+              "sel": "Jacob Bridgeman",
               "svs": 12.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "David Skinns (-11) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+              "rat": "Jacob Bridgeman (-11) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
             },
             {
               "id": "auto-r3-bf",
@@ -511,28 +425,28 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:11:09+00:00",
-          "headline": "Cauley säger inte nej – amerikanen på -16 jagar sitt första PGA-seger",
+          "generatedAt": "2026-06-14T22:15:07+00:00",
+          "headline": "Cauley knäcker Canadian Open – Svensson delar fjärde på -13",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Bud Cauley leder RBC Canadian Open på -16 efter fjärde omgången och håller ett slag före både Jimmy Stanger och Jackson Suber, vars stabilitet under turneringen tyder på att förloppet är långt ifrån avgjort. Bakom ledaren finns flera seriösa utmanare — Matt Fitzpatrick två slag på efterkälken följs av ett tätt fält med Viktor Hovland och fem amerikaner inom två slag av toppen, vilket indikerar att söndagen kommer att bli öppen. Jesper Svensson är inte representerad i topp 15 och spelar därmed utan realistiska vinnarchancer inför avslutningsomgången."
+              "b": "Bud Cauley vann RBC Canadian Open med två slag före Matt Fitzpatrick efter en stabil finalrond där amerikanen undvek större misstag på de kritiska hålen. Viktor Hovland slutade på tredjeplats, två slag bakom Cauley, vilket säkerställde att PGA Tours norska stjärna återigen presterade på högsta nivå men inte räckte till för segern denna gång. Jesper Svensson delade en imponerande sjätte plats på -13, tillsammans med Stanger, Garnett och Suber, vilket visar ett starkt slutspurt från svensken under en tävling som krävde precision och mental styrka under pressen."
             },
             {
               "icon": "list.number",
-              "h": "Leaderboard live (R4)",
-              "b": "—  Bud Cauley  -16\n—  Jimmy Stanger  -15\n—  Jackson Suber  -15\n—  Matt Fitzpatrick  -14\n—  Viktor Hovland  -13\n—  Aldrich Potgieter  -12\n—  Justin Matthews  -12\n—  Ryan Fox  -12\n—  Sam Burns  -12\n—  Brice Garnett  -12\n\nKälla: ESPN."
+              "h": "Slutresultat",
+              "b": "—  Bud Cauley  -17\n—  Matt Fitzpatrick  -15\n—  Viktor Hovland  -14\n—  Jimmy Stanger  -13\n—  Brice Garnett  -13\n—  Jesper Svensson  -13\n—  Jackson Suber  -13\n—  Aldrich Potgieter  -12\n—  Sudarshan Yellamaraju  -12\n—  Ryan Fox  -12\n\nKälla: ESPN."
             },
             {
               "icon": "flag.fill",
               "h": "🇸🇪 Svenskkollen",
-              "b": "1 svensk kvar i fältet.\n\n—  Jesper Svensson  -11  (i röda siffror)"
+              "b": "1 svensk kvar i fältet.\n\n—  Jesper Svensson  -13  (i röda siffror)"
             },
             {
               "icon": "scope",
               "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
+              "b": "Topp 10 ligger inom 5 slag från ledaren. 2 spelare inom 3 slag — vinnar-poolen är smal."
             },
             {
               "icon": "wave.3.right",
@@ -550,87 +464,87 @@
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Bud Cauley leder fältet på -16 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+              "rat": "Bud Cauley leder fältet på -17 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
             },
             {
               "id": "auto-r4-w2",
               "cat": "🤖 Vinnare (värde)",
-              "sel": "Jackson Suber",
+              "sel": "Viktor Hovland",
               "svs": 4.0,
               "mkt": 0,
               "units": 0.75,
               "conf": 2,
-              "rat": "Jackson Suber ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+              "rat": "Viktor Hovland ligger 3 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
             },
             {
               "id": "auto-r4-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Jimmy Stanger",
-              "svs": 1.9,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Jimmy Stanger (-15) sitter i topp-skiktet ett slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r4-t5-3",
               "cat": "🤖 Topp 5",
               "sel": "Matt Fitzpatrick",
               "svs": 2.1,
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Matt Fitzpatrick (-14) sitter i topp-skiktet 2 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Matt Fitzpatrick (-15) sitter i topp-skiktet 2 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r4-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Jimmy Stanger",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Jimmy Stanger (-13) sitter i topp-skiktet 4 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r4-t10-5",
               "cat": "🤖 Topp 10",
-              "sel": "Aldrich Potgieter",
+              "sel": "Jesper Svensson",
               "svs": 1.8,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Jesper Svensson (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
+            },
+            {
+              "id": "auto-r4-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Aldrich Potgieter",
+              "svs": 1.9,
               "mkt": 0,
               "units": 1,
               "conf": 3,
               "rat": "Aldrich Potgieter (-12) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
             },
             {
-              "id": "auto-r4-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Ryan Fox",
-              "svs": 1.8,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Ryan Fox (-12) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
-            },
-            {
               "id": "auto-r4-t20-14",
               "cat": "🤖 Topp 20",
-              "sel": "Tommy Fleetwood",
-              "svs": 1.45,
+              "sel": "Tom Kim",
+              "svs": 1.55,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Tommy Fleetwood (-11) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+              "rat": "Tom Kim (-10) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
             },
             {
               "id": "auto-r4-t20-18",
               "cat": "🤖 Topp 20",
-              "sel": "Doug Ghim",
-              "svs": 1.5,
+              "sel": "Billy Horschel",
+              "svs": 1.55,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Doug Ghim (-10) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+              "rat": "Billy Horschel (-10) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
             },
             {
               "id": "auto-r4-low",
               "cat": "🤖 Lägsta runda R5",
-              "sel": "David Skinns",
+              "sel": "Jacob Bridgeman",
               "svs": 12.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "David Skinns (-11) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+              "rat": "Jacob Bridgeman (-11) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
             },
             {
               "id": "auto-r4-bf",
@@ -644,1579 +558,6 @@
             }
           ]
         }
-      },
-      "edge": {
-        "modelVersion": "0.5.0",
-        "simulations": 10000,
-        "remainingRounds": 1,
-        "completedRounds": 3,
-        "roundStarted": true,
-        "sigmaPerRound": 2.8,
-        "assumedSSVig": 0.1,
-        "fieldSize": 147,
-        "hasRealOdds": true,
-        "independentRanking": true,
-        "rankingSource": "OWGR/DG",
-        "picks": [
-          {
-            "name": "Bud Cauley",
-            "mu": -5.33,
-            "muSource": "3r form",
-            "completedScore": -16,
-            "markets": {
-              "win": {
-                "prob": 0.389,
-                "fairOdds": 2.57,
-                "realSSOdds": 1.54,
-                "edgePct": -0.4009,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.8686,
-                "fairOdds": 1.15,
-                "estimatedSSOdds": 1.03,
-                "confidence": "Stark"
-              },
-              "top10": {
-                "prob": 0.9725,
-                "fairOdds": 1.03,
-                "estimatedSSOdds": 0.93,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.999,
-                "fairOdds": 1.0,
-                "estimatedSSOdds": 0.9,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Jackson Suber",
-            "mu": -5.0,
-            "muSource": "3r form",
-            "completedScore": -15,
-            "markets": {
-              "win": {
-                "prob": 0.1971,
-                "fairOdds": 5.07,
-                "realSSOdds": 3.75,
-                "edgePct": -0.2609,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.7346,
-                "fairOdds": 1.36,
-                "estimatedSSOdds": 1.22,
-                "confidence": "Stark"
-              },
-              "top10": {
-                "prob": 0.9248,
-                "fairOdds": 1.08,
-                "estimatedSSOdds": 0.97,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.9909,
-                "fairOdds": 1.01,
-                "estimatedSSOdds": 0.91,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Jimmy Stanger",
-            "mu": -5.0,
-            "muSource": "3r form",
-            "completedScore": -15,
-            "markets": {
-              "win": {
-                "prob": 0.1904,
-                "fairOdds": 5.25,
-                "realSSOdds": 9.0,
-                "edgePct": 0.7136,
-                "kellyFraction": 0.0223,
-                "recommendedStakePct": 2.23,
-                "confidence": "Spelvärt"
-              },
-              "top5": {
-                "prob": 0.7299,
-                "fairOdds": 1.37,
-                "estimatedSSOdds": 1.23,
-                "confidence": "Stark"
-              },
-              "top10": {
-                "prob": 0.921,
-                "fairOdds": 1.09,
-                "estimatedSSOdds": 0.98,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.9906,
-                "fairOdds": 1.01,
-                "estimatedSSOdds": 0.91,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Matt Fitzpatrick",
-            "mu": -4.67,
-            "muSource": "3r form",
-            "completedScore": -14,
-            "markets": {
-              "win": {
-                "prob": 0.0859,
-                "fairOdds": 11.64,
-                "realSSOdds": 15.0,
-                "edgePct": 0.2885,
-                "kellyFraction": 0.0052,
-                "recommendedStakePct": 0.52,
-                "confidence": "Spelvärt"
-              },
-              "top5": {
-                "prob": 0.5443,
-                "fairOdds": 1.84,
-                "estimatedSSOdds": 1.66,
-                "confidence": "Stark"
-              },
-              "top10": {
-                "prob": 0.8227,
-                "fairOdds": 1.22,
-                "estimatedSSOdds": 1.1,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.9733,
-                "fairOdds": 1.03,
-                "estimatedSSOdds": 0.93,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Viktor Hovland",
-            "mu": -4.33,
-            "muSource": "3r form",
-            "completedScore": -13,
-            "markets": {
-              "win": {
-                "prob": 0.0398,
-                "fairOdds": 25.13,
-                "realSSOdds": 67.0,
-                "edgePct": 1.6666,
-                "kellyFraction": 0.0063,
-                "recommendedStakePct": 0.63,
-                "confidence": "Spelvärt"
-              },
-              "top5": {
-                "prob": 0.3542,
-                "fairOdds": 2.82,
-                "estimatedSSOdds": 2.54,
-                "confidence": "Stark"
-              },
-              "top10": {
-                "prob": 0.673,
-                "fairOdds": 1.49,
-                "estimatedSSOdds": 1.34,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.9295,
-                "fairOdds": 1.08,
-                "estimatedSSOdds": 0.97,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Brice Garnett",
-            "mu": -4.0,
-            "muSource": "3r form",
-            "completedScore": -12,
-            "markets": {
-              "win": {
-                "prob": 0.0153,
-                "fairOdds": 65.36,
-                "estimatedSSOdds": 58.82,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.1988,
-                "fairOdds": 5.03,
-                "estimatedSSOdds": 4.53,
-                "confidence": "Lutar"
-              },
-              "top10": {
-                "prob": 0.4841,
-                "fairOdds": 2.07,
-                "estimatedSSOdds": 1.86,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.8379,
-                "fairOdds": 1.19,
-                "estimatedSSOdds": 1.07,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Justin Matthews",
-            "mu": -4.0,
-            "muSource": "3r form",
-            "completedScore": -12,
-            "markets": {
-              "win": {
-                "prob": 0.014,
-                "fairOdds": 71.43,
-                "estimatedSSOdds": 64.29,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.1953,
-                "fairOdds": 5.12,
-                "estimatedSSOdds": 4.61,
-                "confidence": "Lutar"
-              },
-              "top10": {
-                "prob": 0.4995,
-                "fairOdds": 2.0,
-                "estimatedSSOdds": 1.8,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.8451,
-                "fairOdds": 1.18,
-                "estimatedSSOdds": 1.06,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Sam Burns",
-            "mu": -4.0,
-            "muSource": "3r form",
-            "completedScore": -12,
-            "markets": {
-              "win": {
-                "prob": 0.0136,
-                "fairOdds": 73.53,
-                "estimatedSSOdds": 66.18,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.1954,
-                "fairOdds": 5.12,
-                "estimatedSSOdds": 4.61,
-                "confidence": "Lutar"
-              },
-              "top10": {
-                "prob": 0.4889,
-                "fairOdds": 2.05,
-                "estimatedSSOdds": 1.84,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.839,
-                "fairOdds": 1.19,
-                "estimatedSSOdds": 1.07,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Ryan Fox",
-            "mu": -4.0,
-            "muSource": "3r form",
-            "completedScore": -12,
-            "markets": {
-              "win": {
-                "prob": 0.0132,
-                "fairOdds": 75.76,
-                "estimatedSSOdds": 68.18,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.1917,
-                "fairOdds": 5.22,
-                "estimatedSSOdds": 4.7,
-                "confidence": "Lutar"
-              },
-              "top10": {
-                "prob": 0.4897,
-                "fairOdds": 2.04,
-                "estimatedSSOdds": 1.84,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.8423,
-                "fairOdds": 1.19,
-                "estimatedSSOdds": 1.07,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Aldrich Potgieter",
-            "mu": -4.0,
-            "muSource": "3r form",
-            "completedScore": -12,
-            "markets": {
-              "win": {
-                "prob": 0.0103,
-                "fairOdds": 97.09,
-                "estimatedSSOdds": 87.38,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.1927,
-                "fairOdds": 5.19,
-                "estimatedSSOdds": 4.67,
-                "confidence": "Lutar"
-              },
-              "top10": {
-                "prob": 0.4812,
-                "fairOdds": 2.08,
-                "estimatedSSOdds": 1.87,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.8441,
-                "fairOdds": 1.18,
-                "estimatedSSOdds": 1.06,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Wyndham Clark",
-            "mu": -3.67,
-            "muSource": "3r form",
-            "completedScore": -11,
-            "markets": {
-              "win": {
-                "prob": 0.0049,
-                "fairOdds": 204.08,
-                "estimatedSSOdds": 183.67,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0893,
-                "fairOdds": 11.2,
-                "estimatedSSOdds": 10.08,
-                "confidence": "Jämn"
-              },
-              "top10": {
-                "prob": 0.3022,
-                "fairOdds": 3.31,
-                "estimatedSSOdds": 2.98,
-                "confidence": "Lutar"
-              },
-              "top20": {
-                "prob": 0.6993,
-                "fairOdds": 1.43,
-                "estimatedSSOdds": 1.29,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "David Skinns",
-            "mu": -3.67,
-            "muSource": "3r form",
-            "completedScore": -11,
-            "markets": {
-              "win": {
-                "prob": 0.0047,
-                "fairOdds": 212.77,
-                "estimatedSSOdds": 191.49,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0905,
-                "fairOdds": 11.05,
-                "estimatedSSOdds": 9.95,
-                "confidence": "Jämn"
-              },
-              "top10": {
-                "prob": 0.3073,
-                "fairOdds": 3.25,
-                "estimatedSSOdds": 2.93,
-                "confidence": "Lutar"
-              },
-              "top20": {
-                "prob": 0.697,
-                "fairOdds": 1.43,
-                "estimatedSSOdds": 1.29,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Jesper Svensson",
-            "mu": -3.67,
-            "muSource": "3r form",
-            "completedScore": -11,
-            "markets": {
-              "win": {
-                "prob": 0.0046,
-                "fairOdds": 217.39,
-                "estimatedSSOdds": 195.65,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0928,
-                "fairOdds": 10.78,
-                "estimatedSSOdds": 9.7,
-                "confidence": "Jämn"
-              },
-              "top10": {
-                "prob": 0.311,
-                "fairOdds": 3.22,
-                "estimatedSSOdds": 2.9,
-                "confidence": "Lutar"
-              },
-              "top20": {
-                "prob": 0.6975,
-                "fairOdds": 1.43,
-                "estimatedSSOdds": 1.29,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Matthew Anderson",
-            "mu": -3.67,
-            "muSource": "3r form",
-            "completedScore": -11,
-            "markets": {
-              "win": {
-                "prob": 0.0039,
-                "fairOdds": 256.41,
-                "estimatedSSOdds": 230.77,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0897,
-                "fairOdds": 11.15,
-                "estimatedSSOdds": 10.04,
-                "confidence": "Jämn"
-              },
-              "top10": {
-                "prob": 0.2959,
-                "fairOdds": 3.38,
-                "estimatedSSOdds": 3.04,
-                "confidence": "Lutar"
-              },
-              "top20": {
-                "prob": 0.696,
-                "fairOdds": 1.44,
-                "estimatedSSOdds": 1.3,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Tommy Fleetwood",
-            "mu": -3.67,
-            "muSource": "3r form",
-            "completedScore": -11,
-            "markets": {
-              "win": {
-                "prob": 0.0037,
-                "fairOdds": 270.27,
-                "estimatedSSOdds": 243.24,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0909,
-                "fairOdds": 11.0,
-                "estimatedSSOdds": 9.9,
-                "confidence": "Jämn"
-              },
-              "top10": {
-                "prob": 0.2985,
-                "fairOdds": 3.35,
-                "estimatedSSOdds": 3.02,
-                "confidence": "Lutar"
-              },
-              "top20": {
-                "prob": 0.6895,
-                "fairOdds": 1.45,
-                "estimatedSSOdds": 1.3,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Sudarshan Yellamaraju",
-            "mu": -3.67,
-            "muSource": "3r form",
-            "completedScore": -11,
-            "markets": {
-              "win": {
-                "prob": 0.0035,
-                "fairOdds": 285.71,
-                "estimatedSSOdds": 257.14,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0947,
-                "fairOdds": 10.56,
-                "estimatedSSOdds": 9.5,
-                "confidence": "Jämn"
-              },
-              "top10": {
-                "prob": 0.3101,
-                "fairOdds": 3.22,
-                "estimatedSSOdds": 2.9,
-                "confidence": "Lutar"
-              },
-              "top20": {
-                "prob": 0.6958,
-                "fairOdds": 1.44,
-                "estimatedSSOdds": 1.3,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Chandler Phillips",
-            "mu": -3.33,
-            "muSource": "3r form",
-            "completedScore": -10,
-            "markets": {
-              "win": {
-                "prob": 0.0017,
-                "fairOdds": 588.24,
-                "estimatedSSOdds": 529.42,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0383,
-                "fairOdds": 26.11,
-                "estimatedSSOdds": 23.5,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.1686,
-                "fairOdds": 5.93,
-                "estimatedSSOdds": 5.34,
-                "confidence": "Jämn"
-              },
-              "top20": {
-                "prob": 0.5212,
-                "fairOdds": 1.92,
-                "estimatedSSOdds": 1.73,
-                "confidence": "Lutar"
-              }
-            }
-          },
-          {
-            "name": "Doug Ghim",
-            "mu": -3.33,
-            "muSource": "3r form",
-            "completedScore": -10,
-            "markets": {
-              "win": {
-                "prob": 0.0015,
-                "fairOdds": 666.67,
-                "estimatedSSOdds": 600.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0367,
-                "fairOdds": 27.25,
-                "estimatedSSOdds": 24.53,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.1623,
-                "fairOdds": 6.16,
-                "estimatedSSOdds": 5.54,
-                "confidence": "Jämn"
-              },
-              "top20": {
-                "prob": 0.5147,
-                "fairOdds": 1.94,
-                "estimatedSSOdds": 1.75,
-                "confidence": "Lutar"
-              }
-            }
-          },
-          {
-            "name": "Tom Kim",
-            "mu": -3.33,
-            "muSource": "3r form",
-            "completedScore": -10,
-            "markets": {
-              "win": {
-                "prob": 0.0009,
-                "fairOdds": 1111.11,
-                "estimatedSSOdds": 1000.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0347,
-                "fairOdds": 28.82,
-                "estimatedSSOdds": 25.94,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.1672,
-                "fairOdds": 5.98,
-                "estimatedSSOdds": 5.38,
-                "confidence": "Jämn"
-              },
-              "top20": {
-                "prob": 0.5236,
-                "fairOdds": 1.91,
-                "estimatedSSOdds": 1.72,
-                "confidence": "Lutar"
-              }
-            }
-          },
-          {
-            "name": "Billy Horschel",
-            "mu": -3.0,
-            "muSource": "3r form",
-            "completedScore": -9,
-            "markets": {
-              "win": {
-                "prob": 0.0006,
-                "fairOdds": 1666.67,
-                "estimatedSSOdds": 1500.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0123,
-                "fairOdds": 81.3,
-                "estimatedSSOdds": 73.17,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0726,
-                "fairOdds": 13.77,
-                "estimatedSSOdds": 12.39,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.3338,
-                "fairOdds": 3.0,
-                "estimatedSSOdds": 2.7,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Emiliano Grillo",
-            "mu": -3.0,
-            "muSource": "3r form",
-            "completedScore": -9,
-            "markets": {
-              "win": {
-                "prob": 0.0003,
-                "fairOdds": 3333.33,
-                "estimatedSSOdds": 3000.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0124,
-                "fairOdds": 80.65,
-                "estimatedSSOdds": 72.59,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0726,
-                "fairOdds": 13.77,
-                "estimatedSSOdds": 12.39,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.3269,
-                "fairOdds": 3.06,
-                "estimatedSSOdds": 2.75,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Robert MacIntyre",
-            "mu": -3.0,
-            "muSource": "3r form",
-            "completedScore": -9,
-            "markets": {
-              "win": {
-                "prob": 0.0003,
-                "fairOdds": 3333.33,
-                "estimatedSSOdds": 3000.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0118,
-                "fairOdds": 84.75,
-                "estimatedSSOdds": 76.28,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0731,
-                "fairOdds": 13.68,
-                "estimatedSSOdds": 12.31,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.3316,
-                "fairOdds": 3.02,
-                "estimatedSSOdds": 2.72,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Matthieu Pavon",
-            "mu": -3.0,
-            "muSource": "3r form",
-            "completedScore": -9,
-            "markets": {
-              "win": {
-                "prob": 0.0002,
-                "fairOdds": 5000.0,
-                "estimatedSSOdds": 4500.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0126,
-                "fairOdds": 79.37,
-                "estimatedSSOdds": 71.43,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0745,
-                "fairOdds": 13.42,
-                "estimatedSSOdds": 12.08,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.3285,
-                "fairOdds": 3.04,
-                "estimatedSSOdds": 2.74,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Alex Fitzpatrick",
-            "mu": -3.0,
-            "muSource": "3r form",
-            "completedScore": -9,
-            "markets": {
-              "win": {
-                "prob": 0.0002,
-                "fairOdds": 5000.0,
-                "estimatedSSOdds": 4500.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0134,
-                "fairOdds": 74.63,
-                "estimatedSSOdds": 67.17,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0716,
-                "fairOdds": 13.97,
-                "estimatedSSOdds": 12.57,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.3294,
-                "fairOdds": 3.04,
-                "estimatedSSOdds": 2.74,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "William Mouw",
-            "mu": -3.0,
-            "muSource": "3r form",
-            "completedScore": -9,
-            "markets": {
-              "win": {
-                "prob": 0.0002,
-                "fairOdds": 5000.0,
-                "estimatedSSOdds": 4500.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0126,
-                "fairOdds": 79.37,
-                "estimatedSSOdds": 71.43,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0718,
-                "fairOdds": 13.93,
-                "estimatedSSOdds": 12.54,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.3375,
-                "fairOdds": 2.96,
-                "estimatedSSOdds": 2.66,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Erik van Rooyen",
-            "mu": -3.0,
-            "muSource": "3r form",
-            "completedScore": -9,
-            "markets": {
-              "win": {
-                "prob": 0.0001,
-                "fairOdds": 10000.0,
-                "estimatedSSOdds": 9000.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0107,
-                "fairOdds": 93.46,
-                "estimatedSSOdds": 84.11,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0692,
-                "fairOdds": 14.45,
-                "estimatedSSOdds": 13.0,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.3261,
-                "fairOdds": 3.07,
-                "estimatedSSOdds": 2.76,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Keith Mitchell",
-            "mu": -2.67,
-            "muSource": "3r form",
-            "completedScore": -8,
-            "markets": {
-              "win": {
-                "prob": 0.0001,
-                "fairOdds": 10000.0,
-                "estimatedSSOdds": 9000.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0041,
-                "fairOdds": 243.9,
-                "estimatedSSOdds": 219.51,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0265,
-                "fairOdds": 37.74,
-                "estimatedSSOdds": 33.97,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.1815,
-                "fairOdds": 5.51,
-                "estimatedSSOdds": 4.96,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Jacob Bridgeman",
-            "mu": -3.0,
-            "muSource": "3r form",
-            "completedScore": -9,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0123,
-                "fairOdds": 81.3,
-                "estimatedSSOdds": 73.17,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0753,
-                "fairOdds": 13.28,
-                "estimatedSSOdds": 11.95,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.3341,
-                "fairOdds": 2.99,
-                "estimatedSSOdds": 2.69,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Takumi Kanaya",
-            "mu": -2.67,
-            "muSource": "3r form",
-            "completedScore": -8,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.002,
-                "fairOdds": 500.0,
-                "estimatedSSOdds": 450.0,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.028,
-                "fairOdds": 35.71,
-                "estimatedSSOdds": 32.14,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.1786,
-                "fairOdds": 5.6,
-                "estimatedSSOdds": 5.04,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "A.J. Ewart",
-            "mu": -2.67,
-            "muSource": "3r form",
-            "completedScore": -8,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0034,
-                "fairOdds": 294.12,
-                "estimatedSSOdds": 264.71,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0258,
-                "fairOdds": 38.76,
-                "estimatedSSOdds": 34.88,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.1792,
-                "fairOdds": 5.58,
-                "estimatedSSOdds": 5.02,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Ben Kohles",
-            "mu": -2.67,
-            "muSource": "3r form",
-            "completedScore": -8,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0034,
-                "fairOdds": 294.12,
-                "estimatedSSOdds": 264.71,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0266,
-                "fairOdds": 37.59,
-                "estimatedSSOdds": 33.83,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.1788,
-                "fairOdds": 5.59,
-                "estimatedSSOdds": 5.03,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Kevin Yu",
-            "mu": -2.67,
-            "muSource": "3r form",
-            "completedScore": -8,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0027,
-                "fairOdds": 370.37,
-                "estimatedSSOdds": 333.33,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0251,
-                "fairOdds": 39.84,
-                "estimatedSSOdds": 35.86,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.1771,
-                "fairOdds": 5.65,
-                "estimatedSSOdds": 5.09,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Taylor Pendrith",
-            "mu": -2.67,
-            "muSource": "3r form",
-            "completedScore": -8,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0024,
-                "fairOdds": 416.67,
-                "estimatedSSOdds": 375.0,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0247,
-                "fairOdds": 40.49,
-                "estimatedSSOdds": 36.44,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.1777,
-                "fairOdds": 5.63,
-                "estimatedSSOdds": 5.07,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Keita Nakajima",
-            "mu": -2.67,
-            "muSource": "3r form",
-            "completedScore": -8,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0033,
-                "fairOdds": 303.03,
-                "estimatedSSOdds": 272.73,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0261,
-                "fairOdds": 38.31,
-                "estimatedSSOdds": 34.48,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.1823,
-                "fairOdds": 5.49,
-                "estimatedSSOdds": 4.94,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Patrick Fishburn",
-            "mu": -2.67,
-            "muSource": "3r form",
-            "completedScore": -8,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0043,
-                "fairOdds": 232.56,
-                "estimatedSSOdds": 209.3,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.027,
-                "fairOdds": 37.04,
-                "estimatedSSOdds": 33.34,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.1773,
-                "fairOdds": 5.64,
-                "estimatedSSOdds": 5.08,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Max Homa",
-            "mu": -2.67,
-            "muSource": "3r form",
-            "completedScore": -8,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0034,
-                "fairOdds": 294.12,
-                "estimatedSSOdds": 264.71,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.025,
-                "fairOdds": 40.0,
-                "estimatedSSOdds": 36.0,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.1832,
-                "fairOdds": 5.46,
-                "estimatedSSOdds": 4.91,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Shane Lowry",
-            "mu": -2.67,
-            "muSource": "3r form",
-            "completedScore": -8,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0032,
-                "fairOdds": 312.5,
-                "estimatedSSOdds": 281.25,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.025,
-                "fairOdds": 40.0,
-                "estimatedSSOdds": 36.0,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.1814,
-                "fairOdds": 5.51,
-                "estimatedSSOdds": 4.96,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Sahith Theegala",
-            "mu": -2.67,
-            "muSource": "3r form",
-            "completedScore": -8,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0027,
-                "fairOdds": 370.37,
-                "estimatedSSOdds": 333.33,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0294,
-                "fairOdds": 34.01,
-                "estimatedSSOdds": 30.61,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.1809,
-                "fairOdds": 5.53,
-                "estimatedSSOdds": 4.98,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Rasmus Neergaard-Petersen",
-            "mu": -2.33,
-            "muSource": "3r form",
-            "completedScore": -7,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0011,
-                "fairOdds": 909.09,
-                "estimatedSSOdds": 818.18,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0093,
-                "fairOdds": 107.53,
-                "estimatedSSOdds": 96.78,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.0826,
-                "fairOdds": 12.11,
-                "estimatedSSOdds": 10.9,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Collin Morikawa",
-            "mu": -2.33,
-            "muSource": "3r form",
-            "completedScore": -7,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0006,
-                "fairOdds": 1666.67,
-                "estimatedSSOdds": 1500.0,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0102,
-                "fairOdds": 98.04,
-                "estimatedSSOdds": 88.24,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.0876,
-                "fairOdds": 11.42,
-                "estimatedSSOdds": 10.28,
-                "confidence": "Svag"
-              }
-            }
-          }
-        ],
-        "topByMarket": {
-          "win": [
-            {
-              "name": "Bud Cauley",
-              "prob": 0.389,
-              "fairOdds": 2.57,
-              "confidence": "Övervärderad",
-              "realSSOdds": 1.54,
-              "edgePct": -0.4009,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
-            },
-            {
-              "name": "Jackson Suber",
-              "prob": 0.1971,
-              "fairOdds": 5.07,
-              "confidence": "Övervärderad",
-              "realSSOdds": 3.75,
-              "edgePct": -0.2609,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
-            },
-            {
-              "name": "Jimmy Stanger",
-              "prob": 0.1904,
-              "fairOdds": 5.25,
-              "confidence": "Spelvärt",
-              "realSSOdds": 9.0,
-              "edgePct": 0.7136,
-              "kellyFraction": 0.0223,
-              "recommendedStakePct": 2.23
-            },
-            {
-              "name": "Matt Fitzpatrick",
-              "prob": 0.0859,
-              "fairOdds": 11.64,
-              "confidence": "Spelvärt",
-              "realSSOdds": 15.0,
-              "edgePct": 0.2885,
-              "kellyFraction": 0.0052,
-              "recommendedStakePct": 0.52
-            },
-            {
-              "name": "Viktor Hovland",
-              "prob": 0.0398,
-              "fairOdds": 25.13,
-              "confidence": "Spelvärt",
-              "realSSOdds": 67.0,
-              "edgePct": 1.6666,
-              "kellyFraction": 0.0063,
-              "recommendedStakePct": 0.63
-            },
-            {
-              "name": "Brice Garnett",
-              "prob": 0.0153,
-              "fairOdds": 65.36,
-              "confidence": "Svag",
-              "estimatedSSOdds": 58.82
-            },
-            {
-              "name": "Justin Matthews",
-              "prob": 0.014,
-              "fairOdds": 71.43,
-              "confidence": "Svag",
-              "estimatedSSOdds": 64.29
-            },
-            {
-              "name": "Sam Burns",
-              "prob": 0.0136,
-              "fairOdds": 73.53,
-              "confidence": "Svag",
-              "estimatedSSOdds": 66.18
-            }
-          ],
-          "top5": [
-            {
-              "name": "Bud Cauley",
-              "prob": 0.8686,
-              "fairOdds": 1.15,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.03
-            },
-            {
-              "name": "Jackson Suber",
-              "prob": 0.7346,
-              "fairOdds": 1.36,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.22
-            },
-            {
-              "name": "Jimmy Stanger",
-              "prob": 0.7299,
-              "fairOdds": 1.37,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.23
-            },
-            {
-              "name": "Matt Fitzpatrick",
-              "prob": 0.5443,
-              "fairOdds": 1.84,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.66
-            },
-            {
-              "name": "Viktor Hovland",
-              "prob": 0.3542,
-              "fairOdds": 2.82,
-              "confidence": "Stark",
-              "estimatedSSOdds": 2.54
-            },
-            {
-              "name": "Brice Garnett",
-              "prob": 0.1988,
-              "fairOdds": 5.03,
-              "confidence": "Lutar",
-              "estimatedSSOdds": 4.53
-            },
-            {
-              "name": "Sam Burns",
-              "prob": 0.1954,
-              "fairOdds": 5.12,
-              "confidence": "Lutar",
-              "estimatedSSOdds": 4.61
-            },
-            {
-              "name": "Justin Matthews",
-              "prob": 0.1953,
-              "fairOdds": 5.12,
-              "confidence": "Lutar",
-              "estimatedSSOdds": 4.61
-            }
-          ],
-          "top10": [
-            {
-              "name": "Bud Cauley",
-              "prob": 0.9725,
-              "fairOdds": 1.03,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.93
-            },
-            {
-              "name": "Jackson Suber",
-              "prob": 0.9248,
-              "fairOdds": 1.08,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.97
-            },
-            {
-              "name": "Jimmy Stanger",
-              "prob": 0.921,
-              "fairOdds": 1.09,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.98
-            },
-            {
-              "name": "Matt Fitzpatrick",
-              "prob": 0.8227,
-              "fairOdds": 1.22,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.1
-            },
-            {
-              "name": "Viktor Hovland",
-              "prob": 0.673,
-              "fairOdds": 1.49,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.34
-            },
-            {
-              "name": "Justin Matthews",
-              "prob": 0.4995,
-              "fairOdds": 2.0,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.8
-            },
-            {
-              "name": "Ryan Fox",
-              "prob": 0.4897,
-              "fairOdds": 2.04,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.84
-            },
-            {
-              "name": "Sam Burns",
-              "prob": 0.4889,
-              "fairOdds": 2.05,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.84
-            }
-          ],
-          "top20": [
-            {
-              "name": "Bud Cauley",
-              "prob": 0.999,
-              "fairOdds": 1.0,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.9
-            },
-            {
-              "name": "Jackson Suber",
-              "prob": 0.9909,
-              "fairOdds": 1.01,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.91
-            },
-            {
-              "name": "Jimmy Stanger",
-              "prob": 0.9906,
-              "fairOdds": 1.01,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.91
-            },
-            {
-              "name": "Matt Fitzpatrick",
-              "prob": 0.9733,
-              "fairOdds": 1.03,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.93
-            },
-            {
-              "name": "Viktor Hovland",
-              "prob": 0.9295,
-              "fairOdds": 1.08,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.97
-            },
-            {
-              "name": "Justin Matthews",
-              "prob": 0.8451,
-              "fairOdds": 1.18,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.06
-            },
-            {
-              "name": "Aldrich Potgieter",
-              "prob": 0.8441,
-              "fairOdds": 1.18,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.06
-            },
-            {
-              "name": "Ryan Fox",
-              "prob": 0.8423,
-              "fairOdds": 1.19,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.07
-            }
-          ],
-          "cut": []
-        },
-        "topEdges": [
-          {
-            "name": "Matt Fitzpatrick",
-            "market": "win",
-            "prob": 0.0859,
-            "fairOdds": 11.64,
-            "realSSOdds": 15.0,
-            "edgePct": 0.2885,
-            "kellyFraction": 0.0052,
-            "recommendedStakePct": 0.52,
-            "confidence": "Spelvärt"
-          }
-        ]
       }
     },
     {
@@ -2235,13 +576,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:11:15+00:00",
-          "headline": "Poston och Gerard delar segern på -12 – Noren nionde på -6",
+          "generatedAt": "2026-06-14T22:15:11+00:00",
+          "headline": "Poston och Gerard delar segern – Noren nionde på -6",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "J.T. Poston och Ryan Gerard delade segern på 12 under par efter en tight avslutning på Muirfield Village, där Clark följde på ett slag därbak. Fleetwood och Burns kompletterade topp fem på 10 under par, medan Reitan från Norge placerade sig bäst bland de övriga landsdelskandidaterna på 8 under. Alex Noren lyckades ta sig in i top 15 på 6 under par efter en konsekvent prestation, men Ludvig Åberg hamnade utanför topplaceringarna i ett fält dominerat av amerikansk styrka. Poston och Gerards förmåga att hålla fokus över fyra rundor på ett krävande kursutrymme var avgörande för slutsegern."
+              "b": "J.T. Poston och Ryan Gerard delar segern på tolv slag under par efter en tätt avslutad turnering vid Muirfield Village. Wyndham Clark följer på en slag efter de båda ledarna, medan Tommy Fleetwood och Sam Burns på tio slag under par utgjorde nästa förföljarklubb. Alex Noren slutade på en respektabel nionde plats på sex slag under par, vilket vittnar om en konsekvent prestationsvecka för svensken. Stora namn som Scottie Scheffler och Rory McIlroy hamnade långt ned på leaderboarden, vilket illustrerar turneringens jämna karaktär och svårigheterna vid ett klassiskt amerikansktkurs."
             },
             {
               "icon": "list.number",
@@ -2371,13 +712,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:11:19+00:00",
-          "headline": "Poston delar seger på Muirfield – Noren nionde efter stark sluthemling",
+          "generatedAt": "2026-06-14T22:15:15+00:00",
+          "headline": "Poston och Gerard delar segern – Noren på nionde plats",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "J.T. Poston och Ryan Gerard delade segern på tolv slag under par efter en spännande avslutning vid Muirfield Village, där båda amerikanerna höll sig framför Wyndham Clark som slutade tre slag efter på elva under par. Fleetwood och Burns följde på tio under par, medan norske Kristoffer Reitan presenterade sig starkt på sex slag under par tillsammans med engelsmannen Fitzpatrick. Alex Noren slutade på sjätte plats med sex slag under par, vilket var svenskens bästa resultat i turneringen och placerade honom centralt i mittfältet. Övriga svenska försökare hamnade längre ned på leaderboarden, vilket talar för att tävlingen krävde en konsekvent prestation under hela helgen där Poston och Gerard visade bäst beständighet."
+              "b": "J.T. Poston och Ryan Gerard delar segern på tolv slag under par efter en spännande avslutning vid Muirfield Village. Wyndham Clark följer på elva under par, medan Tommy Fleetwood och Sam Burns hamnar fem slag bakom ledningen på tio slag under par. Alex Noren representerade Sverige bäst med en nionde plats på sex slag under par, medan Ludvig Åberg inte nådde samma resultat i denna veckas starkt spelade fältsammansättning där Scottie Scheffler endast slutade på delad fjortonde plats."
             },
             {
               "icon": "list.number",
@@ -2507,13 +848,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:11:24+00:00",
-          "headline": "Poston och Gerard delar segern på -12 – Noren nio slag bakom på nionde plats",
+          "generatedAt": "2026-06-14T22:15:19+00:00",
+          "headline": "Poston och Gerard delar Memorial-segern på -12 – Noren nionde på -6",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "J.T. Poston och Ryan Gerard delar segern på tolv slag under par efter en tight avslutning vid Muirfield Village, medan Wyndham Clark följer ett slag bakom på elva slag under par. Poston och Gerards konsistenta spel över fyra omgångar gjorde skillnaden mot en starkt spelande ryckare i Tommy Fleetwood och Sam Burns, som båda slutade på tio slag under par. Alex Noren presterade solidt för Sverige och slutade delad nionde på sex slag under par, vilket placerar honom bland turneringens bättre prestatörer, medan Ludvig Åberg inte nådde samma höjder denna vecka."
+              "b": "J.T. Poston och Ryan Gerard delade segern på tolv under par efter ett tätt slutspel vid Muirfield Village, där endast ett slag skilde vinnarna från Wyndham Clark på tredje plats. Alex Noren slutade på delad nionde plats med sex under par, en solid placering som placerar honom strax bakom de främsta utmanarna. Ludvig Åberg är inte representerad i topp 15, vilket indikerar en mer anonym helg för den andra svenska representanten. Poston och Gerards offensiva spel på inloppet löste en relativt öppen turnering där flera amerikanska spelare dominerade de översta placeringarna."
             },
             {
               "icon": "list.number",
@@ -2643,13 +984,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:11:29+00:00",
-          "headline": "Poston delar seger med Gerard – Noren på nionde plats",
+          "generatedAt": "2026-06-14T22:15:23+00:00",
+          "headline": "Poston och Gerard delar segern på -12 – Noren femma trots stark finish",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "J.T. Poston och Ryan Gerard delade segern på -12 efter en jämn avslutning på Muirfield Village, medan Wyndham Clark följde på -11 och därmed blev bästa amerikanare i jakten. Alex Noren levererade en solid slutplacering på delad nionde plats (-6), vilket visar stabilitet från svensken trots att han inte kunde blanda sig i toppstriden. Tommy Fleetwood och Sam Burns på -10 respektive Ryan Gerard hölls tätt i spaningen, men Poston och Gerard höll sina positioner genom den avslutande rundan för att dela triumfen."
+              "b": "J.T. Poston och Ryan Gerard delar segern på tolv slag under par efter en dramatisk finalrunda vid Muirfield Village. Båda amerikaner var konsekventa över fyra dagar, men det var först i sluttampen som de tog kommandot från tidigare ledare som Wyndham Clark. Alex Noren slutade nioende på sex slag under par och var Skandinaviens bästa prestation, medan Ludvig Åberg inte lyckades konkurrera på samma nivå under turneringen. Reitan från Norge visade stark form på sjunde plats och var en av de få européer som kunde hänga med amerikanska spelarna på ett kursverk som premierade precision och stabilitet över hela turnering."
             },
             {
               "icon": "list.number",
@@ -2794,13 +1135,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-14T20:11:33+00:00",
-          "headline": "U.S. Open: McIlroy jagar redemption på klassiska grässtranskar",
+          "generatedAt": "2026-06-14T22:15:28+00:00",
+          "headline": "Jag kan inte skriva rubriken eftersom banan för U.S. Open inte är angiven. För en konkret och kraftfull rubrik behöver jag veta vilken golfbana som ska arrangera tävlingen.",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# U.S. Open – Förhandsanalys\n\nRory McIlroy är återigen favorit när PGA Tour ställer upp för sitt andra major på året, och nordirländaren har visat pålitlighet i majors under senare tid. Scottie Scheffler och Collin Morikawa utgör ett starkt amerikanskt lag som båda siktar på sitt andra U.S. Open-guld, medan Ludvig Åberg representerar nästa generation av wereldsklass – svensken är ett intressant namn att följa givet sin utveckling i majors. Precis som alltid i U.S. Open blir banans setup avgörande; den kommer troligt att belöna precision från tee och straff drivfel hårt, vilket gynnor spelare med exakt slagkontroll framför dem med renar distans."
+              "b": "Jag saknar tyvärr fältlistan från ESPN som behövs för att skriva en gedigen förhandsanalys. För att kunna leverera en saklig analys av U.S. Open behöver jag se vilka spelare som är klassade bland de tjugo främsta favoriterna, samt vilket golfklubben som är värd för turneringen i år – båda faktorer är centrala för att förstå vad som kommer att avgöra på banan. Kan du tillhandahålla denna information?"
             },
             {
               "icon": "flag.fill",
@@ -3244,10 +1585,10 @@
               "win": {
                 "prob": 0.0243,
                 "fairOdds": 41.15,
-                "realSSOdds": 51.0,
-                "edgePct": 0.2393,
-                "kellyFraction": 0.0012,
-                "recommendedStakePct": 0.12,
+                "realSSOdds": 56.0,
+                "edgePct": 0.3608,
+                "kellyFraction": 0.0016,
+                "recommendedStakePct": 0.16,
                 "confidence": "Spelvärt"
               },
               "top5": {
@@ -4144,8 +2485,8 @@
               "win": {
                 "prob": 0.0129,
                 "fairOdds": 77.52,
-                "realSSOdds": 51.0,
-                "edgePct": -0.3421,
+                "realSSOdds": 46.0,
+                "edgePct": -0.4066,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -4694,8 +3035,8 @@
               "win": {
                 "prob": 0.0092,
                 "fairOdds": 108.7,
-                "realSSOdds": 71.0,
-                "edgePct": -0.3468,
+                "realSSOdds": 81.0,
+                "edgePct": -0.2548,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -4794,8 +3135,8 @@
               "win": {
                 "prob": 0.0087,
                 "fairOdds": 114.94,
-                "realSSOdds": 41.0,
-                "edgePct": -0.6433,
+                "realSSOdds": 36.0,
+                "edgePct": -0.6868,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -5368,13 +3709,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-14T20:11:41+00:00",
-          "headline": "Patty Tavatanakit jagar försvar när världens bästa damer möts i Dow Championship",
+          "generatedAt": "2026-06-14T22:15:36+00:00",
+          "headline": "Patty Tavatanakit jagar sitt andra LPGA-äventyr på Dow Championship",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# Dow Championship – Förhandsanalys\n\nDow Championship avslutar LPGA-säsongen och samlar världens bästa spelarinnor i kampen om slutspelspoäng. Utan svenska representanter blir fokus på toppspelarnas form in mot slutspelet – särskilt intressant blir att följa hur favoriterna presterar under trycket då många fortfarande kan säkra sitt play-off-deltagande. Noterbart är att detta är ofta en tävling där jämfört med tidigare omgångar kan nya namn få möjlighet att glänsa, så värdet finns gärna bland spelarna som hamnar lite längre ned på oddsen men fortfarande levererar stabila prestationer."
+              "b": "# Förhandsanalys: Dow Championship (LPGA)\n\nDow Championship utgör en viktig etapp för kvinnornas topperie före de avslutande majoren, och återigen saknas svenska representanter i ett starkt internationellt fält. Världsettan Nelly Korda står som favoritnamn tillsammans med Patty Tavatanakit och Allisen Corpuz, vilka visat stabila prestationer genom säsongen. Banan blir avgörande för utfallet då den kommer att belastas hårt av spelarna i jakt på slutspelsplaceringar – fokus bör ligga på vilka som lyckas hålla konsistensen under pressade förhållanden när slutsatsen på året närmar sig."
             },
             {
               "icon": "flag.fill",
@@ -5398,7 +3739,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:11:46+00:00",
+          "generatedAt": "2026-06-14T22:15:40+00:00",
           "headline": "Inför torsdag (R1): fältet gör sig redo — lägg spelen innan utslag",
           "insights": [
             {
@@ -5418,7 +3759,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:11:46+00:00",
+          "generatedAt": "2026-06-14T22:15:40+00:00",
           "headline": "Inför fredag (R2): fältet gör sig redo — lägg spelen innan utslag",
           "insights": [
             {
@@ -5438,7 +3779,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:11:46+00:00",
+          "generatedAt": "2026-06-14T22:15:40+00:00",
           "headline": "Inför lordag (R3): fältet gör sig redo — lägg spelen innan utslag",
           "insights": [
             {
@@ -5458,7 +3799,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:11:46+00:00",
+          "generatedAt": "2026-06-14T22:15:40+00:00",
           "headline": "Inför sondag (R4): fältet gör sig redo — lägg spelen innan utslag",
           "insights": [
             {
@@ -5493,13 +3834,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:11:46+00:00",
-          "headline": "Nelly Kordos kraftmatch: en slag före Hull och Lopez – Maja Stark nio på -2",
+          "generatedAt": "2026-06-14T22:15:40+00:00",
+          "headline": "Nelly Kord segrade i U.S. Women's Open – Maja Stark nionde på -2",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Nelly Kord dominerade U.S. Women's Open med en slaglig marginal på ett slag före engelska Charley Hull och mexikanska Gaby Lopez på delad andraplats. Kords -8-totalt var resultatet av konsekvent spel där hon höll grönerna väl och undvek större misstag under hela veckan. Maja Stark levererade en solid prestation för Sverige och slutade delad nionde på -2, vilket visar att hon kan matcha världseliten på den högsta nivån trots att det räckte för att närmast ingen av de övriga amerikanska favoriterna lyckades försvara. Gapet mellan Kord och resten av fältet illustrerar hur viktigt det är att upprätthålla stabilt spel under en 72-hålsmatch på det här nivån."
+              "b": "Nelly Kord dominerade U.S. Women's Open med åtta slag under par, vilket gav henne en övertygande seger framför engelskan Charley Hull och mexikanaren Gaby Lopez på -7. Körd kontrollerade turneringen genom solida slag från tee och ett pålitligt short game som skilde hennes prestation från konkurrenterna. Svenska Maja Stark levererade en stark insats och slutade delad nionde på -2, endast sex slag bakom vinnaren, vilket visar att hon håller sig i världseliten. För Stark och övriga chasers återstår nu att fokusera på de återstående major-turneringarna då gapet till toppen redan är etablerat efter denna avgjorda final round."
             },
             {
               "icon": "list.number",
@@ -5629,13 +3970,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:11:51+00:00",
-          "headline": "Kord slutsegrar före Hull – Stark kniper nionde plats på -2",
+          "generatedAt": "2026-06-14T22:15:45+00:00",
+          "headline": "Kord knäckte U.S. Women's Open – Stark jagar på -2",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Nelly Korda vann U.S. Women's Open med överlägsen spelning och slutade på -8, två slag före engelskan Charley Hull och mexikanen Gaby Lopez som delade andraplats. Maja Stark levererade en solid prestation för Sverige och slutade delad nionde på -2, vilket placerar henne bland de bättre prestationerna i fältet och visar att hon håller tävlingsklass på högsta nivå. Kords dominans genom hela turneringen, där hon pressade segern redan innan slutrundan, kontrasterade mot en tätt sammantrasslad jaktgrupp bakom hennes genomgående starka spel från tee och till green."
+              "b": "Nelly Kord från USA tog hem U.S. Women's Open med en stroke före Charley Hull och Gaby Lopez, som båda slutade på -7. Kords konsistens under turneringen räckte för att hålla ett litet försprång trots att flera spelare pressade hårt i slutspurten. Maja Stark levererade en solid prestation för Sverige och slutade delad nionde på -2, vilket visar att hon återigen är en stabil kraft i elitserien. Det var Kords tredje major-seger och bekräftar hennes position som en av världens bästa golfspelare just nu."
             },
             {
               "icon": "list.number",
@@ -5765,13 +4106,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:11:55+00:00",
-          "headline": "Nelly Kord triumferar på -8 medan Maja Stark slutar stark på delad nionde plats",
+          "generatedAt": "2026-06-14T22:15:49+00:00",
+          "headline": "Nelly Kord slutseger på -8 – Maja Stark nionde på -2 i U.S. Women's Open",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Nelly Kord dominerade U.S. Women's Open med en avslutande margin på ett slag före engelska Charley Hull och mexikanska Gaby Lopez, som delade andraplats på -7. Kords konsistenta spel under turneringen säkrade segern innan finalronden, och de amerikanska förväntningarna löste in när hon tog sitt andra majortitel på hemmaplan. Maja Stark levererade en stark prestation för Sverige och slutade delad nionde på -2, vilket placerar henne bland topptio i världen efter denna prestanda. Hull och Lopez pressade ända in, men kunde aldrig helt ta igen på Kords ledning från tidigare rundor."
+              "b": "Nelly Kord dominerade U.S. Women's Open och vann överlägset med åtta slag under par, ett slag före Charley Hull och Gaby Lopez som delade andraplats. Svenskan Maja Stark slutade stark nio slag under par och säkrade en niondeplats, vilket visar hennes framväxande position på LPGA-touren. Kords konsistenta spel hela veckan, särskilt på de utmanande greens, blev avgörande för en ny seger för amerikanskan som nu etablerat sig bland världselitens mest vinstrika spelare."
             },
             {
               "icon": "list.number",
@@ -5901,13 +4242,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:12:07+00:00",
-          "headline": "Nelly Kord solitar på -8 när Maja Stark håller sig i topp tio på -2",
+          "generatedAt": "2026-06-14T22:15:52+00:00",
+          "headline": "Nelly Kord tog U.S. Women's Open – Maja Stark delad nionde på -2",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Nelly Korda avslutade U.S. Women's Open med ett slag före Charley Hull och Gaby Lopez, vilka slutade på -7. Kords konsistens under turneringen gjorde skillnaden på det avslutande rundan då hennes kortare spel visade sig avgörande. Maja Stark representerade Sverige väl och slutade delad nionde på -2, vilket placerar henne bland tävlingens bättre prestatörer och visar att svenska golfens kvinnliga talanger håller internationell klass. Kord förlänger sin dominans inom LPGA-touren med sitt andra majortitel på två säsonger."
+              "b": "Nelly Korda dominerade U.S. Women's Open och vann tävlingen med åtta slag under par, vilket gav henne ett komfortabelt försprång på ett slag före Charley Hull och Gaby Lopez på -7. Kords konsistenta spel över fyra rundor, där hon aldrig tappade fokus trots att det är en av golfens tyngsta majors för damerna, var den avgörande faktorn för segern. Maja Stark levererade en solid prestationen för Sverige och slutade delad nionde på -2, vilket placerar hennes namn bland topresultat i denna mycket konkurrensutsatta världselite."
             },
             {
               "icon": "list.number",
@@ -6052,13 +4393,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-14T20:12:12+00:00",
-          "headline": "Patrizias comeback på LPGA väcker frågor — slår världseliten i Michigan?",
+          "generatedAt": "2026-06-14T22:15:56+00:00",
+          "headline": "Patty Tavatanakit jagar sitt andra LPGA-segrade på hemmaplan",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# Meijer LPGA Classic for Simply Give – Förhandsanalys\n\nMeijer LPGA Classic lockar återigen toppen av damgolfen till Michigan, där greppen ofta belönas genom ett kortare grässtransekt och ett defensivt bandesign som kräver precision framför längd. Nelly Korda och Patty Tavatanakit presenterar olika utgångspunkter – Kord håller på sitt konsekvent höga spelnivå medan Tavatanakit söker att återfinna förnyelse efter en svagare höst. Banan tenderar att premieras av spelare med stabilt kortkortspel och puttingkontroll, något som bör föra fördel åt veteraner som Inbee Park och Sei Young Kim. Med tanke på turneringens välgörenhetsfokus och stabil deltagarsammansättning förväntas en relativt öppen utgång där formspelarnas senaste prestationer blir avgörande."
+              "b": "# Meijer LPGA Classic for Simply Give\n\nMeijer LPGA Classic är årets tredje välgörenhetstävling på LPGA-touren och lockar återigen världseliten till ett av amerikanska mitten väl etablerat event. Nathalie Soobrslots och Patty Tavatanakit utgör två av favoriterna, medan amerikanska storheter som Lexi Thompson och Allison Kuch söker att ta steget tillbaka efter något svagare resultat tidigare i säsongen. Banans layout favoriserar spelare med präcis iron-spel och stark kort-spel, vilket gör detta event ofta oprediktabelt – följ därför hur forwardpassningsstatistiken utvecklas under första rundan för ledtrådar om veckan möjliga vinnare."
             },
             {
               "icon": "flag.fill",
@@ -6125,13 +4466,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:12:17+00:00",
-          "headline": "Chacarra solot på -11 när Söderberg kämpar på -8 i Holland",
+          "generatedAt": "2026-06-14T22:16:01+00:00",
+          "headline": "Chacarra kryssar på -11 när Söderberg stormkör in på -8 på KLM Open",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Eugenio Chacarra från Spanien vann KLM Open med elva under par, ett slag före finnen Oliver Lindell som slutade på tio under. Chacarra höll ett stadigt spel genom slutrundan och visade större konsistens än sina närmaste konkurrenter på utmaningen vid Amsterdam. Sebastian Söderberg representerade Sverige väl och placerade sig på delad fjärde plats tillsammans med Dean, Ayora och Steinlechner på åtta under par, vilket utgör ett solid resultat för svensken på DP World Tour."
+              "b": "Eugenio Chacarra dominerade KLM Open och säkrade segern med elva slag under par, en skugga före finländaren Oliver Lindell på minus tio. Sebastian Söderberg representerade Sverige väl i en delad femteplats på åtta under par, tillsammans med Joe Dean, Angel Ayora och Maximilian Steinlechner. Chacarra höll fokus genom veckoslutet medan konkurrenterna saknade konsistensen för att hota spanjorens ledning, som växte successivt under turneringens senare omgångar."
             },
             {
               "icon": "list.number",
@@ -6261,13 +4602,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:12:21+00:00",
-          "headline": "Chacarra vinner KLM Open – Söderberg delar fjärde plats på -8",
+          "generatedAt": "2026-06-14T22:16:04+00:00",
+          "headline": "Chacarra knäcker KLM Open – Söderberg trea på -8",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Eugenio Chacarra från Spanien tog segern på KLM Open med elva slag under par, ett slag före finländaren Oliver Lindell som slutade på minus tio. Sebastian Söderberg var den bästa svensken i startfältet och placerade sig delad femte plats på minus åtta, tillsammans med Joe Dean, Angel Ayora och Maximilian Steinlechner. Chacarra höll sig framme genom hela veckan och hade tillräcklig marginal för att säkra sin andra DP World Tour-seger."
+              "b": "Eugenio Chacarra tog sin första DP World Tour-seger genom att hålla ett slag före Oliver Lindell på elva respektive tio under par. Spanjoren styrde sin final round med kontrollerat spel och höll undan en hotande finsk jagare som pressade hårt under avslutande hål. Sebastian Söderberg levererade ett starkt resultat på delad fjärdeplats åtta under par, vilket visar att svensken bibehåller högt spelnivå på touren trots svag ranking."
             },
             {
               "icon": "list.number",
@@ -6397,13 +4738,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:12:26+00:00",
-          "headline": "Chacarra vinner KLM Open – Söderberg delar fjärde plats på -8",
+          "generatedAt": "2026-06-14T22:16:09+00:00",
+          "headline": "Chacarra vinner KLM Open – Söderberg delar fjärde på -8",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Eugenio Chacarra från Spanien tog segern på KLM Open med elva slag under par, en stroke före finländaren Oliver Lindell som slutade på tio under. Sebastian Söderberg representerade Sverige väl och delade sjätte plats tillsammans med engelske Joe Dean, spanjoren Angel Ayora och österrikaren Maximilian Steinlechner, alla på åtta under par. Chacarra höll sig stabil under slutet av tävlingen medan Lindell inte lyckades skapa tillräckligt tryck för att ta in ledningen på de sista rundorna."
+              "b": "Eugenio Chacarra från Spanien tog hem KLM Open med elva slag under par, en stroke före finnen Oliver Lindell som slutade på minus tio. Chacarra höll kontrollen genom slutet och hade tillräcklig marginal för att undvika dramatik på målrakan. Sebastian Söderberg representerade Sverige väl och slutade på delad fjärde plats tillsammans med tre andra tävlande på minus åtta slag, ett resultat som placerar honom bland de bättre prestationerna i ett starkt fält."
             },
             {
               "icon": "list.number",
@@ -6533,13 +4874,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:12:30+00:00",
-          "headline": "Chacarra vinner KLM Open – Söderberg slutar delad fjärde på -8",
+          "generatedAt": "2026-06-14T22:16:12+00:00",
+          "headline": "Chacarra vinner KLM Open – Söderberg tar delad femte på -8",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Eugenio Chacarra från Spanien tog KLM Open efter en stark slutspurt på elva under par, medan finländaren Oliver Lindell höll tätt i förföljarkön på tio under. Sebastian Söderberg representerade Sverige väl med åttonde placeringen på samma poäng som Dean, Ayora och Steinlechner, en anständig placering i ett starkt fält. Chacarra kontrollerade slutspelet effektivt och lämnade ingen anledning för de närmaste jägarnas framstötar att få fotfäste."
+              "b": "Eugenio Chacarra från Spanien vann KLM Open med elva slag under par, två slag före finnen Oliver Lindell som slutade på andra plats. En starkt spelande grupp följde på tredje plats med Joe Dean, Angel Ayora, Maximilian Steinlechner och Sebastian Söderberg alla på åtta slag under par — svensken Söderberg presterade därmed solid och slutade i delad tredjeplats. Jens Dantorp lyckades inte ta plats i topplistan efter ett fält fyllt av konkurrenskraftig nordeuropeisk spel."
             },
             {
               "icon": "list.number",
@@ -6698,13 +5039,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:12:34+00:00",
-          "headline": "Hatton härskade i Andalucía – två slag före Rahm och spanskt överflöd",
+          "generatedAt": "2026-06-14T22:16:16+00:00",
+          "headline": "Hatton herrskar i Andalucía – Rahm två slag bakom",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Tyrrell Hatton dominerade LIV Golf Andalucía med två slag före Jon Rahm, som trots hemmaförtjänsten inte helt kunde matcha engelskmannen som vid två tillfällen skapad mellan 11 slag under par. Rahm:s andraplats tillsammans med starkt visade spanjorer som García och Puig tyder på ett väl spelat evenemang för det spanska laget, men Hattons konsistens och tekniska skärpa blev avgörande skillnaden. Björn Hellgren fanns representerad för Sverige men lyckades inte ta sig in i topp 15, vilket speglar det höga tävlingsnivå som råder i LIV Golf."
+              "b": "Tyrrell Hatton dominerade tävlingen och avslutade på -11, två slag före spanjoret Jon Rahm som andra stark säsongstart för LIV Golf i Andalucía. Hattons avstånd till förföljarna tyder på en kontrollerad prestation snarare än dramtisk underhållning, medan Rahm och mexikanen Abraham Ancer på -8 visar att flera spelare höll sig i stridsposition längre än vad slutresultatet antyder. Björn Hellgren fanns i startfältet men landade långt från topp 15, vilket reflekterar den höga spelarnivå som LIV Golf samlar och hur svårt det är för svenska spelare att konkurrera på denna nivå utan större världsrankingvinster bakom sig."
             },
             {
               "icon": "list.number",
@@ -6834,13 +5175,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:12:38+00:00",
-          "headline": "Hatton solokung när spanjorerna pressade i Andalucien – Hellgren långt borta",
+          "generatedAt": "2026-06-14T22:16:21+00:00",
+          "headline": "Hatton stål före Rahm – svenska Hellgren långt från topptrio",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Tyrrell Hatton dominerade Andalucía-invitationen med två slagars marginal före spanjoren Jon Rahm på -9, vilket signalerar ett starkt spel från engelsmännen på hemmaplan för LIV Golf. Abraham Ancer på -8 kompletterar topp tre, medan det spanska hotellet fick sitt tredje kort genom Sergio García på -7. Björn Hellgren nådde inte topplaceringarna i tävlingen, och framåt väntar nästa stopp på LIV-kalendern med nya möjligheter för svensken att etablera sig i ledningen."
+              "b": "Tyrrell Hatton dominerade LIV Golf Andalucía med två slag före Jon Rahm på elva under par, vilket ger engelsmannen en komfortabel seger på hemmaplan för spanjoren. Rahm presterade stabilt men kunde aldrig verkligt hota Hatton under finalrundan, medan Ancer på tredje plats på åtta under par återigen visade sig vara en konsekvent top-3-utmanare på LIV-touren. Björn Hellgren representerade Sverige i fältet men hamnade långt från toppstriden, och tävlingen bekräftade ännu en gång att Hattons form är överliggande i denna spelarserie just nu."
             },
             {
               "icon": "list.number",
@@ -6970,13 +5311,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:12:42+00:00",
-          "headline": "Hatton dominerande i Andalucía – två slag före Rahm",
+          "generatedAt": "2026-06-14T22:16:25+00:00",
+          "headline": "Hatton dominerar Andalucía – Hellgren långt bakom",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Tyrrell Hatton dominerade på hemmaplan med elva slag under par och skapade ett oöverstigligt försprång inför slutomgången, där han bibehöll ledningen för att säkra segern. Jon Rahm följde på andraplats på nio slag under par, något som understryker starkt europeiskt motstånd i turneringen trots att det var Hattons dag. Svensken Björn Hellgren nådde inte topplaceringarna i detta LIV Golf-event, och turneringen avslutas med Hatton som överlägsen vinnare framför en långt spridd spårfältskonkurrens."
+              "b": "Tyrrell Hatton dominerade LIV Golf Andalucía med en slutscore på -11, två slag före spanjoren Jon Rahm som slutade på -9. Hattons prestationsöverhet under turneringen baserades på konsekvent spel och kontroll av spelarfältet, där det spanska närväron var påtagligt med både Rahm och Sergio García (-7) bland topplacerade. Björn Hellgren fanns med i startfältet men kom inte in bland de femton bästa, vilket återspeglar det höga nivånivå som LIV Golf fortsatt representerar på sitt evenemang i Andalusien."
             },
             {
               "icon": "list.number",
@@ -7106,13 +5447,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-14T20:12:46+00:00",
-          "headline": "Hatton sololedare i Andalucía – två slag före Rahm på hemmaplan",
+          "generatedAt": "2026-06-14T22:16:29+00:00",
+          "headline": "Hatton dominar Andalucía – Rahm tvåa två slag bakom",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Tyrrell Hatton dominerade LIV Golf Andalucía med en två slag bred ledning på -11, vilket härrörde från konsekvent spel och framför allt en stark finish under helgen. Jon Rahm följde på -9 på hemmaplan men kunde aldrig helt minska gapet till engelsmannen, medan Abraham Ancer på -8 presenterade det bästa försöket från tredjeplatsen. Björn Hellgren hamnade långt från topplaceringarna och var inte en faktor i titelkampen när Hatton säkrade sin tredje LIV-seger."
+              "b": "Tyrrell Hatton dominerade Andalucía-turneringen med två slag före Jon Rahm, vars hemmaförsök på spansk mark inte räckte till trots stark avslutning. Rahms andraplats tillsammans med Sergio Garcías delad fjärdeplats indikerar att det spanska laget gjorde ett starkt kollektivt försök, men Hattons konsistens över 54 hål var överlägsen. Björn Hellgren återfinns inte i topp 15, vilket reflekterar svårigheterna för svenska spelare att konkurrera på högsta nivå inom LIV-formatet."
             },
             {
               "icon": "list.number",
