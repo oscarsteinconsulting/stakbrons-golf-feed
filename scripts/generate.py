@@ -850,6 +850,39 @@ def make_daily_report(round_num: int, board: dict, is_current: bool,
 # Historik per tävling
 # ----------------------------------------------------------------------------
 
+def _final_leaderboard(players: list[dict]) -> list[dict]:
+    """Bygg slutleaderboard med KORREKT placering (delade platser).
+
+    ESPN levererar ofta en tom placering ("—") i sluttabellen. Vi härleder då
+    placeringen från score: 1 + antal spelare med strikt bättre score, med
+    T-prefix vid lika. Detta är avgörande för att appens auto-rättning av spel
+    (vinnare/topp X) ska fungera — och för att historik-vyn ska visa placeringar.
+    """
+    out = []
+    for p in players:
+        espn_pos = p.get("position") or ""
+        if any(c.isdigit() for c in espn_pos):
+            pos = espn_pos  # ESPN gav en riktig placering
+        else:
+            tv = p["totalValue"]
+            if tv >= 900:            # ESPN MC/WD-markör
+                pos = espn_pos or "—"
+            else:
+                better = sum(1 for q in players if q["totalValue"] < tv)
+                tied = sum(1 for q in players if q["totalValue"] == tv)
+                rank = better + 1
+                pos = f"T{rank}" if tied > 1 else str(rank)
+        out.append({
+            "position": pos,
+            "name": p["name"],
+            "country": p.get("country"),
+            "totalDisplay": p["totalDisplay"],
+            "totalValue": p["totalValue"],
+            "rounds": p.get("rounds", []),
+        })
+    return out
+
+
 def save_history(entry: dict, board: dict) -> Path | None:
     """När en tävling blir final, spara snapshot till data/history/{year}/{slug}.json.
     Filen skapas med årstal från startdatum och kompletteras med fullt leaderboard +
@@ -874,17 +907,7 @@ def save_history(entry: dict, board: dict) -> Path | None:
         "startDate": entry.get("startDate"),
         "snapshotAt": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
         "headlines": {day: r.get("headline") for day, r in entry["reports"].items()},
-        "finalLeaderboard": [
-            {
-                "position": p["position"] or "—",
-                "name": p["name"],
-                "country": p.get("country"),
-                "totalDisplay": p["totalDisplay"],
-                "totalValue": p["totalValue"],
-                "rounds": p.get("rounds", []),
-            }
-            for p in board["players"][:80]
-        ],
+        "finalLeaderboard": _final_leaderboard(board["players"][:80]),
     }
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(snapshot, f, indent=2, ensure_ascii=False)
