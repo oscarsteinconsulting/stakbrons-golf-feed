@@ -91,14 +91,12 @@ def fetch_golf_event_list() -> list[dict]:
         path = ev.get("path", [])
         if len(path) < 2:
             continue  # för grov för att vara en faktisk tävling
-        tour_term = path[1].get("termKey") if len(path) > 1 else ""
         tour_name = path[1].get("name") if len(path) > 1 else ""
         events.append({
             "id": ev["id"],
             "name": ev.get("name", ""),
             "tour_path": [p.get("termKey", "") for p in path],
             "tour_name": tour_name,
-            "tour_term": tour_term,
             "start": ev.get("start"),
             "state": ev.get("state"),
         })
