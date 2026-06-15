@@ -69,6 +69,11 @@ RANK_TO_MU = [
 # istället för medel, annars övervärderar modellen dem grovt.
 UNRANKED_MU = 2.30
 
+# Minsta andel av FÄLTET som den oberoende rankingen (OWGR/DG) måste täcka för
+# att vi ska använda den. Under detta (t.ex. ett LPGA-fält i herr-OWGR = 0%)
+# faller vi tillbaka på Kambi-implicit istället för att ge alla flat μ.
+MIN_FIELD_COVERAGE = 0.40
+
 
 def mu_from_rank(rank: int | None) -> float:
     """Returnera baseline-μ från world rank. None = oberoende-oranked = svag."""
@@ -428,20 +433,37 @@ def build_edge_payload(
     if not field:
         return None
 
-    # Välj rank-källa. VIKTIGT: blanda INTE OWGR (skala 1-600, världsranking)
-    # med Kambi-implicit (skala 1-147, position i detta fält) — de ligger på
-    # olika skalor och skulle ge inkonsekvent μ.
+    # Välj rank-källa FÄLT-MEDVETET. VIKTIGT: blanda INTE OWGR (skala 1-600,
+    # världsranking) med Kambi-implicit (skala 1-147, position i fältet) — olika
+    # skalor ger inkonsekvent μ.
+    #
+    # Backtest visade att den oberoende rankingen (OWGR) är HERRARNAS — den
+    # täcker 0% av ett LPGA-fält, vilket gav alla damer flat μ och meningslösa
+    # (brus-)edges. Vi mäter därför hur stor andel av FÄLTET den oberoende
+    # rankingen faktiskt täcker, och faller tillbaka på Kambi-implicit när
+    # täckningen är för låg.
     #
     # Prioritet:
-    #   1. Oberoende ranking (OWGR/DG) om den finns → bryter cirkulariteten.
-    #      Spelare som SAKNAS i den (utanför topp 600) = oberoende-oranked =
-    #      svag (UNRANKED_MU). Vi använder INTE Kambi-implicit som lapp här.
-    #   2. Annars Kambi-implicit för hela fältet (cirkulär men funkar).
+    #   1. Oberoende ranking (OWGR/DG) OM den täcker ≥ MIN_FIELD_COVERAGE av
+    #      fältet → bryter cirkulariteten. Spelare som saknas = svaga (UNRANKED_MU).
+    #   2. Annars Kambi-implicit för hela fältet (cirkulär, men bättre än flat μ
+    #      — t.ex. för LPGA där herr-OWGR inte hjälper).
+    field_norm = [normalize_name(p["name"]) for p in field
+                  if p.get("name") and not p.get("missed_cut")]
+
+    def _in_independent(n: str) -> bool:
+        return (bool(rankings) and n in rankings) or (bool(points) and n in points)
+
+    coverage = (sum(1 for n in field_norm if _in_independent(n)) / len(field_norm)
+                if field_norm else 0.0)
+
     merged_rankings: dict[str, int] = {}
     n_independent = 0
-    if rankings:
-        merged_rankings = dict(rankings)   # ENBART oberoende ranking
-        n_independent = len(rankings)
+    use_points: dict[str, float] | None = None
+    if (rankings or points) and coverage >= MIN_FIELD_COVERAGE:
+        merged_rankings = dict(rankings) if rankings else {}
+        n_independent = len(rankings) if rankings else len(points or {})
+        use_points = points
     elif kambi_markets and kambi_markets.get("win"):
         merged_rankings = implicit_rank_from_kambi(kambi_markets["win"])
 
@@ -461,7 +483,7 @@ def build_edge_payload(
         mu, source = estimate_player_mu(
             name=name,
             rankings=merged_rankings,
-            points=points if n_independent > 0 else None,
+            points=use_points,
             completed_rounds=completed_rounds if not missed_cut else 0,
             score_to_par_so_far=score if not missed_cut else None,
         )
@@ -525,7 +547,7 @@ def build_edge_payload(
     field_size = len([p for p in players if not p["missed_cut"]])
     independent = n_independent > 0 and completed_rounds == 0
     payload: dict[str, Any] = {
-        "modelVersion": "0.5.0",  # kvalgräns-marknad + pre-round/in-play-gating
+        "modelVersion": "0.6.0",  # fält-medveten rankingkälla (LPGA-fix)
         "simulations": n_sims,
         "remainingRounds": remaining,
         "completedRounds": completed_rounds,
