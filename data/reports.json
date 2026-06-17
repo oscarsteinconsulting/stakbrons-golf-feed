@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T22:16:28+00:00",
+  "generatedAt": "2026-06-17T23:08:48+00:00",
   "tournaments": [
     {
       "id": "live-u-s-open",
@@ -17,13 +17,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-17T22:16:32+00:00",
-          "headline": "Åberg jagar sitt första major – U.S. Open blir svenskarnas stora prov",
+          "generatedAt": "2026-06-17T23:08:54+00:00",
+          "headline": "Åberg och Noren jagar U.S. Open-drömmen – fyrtiomannafältet tar form på PGA Tour",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "U.S. Open är PGA Tours årliga höjdpunkt och denna utgåva presenterar ett intressant blandade startfält där flera namn från utvecklingstouren söker sitt genombrott på högsta nivå. Sverige representeras av Ludvig Åberg och Alex Noren, varav Åberg i synnerhet är en spelare att hålla koll på efter sin imponerade utveckling de senaste säsongerna. Fältet domineras av amerikaner, men noterbart är närvaron av argentina-duen Tosti och Grillo samt engelsmannen Jordan, som alla har visat stabilitet under året. Det som blir avgörande är hur väl de mindre profilerade spelarna hanterar pressupen i en majortävling – U.S. Open har historiskt belönat precision och mental styrka framför rent kraft."
+              "b": "U.S. Open på PGA Tour lockar återigen världseliten, och denna gång är det framför allt amerikanarna som dominerar startfältet med många namn från utvecklingstournén. Ludvig Åberg och Alex Noren representerar svensk golf, där särskilt Åberg är intressant att följa efter sin snabba utveckling de senaste säsongerna. Noterbart är att många av toppnamnen från traditionell storturné verkar vara frånvarande, vilket gör detta till ett öppet fält där konstant putting och konsekvent spel från tee blir avgörande – inte minst för att se hur de svenska represen tanterna tar sig igenom ett starkt amerikanskt motstånd."
             },
             {
               "icon": "flag.fill",
@@ -454,11 +454,11 @@
               "cut": {
                 "prob": 0.72,
                 "fairOdds": 1.39,
-                "realSSOdds": 1.45,
-                "edgePct": 0.044,
-                "kellyFraction": 0.0244,
-                "recommendedStakePct": 2.44,
-                "confidence": "Neutral"
+                "realSSOdds": 1.49,
+                "edgePct": 0.0728,
+                "kellyFraction": 0.0371,
+                "recommendedStakePct": 3.71,
+                "confidence": "Bra läge"
               }
             }
           },
@@ -507,8 +507,8 @@
               "cut": {
                 "prob": 0.7159,
                 "fairOdds": 1.4,
-                "realSSOdds": 1.2,
-                "edgePct": -0.1409,
+                "realSSOdds": 1.22,
+                "edgePct": -0.1266,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -878,11 +878,11 @@
               "cut": {
                 "prob": 0.6769,
                 "fairOdds": 1.48,
-                "realSSOdds": 1.4,
-                "edgePct": -0.0523,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "realSSOdds": 1.48,
+                "edgePct": 0.0018,
+                "kellyFraction": 0.0009,
+                "recommendedStakePct": 0.09,
+                "confidence": "Chansning"
               }
             }
           },
@@ -975,8 +975,8 @@
               "top20": {
                 "prob": 0.306,
                 "fairOdds": 3.27,
-                "realSSOdds": 2.63,
-                "edgePct": -0.1952,
+                "realSSOdds": 2.55,
+                "edgePct": -0.2197,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1266,8 +1266,8 @@
               "win": {
                 "prob": 0.0142,
                 "fairOdds": 70.42,
-                "realSSOdds": 46.0,
-                "edgePct": -0.3468,
+                "realSSOdds": 41.0,
+                "edgePct": -0.4178,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1275,8 +1275,8 @@
               "top5": {
                 "prob": 0.0763,
                 "fairOdds": 13.11,
-                "realSSOdds": 8.5,
-                "edgePct": -0.3514,
+                "realSSOdds": 8.0,
+                "edgePct": -0.3896,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1284,8 +1284,8 @@
               "top10": {
                 "prob": 0.1489,
                 "fairOdds": 6.72,
-                "realSSOdds": 5.0,
-                "edgePct": -0.2555,
+                "realSSOdds": 4.75,
+                "edgePct": -0.2927,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1293,8 +1293,8 @@
               "top20": {
                 "prob": 0.2838,
                 "fairOdds": 3.52,
-                "realSSOdds": 2.88,
-                "edgePct": -0.1827,
+                "realSSOdds": 2.8,
+                "edgePct": -0.2054,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1743,8 +1743,8 @@
               "win": {
                 "prob": 0.0111,
                 "fairOdds": 90.09,
-                "realSSOdds": 36.0,
-                "edgePct": -0.6004,
+                "realSSOdds": 34.0,
+                "edgePct": -0.6226,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1752,8 +1752,8 @@
               "top5": {
                 "prob": 0.0608,
                 "fairOdds": 16.45,
-                "realSSOdds": 7.5,
-                "edgePct": -0.544,
+                "realSSOdds": 7.0,
+                "edgePct": -0.5744,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1761,8 +1761,8 @@
               "top10": {
                 "prob": 0.1259,
                 "fairOdds": 7.94,
-                "realSSOdds": 5.0,
-                "edgePct": -0.3705,
+                "realSSOdds": 4.75,
+                "edgePct": -0.402,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1770,8 +1770,8 @@
               "top20": {
                 "prob": 0.2501,
                 "fairOdds": 4.0,
-                "realSSOdds": 2.75,
-                "edgePct": -0.3122,
+                "realSSOdds": 2.6,
+                "edgePct": -0.3497,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2646,11 +2646,11 @@
               "name": "Justin Rose",
               "prob": 0.72,
               "fairOdds": 1.39,
-              "confidence": "Neutral",
-              "realSSOdds": 1.45,
-              "edgePct": 0.044,
-              "kellyFraction": 0.0244,
-              "recommendedStakePct": 2.44
+              "confidence": "Bra läge",
+              "realSSOdds": 1.49,
+              "edgePct": 0.0728,
+              "kellyFraction": 0.0371,
+              "recommendedStakePct": 3.71
             },
             {
               "name": "Tommy Fleetwood",
@@ -2667,8 +2667,8 @@
               "prob": 0.7159,
               "fairOdds": 1.4,
               "confidence": "Övervärderad",
-              "realSSOdds": 1.2,
-              "edgePct": -0.1409,
+              "realSSOdds": 1.22,
+              "edgePct": -0.1266,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
             }
@@ -2804,13 +2804,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-17T22:16:42+00:00",
-          "headline": "Cauley vinner RBC Canadian Open – Svensson delar fyra på -13",
+          "generatedAt": "2026-06-17T23:09:03+00:00",
+          "headline": "Cauley vinner Canadian Open – Svensson delad sjätte på -13",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Bud Cauley avslutade RBC Canadian Open med en två slag bred ledning på -17, framför Matt Fitzpatrick som slutade på -15. Cauley höll distansen genom en konsekvent prestation medan Fitzpatrick aldrig kunde reducera gapet märkbart de avslutande omgångarna. Jesper Svensson placerade sig i delad fjärde plats tillsammans med Jimmy Stanger, Brice Garnett och Jackson Suber på -13, vilket representerar en solid resultat för svensken i en starkt besatt amerikansk turnering."
+              "b": "Bud Cauley segrade på -17, två slag före Matt Fitzpatrick som slutade på -15. Viktor Hovland följde på -14 och missade därmed ett nytt PGA Tour-segrande, medan amerikanaren Jimmy Stanger och Brice Garnett hamnade på -13 tillsammans med Jesper Svensson. Svensson presterade solidt och säkrade en delad sjätteplats, vilket utgör ett starkt resultat för svensken på världselitens tour. Cauley styrde tävlingen från start till mål med konsekvent golf, och ledningen på två slag till Fitzpatrick förklaras huvudsakligen av färre misstag och högre nätetprocent på greenen under helgen."
             },
             {
               "icon": "list.number",
@@ -2940,13 +2940,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-17T22:16:46+00:00",
-          "headline": "Cauley triumferar på kanadensiska gräset – Svensson delar fjärde plats på -13",
+          "generatedAt": "2026-06-17T23:09:07+00:00",
+          "headline": "Cauley vinner kanadensiska med -17, Svensson delad sjätte på -13",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Bud Cauley dominerade RBC Canadian Open med en två slag bred ledning på -17, vilket förlänades av en konsekvent prestation genom hela veckan. Matt Fitzpatrick följde på andra plats två slag bakom, medan Viktor Hovland på -14 representerade tätgruppen för den övriga konkurensen. Jesper Svensson slutade på en delad fjärde plats tillsammans med Jimmy Stanger, Brice Garnett och Jackson Suber på -13, vilket är en solid prestation för svensken i en stark internationell startfält."
+              "b": "Bud Cauley avslutade RBC Canadian Open med ett dominerande resultat på -17, två slag före Matt Fitzpatrick, medan Viktor Hovland kompletterade toppen på -14. Jesper Svensson gjorde en solid insats och slutade delad sjätte plats på -13 tillsammans med Jimmy Stanger, Brice Garnett och Jackson Suber, vilket placerar svensken väl i tävlingen trots att segern gick till en något mer konsekvent presterar Cauley. Hovland höll sig i toppen genom säsongen men kunde inte helt matcha Cauleys slutspurt, medan flera amerikanska spelare visade stark form på samma tävlingsplats."
             },
             {
               "icon": "list.number",
@@ -3076,13 +3076,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-17T22:16:49+00:00",
-          "headline": "Cauley knäcker kanadensarna – Svensson delar fjärde på -13",
+          "generatedAt": "2026-06-17T23:09:11+00:00",
+          "headline": "Cauley-seger över Fitzpatrick – Svensson stark femma på -13",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Bud Cauley dominerade RBC Canadian Open med två slag marginal till Matt Fitzpatrick, som slutade på -15. Cauley höll kontrollen genom finalrundorna och visade stabil golf när konkurrenterna började nicka. Jesper Svensson placerade sig starkt i delad femte plats på -13, tillsammans med amerikanerna Jimmy Stanger och Brice Garnett samt Jackson Suber, vilket visar att svensken håller nivå på PGA Tour trots att segern gick till Cauley."
+              "b": "Bud Cauley tog sin andra PGA Tour-seger genom att hålla två slag före Matt Fitzpatrick på -17, medan norske Viktor Hovland slutade tre slag bakom på tredje plats. Jesper Svensson levererade en solid topp-tio-prestation och delade sjätte plats tillsammans med Jimmy Stanger och Brice Garnett på -13, vilket visar att svensken konkurrerade på högt nivå mot världseliten. Cauley's stabilitet under veckoslutet, särskilt på de sista hålen, blev avgörande för segern framför flera högprofilerade namnkunniga utmanare."
             },
             {
               "icon": "list.number",
@@ -3212,13 +3212,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-17T22:16:53+00:00",
-          "headline": "Cauley dunkar kanadensarna – Svensson delar sjätte på -13",
+          "generatedAt": "2026-06-17T23:09:15+00:00",
+          "headline": "Cauley vinner Canadian Open – Svensson delar fjärde på -13",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Bud Cauley dominerade RBC Canadian Open och vann överlägset med 17 slag under par, två slag före engelske Matt Fitzpatrick. Cauley höll ett stabilt spel under hela veckan och lyckades hålla presset när Fitzpatrick och norske Viktor Hovland (14 under par) försökte hinna ikapp på slutet. Jesper Svensson avslutade starkt och delade sjätte plats tillsammans med flera andra amerikaner på 13 under par, vilket visar på ett solidt resultat för svensken i ett par-73-fält på St. George's Golf Club."
+              "b": "Bud Cauley dominerade RBC Canadian Open och avslutade på -17, två slag före Matt Fitzpatrick som slutade på -15. Viktor Hovland följde på -14 och var den främste norska utmanaren, medan flera amerikaner pressade på långt bak i fältet. Jesper Svensson levererade en solid insats och slutade delad sjätte på -13, på samma poäng som de amerikanska spelarna Jimmy Stanger, Brice Garnett och Jackson Suber — en placering som vittnar om en konsekvent veckoslut för svensken under tuffa kanadensiska förhållanden."
             },
             {
               "icon": "list.number",
@@ -3363,13 +3363,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-17T22:16:56+00:00",
-          "headline": "Rory jagar tredje träffen – Travelers Championship drar igång utan svenska skuggor",
+          "generatedAt": "2026-06-17T23:09:19+00:00",
+          "headline": "Jag beklagar, men jag kan inte se fältlistan från ESPN som du refererar till. Utan att se de 15 översta spelarna kan jag inte skriva en konkret och kraftfull rubrik som du efterfrågat.\n\nKan du dela fältlistan så skriver jag genast en rubrik på d",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Travelers Championship drar igång på en klassisk amerikansk PGA Tour-station, och fältet är som vanligt tätt och välbalanserat med flera tunga namn. Rory McIlroy och Scottie Scheffler är naturliga favoriter, men detta är en tävling där formen ofta väger tyngre än rankning – håll koll på vilka som kommer hetast från föregående vecka. Utan svenska representanter blir fokus på hur de etablerade namn hanterar sommarvärmen och eventuella trötthetstecken innan de större sommarslutspelen. Intressant att följa är också hur de mittenfältare som inte är helt i toppform använder denna vecka för att stämma in innan U.S. Open-serien."
+              "b": "Travelers Championship på PGA Tour väntar denna vecka, och fokus ligger på vilka spelare som kan utnyttja en presumtivt snäv bana där precision från tee blir avgörande. Scottie Scheffler och Rory McIlroy är självklara favoritnamn, men intressant att följa hur form och motivation ser ut efter förra veckans majors. Utan svenska representanter i toppskiktet är det istället värt att notera hur några hungriga namn på uppgång presterar – detta är ofta en bra möjlighet för spelare som vill bryta sig in i toppstriderna. Vädret och banans kondition kommer sannolikt att spela en stor roll för vem som kan hålla ihop ett långt resultat över fyra rundor."
             },
             {
               "icon": "flag.fill",
@@ -3422,13 +3422,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-17T22:17:01+00:00",
-          "headline": "Lindblad och Strom utmanar Munoz i Meijer LPGA Classic",
+          "generatedAt": "2026-06-17T23:09:25+00:00",
+          "headline": "Strom jagar sitt första LPGA-segrande mot världseliten i Michigan",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "**Meijer LPGA Classic for Simply Give – Förhandsanalys**\n\nSpanska duon Azahara Munoz och Carolina Chacarra toppar fältlistan inför tävlingen på LPGA Tour, men det är den japanska talangen Hinako Shibuno som utgör återkomsten efter skador – en spelare värd att notera. För svenska fans är det glädjande att Linnea Strom placeras redan på femtonde plats i startkavalen, vilket indikerar stark form, medan Anna Nordqvist och Ingrid Lindblad fortsatt söker konsistens senare säsongen. Fokus bör ligga på hur Munoz och Buhai hanterar gräsmattan samt huruvida någon av de svenska namnen kan dra nytta av ett relativt öppet fält utan några dominanta favoriter."
+              "b": "**Meijer LPGA Classic for Simply Give – Förhandsanalys**\n\nTurnering på LPGA Tour dras in med ett starkt internationellt fält där spanjorskorna Azahara Munoz och Carolina Chacarra utgör något av favoritskaran, men också sydafrikanska Ashleigh Buhai är en spelare att räkna med. På den svenska fronten har Linnea Strom redan etablerat sig väl i fältet som 15:a på seedningen, och det blir intressant att se hur Ingrid Lindblad och Anna Nordqvist, som båda tillhör världseliten, lyckas komma in i turneringen med tanke på sin ranking. Frida Kinhult har möjlighet att göra statement här om formen är på plats. Utan information om bankens dimensioner och karakteristik är det svårt att säga hur banan spelar, men det blir värt att notera hur de svenska spelarna hanterar presidentskapet jämfört med etablerade namn som In Gee Chun och Brooke Henderson."
             },
             {
               "icon": "flag.fill",
@@ -5924,13 +5924,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-17T22:17:09+00:00",
-          "headline": "Patty Tavatanakit och världseliten möts i kvinnornas premiärtävling – vem tar över från Zalatoris?",
+          "generatedAt": "2026-06-17T23:09:32+00:00",
+          "headline": "Patty Tavatanakit jagade igen - kan någon stoppa US Open-mästaren på LPGA?",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# KPMG Women's PGA Championship – Förhandsanalys\n\nVärldselitans främsta damgolfare ställs mot varandra i KPMG Women's PGA Championship, ett av LPGA-touren mest prestigefulla majors där konsistens och mentalt styrka blir avgörande. Nelly Korda dominerar säsongen med flera segrar och söker sitt andra större majortitel, men hotad av framträdanden från Patty Tavatanakit och världsettan Ding Ning som visar stark form. Svenskt perspektiv saknas från toppen av startfältet, men det är värt att notera hur fältets tätplacerade amerikaner – inklusive Brooke Henderson och Lexi Thompson – fungerar under majormajdetstryck där precision från tee och nerchippning ofta skiljer segrare från förstagrondsutslagna."
+              "b": "# KPMG Women's PGA Championship – Förhandsanalys\n\nVärldselitans största namn ställer upp när LPGA-touren gästar ett av årets fem majors, med Patty Tavatanakit, Patex Scheffler och Nelly Korda som naturliga favoriter. Turneringen bjuder på ett klassiskt matchup mellan de etablerade stjärnorna och en växande skara hungriga unga spelare som börjar göra allvar av sitt grespel. För svenska golfintresserade blir det en test i hur långt våra landslagsspelare lyckas ta sig framåt – även om fältet denna gång saknar relevanta svenska namn. Att följa är hur greenskeepningen påverkar favoriternas approach-spel; på ett majors är det ofta detaljerna i korta spelet som skiljer en vinnare från resten."
             },
             {
               "icon": "flag.fill",
@@ -5969,13 +5969,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-17T22:17:16+00:00",
-          "headline": "Italienska klassikern lockar världseliten – vem dominerar Marco Simones gröna?",
+          "generatedAt": "2026-06-17T23:09:38+00:00",
+          "headline": "Italienska klassikern utan svenska försvarare – Rory McIlroy jagar sin tredje titel",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# DS Automobiles 83° Open d'Italia – Förhandsanalys\n\nOpen d'Italia återvänder till DP World Tour-kalendern och lockar ett starkt europeiskt fält där Rory McIlroy och den tidigare vinnaren Matteo Manassero utgör mittskeppet. McIlroy söker kontinuitet efter stabila resultat på kontinenten, medan italienaren Manassero kommer att ha hemmafördelarna när han försöker försvara sin titel. Fransmannen Ludvig Aberg och schweizaren Collin Morikawa representerar den unga generationens ambitioner på italiensk mark. Med tanke på att italiensk golf traditionellt blomstrar på hemmaplan bör man hålla extra uppmärksamhet på hur de lokala favorerna presterar under trycket."
+              "b": "# DS Automobiles 83° Open d'Italia - Förhandsanalys\n\nOpen d'Italia återvänder till DP World Tours kalender och lockar ett starkt fält med flera namn som söker form innan säsongens slutspurt. Rory McIlroy, Jon Rahm och Ludvig Aberg utgör en imponerande topp där Aberg blir intressant att följa då svensken har visat ojämn form på sistone men har erfarenheten från italienska förhållanden. Banans karakteristik blir avgörande – italiensk grässtypning och vindförhållanden kräver precision snarare än kraft, vilket ofta gynnar rutinerade europeiska spelare framför långslagarna."
             },
             {
               "icon": "flag.fill",
