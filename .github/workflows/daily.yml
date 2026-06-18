@@ -7,11 +7,19 @@ on:
     # syntes inte i feeden förrän nästa morgon. Nu täcker vi hela spelfönstret
     # för både europeiska (förmiddag-eftermiddag svensk tid) och nordamerikanska
     # (eftermiddag-kväll svensk tid) rundor.
-    - cron: '0 6 * * *'    # 08:00 svensk — morgon: previews + gårdagens slutresultat
-    - cron: '0 12 * * *'   # 14:00 svensk — europeiska rundor igång
-    - cron: '0 15 * * *'   # 17:00 svensk — NA-rundor igång, europeiska klara
-    - cron: '0 18 * * *'   # 20:00 svensk — NA mitt i, europeiska slut
-    - cron: '0 21 * * *'   # 23:00 svensk — NA-rundor klara
+    #
+    # OBS reliability: GitHubs schemalagda runs dröjer/droppas regelbundet vid
+    # toppen av timmen (':00' är mest belastat). Vi lägger därför körningarna på
+    # off-peak-minuter och lägger till en TIDIG morgonkörning som redundans, så
+    # att morgonrapporten har två chanser att trigga. Kombinerat med -24h-
+    # försprånget i round_from_date (R1 genereras redan dygnet före start) är
+    # feeden robust mot enstaka missade körningar.
+    - cron: '39 5 * * *'   # 07:39 svensk — tidig morgon (redundans för morgonrapporten)
+    - cron: '9 6 * * *'    # 08:09 svensk — morgon: previews + gårdagens slutresultat
+    - cron: '9 12 * * *'   # 14:09 svensk — europeiska rundor igång
+    - cron: '9 15 * * *'   # 17:09 svensk — NA-rundor igång, europeiska klara
+    - cron: '9 18 * * *'   # 20:09 svensk — NA mitt i, europeiska slut
+    - cron: '9 21 * * *'   # 23:09 svensk — NA-rundor klara
   workflow_dispatch: {}   # manuell trigger från GitHub UI
 
 permissions:

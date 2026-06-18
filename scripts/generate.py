@@ -258,6 +258,13 @@ def round_from_date(start_iso: str | None, now: dt.datetime | None = None) -> in
     except ValueError:
         return 0
     now = now or dt.datetime.now(dt.timezone.utc)
+    # -24h-försprång: R1-rapporten (pre-round) ska ligga i feeden redan dygnet
+    # FÖRE start, så att torsdagsrapporten inte hänger på att morgonkörningen på
+    # startdagen faktiskt triggar. GitHubs schemalagda runs dröjer/droppas
+    # regelbundet — med försprånget genererar vilken körning som helst inom 24h
+    # före start redan R1, vilket gör den robust mot en missad morgonkörning.
+    if now < start and (start - now) <= dt.timedelta(hours=24):
+        return 1
     days = (now.date() - start.date()).days
     if 0 <= days <= 3:
         return days + 1
