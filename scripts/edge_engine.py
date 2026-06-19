@@ -220,7 +220,7 @@ def estimate_player_mu(
         # landar samma ledare på ~20%, vilket matchar verkligheten. Vikten
         # växer med antal spelade ronder, och när få ronder återstår dominerar
         # försprånget ändå — så sena ledare prissätts fortfarande högt.
-        PRIOR_ROUNDS = 8.0
+        PRIOR_ROUNDS = 10.0
         w = completed_rounds / (PRIOR_ROUNDS + completed_rounds)
         mu = (1.0 - w) * mu_baseline + w * mu_current
         source = f"{completed_rounds}r form {int(round(w * 100))}% + baseline"
