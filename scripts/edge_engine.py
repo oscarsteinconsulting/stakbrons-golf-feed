@@ -208,16 +208,22 @@ def estimate_player_mu(
 
     if completed_rounds >= 1 and score_to_par_so_far is not None:
         mu_current = score_to_par_so_far / completed_rounds
-        # Blend mot baseline för spelare med få rondan (regression to mean)
-        if completed_rounds == 1:
-            mu = 0.6 * mu_current + 0.4 * mu_baseline
-            source = "r1 form + baseline"
-        elif completed_rounds == 2:
-            mu = 0.75 * mu_current + 0.25 * mu_baseline
-            source = "r1+r2 form + baseline"
-        else:
-            mu = mu_current
-            source = f"{completed_rounds}r form"
+        # Bayesiansk krympning mot baseline. Rankingen är en stark prior värd
+        # ~PRIOR_ROUNDS ronder; en enskild spelad rond är en BRUSIG signal om
+        # verklig skicklighet (rond-till-rond-korrelationen i golf är låg).
+        #
+        # VIKTIGT: ledningen (score-to-par) bärs redan med som STARTPOSITION i
+        # simuleringen (completed_score). μ ska därför bara spegla FRAMTIDA
+        # skicklighet — annars dubbelräknas en het rond (både som ledning OCH
+        # som permanent supernivå). Den gamla 0.6·form-blandningen gav en
+        # R1-ledare μ ≈ −3.9/rond → 68% vinst-sannolikhet. Med krympningen
+        # landar samma ledare på ~20%, vilket matchar verkligheten. Vikten
+        # växer med antal spelade ronder, och när få ronder återstår dominerar
+        # försprånget ändå — så sena ledare prissätts fortfarande högt.
+        PRIOR_ROUNDS = 8.0
+        w = completed_rounds / (PRIOR_ROUNDS + completed_rounds)
+        mu = (1.0 - w) * mu_baseline + w * mu_current
+        source = f"{completed_rounds}r form {int(round(w * 100))}% + baseline"
         return mu, source
 
     # Pre-tournament / R1 ej startad → rent baseline
@@ -547,7 +553,7 @@ def build_edge_payload(
     field_size = len([p for p in players if not p["missed_cut"]])
     independent = n_independent > 0 and completed_rounds == 0
     payload: dict[str, Any] = {
-        "modelVersion": "0.6.0",  # fält-medveten rankingkälla (LPGA-fix)
+        "modelVersion": "0.7.0",  # Bayesiansk form-krympning (in-play vinst-prob-fix)
         "simulations": n_sims,
         "remainingRounds": remaining,
         "completedRounds": completed_rounds,
