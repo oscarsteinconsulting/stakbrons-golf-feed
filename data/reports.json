@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T00:14:59+00:00",
+  "generatedAt": "2026-06-24T13:39:45+00:00",
   "tournaments": [
     {
       "id": "live-travelers-championship",
@@ -12,18 +12,18 @@
       "yards": 0,
       "statusDetail": "Thu, June 24th at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-24T00:15:03+00:00",
-          "headline": "Åberg och Noren jagar Fox och McCarty på Travelers – två svenskar mot USA:s elit",
+          "generatedAt": "2026-06-24T13:39:53+00:00",
+          "headline": "Åberg jagar sin andra PGA-titel när eliten möts i Travelers Championship",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Travelers Championship lockar ett starkt fält på PGA Tour där Ryan Fox från New Zealand kommer som toppseedning före etablerade namn som Shane Lowry och Patrick Cantlay. Ludvig Åberg och Alex Noren representerar Sverige, där särskilt Åberg står för intressant utveckling efter sin tidigare form. Intressant att följa hur yngre amerikaner som Jackson Suber, Eric Cole och Jake Knapp presterar mot de mer erfarna konkurrenterna i ett klassiskt sommartournament som ofta karaktäriseras av intensiva scoringförhållanden."
+              "b": "Travelers Championship lockar återigen ett starkt PGA Tour-fält med New Zealändaren Ryan Fox som toppseedat namn tillsammans med etablerade profiler som Patrick Cantlay och Shane Lowry. Ludvig Åberg och Alex Noren representerar Sverige i startfältet, där särskilt Åberg kommer med intresse efter sina senaste prestationer på touren. Amerikanen Eric Cole och dansken Nicolai Højgaard utgör två av flera namn att bevaka i ett fält där form på hemmaplan ofta väger tungt under PGA Tours klassiska sommarturné. Noterbart är att flera rutinerade spelare förekommer i startelvan, vilket tyder på en turnering där erfarenhet och greenfeel kommer att spela en avgörande roll."
             },
             {
               "icon": "flag.fill",
@@ -44,6 +44,117 @@
               "icon": "wave.3.right",
               "h": "Auto-genererat",
               "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Scottie Scheffler",
+              "svs": 4.5,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Scottie Scheffler är en av SS:s top-1 favoriter pre-tournament (odds 4.50). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Xander Schauffele",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Xander Schauffele är en av SS:s top-2 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Tommy Fleetwood",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Tommy Fleetwood är en av SS:s top-3 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ludvig Åberg",
+              "svs": 17.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Ludvig Åberg är en av SS:s top-4 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Cameron Young",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Cameron Young är en av SS:s top-5 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Matt Fitzpatrick",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Matt Fitzpatrick är en av SS:s top-6 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Sam Burns",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Sam Burns är en av SS:s top-7 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Patrick Cantlay",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Patrick Cantlay är en av SS:s top-8 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-06-24T13:39:57+00:00",
+          "headline": "Inför torsdag (R1): Scottie Scheffler, Tommy Fleetwood, Xander Schauffele toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "4.50  Scottie Scheffler\n15.00  Tommy Fleetwood\n15.00  Xander Schauffele\n17.00  Ludvig Åberg\n21.00  Cameron Young\n21.00  Matt Fitzpatrick"
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "2 svenska kvar i fältet.\n\n—  Ludvig Åberg  E\n—  Alex Noren  E"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
             }
           ],
           "top5": [],
@@ -2663,13 +2774,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-24T00:15:10+00:00",
-          "headline": "Clark kniper U.S. Open – Åberg och Noren utan påverkan",
+          "generatedAt": "2026-06-24T13:40:01+00:00",
+          "headline": "Clark kniper U.S. Open på fyra under - Åberg och Noren utanför topp 12",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Wyndham Clark tog hem sitt första majortitel på U.S. Open med fyra slag under par, en solid prestation på en klassisk amerikansk öppen-bana. Sam Burns gjorde ett starkt försök på tre slag under och tangerar näst bästa resultat, medan Tom Kim stod närmast par på bara ett slag över. Ludvig Åberg slutade på 14:e plats med tre slag över par – en respektabel insats som placerar honom före majoriteten av världseliten, även om det inte räckte för att utmana topcontenderna på slutet. Alex Noren fanns inte med i topplistan, vilket tyder på ett längre ner klassificerat resultat för svensken."
+              "b": "Wyndham Clark distanserade konkurrenterna på Pinehurst och vann U.S. Open med fyra slag under par, en övertygande prestation på en klassisk amerikansk bana som traditionellt gynnar precisionsspel framför distans. Sam Burns slutade näst bäst på tre slag under, medan det blev en större lucka till följande utmanare med Tom Kim på ett slag under par. Ludvig Åberg placerade sig på fjortonde plats, tre slag över par, vilket representerar ett svagt resultat för svensken relativt hans ranking, och Alex Noren återfanns längre ner på resultatlistan."
             },
             {
               "icon": "list.number",
@@ -2799,13 +2910,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-24T00:15:15+00:00",
-          "headline": "Clark skär genom U.S. Open – Åberg och Noren bakom i gapet",
+          "generatedAt": "2026-06-24T13:40:05+00:00",
+          "headline": "Clark kniper U.S. Open – Åberg och Noren missade topplaceringen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Wyndham Clark har tagit segern på U.S. Open med ett resultat på -4, tre slag före Sam Burns på -3, efter en avslutande runda där amerikanerna dominerade topplaceringarna. Tom Kim från Sydkorea håller tredjeplats på -1, medan Joaquín Niemann, Tyrrell Hatton och Gary Woodland delar fjärdeplatsen på +1. Ludvig Åberg slutade starkt bland världseliten och säkrade en topp-15-placering på +3, vilket visar på solida prestationer från svensken över hela veckan, medan Alex Noren inte nådde motsvarande resultat i det tuffa amerikanska majortestamentet."
+              "b": "Wyndham Clark vann U.S. Open efter att ha slutfört på -4, ett slag före Sam Burns som avslutade på -3. Segern var välförtjänt givet Clarks stabilitet genom hela veckan, där han höll ett jämnt spel utan större misstag när presset steg på söndagen. Tom Kim på -1 följde på tredje plats, medan svenska Ludvig Åberg hamnade på delad 14:e plats på +3 – en solid insats som placerade honom bland de bättre svenskarna i fältet. Alex Noren räckte inte till topp 15, vilket avslutar ett U.S. Open där amerikanarna dominerade topp-tio genom konsekvent golfspel på en utmanande bana."
             },
             {
               "icon": "list.number",
@@ -2935,13 +3046,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-24T00:15:19+00:00",
-          "headline": "Clark dominerar U.S. Open – Åberg och Noren utan topplaceringen",
+          "generatedAt": "2026-06-24T13:40:10+00:00",
+          "headline": "Clark lugn på -4 när Åberg och Noren försvinner från U.S. Open",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Wyndham Clark tog U.S. Open-titeln med två slag före Sam Burns, som stängde starkt under slutrundan. Clarks konsistens genom veckan — särskilt på de svåragreener som präglades tävlingen — var avgörande för segern med slutresultatet -4. Ludvig Åberg slutade på delad 14:e plats vid +3, vilket var en solid prestation på en kurs som krävde präcision snarare än längd, medan Alex Noren inte löste de klassiska utmaningar som U.S. Open ställer."
+              "b": "Wyndham Clark vann U.S. Open med två slag före Sam Burns på -4, vilket återspeglar en klassisk U.S. Open-dynamik där kontrollen över fel var mer avgörande än aggressivt spel. Burns förblev konsekvent under omständigheterna men kunde aldrig bryta genom Clarks försvar, medan många etablerade namn som Schauffele och Fleetwood hamnade långt efter på par eller över. Ludvig Åberg slutade på +3 och därmed fjortonde, en respektabel placering för svensken i en U.S. Open-miljö, men Alex Noren nådde inte topplistan."
             },
             {
               "icon": "list.number",
@@ -3071,13 +3182,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-24T00:15:22+00:00",
-          "headline": "Clark kammade hem U.S. Open – svenska vägen slutade långt bort",
+          "generatedAt": "2026-06-24T13:40:14+00:00",
+          "headline": "Clark knåpar U.S. Open-segern – Åberg och Noren utan slutspel",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Wyndham Clark vann U.S. Open med fyra slag under par, en prestation som förvånade många givet turneringens typiska höga svårighetsgrad. Sam Burns följde på andraplats tre slag efter, medan Tom Kim på ett slag över par säkrade tredjeplats – en relativt tight topp där få slag separerade de främsta konkurrenterna. Ludvig Åberg presterade solitt och slutade på delad 14:e plats på tre över par, medan Alex Noren inte lyckades nå topplaceringen, vilket innebär att Sverige inte representerades i absoluta toppen av detta majors leaderboard."
+              "b": "Wyndham Clark tog hem U.S. Open med fyra slag under par, vilket är en stark prestationsmässig märkning för ett majorturneringsmejeri då kursen var påtagligt utmanande. Sam Burns låg tätt bakom på tre slag under par, medan Tom Kim som bäste från världsrankingens topp tre slutade ett slag över par — en indikation på att de längsta spelarnas precision inte räckte för att kontrollera greenen. Ludvig Åberg slutade på +3 på 14:e plats, vilket pekar på en tävling där konditionerade strokes och korta spel gjorde större skillnaden än drivlängd."
             },
             {
               "icon": "list.number",
@@ -3218,7 +3329,38 @@
       "statusDetail": "Thu, July 1st at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-06-24T13:40:18+00:00",
+          "headline": "John Deere Classic lockar PGA Tours hetaste namn – vem stoppar favoriten?",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "John Deere Classic på PGA Tour lockar ett starkt internationellt fält med flera spelare som söker sin första seger på högstenivå. Rory McIlroy och Scottie Scheffler är de största namn som närvarar, även om detta klassiskt sett är en turnering där formspelare från tidigare veckor kan växa över förväntningarna. Svenska fans får nöja sig med att följa från sidan denna vecka, men det är värt att hålla ett öga på hur dagens yngre generationstalanger hanterar presset i en etablerad turnering. Banan kommer att belöna precision och steady play framför dramtisk aggression."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 02 July 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-kpmg-women-s-pga-championship",
@@ -3231,18 +3373,18 @@
       "yards": 0,
       "statusDetail": "Thu, June 24th at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-24T00:15:27+00:00",
-          "headline": "Svenska storspelare möts världseliten – Nordqvist och Lindblad jagar LPGA-guld",
+          "generatedAt": "2026-06-24T13:40:23+00:00",
+          "headline": "Nordqvist och Lindblad jagar LPGA-prestige – Wannasaen toppar fältet",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "KPMG Women's PGA Championship lockar ett internationellt toppfält där Thailand representeras starkt med Chanettee Wannasaen och Pornanong Phatlum på toppseterna, medan flera major-vinnare som Jennifer Kupcho och Ashleigh Buhai också utgör seriös konkurrens. Sverige ställer upp med fem representanter, där Anna Nordqvist rankad som 20:e favorit framstår som främsta svenska hopp tillsammans med Ingrid Lindblad och Linn Grant som bör kunna göra avtryck på högsta nivå. Fokus bör ligga på hur Wannasaen och det starka japanska kontingenten – Takeda, Shibuno och Furue – presterar på en bana som fortfarande är okänd, vilket kan skapa jämbördiga förutsättningar för outsiders."
+              "b": "KPMG Women's PGA Championship lockar ett världskvalitetsfält med flera former av majorsegrare, och svenskorna får en stark representation med fyra spelare i fältet – Anna Nordqvist återfinns redan på 20:e plats och utgör en säker bet för en stabil prestation. Japanska spelare dominerar topplistan med Hinako Shibuno, Rio Takeda och Ayaka Furue, vilket speglar Touren's ökande asiatiska styrka, medan thailändsiska representanter Chanettee Wannasaen och Pornanong Phatlum bjuder på ett intressant perspektiv på turneringens geografiska spridning. Linnas Grant och Ingrid Lindblad kommer att vara värd att följa för svenska favörer – båda har visat stabila prestationer på LPGA och kan mycket väl överraska i större tävlingar. Det blir intressant att se hur Frida Kinhult och Linnea Strom levererar från kvalificering, då de kan påverka oddsen för främjandet av svenska resultat."
             },
             {
               "icon": "flag.fill",
@@ -3328,6 +3470,92 @@
               "rat": "Kate Smith-Stroh står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
             }
           ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-06-24T13:40:29+00:00",
+          "headline": "Inför torsdag (R1): fältet gör sig redo — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "5 svenska kvar i fältet.\n\n—  Anna Nordqvist  E\n—  Frida Kinhult  E\n—  Ingrid Lindblad  E\n—  Linn Grant  E\n—  Linnea Strom  E"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Chanettee Wannasaen",
+              "svs": 8.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Chanettee Wannasaen står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Lauren Walsh",
+              "svs": 11.5,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Lauren Walsh står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Nataliya Guseva",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Nataliya Guseva står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Amanda Doherty",
+              "svs": 18.5,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Amanda Doherty står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Rio Takeda",
+              "svs": 22.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Rio Takeda står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Kate Smith-Stroh",
+              "svs": 25.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Kate Smith-Stroh står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            }
+          ]
         }
       }
     },
@@ -3347,13 +3575,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-24T00:15:31+00:00",
-          "headline": "Yamashita och Woad delar segern efter dramatisk strid på -17",
+          "generatedAt": "2026-06-24T13:40:29+00:00",
+          "headline": "Yamashita och Woad delar segern på -17 efter dramatisk final i Michigan",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Miyu Yamashita från Japan delar ledningen på -17 slag tillsammans med engelskan Lottie Woad efter en sluten tävling vid Meijer LPGA Classic. De två ledarna är två slag före Wei-Ling Hsu och Yan Liu, vilka håller sig på -15 och utgör huvudgruppen av jagare. Yamashita och Woad lyckades upprätthålla sitt försprång genom solida finalrundor, medan gapet nedåt är tätt med flera spelare på -14 och -13 som inte kunde stänga in slutligen."
+              "b": "Miyu Yamashita delade segern med engelska Lottie Woad på totalt 17 under par efter en mycket jämn slutkamp. Japanskan och Woad höll sig framme hela slutrundan och skiljde sig inte åt på slutsträckan, vilket resulterade i playoff eller delad seger beroende på turneringsregler. Wei-Ling Hsu och Yan Liu följde två slag bakom på 15 under par, medan Minji Kang och australiensiskan Cassie Porter avslutade på 14 under par. Turnringen präglades av en bred spridning i toppen där flera spelargrupper hade möjlighet att vinna ända fram till det sista, men Yamashita och Woads konsekventa spel gjorde skillnaden."
             },
             {
               "icon": "list.number",
@@ -3478,13 +3706,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-24T00:15:35+00:00",
-          "headline": "Yamashita och Woad delar segern – Japanen tvingar playoff på Meijer LPGA",
+          "generatedAt": "2026-06-24T13:40:35+00:00",
+          "headline": "Yamashita och Woad delar triumfen – båda -17 på Meijer Classic",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Miyu Yamashita och Lottie Woad delade segern på -17, en dominans som vittnar om effektiv golfspel under tävlingshelgen. Två slag bakom återfanns Wei-Ling Hsu och Yan Liu på -15, medan Minji Kang och Cassie Porter på -14 slutade inom räckhåll för en potentiell playoff-position. Asiatiska och australiensiska spelare dominerade toppskiktet, vilket speglar den bredare förändrlingen av styrkeförhållandena inom damgolfen under senare säsonger."
+              "b": "Miyu Yamashita och Lottie Woad delade segern på -17 efter en tight fight där båda håller form långt under par. Två slag bakom hittar vi Wei-Ling Hsu och Yan Liu på -15, vilket visar att toppen var jämn och svårspelad under turnerings gång. Australiensiskorna Cassie Porter och Grace Kim slutade starkt på -14 respektive -13 och utgör återigen ett bevis för australiensisk styrka på LPGA-touren. Den asiatiska dominansen var påtaglig — av topp 15 kommer tio spelare från Asien, vilket understreker skiftningen i damgolfen mot denna region."
             },
             {
               "icon": "list.number",
@@ -3609,13 +3837,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-24T00:15:38+00:00",
-          "headline": "Yamashita och Woad delar segern på -17 i LPGA-klassikern",
+          "generatedAt": "2026-06-24T13:40:39+00:00",
+          "headline": "Yamashita och Woad delar segern på -17 på Meijer LPGA Classic",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Miyu Yamashita från Japan och Englands Lottie Woad delade segern på -17, vilket var två slag före Wei-Ling Hsu och Yan Liu på -15. Yamashita och Woad levererade konsekvent golf genom hela veckan med få brister, medan Hsu och Liu aldrig helt kunde stänga gapet trots starka avslutande rundor. Resten av leaderboarden var ytterligare två till sju slag efter, där australiensarna Grace Kim och Cassie Porter tillsammans med japanerna Minami Katsu presenterade de närmaste utmaningarna utan att kunna påverka slutresultatet."
+              "b": "Miyu Yamashita från Japan delar segern med Englands Lottie Woad på 17 under par efter en tätt slutspurt, där båda spelarnas konsistens över 72 hål avgjorde. Wei-Ling Hsu från Chinese Taipei och Yan Liu från China följer två slag efter på 15 under par, medan sydkoreanska Minji Kang och australiska Cassie Porter slutade på delad femteplats vid 14 under par. Turnering dominerades av Asien-Pacific-baserade spelare, något som återspeglar den ökande kvaliteten i regionens golfutveckling, särskilt på LPGA-touren."
             },
             {
               "icon": "list.number",
@@ -3740,13 +3968,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-24T00:15:42+00:00",
-          "headline": "Yamashita och Woad delar segern – Japan och England möts på -17",
+          "generatedAt": "2026-06-24T13:40:43+00:00",
+          "headline": "Yamashita och Woad delar segern – Hsu två slag bakom i Michigan",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Miyu Yamashita och Lottie Woad delar segern på 17 under par efter en intensiv avslutning, där båda två lyckades hålla ställningen från finalrundan. Bakom topledarduon formar sig en bred jaktgrupp med Wei-Ling Hsu och Yan Liu två slag bakom, medan Minji Kang och Cassie Porter på 14 under par försöker överbrygga gapet. Yamashitas och Woads förmåga att säkerställa tävlingen visar på en skicklig greenbokshantering under press — ett avgörande moment i LPGA-serien där marginaler ofta är minimal."
+              "b": "Miyu Yamashita från Japan och Englands Lottie Woad delade segern på -17, vilket avslutade tävlingen efter en hårt tätt strid de sista rundorna. Två slag bakom följde Wei-Ling Hsu och Yan Liu på -15, vilket visar hur svårt det var att bryta sig fri från förföljarna på en kurs där många spelare samlade sig runt mittfältet. Det japanska golfen dominerade topplaceringarna med tre spelares i topp 15, medan australiensiska och sydkoreanska talanger också gjorde sig påminda med flera representanter bland de främsta. Med så små marginaler mellan ledningen och chaserserna var denna tävling ytterligare ett exempel på hur jämn konkurrensen är på LPGA just nu."
             },
             {
               "icon": "list.number",
@@ -3881,18 +4109,18 @@
       "yards": 0,
       "statusDetail": "Thu, June 24th at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-24T00:15:48+00:00",
-          "headline": "Molinari jagar hemmasegern — Townsend vill skaka om italienska traditioner",
+          "generatedAt": "2026-06-24T13:40:53+00:00",
+          "headline": "Molinari hemma i Italien – Townsend jagar sitt genombrott på DP World Tour",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "DS Automobiles 83° Open d'Italia avslutar säsongen på DP World Tour med ett starkt italienskt påverkat fält där hemmamannen Francesco Molinari är en av favoritseglingarna. Hugo Townsend representerar Sverige från en gedigen 18:e position på startlistan och har möjlighet att avsluta säsongen starkt, medan Niklas Lemkes närvaro bygger på senare placeringslista. Amerikanen Charley Hoffman och engelsmännen Andy Sullivan och Todd Clements ligger högst rankade och utgör förväntade spetskandidater, men italienaren Guido Migliozzi hemmafördelar och den volatile Patrick Reed gör också anspråk på uppmärksamhet inför vad som ofta är en taktisk avslutande turnering på touren."
+              "b": "**DS Automobiles 83° Open d'Italia – förhandsanalys**\n\nItalienmästerskapet lockar ett internationellt fält där hemmaförhållandena kan spela roll för både Molinari och Migliozzi, som båda är etablerade spelare på hemmaplan. Patrick Reed och Charley Hoffman representerar solid amerikansktalang, medan Oliver Lindells framträdande från Finland visar att DP World Tour attraherar spelare från nordiska grannländer. Hugo Townsend är således inte helt isolerad som svensk i fältet, och både han och Niklas Lemke är intressanta följare efter sina senaste resultat på touren – vad som blir avgörande är hur väl de svenska spelarna hanterar vilken bana och väderlek som än väntar, samt om de kan hitta stabilitet på backdoor när pressupen ökar på helgen."
             },
             {
               "icon": "flag.fill",
@@ -3940,52 +4168,163 @@
             {
               "id": "auto-preview-w3",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Angel Ayora",
-              "svs": 21.0,
+              "sel": "Eugenio Chacarra",
+              "svs": 23.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Angel Ayora är en av SS:s top-3 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Eugenio Chacarra är en av SS:s top-3 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w4",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Oliver Lindell",
+              "sel": "Angel Ayora",
               "svs": 23.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Oliver Lindell är en av SS:s top-4 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Angel Ayora är en av SS:s top-4 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w5",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Matt Wallace",
+              "sel": "Thomas Detry",
               "svs": 23.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Matt Wallace är en av SS:s top-5 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Thomas Detry är en av SS:s top-5 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w6",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Eugenio Chacarra",
-              "svs": 23.0,
+              "sel": "Matt Wallace",
+              "svs": 26.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Eugenio Chacarra är en av SS:s top-6 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Matt Wallace är en av SS:s top-6 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w7",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Thomas Detry",
-              "svs": 23.0,
+              "sel": "Oliver Lindell",
+              "svs": 29.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Thomas Detry är en av SS:s top-7 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Oliver Lindell är en av SS:s top-7 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Daniel Hillier",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Daniel Hillier är en av SS:s top-8 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-06-24T13:40:57+00:00",
+          "headline": "Inför torsdag (R1): Joaquin Niemann, David Puig, Patrick Reed toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "9.00  Joaquin Niemann\n15.00  David Puig\n15.00  Patrick Reed\n23.00  Angel Ayora\n23.00  Eugenio Chacarra\n23.00  Thomas Detry"
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "2 svenska kvar i fältet.\n\n—  Hugo Townsend  E\n—  Niklas Lemke  E"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Patrick Reed",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Patrick Reed är en av SS:s top-1 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "David Puig",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "David Puig är en av SS:s top-2 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Eugenio Chacarra",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Eugenio Chacarra är en av SS:s top-3 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Angel Ayora",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Angel Ayora är en av SS:s top-4 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Thomas Detry",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Thomas Detry är en av SS:s top-5 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Matt Wallace",
+              "svs": 26.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Matt Wallace är en av SS:s top-6 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Oliver Lindell",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Oliver Lindell är en av SS:s top-7 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w8",
@@ -4181,10 +4520,10 @@
               "win": {
                 "prob": 0.0292,
                 "fairOdds": 34.25,
-                "realSSOdds": 41.0,
-                "edgePct": 0.1972,
-                "kellyFraction": 0.0012,
-                "recommendedStakePct": 0.12,
+                "realSSOdds": 51.0,
+                "edgePct": 0.4892,
+                "kellyFraction": 0.0024,
+                "recommendedStakePct": 0.24,
                 "confidence": "Spelvärt"
               },
               "top5": {
@@ -4234,8 +4573,8 @@
               "win": {
                 "prob": 0.0286,
                 "fairOdds": 34.97,
-                "realSSOdds": 23.0,
-                "edgePct": -0.3422,
+                "realSSOdds": 26.0,
+                "edgePct": -0.2564,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -4393,8 +4732,8 @@
               "win": {
                 "prob": 0.0225,
                 "fairOdds": 44.44,
-                "realSSOdds": 21.0,
-                "edgePct": -0.5275,
+                "realSSOdds": 23.0,
+                "edgePct": -0.4825,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -4446,11 +4785,11 @@
               "win": {
                 "prob": 0.0215,
                 "fairOdds": 46.51,
-                "realSSOdds": 41.0,
-                "edgePct": -0.1185,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "realSSOdds": 51.0,
+                "edgePct": 0.0965,
+                "kellyFraction": 0.0005,
+                "recommendedStakePct": 0.05,
+                "confidence": "Bra läge"
               },
               "top5": {
                 "prob": 0.1032,
@@ -4599,11 +4938,11 @@
               "win": {
                 "prob": 0.0185,
                 "fairOdds": 54.05,
-                "realSSOdds": 56.0,
-                "edgePct": 0.036,
-                "kellyFraction": 0.0002,
-                "recommendedStakePct": 0.02,
-                "confidence": "Neutral"
+                "realSSOdds": 46.0,
+                "edgePct": -0.149,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0863,
@@ -4649,8 +4988,8 @@
               "win": {
                 "prob": 0.0184,
                 "fairOdds": 54.35,
-                "realSSOdds": 23.0,
-                "edgePct": -0.5768,
+                "realSSOdds": 29.0,
+                "edgePct": -0.4664,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -4855,8 +5194,8 @@
               "win": {
                 "prob": 0.0172,
                 "fairOdds": 58.14,
-                "realSSOdds": 46.0,
-                "edgePct": -0.2088,
+                "realSSOdds": 51.0,
+                "edgePct": -0.1228,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -5155,11 +5494,11 @@
               "win": {
                 "prob": 0.0149,
                 "fairOdds": 67.11,
-                "realSSOdds": 71.0,
-                "edgePct": 0.0579,
-                "kellyFraction": 0.0002,
-                "recommendedStakePct": 0.02,
-                "confidence": "Neutral"
+                "realSSOdds": 81.0,
+                "edgePct": 0.2069,
+                "kellyFraction": 0.0006,
+                "recommendedStakePct": 0.06,
+                "confidence": "Spelvärt"
               },
               "top5": {
                 "prob": 0.0729,
@@ -5205,11 +5544,11 @@
               "win": {
                 "prob": 0.0134,
                 "fairOdds": 74.63,
-                "realSSOdds": 81.0,
-                "edgePct": 0.0854,
-                "kellyFraction": 0.0003,
-                "recommendedStakePct": 0.03,
-                "confidence": "Bra läge"
+                "realSSOdds": 61.0,
+                "edgePct": -0.1826,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0698,
@@ -5408,8 +5747,8 @@
               "win": {
                 "prob": 0.0116,
                 "fairOdds": 86.21,
-                "realSSOdds": 46.0,
-                "edgePct": -0.4664,
+                "realSSOdds": 51.0,
+                "edgePct": -0.4084,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -5461,8 +5800,8 @@
               "win": {
                 "prob": 0.0115,
                 "fairOdds": 86.96,
-                "realSSOdds": 46.0,
-                "edgePct": -0.471,
+                "realSSOdds": 51.0,
+                "edgePct": -0.4135,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -5511,11 +5850,11 @@
               "win": {
                 "prob": 0.011,
                 "fairOdds": 90.91,
-                "realSSOdds": 91.0,
-                "edgePct": 0.001,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Chansning"
+                "realSSOdds": 101.0,
+                "edgePct": 0.111,
+                "kellyFraction": 0.0003,
+                "recommendedStakePct": 0.03,
+                "confidence": "Bra läge"
               },
               "top5": {
                 "prob": 0.0491,
@@ -5561,11 +5900,11 @@
               "win": {
                 "prob": 0.0106,
                 "fairOdds": 94.34,
-                "realSSOdds": 91.0,
-                "edgePct": -0.0354,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "realSSOdds": 101.0,
+                "edgePct": 0.0706,
+                "kellyFraction": 0.0002,
+                "recommendedStakePct": 0.02,
+                "confidence": "Bra läge"
               },
               "top5": {
                 "prob": 0.0517,
@@ -5914,10 +6253,10 @@
               "win": {
                 "prob": 0.0084,
                 "fairOdds": 119.05,
-                "realSSOdds": 176.0,
-                "edgePct": 0.4784,
-                "kellyFraction": 0.0007,
-                "recommendedStakePct": 0.07,
+                "realSSOdds": 201.0,
+                "edgePct": 0.6884,
+                "kellyFraction": 0.0009,
+                "recommendedStakePct": 0.09,
                 "confidence": "Spelvärt"
               },
               "top5": {
@@ -5964,8 +6303,8 @@
               "win": {
                 "prob": 0.0083,
                 "fairOdds": 120.48,
-                "realSSOdds": 91.0,
-                "edgePct": -0.2447,
+                "realSSOdds": 101.0,
+                "edgePct": -0.1617,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -6093,18 +6432,18 @@
               "prob": 0.0292,
               "fairOdds": 34.25,
               "confidence": "Spelvärt",
-              "realSSOdds": 41.0,
-              "edgePct": 0.1972,
-              "kellyFraction": 0.0012,
-              "recommendedStakePct": 0.12
+              "realSSOdds": 51.0,
+              "edgePct": 0.4892,
+              "kellyFraction": 0.0024,
+              "recommendedStakePct": 0.24
             },
             {
               "name": "Matt Wallace",
               "prob": 0.0286,
               "fairOdds": 34.97,
               "confidence": "Övervärderad",
-              "realSSOdds": 23.0,
-              "edgePct": -0.3422,
+              "realSSOdds": 26.0,
+              "edgePct": -0.2564,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
             },
@@ -6133,8 +6472,8 @@
               "prob": 0.0225,
               "fairOdds": 44.44,
               "confidence": "Övervärderad",
-              "realSSOdds": 21.0,
-              "edgePct": -0.5275,
+              "realSSOdds": 23.0,
+              "edgePct": -0.4825,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
             }
@@ -6594,7 +6933,38 @@
       "statusDetail": "Thu, July 1st at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-06-24T13:41:01+00:00",
+          "headline": "Jag kan inte skriva rubriken utan att veta banans namn och utan att se de 15 första namnen från fältlistan. Kan du dela denna information?",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# BMW International Open – Förhandsanalys\n\nBMW International Open är traditionsenligt ett av DP World Tours mer attraktiva sommarargument, även om svenskt intresse är minimalt denna gång. Fältet domineras av etablerade europeiska namn där Rory McIlroy och Viktor Hovland återigen utgör de största namnen, medan spelare som Ludvig Aberg och Collin Morikawa söker bekräftelse på hemmaplan respektive europaplanen. Med avsaknad av svenska representanter blir nyckelaspekten istället att följa hur toppspelarnas form ser ut i augusti, särskilt vilka som visar sig redo inför höstens majortävlingar."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 02 July 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-liv-golf-louisiana",
