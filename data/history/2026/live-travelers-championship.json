@@ -7,11 +7,31 @@
   "par": 71,
   "yards": 0,
   "startDate": "2026-06-25T04:00Z",
-  "snapshotAt": "2026-06-29T12:50:32+00:00",
-  "headlines": {},
+  "snapshotAt": "2026-06-29T16:54:20+00:00",
+  "headlines": {
+    "torsdag": "Hovland stämplar Travelers – Scheffler strax bakom på -21",
+    "fredag": "Hovland dominerar Travelers – Åberg och Noren missar topplaceringen",
+    "lordag": "Hovland dominerar Travelers – Åberg och Noren utan topplacering",
+    "sondag": "Hovland dominerar Travelers – Åberg och Noren missar topp tio"
+  },
   "finalLeaderboard": [
     {
-      "position": "T1",
+      "position": "1",
+      "name": "Viktor Hovland",
+      "country": "Norway",
+      "totalDisplay": "-22",
+      "totalValue": -22.0,
+      "rounds": [
+        "-5",
+        "-9",
+        "-6",
+        "-1",
+        "-1",
+        "-"
+      ]
+    },
+    {
+      "position": "2",
       "name": "Scottie Scheffler",
       "country": "USA",
       "totalDisplay": "-21",
@@ -21,20 +41,7 @@
         "-10",
         "-3",
         "-2",
-        "-"
-      ]
-    },
-    {
-      "position": "T1",
-      "name": "Viktor Hovland",
-      "country": "Norway",
-      "totalDisplay": "-21",
-      "totalValue": -21.0,
-      "rounds": [
-        "-5",
-        "-9",
-        "-6",
-        "-1",
+        "-",
         "-"
       ]
     },
