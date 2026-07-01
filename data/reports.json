@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T22:53:46+00:00",
+  "generatedAt": "2026-07-01T10:50:27+00:00",
   "tournaments": [
     {
       "id": "live-john-deere-classic",
@@ -12,18 +12,18 @@
       "yards": 0,
       "statusDetail": "Thu, July 1st at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-30T22:53:50+00:00",
-          "headline": "John Deere Classic: List och Pavon slåss om PGA Tours nästa höjdpunkt",
+          "generatedAt": "2026-07-01T10:50:32+00:00",
+          "headline": "John Deere Classic lockar världsklass – Pavon och Streb jagar PGA-poäng",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "John Deere Classic på PGA Tour bjuder på ett intressant fält dominerat av amerikanska spelare med flera rutinerade namn. Daniel Berger och Brendon Todd utgör de mest meriterade startarna och kan räknas bland favoriterna tillsammans med franske Matthieu Pavon, som visat fin form på senare tid. Utan svenska deltagare ligger fokus på att följa hur etablerade spelare som Robert Streb och Andrew Putnam presterar på vad som ofta är en klassisk målgrupp för detta traditionsenliga arrangemang."
+              "b": "John Deere Classic på PGA Tour lockar ett fält dominerat av amerikanska spelare på jakt efter viktiga poäng innan sommarpausen. Luke List och Ryan Brehm toppar startelvan, men det är namn som Matthieu Pavon från Frankrike och Daniel Berger som kan utmana etablerade favoritgruppen när det gäller konsistens och erfarenhet. Utan representanter från Sverige är det värt att följa hur Robert Streb och Andrew Putnam presterar – två spelare som ofta lyckas väl på hemmaplan när fältet är öppet. Banans specifika karaktär blir avgörande, men det överordnade temat här är vilka amerikaner som kan ta ett viktigt steg framåt före sommarpausen."
             },
             {
               "icon": "flag.fill",
@@ -66,32 +66,138 @@
             {
               "id": "auto-preview-w3",
               "cat": "🤖 Outright (förhand)",
+              "sel": "Jackson Koivun",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Jackson Koivun är en av SS:s top-3 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
               "sel": "Jacob Bridgeman",
               "svs": 21.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Jacob Bridgeman är en av SS:s top-3 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Jacob Bridgeman är en av SS:s top-4 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
-              "id": "auto-preview-w4",
+              "id": "auto-preview-w5",
               "cat": "🤖 Outright (förhand)",
               "sel": "Keegan Bradley",
               "svs": 21.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Keegan Bradley är en av SS:s top-4 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Keegan Bradley är en av SS:s top-5 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Keith Mitchell",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Keith Mitchell är en av SS:s top-6 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Tom Kim",
+              "svs": 26.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Tom Kim är en av SS:s top-7 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "J.T. Poston",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "J.T. Poston är en av SS:s top-8 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-07-01T10:50:37+00:00",
+          "headline": "Inför torsdag (R1): Ben Griffin, Chris Gotterup, Jackson Koivun toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "15.00  Ben Griffin\n15.00  Chris Gotterup\n19.00  Jackson Koivun\n21.00  Jacob Bridgeman\n21.00  Keegan Bradley\n23.00  Keith Mitchell"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ben Griffin",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Ben Griffin är en av SS:s top-1 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Chris Gotterup",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Chris Gotterup är en av SS:s top-2 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Jackson Koivun",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Jackson Koivun är en av SS:s top-3 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Jacob Bridgeman",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Jacob Bridgeman är en av SS:s top-4 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w5",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Jackson Koivun",
-              "svs": 23.0,
+              "sel": "Keegan Bradley",
+              "svs": 21.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Jackson Koivun är en av SS:s top-5 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Keegan Bradley är en av SS:s top-5 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w6",
@@ -566,8 +672,8 @@
               "win": {
                 "prob": 0.0211,
                 "fairOdds": 47.39,
-                "realSSOdds": 34.0,
-                "edgePct": -0.2826,
+                "realSSOdds": 29.0,
+                "edgePct": -0.3881,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -619,8 +725,8 @@
               "win": {
                 "prob": 0.0211,
                 "fairOdds": 47.39,
-                "realSSOdds": 41.0,
-                "edgePct": -0.1349,
+                "realSSOdds": 34.0,
+                "edgePct": -0.2826,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -831,8 +937,8 @@
               "win": {
                 "prob": 0.0175,
                 "fairOdds": 57.14,
-                "realSSOdds": 41.0,
-                "edgePct": -0.2825,
+                "realSSOdds": 34.0,
+                "edgePct": -0.405,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2730,13 +2836,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-30T22:53:58+00:00",
-          "headline": "Hovland stänger gapet – vinner Travelers med -22, Scheffler sex slag bakom",
+          "generatedAt": "2026-07-01T10:50:42+00:00",
+          "headline": "Hovland stänger med -22 när Scheffler tappar mark på TPC River Highlands",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Viktor Hovland tog överlägsen seger på Travelers Championship efter en stark slutrunda, med slutresultatet -22, en slag före Scottie Scheffler som slutade på -21. Norrmännen bevisade stark konsistens genom hela turneringen och håller sig framme i världstopp inför kommande majors. Hverken Ludvig Åberg eller Alex Noren placerade sig i topp 15, men turneringen visar hur tätt fältet är på PGA Tour där redan -15 räcker till topptio."
+              "b": "Viktor Hovland dominerade Travelers Championship genom att avsluta på -22, vilket gav honom en ett slag bred seger framför Scottie Scheffler på -21. Normannen hanterade slutspurten effektivt medan amerikanerna Morikawa och Fitzpatrick följde på respektive -20 och -19. Ludvig Åberg och Alex Noren lyckades inte brytas igenom i topptio, vilket innebär att svenska golfen får vänta på nästa tillfälle att utmana på högsta nivå på PGA Tour."
             },
             {
               "icon": "list.number",
@@ -2866,13 +2972,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-30T22:54:02+00:00",
-          "headline": "Hovland slår Scheffler med ett slag – Åberg och Noren missar topplaceringen",
+          "generatedAt": "2026-07-01T10:50:46+00:00",
+          "headline": "Hovland dominerar Travelers – Åberg och Noren missa topp tio",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Viktor Hovland avslutade Travelers Championship med ett slag före amerikanen Scottie Scheffler och tog sitt andra PGA Tour-segern för året, vilket återigen visar den norske spelarens stabilitet i greenen och säkerhet under press. Scheffler, som har dominerat säsongen, måste nöja sig med andraplats trots starka -21, medan Collin Morikawa slutade som trea på -20 och visar återhämtning i sitt spel. Svenska Ludvig Åberg och Alex Noren lyckades inte göra avtryck i topp 20 på denna TPC River Highlands, där tävlingen återigen krävde precision på greenen och stabilitet under slutspelen."
+              "b": "Viktor Hovland övervann en stark slutspurt och tog Travelers Championship på 22 under par, en slag före världsettan Scottie Scheffler som inte räckte till trots solid finaledag. Collin Morikawa på tredjeplats med 20 under par kompletterar en topp tre som präglades av konsekvent spel från de längsta drivarna på banan. Varken Ludvig Åberg eller Alex Noren nådde topp 20 i ett fält där amerikanska spelare fortsatt dominerade de översta placeringarna."
             },
             {
               "icon": "list.number",
@@ -3002,13 +3108,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-30T22:54:06+00:00",
-          "headline": "Hovland kryssar på -22 när Scheffler slipper in på -21",
+          "generatedAt": "2026-07-01T10:50:50+00:00",
+          "headline": "Hovland slår Scheffler med ett slag – Åberg och Noren miste topplaceringen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Viktor Hovland tog sitt andra PGA Tour-seger på två veckor genom att dominera Travelers Championship med slutresultatet -22, en slag före Scottie Scheffler som förblev en stark challenger med -21. Collin Morikawa slutade trea på -20 och säkerställde därmed en stabil topp tre dominerad av världselitens konsistentaste spelare denna säsong. Ludvig Åberg och Alex Noren lyckades inte tränga in i toppskiktet denna gång, vilket speglar det höga nivåskillnader som råder på PGA Tour när elitspelarna hittar sitt spel samtidigt."
+              "b": "Viktor Hovland tog en dominant seger på Travelers Championship med 22 under par, en slag före Scottie Scheffler som inte lyckades sätta press på norrmännen under finalrundorna. Collin Morikawa slutade trea på 20 under par och slutförde en concentrerad jakt från en välformerad amerikanskt dominerad topplacering. Svenska golfares prestation framgår inte från topplaceringarna, med varken Ludvig Åberg eller Alex Noren bland de femton bästa."
             },
             {
               "icon": "list.number",
@@ -3138,13 +3244,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-30T22:54:10+00:00",
-          "headline": "Hovland dominerar Travelers – Åberg och Noren missade topp tio",
+          "generatedAt": "2026-07-01T10:50:54+00:00",
+          "headline": "Hovland dominerar Travelers – Åberg och Noren utan topplacering",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Viktor Hovland tog sin första PGA Tour-seger för säsongen genom att hålla ett slag före Scottie Scheffler på TPC River Highlands, med den norske världsettan som avslutade på -22. Hovland höll ett stabilt spel under slutrdningen medan Scheffler, trots en stark finish på -21, inte räckte ifatt. Collin Morikawa på -20 kompletterade topp tre, där även engelsmännen Matt Fitzpatrick på -19 gjorde ett solidt arrangemang i New England. Svenska representanterna Ludvig Åberg och Alex Noren fanns inte i topp femton och hade därmed svårt att konkurrera i ett fält som dominerades av världseliten."
+              "b": "Viktor Hovland tog kontrollen över Travelers Championship och vann med två slag före Scottie Scheffler, som trots stark spel på slutomgången inte kunde helt ikapp norrmannen. Hovlands -22 var tillräckligt för att hålla undan ett pressande fält där Scheffler och Collin Morikawa på -21 respektive -20 representerade den närmaste konkurrensen. Svenska startade svagt; varken Ludvig Åberg eller Alex Noren lyckades ta sig in i topp 20 och lämnade därmed PGA Tour-konkurrensen utan representation i näraliggande placeringar denna helg."
             },
             {
               "icon": "list.number",
@@ -3285,7 +3391,38 @@
       "statusDetail": "Thu, July 8th at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-07-01T10:50:59+00:00",
+          "headline": "Rory McIlroy jagar sejren på Scottish Open – kan The Open-vinnaren stoppa honom?",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# Genesis Scottish Open – Förhandsanalys\n\nVärldseliten samlast på den skotska östkusten när PGA Tour gästas före Open Championship, och fältlistan vittnar om tävlingens prestige med Rory McIlroy, Jon Rahm och Scottie Scheffler bland favoriter. Det blir en spännande repetiton av de senaste veckorna då flera av spelarna redan möttes på både majors och ordinarie tävlingar, vilket ger oss värdefull form- och matchningsdata inför slutstretchet av sommaren. Svenska namn saknas i elitskiktet, men tävlingens betydelse för världsrankingen och ryggmargen innan majorn gör denna helg allt annat än perifera. Banans förhållanden och väderförhållanden på västkusten blir avgörande faktorer – håll särskilt koll på hur temperament-känsliga slag spelar ut när prestige och ranking-poäng står på spel."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 09 July 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-isco-championship",
@@ -3299,7 +3436,38 @@
       "statusDetail": "Thu, July 8th at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-07-01T10:51:04+00:00",
+          "headline": "Scottie Scheffler jagar sin femte seger – kan amerikanen dominera ISCO Championship?",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# ISCO Championship – Förhandsanalys\n\nISCO Championship på PGA Tour lockar ett starkt världselitfält där Scottie Scheffler återigen förväntas dominera efter sitt imponerande säsongsspel. Rory McIlroy och Collin Morikawa är övriga namn att hålla koll på, då båda söker att prestera konsekvent inför höstens avslutande majors. Utan svenska representanter i fältet ligger fokus på amerikansk golf på högsta nivå, där banans layout och väderförhållanden blir avgörande faktorer för utgången."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 09 July 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-amundi-evian-championship",
@@ -3313,7 +3481,38 @@
       "statusDetail": "Thu, July 8th at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-07-01T10:51:08+00:00",
+          "headline": "Patty Tavatanakit jagad av världseliten – svensk kraft saknas i Evian",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# Förhandsanalys: The Amundi Evian Championship\n\nThe Amundi Evian Championship är en av golfens viktigaste damtävlingar och lockade världens bästa spelarinnor till Frankrikes alpina miljö. Med en blandning av etablerade mastarnas och hungriga yngre namn kommer striden att stå mellan spelares formkurva under hösten och deras tidigare framgångar på denna klassiska bana. Utan svenska representanter i toppen av världsrankingen är det värt att observera hur favoriterna hanterar trycket i en Major-tävling där konsistens ofta väger tyngre än enskilda spektakulära slag."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 09 July 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-kpmg-women-s-pga-championship",
@@ -3331,13 +3530,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-30T22:54:16+00:00",
-          "headline": "Ryu dominerar KPMG – två slag före Yoon på baskväll",
+          "generatedAt": "2026-07-01T10:51:13+00:00",
+          "headline": "Ryu dominerar KPMG Women's PGA – Stark utanför topp tolv",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Haeran Ryu från Sydkorea tog segern med två slag före Ina Yoon, vilket avslutar en dominant asiatisk prestationsshow där tre länder från regionen tog de tre främsta placeringarna. Nederländska Dewi Weber och kanadensiska Brooke Henderson delade tredjepladsen två slag bakom vinnaren. Maja Stark lyckades inte bryta sig in i topp 15 denna vecka, då turneringen präglades av stark konkurrens från ett brett fält där även amerikanska toppnamn som Nelly Kord och Alison Lee hamnade långt bakom ledningen."
+              "b": "Haeran Ryu från Sydkorea tog hem KPMG Women's PGA Championship med två slag före Ina Yoon, som också är sydkoreansk och avslutade på -11. Ryu:s två slag marginal över förföljaren var tillräcklig för seger trots att Dewi Weber från Nederländerna och Brooke Henderson från Kanada pressade på med delad tredje plats på -10. Svenska Maja Stark hamnade utanför topp 20, vilket väckte mindre uppmärksamhet i ett fält där de östasiatiska spelarna dominerade både på leaderboard och i slutresultatet."
             },
             {
               "icon": "list.number",
@@ -3467,13 +3666,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-30T22:54:19+00:00",
-          "headline": "Ryu dominerar KPMG – två slag före Yoon på-13",
+          "generatedAt": "2026-07-01T10:51:17+00:00",
+          "headline": "Ryu rundar konkurrenterna – två slag före Yoon på KPMG Women's PGA",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Haeran Ryu från Sydkorea tog hem KPMG Women's PGA Championship med två slag före Ina Yoon, också sydkoreansk, efter en dominant avslutande round där Ryu mantade sin två-slag-ledning från dag tre. Två nederländska och kanadensiska golferskor, Dewi Weber och Brooke Henderson, gjorde ett sent försök att hala in på ledaren men stannade på -10, fem slag bakom vinnaren. Maja Stark fanns inte representerad i topp 15 och lyckades därmed inte konkurrera i den övre delen av fältet vid en av säsongens största tävlingar för kvinnor."
+              "b": "Haeran Ryu från Sydkorea tog segern på KPMG Women's PGA Championship med två slag före Ina Yoon, också sydkoreansk, som slutade på -11. Ryu:s två slag marginal var tillräcklig för att hålla undan en hårdnackad förföljare i Yoon, medan nederländaren Dewi Weber och kanadensiskan Brooke Henderson delade tredjeplats på -10. Maja Stark fanns inte representerad bland de bästa resultaten i turneringen."
             },
             {
               "icon": "list.number",
@@ -3603,13 +3802,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-30T22:54:23+00:00",
-          "headline": "Ryu dominerar KPMG-mästerskapet – två slag före Yoon på -13",
+          "generatedAt": "2026-07-01T10:51:21+00:00",
+          "headline": "Ryu dominerar Women's PGA – två slag före Yoon på -13",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Haeran Ryu från Sydkorea vann KPMG Women's PGA Championship med två slag före Ina Yoon, som också levererade en stark prestation från samma nation. Ryu höll undan med -13 genom en konsekvent vecka där hon inte tillät några av förföljarna nämnvärd möjlighet att återkomma. Nederlandske Dewi Weber och kanadensiska Brooke Henderson delade tredjeplats på -10, medan det inte fanns någon svensk spelare bland de femton bästa — Maja Stark nådde inte topp-15-placeringen denna gång."
+              "b": "Haeran Ryu från Sydkorea vann KPMG Women's PGA Championship med två slagars marginal på -13, vilket vittnar om en konsekvent stark vecka då förstaplaceringen höll sig stabil på slutrakan. Ina Yoon slutade två slag bakom på delad andraplats tillsammans med nederländska Dewi Weber och kanadensiska Brooke Henderson, vilka kämpade hårt men inte kunde matcha Ryus stabilitet under slutet av veckan. Topp-15-placeringen dominerades av asiater och amerikanska spelare, medan svenska Maja Stark inte nådde den närmaste kampen om de främsta placeringarna — ett misslyckande att bryta sig in i elitgruppen som hennes framtida LPGA-prestationer bör utvärderas mot."
             },
             {
               "icon": "list.number",
@@ -3739,13 +3938,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-30T22:54:27+00:00",
-          "headline": "Ryu dominerar KPMG-SM på -13, Weber och Henderson två slag bakom",
+          "generatedAt": "2026-07-01T10:51:25+00:00",
+          "headline": "Ryu dominerar KPMG Women's PGA – Stark långt efter på -13",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Haeran Ryu från Sydkorea vann KPMG Women's PGA Championship med två slag före Ina Yoon, som även hon från Sydkorea slutade på -11. Ryu:s två slags marginal byggdes på konsekvent spel under hela veckan, medan Yoon inte kunde ta sig upp från jägarplaceringen trots en solid prestatio. Nederländska Dewi Weber och kanadensiske Brooke Henderson delade tredjeplats på -10, vilket visar på en bred konkurrens i toppen. Maja Stark fanns inte bland de femton bästa resultaten i meritlistan."
+              "b": "Haeran Ryu från Sydkorea tog hem KPMG Women's PGA Championship med två slag marginal efter att ha slutat på -13, en prestöver som förklaras av konsekvent spel genom hela veckan. Ina Yoon följde på andraplats två slag efter, medan nederländskan Dewi Weber och kanadensiskan Brooke Henderson delade tredje plats på -10. Det blev en stark asiatisk dominans i turneringen med flera sydkoreanska och thailändska spelare högt upp på resultatlistan, medan Maja Stark inte lyckades ta sig till en placering bland de femton främsta."
             },
             {
               "icon": "list.number",
@@ -3885,18 +4084,18 @@
       "yards": 0,
       "statusDetail": "Thu, July 1st at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-06-30T22:54:30+00:00",
-          "headline": "Lagergren jagar sitt genombrott när BMW International Open lockar världseliten till DP World Tour",
+          "generatedAt": "2026-07-01T10:51:30+00:00",
+          "headline": "Lagergren jagar BMW-miljon medan Kaymer och Reed söker vägen tillbaka",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "BMW International Open lockas två markanta namn från amerikanskt golfs toppskikt – Patrick Reed och Johannes Veerman – vilket signalerar en attraktiv turnering på DP World Tour. Joakim Lagergren får möjlighet att mäta sig mot rutinerade europeer och ett brett internationellt fält, men konkurrensen är hårdnackad med namn som Sergio García, Martin Kaymer och Bernd Wiesberger på startelistan. Langasque toppar fältlistan och kommer in som favorit tillsammans med etablerade spelare från engelska golfen, medan Lagergrens form de senaste veckorna blir avgörande för svenska chanser i denna klassiska turnering."
+              "b": "BMW International Open lockar årets upplaga med ett starkt europeiskt fält anpassat för DP World Tours krav. Langasque och Luiten representerar touren väl, medan amerikanska Patrick Reed tillför intresse för en bredare publik. Joakim Lagergren får möjlighet att mäta sig mot etablerade europeiska namn – en tillgång för svensken givet att konkurrensnivån är hög utan några världs- eller europatoppar. Noterbart är att tyska spelarna dominerar – Kaymer, von Dellingshausen och Schott tillsammans utgör en rejäl påminnelse om golfens kraft på kontinenten."
             },
             {
               "icon": "flag.fill",
@@ -3917,6 +4116,117 @@
               "icon": "wave.3.right",
               "h": "Auto-genererat",
               "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Patrick Reed",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Patrick Reed är en av SS:s top-1 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Angel Ayora",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Angel Ayora är en av SS:s top-2 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Eugenio Chacarra",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Eugenio Chacarra är en av SS:s top-3 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Daniel Hillier",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Daniel Hillier är en av SS:s top-4 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Rasmus Neergaard-Petersen",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Rasmus Neergaard-Petersen är en av SS:s top-5 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Oliver Lindell",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Oliver Lindell är en av SS:s top-6 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Victor Perez",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Victor Perez är en av SS:s top-7 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Marco Penge",
+              "svs": 34.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Marco Penge är en av SS:s top-8 favoriter pre-tournament (odds 34.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-07-01T10:51:35+00:00",
+          "headline": "Inför torsdag (R1): Joaquin Niemann, Patrick Reed, Angel Ayora toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "8.00  Joaquin Niemann\n15.00  Patrick Reed\n19.00  Angel Ayora\n19.00  Eugenio Chacarra\n23.00  Daniel Hillier\n29.00  Oliver Lindell"
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "1 svensk kvar i fältet.\n\n—  Joakim Lagergren  E"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
             }
           ],
           "top5": [],
@@ -4700,11 +5010,11 @@
               "win": {
                 "prob": 0.0193,
                 "fairOdds": 51.81,
-                "realSSOdds": 67.0,
-                "edgePct": 0.2931,
-                "kellyFraction": 0.0011,
-                "recommendedStakePct": 0.11,
-                "confidence": "Spelvärt"
+                "realSSOdds": 51.0,
+                "edgePct": -0.0157,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0827,
@@ -5456,8 +5766,8 @@
               "win": {
                 "prob": 0.0104,
                 "fairOdds": 96.15,
-                "realSSOdds": 46.0,
-                "edgePct": -0.5216,
+                "realSSOdds": 34.0,
+                "edgePct": -0.6464,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -6587,13 +6897,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-30T22:54:39+00:00",
-          "headline": "Chacarra dominerar italienska öppningen – Lagergren fyra slag bakom på andraplats",
+          "generatedAt": "2026-07-01T10:51:38+00:00",
+          "headline": "Chacarra dominerar Open d'Italia – Lagergren fyra slag bakom på -17",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Eugenio Chacarra dominerade öppet och vann med fem slag före Matt Wallace efter en konsekvent prestations under turneringen. Joakim Lagergren placerade sig starkt på fjärdeplats, fem slag bakom vinnaren, medan Albin Bergstrom slutade på en delad tolfteplats på trettionde slag under par. De övriga svenska starterna – Marcus Kinhult och Jens Dantorp – kom inte in i topresultaten, vilket vittnar om en mycket svag veckoslut jämfört med Lagergrens högre placering."
+              "b": "Eugenio Chacarra dominerade DS Automobiles Open d'Italia med fem slag margin till Matt Wallace, som slutade på -19. Joakim Lagergren presterade starkt för Sverige och säkrade en fjärdeplats på -17, fem slag bakom vinnaren, medan Albin Bergstrom placerade sig på delad 12:e plats tillsammans med flera andra på -13. Chaccarras konsistenta spel under hela veckan var avgörande för segern på italienska golfens traditionsstarka bana."
             },
             {
               "icon": "list.number",
@@ -6723,13 +7033,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-30T22:54:42+00:00",
-          "headline": "Chacarra dominerar Italien – Lagergren tvåa fem slag efter",
+          "generatedAt": "2026-07-01T10:51:42+00:00",
+          "headline": "Chacarra dundrar in Open d'Italia – Lagergren stark tvåa fem slag bakom",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Eugenio Chacarra dominerade Open d'Italia med fem slag före Matt Wallace, vilket vittnar om ett övertygande spel från spanjoren som aldrig släppte greppet om ledningen. Joakim Lagergren presterade starkt och säkrade en solidt fjärdeplats på -17, vilket gör honom till bästa svensk i fältet, medan Albin Bergstrom placerade sig på delad elfteplats på -13 efter en stabil turnering. Avståndet mellan vinnaren och täten av jaktfältet var påtagligt — Wallace på andra plats hade bråk att följa Chacarras tempo — vilket reflekterar att det blev en igenkännlig historia från italienska gräsmattor där precision från start till slut avgör slutresultatet."
+              "b": "Eugenio Chacarra dominerade Open d'Italia med imponerande fem slag före brittens Matt Wallace på -24, en marginal som vittnar om spanjorens konsistenta spel genom hela veckan. Joakim Lagergren levererade en solid tävling för svenska delen och slutade fyra på -17, fem slag bakom vinnaren, medan Albin Bergstrom hamnade på en delad 13:e plats efter att ha tappat mark under slutrundorna. Chacarra vann på ett par som var för starkt för övriga fältet – Wallace höll stand längre än de övriga jagarna, men avståndet blev alltför stort att täppa."
             },
             {
               "icon": "list.number",
@@ -6859,13 +7169,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-30T22:54:47+00:00",
-          "headline": "Chacarra dominerar Open d'Italia – Lagergren stark fyra på -17",
+          "generatedAt": "2026-07-01T10:51:46+00:00",
+          "headline": "Chacarra dominerar Italien – Lagergren stark fyra på -17",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Eugenio Chacarra dominerade DS Automobiles Open d'Italia med en överlägsen prestation på -24, fem slag före engelske Matt Wallace på -19. Joakim Lagergren levererade en solid turnering för Sverige och slutade fyra på -17, bara sju slag bakom vinnaren, medan Albin Bergström säkrade en placering på delad elfte på -13. Spanjoren Chacarras distans till förföljarna vittnar om en konsekvent stark spelvecka där han kontrollerade turneringen från start till målgång."
+              "b": "Eugenio Chacarra dominerade Open d'Italia med ett imponerande femslags försprång ned till Matt Wallace på -19, vilket vittnar om en consekvent stark prestation under alla fyra rundor. Joakim Lagergren levererade en solid vecka och slutade på delad fjärdeplats på -17, medan Albin Bergstrom placerade sig på -13 och därmed fick en bra poängutdelning från en välspelad tävling. De övriga svenska startarna kunde inte nå samma resultat, men Lagergrens framskjutna placering bekräftar att svenskt golf fortsatt är konkurrenskraftigt på DP World Tour-nivå."
             },
             {
               "icon": "list.number",
@@ -6995,13 +7305,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-06-30T22:54:51+00:00",
-          "headline": "Chacarra dominerar Italien – Lagergren tvåa fem slag bakom",
+          "generatedAt": "2026-07-01T10:51:50+00:00",
+          "headline": "Chacarra krossar Italien – Lagergren stark fyra på -17",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Eugenio Chacarra dominerade Open d'Italia och vann med fem slag försprång före Matt Wallace på -24, en dominant prestation som reflekterar konsekvent spel under hela veckan. Joakim Lagergren levererade återigen en stark insats för Sverige och slutade fyra på -17, medan Albin Bergstrom delade 13:e plats på -13 efter en mer ojämn turnering. Kampen om podiet var intensiv med flera spelare på -15 i jakten på andraplats innan Wallace säkrade den andraplaceringen."
+              "b": "Eugenio Chacarra dominerade Open d'Italia med fem slag försprång ned till Matt Wallace, en marginal som tydligt skilde vinnaren från konkurrenterna. Joakim Lagergren presterade starkt för Sverige och säkrade en solid fjärdeplats på -17, medan Albin Bergstrom slutade tolfte på -13 och var därmed den näst bästa svensken. Chacarra höll kontrollen genom hela veckan och visade en konsekvent form som var överlägsen på Oltrarno-banan, medan brittens Wallace gjorde ett sent försök att komma närmare men lyckades aldrig nå ihop på sprickan mellan seg- och tredjeplats."
             },
             {
               "icon": "list.number",
