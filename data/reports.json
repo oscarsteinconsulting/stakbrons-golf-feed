@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T22:08:14+00:00",
+  "generatedAt": "2026-07-15T07:31:28+00:00",
   "tournaments": [
     {
       "id": "live-open",
@@ -12,18 +12,18 @@
       "yards": 0,
       "statusDetail": "Thu, July 15th at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-14T22:08:17+00:00",
-          "headline": "Stenson jagar comeback på PGA Tour – може bli Sveriges största golfchans",
+          "generatedAt": "2026-07-15T07:31:32+00:00",
+          "headline": "Stenson jagar redemption i The Open – Fowler och Fox farliga utmanare",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "The Open på PGA Tour drar igång med ett fält där européiska spelare står i centrum – belgieren Thomas Detry toppar startlistan tillsammans med flera engelska namn som Matthew Baldwin och Andy Sullivan. Henrik Stenson är största svenska hopp och återfinns på elfte plats, medan Joakim Lagergren och Alex Noren får kämpa från övriga delen av fältet. Värt att notera är veteranen Rickie Fowler och Robert MacIntyre som kan utgöra hötande konkurrens om slutsegern, men särskilt fokus bör ligga på hur den etablerade toppen hanterar kursen – Stenson har erfarenheten men måste visa konsistens för att vara med i slutspurten."
+              "b": "**The Open – PGA Tour**\n\nStenson återkommer på proper nivå med två andra svenska representanter i ett fält där namn som Fowler, MacIntyre och Im utgör kärnkraften. Belgien ligger överraskande högt genom Detry, medan de engelska spelarna är väl representerade med bland annat Sullivan och Jordan. Det blir intressant att följa hur Stenson och Noren hanterar tempot på en tur där Form och kursen kommer att separera fältet ordentligt – särskilt viktigt att notera hur grässtyperna passar de svenska spelarna."
             },
             {
               "icon": "flag.fill",
@@ -92,11 +92,122 @@
               "id": "auto-preview-w5",
               "cat": "🤖 Outright (förhand)",
               "sel": "Jon Rahm",
-              "svs": 26.0,
+              "svs": 21.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Jon Rahm är en av SS:s top-5 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Jon Rahm är en av SS:s top-5 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Xander Schauffele",
+              "svs": 26.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Xander Schauffele är en av SS:s top-6 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Viktor Hovland",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Viktor Hovland är en av SS:s top-7 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Chris Gotterup",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Chris Gotterup är en av SS:s top-8 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-07-15T07:31:36+00:00",
+          "headline": "Inför torsdag (R1): Scottie Scheffler, Rory McIlroy, Matt Fitzpatrick toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "8.50  Scottie Scheffler\n9.50  Rory McIlroy\n15.00  Matt Fitzpatrick\n15.00  Tommy Fleetwood\n21.00  Jon Rahm\n26.00  Xander Schauffele"
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "3 svenska kvar i fältet.\n\n—  Henrik Stenson  E\n—  Joakim Lagergren  E\n—  Alex Noren  E"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Scottie Scheffler",
+              "svs": 8.5,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Scottie Scheffler är en av SS:s top-1 favoriter pre-tournament (odds 8.50). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Rory McIlroy",
+              "svs": 9.5,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Rory McIlroy är en av SS:s top-2 favoriter pre-tournament (odds 9.50). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Tommy Fleetwood",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Tommy Fleetwood är en av SS:s top-3 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Matt Fitzpatrick",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Matt Fitzpatrick är en av SS:s top-4 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Jon Rahm",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Jon Rahm är en av SS:s top-5 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w6",
@@ -577,35 +688,35 @@
               "win": {
                 "prob": 0.0225,
                 "fairOdds": 44.44,
-                "realSSOdds": 46.0,
-                "edgePct": 0.035,
-                "kellyFraction": 0.0002,
-                "recommendedStakePct": 0.02,
-                "confidence": "Neutral"
+                "realSSOdds": 36.0,
+                "edgePct": -0.19,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.1117,
                 "fairOdds": 8.95,
-                "realSSOdds": 10.0,
-                "edgePct": 0.117,
-                "kellyFraction": 0.0032,
-                "recommendedStakePct": 0.33,
-                "confidence": "Bra läge"
+                "realSSOdds": 9.0,
+                "edgePct": 0.0053,
+                "kellyFraction": 0.0002,
+                "recommendedStakePct": 0.02,
+                "confidence": "Chansning"
               },
               "top10": {
                 "prob": 0.2067,
                 "fairOdds": 4.84,
-                "realSSOdds": 5.5,
-                "edgePct": 0.1368,
-                "kellyFraction": 0.0076,
-                "recommendedStakePct": 0.76,
-                "confidence": "Bra läge"
+                "realSSOdds": 4.75,
+                "edgePct": -0.0182,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.3562,
                 "fairOdds": 2.81,
-                "realSSOdds": 2.75,
-                "edgePct": -0.0204,
+                "realSSOdds": 2.63,
+                "edgePct": -0.0632,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -736,8 +847,8 @@
               "win": {
                 "prob": 0.0203,
                 "fairOdds": 49.26,
-                "realSSOdds": 26.0,
-                "edgePct": -0.4722,
+                "realSSOdds": 21.0,
+                "edgePct": -0.5737,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -745,8 +856,8 @@
               "top5": {
                 "prob": 0.0942,
                 "fairOdds": 10.62,
-                "realSSOdds": 6.0,
-                "edgePct": -0.4348,
+                "realSSOdds": 5.0,
+                "edgePct": -0.529,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -851,8 +962,8 @@
               "top5": {
                 "prob": 0.0819,
                 "fairOdds": 12.21,
-                "realSSOdds": 7.5,
-                "edgePct": -0.3858,
+                "realSSOdds": 6.5,
+                "edgePct": -0.4677,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -860,8 +971,8 @@
               "top10": {
                 "prob": 0.1622,
                 "fairOdds": 6.17,
-                "realSSOdds": 4.35,
-                "edgePct": -0.2944,
+                "realSSOdds": 4.2,
+                "edgePct": -0.3188,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -869,8 +980,8 @@
               "top20": {
                 "prob": 0.2991,
                 "fairOdds": 3.34,
-                "realSSOdds": 2.5,
-                "edgePct": -0.2523,
+                "realSSOdds": 2.4,
+                "edgePct": -0.2822,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2400,11 +2511,11 @@
               "name": "Russell Henley",
               "prob": 0.1117,
               "fairOdds": 8.95,
-              "confidence": "Bra läge",
-              "realSSOdds": 10.0,
-              "edgePct": 0.117,
-              "kellyFraction": 0.0032,
-              "recommendedStakePct": 0.33
+              "confidence": "Chansning",
+              "realSSOdds": 9.0,
+              "edgePct": 0.0053,
+              "kellyFraction": 0.0002,
+              "recommendedStakePct": 0.02
             },
             {
               "name": "Tommy Fleetwood",
@@ -2472,11 +2583,11 @@
               "name": "Russell Henley",
               "prob": 0.2067,
               "fairOdds": 4.84,
-              "confidence": "Bra läge",
-              "realSSOdds": 5.5,
-              "edgePct": 0.1368,
-              "kellyFraction": 0.0076,
-              "recommendedStakePct": 0.76
+              "confidence": "Övervärderad",
+              "realSSOdds": 4.75,
+              "edgePct": -0.0182,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
             },
             {
               "name": "Chris Gotterup",
@@ -2555,8 +2666,8 @@
               "prob": 0.3562,
               "fairOdds": 2.81,
               "confidence": "Övervärderad",
-              "realSSOdds": 2.75,
-              "edgePct": -0.0204,
+              "realSSOdds": 2.63,
+              "edgePct": -0.0632,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
             },
@@ -2799,18 +2910,18 @@
       "yards": 0,
       "statusDetail": "Thu, July 15th at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-14T22:08:28+00:00",
-          "headline": "Kinhult och Söderberg jagar PGA-poäng i Puntacana – Ramsay toppar fältet",
+          "generatedAt": "2026-07-15T07:31:42+00:00",
+          "headline": "Kinhult jagar framsteg i Puntacana – amerikanska stjärnor vill slå tillbaka",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Corales Puntacana Championship drar in ett blandad fält på PGA Tour där amerikanska spelare utgör huvuddelen, men med intressanta namn från både Europatouren och världseliten. Marcus Kinhult och Sebastian Söderberg representerar Sverige och får en möjlighet att visa sig mot namn som den erfarne Ryan Palmer och Christiaan Bezuidenhout. Richie Ramsay toppar startlistan och kommer att vara en av favoriterna tillsammans med några av de amerikanska spelarna längre ned, medan det blir värt att följa hur Kinhult och Söderberg presterar på denna bana vars förhållanden kan gynna både korta spelares precision och longer hitters."
+              "b": "Corales Puntacana Championship utgör en PGA Tour-event på en karibikresor där fältets karaktär ofta premierar spelares förmåga att hantera vindar och tropiska grästyper. Med en startkavaj präglad av spelare från Europatouren och rankingpunktsälskare snarare än toppserien, blir Richie Ramsay och Séamus Power intressanta namn att följa – Power i synnerhet efter stabil prestationsform under hösten. Svenska Marcus Kinhult och Sebastian Söderberg får möjlighet att bevisa formkurvan mot ett fält där erfarenhet från liknande förhållanden blir en fördel; här gäller det att kartlägga vem som har spelat motsvarande setup tidigare. Att hålla koll på hur amerikanerna Cameron Champ och Justin Lower hanterar den presumtiva banans kort-spel kommer att vara en nyckelfaktor för vinnarchanserna."
             },
             {
               "icon": "flag.fill",
@@ -2868,52 +2979,163 @@
             {
               "id": "auto-preview-w4",
               "cat": "🤖 Outright (förhand)",
+              "sel": "Ben James",
+              "svs": 26.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Ben James är en av SS:s top-4 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
               "sel": "Austin Eckroat",
               "svs": 29.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Austin Eckroat är en av SS:s top-4 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Austin Eckroat är en av SS:s top-5 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
-              "id": "auto-preview-w5",
+              "id": "auto-preview-w6",
               "cat": "🤖 Outright (förhand)",
               "sel": "Stephan Jaeger",
               "svs": 29.0,
               "mkt": 0,
-              "units": 0.7,
+              "units": 0.5,
               "conf": 2,
-              "rat": "Stephan Jaeger är en av SS:s top-5 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Stephan Jaeger är en av SS:s top-6 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
-              "id": "auto-preview-w6",
+              "id": "auto-preview-w7",
               "cat": "🤖 Outright (förhand)",
               "sel": "Mackenzie Hughes",
               "svs": 29.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Mackenzie Hughes är en av SS:s top-6 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w7",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Kevin Yu",
-              "svs": 34.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Kevin Yu är en av SS:s top-7 favoriter pre-tournament (odds 34.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Mackenzie Hughes är en av SS:s top-7 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w8",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Rico Hoey",
+              "sel": "Beau Hossler",
               "svs": 34.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Rico Hoey är en av SS:s top-8 favoriter pre-tournament (odds 34.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Beau Hossler är en av SS:s top-8 favoriter pre-tournament (odds 34.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-07-15T07:31:47+00:00",
+          "headline": "Inför torsdag (R1): Christiaan Bezuidenhout, Blades Brown, Taylor Pendrith toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "19.00  Christiaan Bezuidenhout\n23.00  Blades Brown\n23.00  Taylor Pendrith\n26.00  Ben James\n29.00  Austin Eckroat\n29.00  Mackenzie Hughes"
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "2 svenska kvar i fältet.\n\n—  Marcus Kinhult  E\n—  Sebastian Söderberg  E"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Christiaan Bezuidenhout",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Christiaan Bezuidenhout är en av SS:s top-1 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Taylor Pendrith",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Taylor Pendrith är en av SS:s top-2 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Blades Brown",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Blades Brown är en av SS:s top-3 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ben James",
+              "svs": 26.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Ben James är en av SS:s top-4 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Austin Eckroat",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Austin Eckroat är en av SS:s top-5 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Stephan Jaeger",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Stephan Jaeger är en av SS:s top-6 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Mackenzie Hughes",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Mackenzie Hughes är en av SS:s top-7 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Beau Hossler",
+              "svs": 34.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Beau Hossler är en av SS:s top-8 favoriter pre-tournament (odds 34.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             }
           ]
         }
@@ -3473,8 +3695,8 @@
               "win": {
                 "prob": 0.019,
                 "fairOdds": 52.63,
-                "realSSOdds": 51.0,
-                "edgePct": -0.031,
+                "realSSOdds": 41.0,
+                "edgePct": -0.221,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -3634,8 +3856,8 @@
               "win": {
                 "prob": 0.0171,
                 "fairOdds": 58.48,
-                "realSSOdds": 41.0,
-                "edgePct": -0.2989,
+                "realSSOdds": 34.0,
+                "edgePct": -0.4186,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -4901,13 +5123,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-14T22:08:37+00:00",
-          "headline": "Tom Kim trollar i Skottland – vinner på -17 före Lee",
+          "generatedAt": "2026-07-15T07:31:51+00:00",
+          "headline": "Tom Kim stänger Scottish Open på sjutton under par – ingen svensk i topp tolv",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Tom Kim från Sydkorea dominerade Genesis Scottish Open med en slutsumma på 17 under par, två slag före australiern Min Woo Lee som slutade på 15 under par. En tätt sammantrasslad förföljarklubb med fyra spelare på 13 under par – Johnny Keefer, Keita Nakajima, Robert MacIntyre och Matt Fitzpatrick – var inte tillräckligt starka för att hota Kims komfortabla ledning. Svenska namn saknas i topp 15, vilket tyder på att Mikael Lindberg och Jesper Svensson inte lyckades hålla tempot i en turnering som lockade världselitens klassiska namn som Rory McIlroy och Viktor Hovland."
+              "b": "Tom Kim dominerar Genesis Scottish Open med 17 under par, två slag före australiensaren Min Woo Lee, efter en stark avslutningsrunda på The Renaissance Club. Fyra spelare jagar på tretton under—Keefer, Nakajima, MacIntyre och Fitzpatrick—men Kims konsistenta spel har varit svår att matcha under veckan. Ingen svensk gick igenom topp 20 i slutresultatet, då varken Lindberg eller Svensson kunde etablera sig bland världseliten på denna engelska bana."
             },
             {
               "icon": "list.number",
@@ -5037,13 +5259,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-14T22:08:40+00:00",
-          "headline": "Tom Kim dominerar Scottish Open – fyra slag före Lee",
+          "generatedAt": "2026-07-15T07:31:55+00:00",
+          "headline": "Tom Kim dominerar Scottish Open – sju slag före närmaste jagare",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Tom Kim dominerar Genesis Scottish Open efter en imponerad slutspurt på -17, två slag före australiern Min Woo Lee som aldrig kom tillräckligt nära för att hota segren. Bakom Lee vimlar det av kandidater på -13, där bland annat engelsmannen Matt Fitzpatrick och skotten Robert MacIntyre pressar hårt men kommer för sent. De svenska deltagarna Mikael Lindberg och Jesper Svensson lyckades inte placera sig i topp 20 och hamnade utanför placeringsfördelningen på denna PGA Tour-tävling."
+              "b": "Tom Kim dominerar Genesis Scottish Open efter en framstöt som lämnade honom två slag före australiern Min Woo Lee. En sjumansgrupp på -13 följer tätt efter med engelsman Matt Fitzpatrick och scotsman Robert MacIntyre bland jägarnas främsta namn, medan Rory McIlroy hamnade två slag bakom på -12. De svenska representanterna Mikael Lindberg och Jesper Svensson räckte inte till för topplaceringarna denna vecka."
             },
             {
               "icon": "list.number",
@@ -5173,13 +5395,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-14T22:08:44+00:00",
-          "headline": "Tom Kim triumferar på Scottish Open – två slag före Lee",
+          "generatedAt": "2026-07-15T07:31:59+00:00",
+          "headline": "Tom Kim dominerar Scottish Open – ingen svensk i toppen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Tom Kim dominerar Genesis Scottish Open med sitt slutresultat på -17, två slag före australiern Min Woo Lee som slutade på -15. Kim:s överlägsenhet bygger på en stabil rundserie där han höll nere felmarginalen under svåra skotska förhållanden. Jagaren Lee pressade hårt men kunde aldrig få ikapp ledaren, medan ett större fält med fyra spelare på -13 – Nakajima, MacIntyre, Fitzpatrick och Keefer – slutade för långt bakom för att hota topplaceringen. Av svenska representanter var Mikael Lindberg och Jesper Svensson inte med i topp 15-listan, vilket indikerar att båda två hade svårt att nå samma nivå som världseliten på banan denna vecka."
+              "b": "Tom Kim vann Genesis Scottish Open med 17 slag under par, två slag före australiensaren Min Woo Lee. Kim visade stabil spel genom hela veckan och höll sina konkurrenter på avstånd – fyra spelare delade tredjeplats på 13 slag under par, anförda av Johnny Keefer. Varken Mikael Lindberg eller Jesper Svensson nådde en topp-20-placering denna vecka, något som efterlämnar både svenskarna utan PGA Tour-poäng från detta event."
             },
             {
               "icon": "list.number",
@@ -5309,13 +5531,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-14T22:08:49+00:00",
-          "headline": "Tom Kim dominerar Scottish Open – sexton slag före Lee på andra plats",
+          "generatedAt": "2026-07-15T07:32:03+00:00",
+          "headline": "Tom Kim dominerar Scottish Open – Kim på -17 före Lee på -15",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Tom Kim dominerar Genesis Scottish Open efter en felfri slutspurt där 17:an under par visade överlägsna greenjobb och konsekvent bollkontroll över fyra rundor. Min Woo Lee håller fast vid andraplats två slag bakom, medan flertalet toppspelare—däribland Fitzpatrick, MacIntyre och Nakajima—ligger tätt på två slag från ledningen men inte lyckades närma sig i finalen. Svenska spelare höll sig utanför topp 20, och det återstår att se hur startfältet för kommande vecka påverkas av denna skotska omgång innan vägen tar spelarnas mot nästa PGA Tour-Event."
+              "b": "Tom Kim dominerar Genesis Scottish Open efter att ha slutat på -17, två slag före australiensaren Min Woo Lee som delar andraplatsen. En grupp om fyra spelare — Keefer, Nakajima, MacIntyre och Fitzpatrick — följer på -13, vilket visar att tävlingen öppnade sig brett under slutrundan. De svenska bidragen blev begränsade; varken Mikael Lindberg eller Jesper Svensson nådde topp 20, vilket reflekterar en relativt svag vecka för svenskarna på denna PGA Tour-etapp."
             },
             {
               "icon": "list.number",
@@ -5460,13 +5682,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-14T22:08:53+00:00",
-          "headline": "Fisk slipper undan trion – ingen svensk i toppen",
+          "generatedAt": "2026-07-15T07:32:07+00:00",
+          "headline": "Fisk dominerar ISCO Championship – ingen svensk i topp tolv",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Steven Fisk tog kontrollen över ISCO Championship med slutresultatet -16, en stroke före kanadensarna Taylor Pendrith och Ben Silverman samt Aaron Wise från USA. Fisk höll sig konsekvent stark genom turneringen och lyckades hålla sitt försprång på sluträkningen utan större utmaningar från täten. Norske Kristoffer Ventura följde på femte plats tillsammans med Davis Chatfield och Lucas Glover på -14, vilket visar på ett jämnt fält där flera spelare var inom räckhål under slutspurten. Ingen av de svenska starterna – Niklas Lemke, Pontus Nyholm, Hugo Townsend eller Marcus Kinhult – placerade sig i topplaceringarna denna gång."
+              "b": "Steven Fisk dominerade ISCO Championship med en slagslutresultat på -16, vilket gav honom en komfortabel en-slag-seger före kanadenarna Taylor Pendrith och Ben Silverman samt amerikanen Aaron Wise. Fisk höll ett stabilt tempo genom hela veckan och förvägrade inte på målrakan, medan förföljarna från -15 inte lyckades skapa tillräckligt mycket press för att hota sin position. Norska Kristoffer Ventura slutade på -14 som bästa europé på leaderboarden, och ingen av de fyra svenska startarna — Niklas Lemke, Pontus Nyholm, Hugo Townsend och Marcus Kinhult — nådde en placering i topp 15."
             },
             {
               "icon": "list.number",
@@ -5596,13 +5818,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-14T22:09:00+00:00",
-          "headline": "Fisk stänger ISCO Championship på -16 före kanadensiska trion – Kinhult missar topp 10",
+          "generatedAt": "2026-07-15T07:32:17+00:00",
+          "headline": "Fisk slutsegrar före kanadensisk trippel – Kinhult missade topplaceringen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Steven Fisk löste ut ISCO Championship med en slag före kanadensaren Taylor Pendrith och Ben Silverman, vilka delade andraplats på 15 under par. Fisk höll fokus under slutspurten där flera amerikanska spelare försökte sätta press, men ingen kunde matcha hans konsistenta spel under dagen. Bland svenskarna nådde ingen topp 20-placeringen, vilket indikerar att fältet var tätt sammansatt och kräva en mer robust prestation för att konkurrera om poäng bland eliten."
+              "b": "Steven Fisk tog hem ISCO Championship efter en stark avslutning på tolv under par, ett slag före kanadensarna Taylor Pendrith och Ben Silverman samt amerikanen Aaron Wise som delade andraplats. Norske Kristoffer Ventura höll sig i toppen under stora delar av turneringen men föll tillbaka till femteplats på fjorton under par, medan ett stort fält av amerikanska spelare kämpade om återstående placeringar. Ingen av svenskarna lyckades etablera sig högt upp på leaderboard under en tävling som präglades av starkt spel från etablerade PGA Tour-namn."
             },
             {
               "icon": "list.number",
@@ -5732,13 +5954,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-14T22:09:09+00:00",
-          "headline": "Fisk segrar ensam i ISCO Championship – ingen svensk i topp tolv",
+          "generatedAt": "2026-07-15T07:32:22+00:00",
+          "headline": "Fisk solodominerar ISCO Championship – Lemke och Kinhult utanför top 12",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Steven Fisk tog sitt första PGA Tour-segern genom en solid prestationsuppvisning på ISCO Championship, med en avslutande poäng på -16 före kanadensarnas Taylor Pendrith och Ben Silverman samt amerikanaren Aaron Wise på -15. Norske Kristoffer Ventura och amerikanen Davis Chatfield följde tätt på -14, medan övriga tätplatser dominerades av amerikanska spelare med stabil spel. Från svenska perspektivet lyckades ingen av de fyra inbjudna – Niklas Lemke, Pontus Nyholm, Hugo Townsend och Marcus Kinhult – nå topplaceringen, vilket indikerar ett relativt utmanande fält där Fisks konsistens över 72 hålen gjorde skillnaden."
+              "b": "Steven Fisk tog överraskande segern vid ISCO Championship efter en robust prestación på -16, ett slag före kanadensarna Taylor Pendrith och Ben Silverman samt amerikanen Aaron Wise. Fisks stabilitet genom turneringen skilde sig från ett chaotiskt leaderboard där tio spelare slutade på tolv slag eller bättre, vilket indikerar svåra gräsbano- och väderförhållanden. Ingen svensk kom i närheten av topplaceringarna — de svenska deltagarna strävade långt nedanför detta elitspel. Resultatet bekräftar att Fisk, trots begränsad trackrecord på PGA Tour, kan konkurrera på högsta nivå när villkoren passar hans spelartyp."
             },
             {
               "icon": "list.number",
@@ -5868,13 +6090,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-14T22:09:13+00:00",
-          "headline": "Fisk trollar ISCO Championship – Kinhult och Lemke långt från toppen",
+          "generatedAt": "2026-07-15T07:32:27+00:00",
+          "headline": "Fisk slår kanadensarna på målsnöret – ingen svensk i toppen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Steven Fisk tog ISCO Championship efter en konsekvent prestation som höll honom en slag före kanadensarnas Taylor Pendrith och Ben Silverman på slutresultatet -16. Norske Kristoffer Ventura var näraste utmanare två slag bakom tillsammans med amerikanske Davis Chatfield och Lucas Glover. De svenska startfältet lyckades inte nå toppskiktet — Niklas Lemke, Pontus Nyholm, Hugo Townsend och Marcus Kinhult stannade utanför topp 15 och får söka återhämtning i kommande PGA Tour-evenemang."
+              "b": "Steven Fisk tog control över ISCO Championship och höll kontrollen hela vägen in till segern med ett slag före kanadensaren Taylor Pendrith och Ben Silverman. Fisks konsistens under helgen gav honom förtjänstfullt ledningen redan från fredagen och han tillät sig aldrig att pressas tillbaka av de hårdkokade chaser-gruppen. Norske Kristoffer Ventura följde på femte plats tillsammans med flera amerikaner, medan ingen av de svenska deltagarnas prestationer räckte för en topplacering på leaderboarden."
             },
             {
               "icon": "list.number",
@@ -6015,7 +6237,38 @@
       "statusDetail": "Thu, July 22nd at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-07-15T07:32:30+00:00",
+          "headline": "Jag kan inte skriva rubriken utan att se fältlistan. Du skrev \"Första 15 i fältlistan från ESPN:\" men ingen lista följde. Kan du dela fältlistan så skriver jag en kraftfull rubrik för 3M Open?",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# 3M Open – Förhandsanalys\n\nRory McIlroy återvänder till PGA Tour efter en kort paus och utgör som huvudfavorit tillsammans med Scottie Scheffler och Collin Morikawa. Tour-eventet lockar ett starkt internationellt fält utan svenska representanter av betydelse, vilket gör det till en tillfällig vila innan årets senare majors. De närmaste veckorna blir avgörande för formkurvor inför slutskedet, och 3M Open fungerar som en utmärkt indikator på vilka spelare som håller sin finess."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 23 July 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-isps-handa-women-s-scottish-open",
@@ -6029,7 +6282,38 @@
       "statusDetail": "Thu, July 22nd at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-07-15T07:32:35+00:00",
+          "headline": "Patty Tavatanakit och Nelly Korda slåss om titeln på Skottlands gröna mattor.",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# ISPS HANDA Women's Scottish Open – Förhandsanalys\n\nVärldselitans främsta damgolfare samlas för att mäta krafter på skotsk mark i vad som utgör en av de viktigaste förberedelserna inför majorn på Evian. Rory McIlroy är värd att notera för sitt starkt utvecklade intresse för kvinnogolfens utveckling, medan Patty Tavatanakit och andra toppnamn från LPGA-touren sannolikt presenterar ett formstarkt fält. Med svenska golfare frånvarande från de relevanta placeringarna fokuserar intresset på hur favoriterna hanterar det brittiska vädret och en potentiellt utmanande bana – uppmärksamheten bör ligga på strokesnitt och putting-statistik under turneringen."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 23 July 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-amundi-evian-championship",
@@ -6047,13 +6331,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-14T22:09:16+00:00",
-          "headline": "Ryu dominerar Evian – Nordqvist jagar på -13, Stark ett slag bakom",
+          "generatedAt": "2026-07-15T07:32:40+00:00",
+          "headline": "Ryu dominerar Evian – Nordqvist delad åtta på -13",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Haeran Ryu dominerade The Amundi Evian Championship med en segermargin på ett slag före kanadensiska Brooke Henderson. Ryu:s -20 under par visade sig vara för stark för konkurrenterna, trots ett slutet fält där flera japanska spelare placerade sig högt på leaderboarden. Svenska Anna Nordqvist slutade på delad sjunde plats med -13, vilket representerade en solid insats i ett starkt internationellt fält, medan Maja Stark slutade på delad tionde plats med -11."
+              "b": "Haeran Ryu från Sydkorea vann The Amundi Evian Championship med en stark avslutning på 20 under par, ett slag före kanadensiskan Brooke Henderson. Svenska Anna Nordqvist presterade solitt och slutade delad åttonde på 13 under par, vilket återigen visar hennes förmåga att konkurrera på högsta nivå i majorturneringar. Maja Stark slutade på 11 under par och delade elfte plats, medan Kajsa Arwefjall inte nådde topp 15. Ryu:s seger markerar återigen den asiatiska dominansen på världselitans damgolftour."
             },
             {
               "icon": "list.number",
@@ -6183,13 +6467,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-14T22:09:21+00:00",
-          "headline": "Ryu dominerar Evian – Nordqvist delad åtta på -13",
+          "generatedAt": "2026-07-15T07:32:44+00:00",
+          "headline": "Ryu dominerar Evian – Nordqvist och Stark delar andraplats bland svenskorna",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Haeran Ryu från Sydkorea vann Amundi Evian Championship med ett slag före Brooke Henderson efter en stark slutspurt på -20. Nordqvist placerade sig solidt på delad åttonde plats tillsammans med Lydia Ko på -13, vilket representerar en stabil prestationsresultat för svenskan, medan Maja Stark slutade på delad elfte plats på -11 efter en vecka där det japanska spelandet dominerade bland de högplacerade. Kajsa Arwefjall, den tredje svenskan i fältet, hamnade utanför topp 15 men levererade värdefull erfarenhet från ett av golfsportens klassiska arrangemang."
+              "b": "Haeran Ryu från Sydkorea vann Amundi Evian Championship med ett slag före kanadensiskan Brooke Henderson, båda två långt före konkurrenterna med respektive -20 och -19. Ryus seger bygger på konstant spel utan större svackor under hela veckan, medan Henderson trots en stark insats aldrig riktigt kunde ta ikapp ledningen. Anna Nordqvist tog en stark delad åttonde plats på -13 och var bäst av Sveriges representanter, medan Maja Stark slutade på en delad elfte plats på -11 — båda två placeringar som visar att svenskt golf var konkurrenskraftigt men inte tillräckligt för att utmana asiatiska och nordamerikanska toppskiktet denna vecka."
             },
             {
               "icon": "list.number",
@@ -6319,13 +6603,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-14T22:09:24+00:00",
-          "headline": "Ryu vinner Evian med -20 – Nordqvist och Stark delar Swedish top 10",
+          "generatedAt": "2026-07-15T07:32:48+00:00",
+          "headline": "Ryu rundar Evian – Nordqvist delar sjua på -13",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Haeran Ryu från Sydkorea tog segern på Evian Championship med en imponerande finalresultat på -20, en slaglängd före kanadensiskan Brooke Henderson. Sveriges representanter levererade anständiga prestationer med Anna Nordqvist på delad åttonde plats (-13) och Maja Stark på elfte plats (-11), men kunde inte hota toppalternativet. Japanskt golfs styrka framgick av att Aki Iwai, Miyu Yamashita och Mao Saigo alla placerade sig i topp sex, vilket indikerar ett växande kraftcentrum på LPGA-touren."
+              "b": "Haeran Ryu från Sydkorea tog hem titeln på The Amundi Evian Championship med en imponerade -20, ett slag före Canadas Brooke Henderson som slutade på -19. Japans Aki Iwai kompletterade topp tre på -18, medan Anna Nordqvist var Sverigas bästa representative på delad sjunde plats tillsammans med Nya Zeelands Lydia Ko på -13. Maja Stark följde på plats elva med -11, vilket visar ett stabilt svenskt bidrag i ett starkt internationellt fält dominerat av spelare från Sydkorea och Japan."
             },
             {
               "icon": "list.number",
@@ -6455,13 +6739,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-14T22:09:29+00:00",
-          "headline": "Ryu dominerar Evian – Nordqvist delar sjätte, Stark på -11",
+          "generatedAt": "2026-07-15T07:32:52+00:00",
+          "headline": "Ryu rundar konkurrenterna – Nordqvist delar sjätte plats på -13",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Haeran Ryu från Sydkorea tog hem The Amundi Evian Championship med överlägsen spel, slutandes på -20 och ett slag före kanadensiskan Brooke Henderson. Ryu höll ett stabilt tempo genom turneringen och byggde ett tillräckligt stort försprång för att hantera slutspelets press utan dramatik. Anna Nordqvist presenterade en stark insats på hemmaplan med delad åttondeplats på -13, medan landsmannen Maja Stark slutade på -11 och delade elftondeplats — båda svenska spelarna presterade väl i ett fält dominerat av asiatiska talanger."
+              "b": "Haeran Ryu från Sydkorea dominerade The Amundi Evian Championship med ett slutresultat på -20, ett slag före kanadensiskan Brooke Henderson. Ryu höll täten under turneringens slutskede och levererade konsekvent golf när det räknades som mest. Anna Nordqvist återfann formen och slutade delad sjua på -13, vilket markerar ett starkt resultat för svenskan, medan Maja Stark avslutade på -11 och därmed inom top 15. Henderson var närmsta utmanare men kunde aldrig helt plocka in Ryus ledning på de avgörande hålen."
             },
             {
               "icon": "list.number",
@@ -6616,7 +6900,38 @@
       "statusDetail": "Thu, July 22nd at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-07-15T07:32:56+00:00",
+          "headline": "LIV Golf lanserar storoffensiv i Storbritannien – kan superstjärnorna äntligen vinna över brittisk publik?",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# LIV Golf United Kingdom – Förhandsanalys\n\nLIV Golf gör återkomst på brittisk mark med ett fält dominerat av etablerade namn från The Big Three-lagren. Dustin Johnson och Bryson DeChambeau återförenas i sina respektive lag, medan Phil Mickelson och Sergio García återigen söker att bevisa relevansen i LIV-formatet. Utan svenska representanter blir fokus på hur väl toppspelarnas form från senaste tävlingarna håller, samt huruvida lag-dynamiken blir avgörande i strokeplay-formatet."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 23 July 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     }
   ]
 }
