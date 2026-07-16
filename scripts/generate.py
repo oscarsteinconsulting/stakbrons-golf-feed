@@ -298,7 +298,10 @@ def pretty_name(name: str) -> str:
     if " pres. by " in s.lower():
         idx = s.lower().index(" pres. by ")
         s = s[:idx]
-    if s.lower().startswith("the "):
+    # Strippa ledande "The " BARA när det som blir kvar är flerordigt.
+    # Annars tappar majoren "The Open" sin identitet → "Open". "The Memorial
+    # Tournament" → "Memorial Tournament" (OK); "The Open" → "The Open" (behålls).
+    if s.lower().startswith("the ") and " " in s[4:].strip():
         s = s[4:]
     return s[:1].upper() + s[1:] if s else s
 
