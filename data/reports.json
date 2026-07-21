@@ -1,1124 +1,6 @@
 {
-  "generatedAt": "2026-07-21T14:13:54+00:00",
+  "generatedAt": "2026-07-21T16:39:01+00:00",
   "tournaments": [
-    {
-      "id": "live-open",
-      "name": "The Open",
-      "rawName": "The Open",
-      "tour": "PGA Tour",
-      "course": "—",
-      "startDate": "2026-07-16T04:00Z",
-      "par": 71,
-      "yards": 0,
-      "statusDetail": "Final",
-      "status": "final",
-      "currentRound": 4,
-      "reports": {
-        "torsdag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-07-21T14:13:57+00:00",
-          "headline": "Fox solåt på -10, Åberg jagar på -5 tillsammans med nio andra",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland tog segern med tio slag under par, två slag före Cameron Young som slutade på nio under. Fox visade stabila grepp genom hela turneringen och höll undan en pressande jakande grupp anförda av amerikanen Young. Ludvig Åberg placerade sig på elfte plats tillsammans med Rasmus Neergaard-Petersen på fem slag under par, vilket innebär en solid insats för svensken i en stark internationell konkurrens där flera av världens bästa spelare såsom Scottie Scheffler och Tommy Fleetwood slutade på sju respektive samma poäng. Alex Noren nådde inte top 15 i detta The Open."
-            },
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R1)",
-              "b": "—  Ryan Fox  -10\n—  Cameron Young  -9\n—  Sam Burns  -8\n—  Scottie Scheffler  -7\n—  Tommy Fleetwood  -7\n—  Casey Jarvis  -6\n—  Lucas Herbert  -6\n—  Si Woo Kim  -6\n—  Russell Henley  -5\n—  Adam Scott  -5\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "2 svenska kvar i fältet.\n\n—  Ludvig Åberg  -5  (i röda siffror)\n—  Alex Noren  -3  (i röda siffror)"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 5 slag från ledaren. 3 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r1-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Ryan Fox",
-              "svs": 8.0,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Ryan Fox leder fältet på -10 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r1-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Sam Burns",
-              "svs": 16.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Sam Burns ligger 2 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r1-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Cameron Young",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Cameron Young (-9) sitter i topp-skiktet ett slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r1-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Scottie Scheffler",
-              "svs": 3.1,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Scottie Scheffler (-7) sitter i topp-skiktet 3 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r1-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Casey Jarvis",
-              "svs": 2.6,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Casey Jarvis (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
-            },
-            {
-              "id": "auto-r1-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Si Woo Kim",
-              "svs": 2.6,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Si Woo Kim (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
-            },
-            {
-              "id": "auto-r1-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Sungjae Im",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Sungjae Im (-4) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r1-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Chris Gotterup",
-              "svs": 2.2,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Chris Gotterup (-3) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r1-low",
-              "cat": "🤖 Lägsta runda R2",
-              "sel": "Ludvig Åberg",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Ludvig Åberg (-5) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r1-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Ryan Fox",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Ryan Fox är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "fredag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-07-21T14:14:03+00:00",
-          "headline": "Fox bjuder bort segern – Åberg delar tolfte plats på -5",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland avslutade The Open på -10 och säkrade en komfortabel seger före Cameron Young på -9, medan Fox höll ett jämnt spel genom finalrundorna utan några större misstag. Scottie Scheffler och Tommy Fleetwood följde längre ned på -7, men kunde aldrig etablera tillräcklig press på ledaren under slutskedet. Ludvig Åberg levererade en respektabel insats på -5 och slutade delad elfte, vilket placerar honom bland de starkaste prestanderna från svenska golfern i tävlingen."
-            },
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R2)",
-              "b": "—  Ryan Fox  -10\n—  Cameron Young  -9\n—  Sam Burns  -8\n—  Scottie Scheffler  -7\n—  Tommy Fleetwood  -7\n—  Casey Jarvis  -6\n—  Lucas Herbert  -6\n—  Si Woo Kim  -6\n—  Russell Henley  -5\n—  Adam Scott  -5\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "2 svenska kvar i fältet.\n\n—  Ludvig Åberg  -5  (i röda siffror)\n—  Alex Noren  -3  (i röda siffror)"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 5 slag från ledaren. 3 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r2-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Ryan Fox",
-              "svs": 5.0,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Ryan Fox leder fältet på -10 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r2-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Sam Burns",
-              "svs": 10.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Sam Burns ligger 2 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r2-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Cameron Young",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Cameron Young (-9) sitter i topp-skiktet ett slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r2-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Scottie Scheffler",
-              "svs": 3.1,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Scottie Scheffler (-7) sitter i topp-skiktet 3 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r2-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Casey Jarvis",
-              "svs": 2.6,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Casey Jarvis (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
-            },
-            {
-              "id": "auto-r2-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Si Woo Kim",
-              "svs": 2.6,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Si Woo Kim (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
-            },
-            {
-              "id": "auto-r2-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Sungjae Im",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Sungjae Im (-4) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r2-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Chris Gotterup",
-              "svs": 2.2,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Chris Gotterup (-3) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r2-low",
-              "cat": "🤖 Lägsta runda R3",
-              "sel": "Ludvig Åberg",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Ludvig Åberg (-5) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r2-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Ryan Fox",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Ryan Fox är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "lordag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-07-21T14:14:08+00:00",
-          "headline": "Fox trollar Open med tio slag under par – Åberg in på delad tolfte",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland tog segern på tio slag under par, två slag före Cameron Young och tre före Sam Burns på en hårt spelade bana. Scottie Scheffler och Tommy Fleetwood följde på sju slag under par, men kunde inte hålla jämna steg med Fox framför mållinjen. Ludvig Åberg säkrade en solid tolfteplats på fem slag under par tillsammans med ett flertal andra spelare, vilket indikerar att svensken hittat rätt nivå för att konkurrera på högsta nivå – en placering som bekräftar potentialen men också visar vad som krävs för att nå framkanten på PGA Tour."
-            },
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R3)",
-              "b": "—  Ryan Fox  -10\n—  Cameron Young  -9\n—  Sam Burns  -8\n—  Scottie Scheffler  -7\n—  Tommy Fleetwood  -7\n—  Casey Jarvis  -6\n—  Lucas Herbert  -6\n—  Si Woo Kim  -6\n—  Russell Henley  -5\n—  Adam Scott  -5\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "2 svenska kvar i fältet.\n\n—  Ludvig Åberg  -5  (i röda siffror)\n—  Alex Noren  -3  (i röda siffror)"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 5 slag från ledaren. 3 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r3-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Ryan Fox",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Ryan Fox leder fältet på -10 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r3-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Sam Burns",
-              "svs": 5.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Sam Burns ligger 2 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r3-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Cameron Young",
-              "svs": 1.9,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Cameron Young (-9) sitter i topp-skiktet ett slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r3-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Scottie Scheffler",
-              "svs": 2.3,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Scottie Scheffler (-7) sitter i topp-skiktet 3 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r3-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Casey Jarvis",
-              "svs": 1.8,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Casey Jarvis (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
-            },
-            {
-              "id": "auto-r3-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Si Woo Kim",
-              "svs": 1.8,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Si Woo Kim (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
-            },
-            {
-              "id": "auto-r3-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Sungjae Im",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Sungjae Im (-4) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r3-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Chris Gotterup",
-              "svs": 1.55,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Chris Gotterup (-3) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r3-low",
-              "cat": "🤖 Lägsta runda R4",
-              "sel": "Ludvig Åberg",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Ludvig Åberg (-5) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r3-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Ryan Fox",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Ryan Fox är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "sondag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-07-21T14:14:12+00:00",
-          "headline": "Ryan Fox solist efter sensationell slut – Åberg delar tolfte plats på -5",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland segrar med tio slag under par, två slag före amerikanen Cameron Young som slutade på nio under. Foxs konsistens genom turnering överlisten de klassiska stjärnorna — Scottie Scheffler och Tommy Fleetwood delade fjärdeplats på sju under par trots solida avslutningar. Ludvig Åberg slutade på en delad 12:e plats vid fem slag under par, vilket representerar en solid prestation i elitfältet men inte räckte för att utmana ledarna i slutspurten. Alex Noren lyckades inte bryta sig in i toppen på denna The Open-turnering."
-            },
-            {
-              "icon": "list.number",
-              "h": "Slutresultat",
-              "b": "—  Ryan Fox  -10\n—  Cameron Young  -9\n—  Sam Burns  -8\n—  Scottie Scheffler  -7\n—  Tommy Fleetwood  -7\n—  Casey Jarvis  -6\n—  Lucas Herbert  -6\n—  Si Woo Kim  -6\n—  Russell Henley  -5\n—  Adam Scott  -5\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "2 svenska kvar i fältet.\n\n—  Ludvig Åberg  -5  (i röda siffror)\n—  Alex Noren  -3  (i röda siffror)"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 5 slag från ledaren. 3 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r4-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Ryan Fox",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Ryan Fox leder fältet på -10 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r4-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Sam Burns",
-              "svs": 4.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Sam Burns ligger 2 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r4-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Cameron Young",
-              "svs": 1.9,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Cameron Young (-9) sitter i topp-skiktet ett slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r4-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Scottie Scheffler",
-              "svs": 2.3,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Scottie Scheffler (-7) sitter i topp-skiktet 3 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r4-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Casey Jarvis",
-              "svs": 1.8,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Casey Jarvis (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
-            },
-            {
-              "id": "auto-r4-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Si Woo Kim",
-              "svs": 1.8,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Si Woo Kim (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
-            },
-            {
-              "id": "auto-r4-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Sungjae Im",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Sungjae Im (-4) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r4-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Chris Gotterup",
-              "svs": 1.55,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Chris Gotterup (-3) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r4-low",
-              "cat": "🤖 Lägsta runda R5",
-              "sel": "Ludvig Åberg",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Ludvig Åberg (-5) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r4-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Ryan Fox",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Ryan Fox är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "live-corales-puntacana-championship",
-      "name": "Corales Puntacana Championship",
-      "rawName": "Corales Puntacana Championship",
-      "tour": "PGA Tour",
-      "course": "—",
-      "startDate": "2026-07-16T04:00Z",
-      "par": 71,
-      "yards": 0,
-      "statusDetail": "Final",
-      "status": "final",
-      "currentRound": 4,
-      "reports": {
-        "torsdag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-07-21T14:14:17+00:00",
-          "headline": "Mazzoli dominerar Puntacana – Sargent och Clements förlorar playoffet på -19",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Stefano Mazzoli vann Corales Puntacana Championship med tjugo slag under par, två slag före amerikanerna Gordon Sargent och Todd Clements som delade andraplats. Italienaren höll ett stabilt spel genom turneringen och byggde ett kommande försprång som jagarna aldrig kunde närvara på slutdagen. Bland svenskarna presterade varken Jens Dantorp eller Sebastian Söderberg tillräckligt starkt för att nå topp tjugo på leaderboarden."
-            },
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R1)",
-              "b": "—  Stefano Mazzoli  -20\n—  Gordon Sargent  -19\n—  Todd Clements  -19\n—  Will Gordon  -18\n—  Ben James  -18\n—  Marcel Schneider  -17\n—  Jacob Skov Olesen  -17\n—  Joe Highsmith  -17\n—  Zach Bauchou  -16\n—  Thomas Rosenmueller  -16\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "2 svenska kvar i fältet.\n\n—  Jens Dantorp  -10  (i röda siffror)\n—  Sebastian Söderberg  -10  (i röda siffror)"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r1-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Stefano Mazzoli",
-              "svs": 8.0,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Stefano Mazzoli leder fältet på -20 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r1-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Todd Clements",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Todd Clements ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r1-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Gordon Sargent",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Gordon Sargent (-19) sitter i topp-skiktet ett slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r1-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Will Gordon",
-              "svs": 2.8,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Will Gordon (-18) sitter i topp-skiktet 2 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r1-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Marcel Schneider",
-              "svs": 2.4,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Marcel Schneider (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
-            },
-            {
-              "id": "auto-r1-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Joe Highsmith",
-              "svs": 2.4,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Joe Highsmith (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
-            },
-            {
-              "id": "auto-r1-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Luke List",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Luke List (-14) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r1-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Aaron Wise",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Aaron Wise (-14) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r1-low",
-              "cat": "🤖 Lägsta runda R2",
-              "sel": "Davis Bryant",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Davis Bryant (-15) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r1-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Stefano Mazzoli",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Stefano Mazzoli är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "fredag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-07-21T14:14:21+00:00",
-          "headline": "Mazzoli dominerar på -20 när Dantorp och Söderberg inte når framkanten i Puntacana",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Stefano Mazzoli från Italien dominerade Corales Puntacana Championship med en slutscore på -20, två slag före amerikanen Gordon Sargent och engelske Todd Clements som delade andraplats på -19. Mazzolis konstanta spel under hela veckan skilde honom från ett tätt förföljande fält där flera amerikanska namn som Will Gordon och Ben James följde på -18. Varken Jens Dantorp eller Sebastian Söderberg från svenska sidan lyckades bryta sig in i topp 15, vilket avslutar både svenskarnas möjligheter att påverka slutresultatet vid denna PGA Tour-tävling."
-            },
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R2)",
-              "b": "—  Stefano Mazzoli  -20\n—  Gordon Sargent  -19\n—  Todd Clements  -19\n—  Will Gordon  -18\n—  Ben James  -18\n—  Marcel Schneider  -17\n—  Jacob Skov Olesen  -17\n—  Joe Highsmith  -17\n—  Zach Bauchou  -16\n—  Thomas Rosenmueller  -16\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "2 svenska kvar i fältet.\n\n—  Jens Dantorp  -10  (i röda siffror)\n—  Sebastian Söderberg  -10  (i röda siffror)"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r2-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Stefano Mazzoli",
-              "svs": 5.0,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Stefano Mazzoli leder fältet på -20 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r2-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Todd Clements",
-              "svs": 7.5,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Todd Clements ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r2-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Gordon Sargent",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Gordon Sargent (-19) sitter i topp-skiktet ett slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r2-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Will Gordon",
-              "svs": 2.8,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Will Gordon (-18) sitter i topp-skiktet 2 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r2-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Marcel Schneider",
-              "svs": 2.4,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Marcel Schneider (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
-            },
-            {
-              "id": "auto-r2-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Joe Highsmith",
-              "svs": 2.4,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Joe Highsmith (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
-            },
-            {
-              "id": "auto-r2-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Luke List",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Luke List (-14) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r2-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Aaron Wise",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Aaron Wise (-14) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r2-low",
-              "cat": "🤖 Lägsta runda R3",
-              "sel": "Davis Bryant",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Davis Bryant (-15) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r2-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Stefano Mazzoli",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Stefano Mazzoli är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "lordag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-07-21T14:14:26+00:00",
-          "headline": "Mazzoli dominerar Puntacana – går hem på -20 före Sargent och Clements",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Stefano Mazzoli avslutade Corales Puntacana Championship med överlägsna -20 och en seger före Gordon Sargent och Todd Clements på -19. Italienaren höll sig konsekvent framme under hela veckan och styrde slutligen ett tämligen spritt fält där endast två amerikaner, Will Gordon och Ben James, lyckades hålla sig inom två slag av ledningen. Svenskarna Jens Dantorp och Sebastian Söderberg kom inte i närheten av topplaceringarna på denna omväxlande bana i Dominikanska Republiken, som krävde både presicion från tee och säker touch runt green."
-            },
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R3)",
-              "b": "—  Stefano Mazzoli  -20\n—  Gordon Sargent  -19\n—  Todd Clements  -19\n—  Will Gordon  -18\n—  Ben James  -18\n—  Marcel Schneider  -17\n—  Jacob Skov Olesen  -17\n—  Joe Highsmith  -17\n—  Zach Bauchou  -16\n—  Thomas Rosenmueller  -16\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "2 svenska kvar i fältet.\n\n—  Jens Dantorp  -10  (i röda siffror)\n—  Sebastian Söderberg  -10  (i röda siffror)"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r3-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Stefano Mazzoli",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Stefano Mazzoli leder fältet på -20 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r3-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Todd Clements",
-              "svs": 4.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Todd Clements ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r3-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Gordon Sargent",
-              "svs": 1.9,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Gordon Sargent (-19) sitter i topp-skiktet ett slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r3-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Will Gordon",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Will Gordon (-18) sitter i topp-skiktet 2 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r3-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Marcel Schneider",
-              "svs": 1.7,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Marcel Schneider (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
-            },
-            {
-              "id": "auto-r3-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Joe Highsmith",
-              "svs": 1.7,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Joe Highsmith (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
-            },
-            {
-              "id": "auto-r3-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Luke List",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Luke List (-14) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r3-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Aaron Wise",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Aaron Wise (-14) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r3-low",
-              "cat": "🤖 Lägsta runda R4",
-              "sel": "Davis Bryant",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Davis Bryant (-15) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r3-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Stefano Mazzoli",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Stefano Mazzoli är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "sondag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-07-21T14:14:31+00:00",
-          "headline": "Mazzoli tvingar bort Sargent – italienaren soloar på -20 i Puntacana",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Italienaren Stefano Mazzoli vann Corales Puntacana Championship efter att ha distanserat konkurrenterna med tjugo under par. Gordon Sargent och Todd Clements slutade på delad andraplats ett slag bakom, medan en rad amerikanska spelare fyllde positionerna fyra till åtta. Ingen svensk lyckades nå topp 20 i fältet, vilket indikerar att varken Dantorp eller Söderberg kunde hitta rätt form under veckan på den karibiska banan."
-            },
-            {
-              "icon": "list.number",
-              "h": "Slutresultat",
-              "b": "—  Stefano Mazzoli  -20\n—  Gordon Sargent  -19\n—  Todd Clements  -19\n—  Will Gordon  -18\n—  Ben James  -18\n—  Marcel Schneider  -17\n—  Jacob Skov Olesen  -17\n—  Joe Highsmith  -17\n—  Zach Bauchou  -16\n—  Thomas Rosenmueller  -16\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "2 svenska kvar i fältet.\n\n—  Jens Dantorp  -10  (i röda siffror)\n—  Sebastian Söderberg  -10  (i röda siffror)"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r4-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Stefano Mazzoli",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Stefano Mazzoli leder fältet på -20 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r4-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Todd Clements",
-              "svs": 4.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Todd Clements ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r4-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Gordon Sargent",
-              "svs": 1.9,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Gordon Sargent (-19) sitter i topp-skiktet ett slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r4-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Will Gordon",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Will Gordon (-18) sitter i topp-skiktet 2 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r4-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Marcel Schneider",
-              "svs": 1.7,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Marcel Schneider (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
-            },
-            {
-              "id": "auto-r4-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Joe Highsmith",
-              "svs": 1.7,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Joe Highsmith (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
-            },
-            {
-              "id": "auto-r4-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Luke List",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Luke List (-14) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r4-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Aaron Wise",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Aaron Wise (-14) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r4-low",
-              "cat": "🤖 Lägsta runda R5",
-              "sel": "Davis Bryant",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Davis Bryant (-15) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r4-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Stefano Mazzoli",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Stefano Mazzoli är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        }
-      }
-    },
     {
       "id": "live-3m-open",
       "name": "3M Open",
@@ -1135,13 +17,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-21T14:14:35+00:00",
-          "headline": "Varberg jagar sitt tredje PGA-seger – kan amerikanen bryta sin egen dominans i Minnesota?",
+          "generatedAt": "2026-07-21T16:39:07+00:00",
+          "headline": "Scottie Scheffler jagar sitt sjunde PGA-segern – tar sig Tiger Woods upp i topptiden?",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "I 3M Open möter vi ett starkt PGA Tour-fält utan svenska representanter av högre rang. Tävlingen lockar alltid ett konkurrensutsatt startfält och blir intressant att följa för oddssättningen då banan ofta gunnar mot vissa speltyper – håll koll på hur favoriterna presterar under rundorna. Med tanke på att det saknas svenska deltagare kan fokus läggas helt på amerikanska och internationella stjärnor som söker viktiga ranking-poäng före större tävlingar senare på säsongen."
+              "b": "# 3M Open - Förhandsanalys\n\nRory McIlroy och Scottie Scheffler är förväntade favoriter när PGA Tour gästar 3M Open, en tävling som traditionellt lockar ett starkt fält innan sommarpausen närmar sig. Utan svenska namn i den absoluta eliten är fokus på amerikanska och internationella spelare som söker form inför PlayOff-serien senare på sommaren. Banan kräver precision off the tee och ett stabilt kortspel – klassiska drag som ofta separerar de bästa från konkurrenterna. Höga odds kan erbjudas på rutinerade namn som kan utnyttja mindre uppmärksamhet från huvudmedierna."
             },
             {
               "icon": "flag.fill",
@@ -3737,6 +2619,1124 @@
       }
     },
     {
+      "id": "live-open",
+      "name": "The Open",
+      "rawName": "The Open",
+      "tour": "PGA Tour",
+      "course": "—",
+      "startDate": "2026-07-16T04:00Z",
+      "par": 71,
+      "yards": 0,
+      "statusDetail": "Final",
+      "status": "final",
+      "currentRound": 4,
+      "reports": {
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-07-21T16:39:17+00:00",
+          "headline": "Ryan Fox rundar amerikanska jagare – Åberg säkrar topp 12 på -5",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Ryan Fox från Nya Zeeland levererade en stark avslutande prestation och säkrade segern med tio slag under par, två slag före Cameron Young. Scheffler och Fleetwood följde på sjunde slag under par men kunde inte matcha Fox effektivitet under de kritiska sluthålorna. Ludvig Åberg placerade sig respektabelt på tolfte plats vid fem slag under par, vilket visar att svensken återigen konkurrerar på högt PGA Tour-nivå trots att han inte hade tempo för att utmana topprivalerna denna vecka."
+            },
+            {
+              "icon": "list.number",
+              "h": "Leaderboard live (R1)",
+              "b": "—  Ryan Fox  -10\n—  Cameron Young  -9\n—  Sam Burns  -8\n—  Scottie Scheffler  -7\n—  Tommy Fleetwood  -7\n—  Casey Jarvis  -6\n—  Lucas Herbert  -6\n—  Si Woo Kim  -6\n—  Russell Henley  -5\n—  Adam Scott  -5\n\nKälla: ESPN."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "2 svenska kvar i fältet.\n\n—  Ludvig Åberg  -5  (i röda siffror)\n—  Alex Noren  -3  (i röda siffror)"
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 5 slag från ledaren. 3 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r1-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "Ryan Fox",
+              "svs": 8.0,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Ryan Fox leder fältet på -10 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r1-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Sam Burns",
+              "svs": 16.0,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Sam Burns ligger 2 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r1-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Cameron Young",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Cameron Young (-9) sitter i topp-skiktet ett slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r1-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Scottie Scheffler",
+              "svs": 3.1,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Scottie Scheffler (-7) sitter i topp-skiktet 3 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r1-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Casey Jarvis",
+              "svs": 2.6,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Casey Jarvis (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
+            },
+            {
+              "id": "auto-r1-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Si Woo Kim",
+              "svs": 2.6,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Si Woo Kim (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
+            },
+            {
+              "id": "auto-r1-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Sungjae Im",
+              "svs": 2.1,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Sungjae Im (-4) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r1-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Chris Gotterup",
+              "svs": 2.2,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Chris Gotterup (-3) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r1-low",
+              "cat": "🤖 Lägsta runda R2",
+              "sel": "Ludvig Åberg",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ludvig Åberg (-5) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r1-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "Ryan Fox",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ryan Fox är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        },
+        "fredag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-07-21T16:39:21+00:00",
+          "headline": "Fox knäcker konkurrenterna – Åberg delar tolfte plats på -5",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före Cameron Young som en stark jagare. Scottie Scheffler och Tommy Fleetwood följde fem respektive fyra slag efter segraren, vilket visar ett spretat leaderboard där Fox:s konsistens över ronden avgjorde. Ludvig Åberg levererade ett solidt resultat på delad tolfte plats med fem slag under par och bevisade att han håller sig i världselitens närmaste krets, medan Alex Noren inte nådde resultat på motsvarande nivå denna vecka."
+            },
+            {
+              "icon": "list.number",
+              "h": "Leaderboard live (R2)",
+              "b": "—  Ryan Fox  -10\n—  Cameron Young  -9\n—  Sam Burns  -8\n—  Scottie Scheffler  -7\n—  Tommy Fleetwood  -7\n—  Casey Jarvis  -6\n—  Lucas Herbert  -6\n—  Si Woo Kim  -6\n—  Russell Henley  -5\n—  Adam Scott  -5\n\nKälla: ESPN."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "2 svenska kvar i fältet.\n\n—  Ludvig Åberg  -5  (i röda siffror)\n—  Alex Noren  -3  (i röda siffror)"
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 5 slag från ledaren. 3 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r2-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "Ryan Fox",
+              "svs": 5.0,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Ryan Fox leder fältet på -10 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r2-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Sam Burns",
+              "svs": 10.0,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Sam Burns ligger 2 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r2-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Cameron Young",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Cameron Young (-9) sitter i topp-skiktet ett slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r2-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Scottie Scheffler",
+              "svs": 3.1,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Scottie Scheffler (-7) sitter i topp-skiktet 3 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r2-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Casey Jarvis",
+              "svs": 2.6,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Casey Jarvis (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
+            },
+            {
+              "id": "auto-r2-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Si Woo Kim",
+              "svs": 2.6,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Si Woo Kim (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
+            },
+            {
+              "id": "auto-r2-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Sungjae Im",
+              "svs": 2.1,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Sungjae Im (-4) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r2-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Chris Gotterup",
+              "svs": 2.2,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Chris Gotterup (-3) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r2-low",
+              "cat": "🤖 Lägsta runda R3",
+              "sel": "Ludvig Åberg",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ludvig Åberg (-5) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r2-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "Ryan Fox",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ryan Fox är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        },
+        "lordag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-07-21T16:39:25+00:00",
+          "headline": "Fox solist på -10 när Åberg klättrar till delad 12:e plats",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före Cameron Young som tog andraplats. Siegern byggde sitt försprång genom konsekvent spel från tee och ett stadigt kortkortsspel, medan Young pressade hela vägen men inte kunde hänga med i slutrundorna. Ludvig Åberg slutade femte delad på fem slag under par, vilket visar att svensken fortsätter etablera sig på topp av världsrankningen, medan Alex Noren missade topp 20 i detta fält."
+            },
+            {
+              "icon": "list.number",
+              "h": "Leaderboard live (R3)",
+              "b": "—  Ryan Fox  -10\n—  Cameron Young  -9\n—  Sam Burns  -8\n—  Scottie Scheffler  -7\n—  Tommy Fleetwood  -7\n—  Casey Jarvis  -6\n—  Lucas Herbert  -6\n—  Si Woo Kim  -6\n—  Russell Henley  -5\n—  Adam Scott  -5\n\nKälla: ESPN."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "2 svenska kvar i fältet.\n\n—  Ludvig Åberg  -5  (i röda siffror)\n—  Alex Noren  -3  (i röda siffror)"
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 5 slag från ledaren. 3 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r3-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "Ryan Fox",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Ryan Fox leder fältet på -10 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r3-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Sam Burns",
+              "svs": 5.0,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Sam Burns ligger 2 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r3-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Cameron Young",
+              "svs": 1.9,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Cameron Young (-9) sitter i topp-skiktet ett slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r3-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Scottie Scheffler",
+              "svs": 2.3,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Scottie Scheffler (-7) sitter i topp-skiktet 3 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r3-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Casey Jarvis",
+              "svs": 1.8,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Casey Jarvis (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
+            },
+            {
+              "id": "auto-r3-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Si Woo Kim",
+              "svs": 1.8,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Si Woo Kim (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
+            },
+            {
+              "id": "auto-r3-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Sungjae Im",
+              "svs": 1.5,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Sungjae Im (-4) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r3-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Chris Gotterup",
+              "svs": 1.55,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Chris Gotterup (-3) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r3-low",
+              "cat": "🤖 Lägsta runda R4",
+              "sel": "Ludvig Åberg",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ludvig Åberg (-5) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r3-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "Ryan Fox",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ryan Fox är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        },
+        "sondag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-07-21T16:39:29+00:00",
+          "headline": "Ryan Fox trollar The Open – Åberg slutar på delad tolfte",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Ryan Fox från Nya Zeeland tog segern med tio under par efter en stabil avslutande rond, två slag före Cameron Young som var tvåa på nio under. Scottie Scheffler och Tommy Fleetwood följde på sju under par och kunde aldrig helt komma ifatt ledaren under slutspurten. Ludvig Åberg håller sig kvar i toppen med fem under par på delad elfte plats, vilket visar att svensken levererar konsekvent på amerikanska banor, medan Alex Noren inte nådde samma resultat denna vecka."
+            },
+            {
+              "icon": "list.number",
+              "h": "Slutresultat",
+              "b": "—  Ryan Fox  -10\n—  Cameron Young  -9\n—  Sam Burns  -8\n—  Scottie Scheffler  -7\n—  Tommy Fleetwood  -7\n—  Casey Jarvis  -6\n—  Lucas Herbert  -6\n—  Si Woo Kim  -6\n—  Russell Henley  -5\n—  Adam Scott  -5\n\nKälla: ESPN."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "2 svenska kvar i fältet.\n\n—  Ludvig Åberg  -5  (i röda siffror)\n—  Alex Noren  -3  (i röda siffror)"
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 5 slag från ledaren. 3 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r4-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "Ryan Fox",
+              "svs": 1.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Ryan Fox leder fältet på -10 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r4-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Sam Burns",
+              "svs": 4.0,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Sam Burns ligger 2 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r4-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Cameron Young",
+              "svs": 1.9,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Cameron Young (-9) sitter i topp-skiktet ett slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r4-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Scottie Scheffler",
+              "svs": 2.3,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Scottie Scheffler (-7) sitter i topp-skiktet 3 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r4-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Casey Jarvis",
+              "svs": 1.8,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Casey Jarvis (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
+            },
+            {
+              "id": "auto-r4-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Si Woo Kim",
+              "svs": 1.8,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Si Woo Kim (-6) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
+            },
+            {
+              "id": "auto-r4-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Sungjae Im",
+              "svs": 1.5,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Sungjae Im (-4) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r4-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Chris Gotterup",
+              "svs": 1.55,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Chris Gotterup (-3) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r4-low",
+              "cat": "🤖 Lägsta runda R5",
+              "sel": "Ludvig Åberg",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ludvig Åberg (-5) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r4-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "Ryan Fox",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ryan Fox är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "live-corales-puntacana-championship",
+      "name": "Corales Puntacana Championship",
+      "rawName": "Corales Puntacana Championship",
+      "tour": "PGA Tour",
+      "course": "—",
+      "startDate": "2026-07-16T04:00Z",
+      "par": 71,
+      "yards": 0,
+      "statusDetail": "Final",
+      "status": "final",
+      "currentRound": 4,
+      "reports": {
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-07-21T16:39:33+00:00",
+          "headline": "Mazzoli knäcker -20 och vinner Puntacana – Sargent och Clements jagar på -19",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Stefano Mazzoli från Italien tog hem Corales Puntacana Championship med övertygende marginal, två slag före de båda chasers Gordon Sargent och Todd Clements på -19. Mazzolis konsistens under turneringen gav honom tillräcklig buffert för att kontrollera slutspurten, medan dansktalangen Jacob Skov Olesen på -17 visade att han är på väg uppåt i rankingerna. Varken Jens Dantorp eller Sebastian Söderberg från Sverige lyckades hålla sig kvar i toppen när slutsumman blev klar."
+            },
+            {
+              "icon": "list.number",
+              "h": "Leaderboard live (R1)",
+              "b": "—  Stefano Mazzoli  -20\n—  Gordon Sargent  -19\n—  Todd Clements  -19\n—  Will Gordon  -18\n—  Ben James  -18\n—  Marcel Schneider  -17\n—  Jacob Skov Olesen  -17\n—  Joe Highsmith  -17\n—  Zach Bauchou  -16\n—  Thomas Rosenmueller  -16\n\nKälla: ESPN."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "2 svenska kvar i fältet.\n\n—  Jens Dantorp  -10  (i röda siffror)\n—  Sebastian Söderberg  -10  (i röda siffror)"
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 4 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r1-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "Stefano Mazzoli",
+              "svs": 8.0,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Stefano Mazzoli leder fältet på -20 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r1-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Todd Clements",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Todd Clements ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r1-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Gordon Sargent",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Gordon Sargent (-19) sitter i topp-skiktet ett slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r1-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Will Gordon",
+              "svs": 2.8,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Will Gordon (-18) sitter i topp-skiktet 2 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r1-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Marcel Schneider",
+              "svs": 2.4,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Marcel Schneider (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
+            },
+            {
+              "id": "auto-r1-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Joe Highsmith",
+              "svs": 2.4,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Joe Highsmith (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
+            },
+            {
+              "id": "auto-r1-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Luke List",
+              "svs": 2.1,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Luke List (-14) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r1-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Aaron Wise",
+              "svs": 2.1,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Aaron Wise (-14) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r1-low",
+              "cat": "🤖 Lägsta runda R2",
+              "sel": "Davis Bryant",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Davis Bryant (-15) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r1-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "Stefano Mazzoli",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Stefano Mazzoli är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        },
+        "fredag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-07-21T16:39:37+00:00",
+          "headline": "Mazzoli löser Puntacana – Sargent och Clements en slag bakom på -19",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Stefano Mazzoli vann Corales Puntacana Championship med en slutresultat på -20, ett slag före amerikanen Gordon Sargent och engelske Todd Clements som delade andraplats på -19. Italienaren höll sig framme under slutspelets kritiska hål och visade en stabil prestationsförmåga över hela turneringen. Ingen svensk lyckades ta sig in i de översta placeringarna – varken Jens Dantorp eller Sebastian Söderberg nådde topp 20 – vilket återspeglar ett övergripande svagare resultat för den svenska delegationen på den här PGA Tour-etappen."
+            },
+            {
+              "icon": "list.number",
+              "h": "Leaderboard live (R2)",
+              "b": "—  Stefano Mazzoli  -20\n—  Gordon Sargent  -19\n—  Todd Clements  -19\n—  Will Gordon  -18\n—  Ben James  -18\n—  Marcel Schneider  -17\n—  Jacob Skov Olesen  -17\n—  Joe Highsmith  -17\n—  Zach Bauchou  -16\n—  Thomas Rosenmueller  -16\n\nKälla: ESPN."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "2 svenska kvar i fältet.\n\n—  Jens Dantorp  -10  (i röda siffror)\n—  Sebastian Söderberg  -10  (i röda siffror)"
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 4 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r2-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "Stefano Mazzoli",
+              "svs": 5.0,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Stefano Mazzoli leder fältet på -20 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r2-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Todd Clements",
+              "svs": 7.5,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Todd Clements ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r2-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Gordon Sargent",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Gordon Sargent (-19) sitter i topp-skiktet ett slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r2-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Will Gordon",
+              "svs": 2.8,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Will Gordon (-18) sitter i topp-skiktet 2 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r2-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Marcel Schneider",
+              "svs": 2.4,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Marcel Schneider (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
+            },
+            {
+              "id": "auto-r2-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Joe Highsmith",
+              "svs": 2.4,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Joe Highsmith (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
+            },
+            {
+              "id": "auto-r2-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Luke List",
+              "svs": 2.1,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Luke List (-14) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r2-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Aaron Wise",
+              "svs": 2.1,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Aaron Wise (-14) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r2-low",
+              "cat": "🤖 Lägsta runda R3",
+              "sel": "Davis Bryant",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Davis Bryant (-15) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r2-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "Stefano Mazzoli",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Stefano Mazzoli är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        },
+        "lordag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-07-21T16:39:41+00:00",
+          "headline": "Mazzoli går hem med -20 – Sargent och Clements jagade på -19",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Stefano Mazzoli styr in till seger med tjugo slag under par, två slag före amerikanerna Gordon Sargent och Todd Clements som delade andraplats. Italienaren höll sin ledning stabil genom dagen och förvalltade prestera när det räknades mest. Danskens Jacob Skov Olesen slutade på delad sjundeplats medan de svenska representanterna Jens Dantorp och Sebastian Söderberg inte nådde topp femtio på leaderboarden."
+            },
+            {
+              "icon": "list.number",
+              "h": "Leaderboard live (R3)",
+              "b": "—  Stefano Mazzoli  -20\n—  Gordon Sargent  -19\n—  Todd Clements  -19\n—  Will Gordon  -18\n—  Ben James  -18\n—  Marcel Schneider  -17\n—  Jacob Skov Olesen  -17\n—  Joe Highsmith  -17\n—  Zach Bauchou  -16\n—  Thomas Rosenmueller  -16\n\nKälla: ESPN."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "2 svenska kvar i fältet.\n\n—  Jens Dantorp  -10  (i röda siffror)\n—  Sebastian Söderberg  -10  (i röda siffror)"
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 4 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r3-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "Stefano Mazzoli",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Stefano Mazzoli leder fältet på -20 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r3-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Todd Clements",
+              "svs": 4.0,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Todd Clements ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r3-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Gordon Sargent",
+              "svs": 1.9,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Gordon Sargent (-19) sitter i topp-skiktet ett slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r3-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Will Gordon",
+              "svs": 2.1,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Will Gordon (-18) sitter i topp-skiktet 2 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r3-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Marcel Schneider",
+              "svs": 1.7,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Marcel Schneider (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
+            },
+            {
+              "id": "auto-r3-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Joe Highsmith",
+              "svs": 1.7,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Joe Highsmith (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
+            },
+            {
+              "id": "auto-r3-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Luke List",
+              "svs": 1.5,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Luke List (-14) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r3-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Aaron Wise",
+              "svs": 1.5,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Aaron Wise (-14) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r3-low",
+              "cat": "🤖 Lägsta runda R4",
+              "sel": "Davis Bryant",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Davis Bryant (-15) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r3-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "Stefano Mazzoli",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Stefano Mazzoli är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        },
+        "sondag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-07-21T16:39:45+00:00",
+          "headline": "Mazzoli trollar med -20 – Sargent och Clements skuggar italienaren på -19",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Stefano Mazzoli från Italien tog Corales Puntacana Championship med två slagars marginal framför Gordon Sargent och Todd Clements, som delade andrapltstsen på -19. Mazzoli höll ihop en konsekvent prestations over hela veckan och avslutade på imponerande -20, medan amerikanen Will Gordon och Ben James följde på -18 och kunde inte helt haka på italienaren i finala rundan. Svenska gångna var inte konkurrensmässiga i detta fält – varken Jens Dantorp eller Sebastian Söderberg nådde topp 20."
+            },
+            {
+              "icon": "list.number",
+              "h": "Slutresultat",
+              "b": "—  Stefano Mazzoli  -20\n—  Gordon Sargent  -19\n—  Todd Clements  -19\n—  Will Gordon  -18\n—  Ben James  -18\n—  Marcel Schneider  -17\n—  Jacob Skov Olesen  -17\n—  Joe Highsmith  -17\n—  Zach Bauchou  -16\n—  Thomas Rosenmueller  -16\n\nKälla: ESPN."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "2 svenska kvar i fältet.\n\n—  Jens Dantorp  -10  (i röda siffror)\n—  Sebastian Söderberg  -10  (i röda siffror)"
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 4 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-r4-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "Stefano Mazzoli",
+              "svs": 1.5,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Stefano Mazzoli leder fältet på -20 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+            },
+            {
+              "id": "auto-r4-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Todd Clements",
+              "svs": 4.0,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Todd Clements ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r4-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Gordon Sargent",
+              "svs": 1.9,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Gordon Sargent (-19) sitter i topp-skiktet ett slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r4-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Will Gordon",
+              "svs": 2.1,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 4,
+              "rat": "Will Gordon (-18) sitter i topp-skiktet 2 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r4-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Marcel Schneider",
+              "svs": 1.7,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Marcel Schneider (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
+            },
+            {
+              "id": "auto-r4-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Joe Highsmith",
+              "svs": 1.7,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Joe Highsmith (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
+            },
+            {
+              "id": "auto-r4-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Luke List",
+              "svs": 1.5,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Luke List (-14) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r4-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Aaron Wise",
+              "svs": 1.5,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Aaron Wise (-14) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r4-low",
+              "cat": "🤖 Lägsta runda R5",
+              "sel": "Davis Bryant",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Davis Bryant (-15) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r4-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "Stefano Mazzoli",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Stefano Mazzoli är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+            }
+          ]
+        }
+      }
+    },
+    {
       "id": "live-rocket-classic",
       "name": "Rocket Classic",
       "rawName": "Rocket Classic",
@@ -3766,13 +3766,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-21T14:14:49+00:00",
-          "headline": "Patty Tavatanakit jagar sitt andra LPGA-majörtitel på Scottish Open",
+          "generatedAt": "2026-07-21T16:39:50+00:00",
+          "headline": "Jutanugarn jagar sitt första LPGA-majörämne på Scottish Open",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "**ISPS HANDA Women's Scottish Open förhandsanalys**\n\nLPGA:s övergång till Skottland lockar världseliten inför ett av sommaren mest prestigefyllda arrangemangen på europeisk mark. Nelly Korda och Patty Tavatanakit är bland favoriterna, medan världsettan Jai Shin presenterar ett intressant mönster med sitt framskjutna form – banan kommer att belöna precision före längd givet typiska skotska väderförhållanden och hårt underlag. Utan svenska representanter i toppskiktet ligger fokus på hur européerna presterar hemma, och särskilt vilken bana ISPS Handa använder denna säsong blir avgörande för spelvärdet givet stor skillnad mellan links och parkland-setup."
+              "b": "ISPS HANDA Women's Scottish Open lockar ett starkt internationellt fält där engelska Hannah Burke toppar seedningen före thailändskan Ariya Jutanugarn och danskan Emily Kristine Pedersen. Hemmafördelningen är märkbar med skotska Hannah Darling och walesiskan Lydia Hall på startsidan, medan amerikanska Brianna Do och Alison Lee utgör motsatsen från LPGA-touren. Intressant är hur många europeiska spelare – särskilt franska namn som Chevalier, Laisne och Delacour – som fyller fältet, vilket tyder på att banan kan ligga väl till för gräsmattespelande från kontinenten. Med Jutanugarn och Tavatanakit som de mest erfarna världselitespelarna är det värt att notera hur väl de etablerade amerikanska talangerna perforar på hemhemisfären."
             },
             {
               "icon": "flag.fill",
@@ -3782,7 +3782,7 @@
             {
               "icon": "person.3.fill",
               "h": "Fältöversikt",
-              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+              "b": "143 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
             },
             {
               "icon": "wave.3.right",
@@ -3791,7 +3791,68 @@
             }
           ],
           "top5": [],
-          "bets": []
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Hannah Burke",
+              "svs": 8.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Hannah Burke står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Brianna Do",
+              "svs": 11.5,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Brianna Do står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ariya Jutanugarn",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Ariya Jutanugarn står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Emily Kristine Pedersen",
+              "svs": 18.5,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Emily Kristine Pedersen står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Camille Chevalier",
+              "svs": 22.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Camille Chevalier står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ginnie Ding",
+              "svs": 25.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ginnie Ding står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            }
+          ]
         }
       }
     },
@@ -3839,13 +3900,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-21T14:14:55+00:00",
-          "headline": "LIV Golf tar strid i Storbritannien – kan Koepka hämta sin femte seger?",
+          "generatedAt": "2026-07-21T16:39:55+00:00",
+          "headline": "LIV Golf London väcker frågor – kan någon bryta Rory-dominansen?",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# LIV Golf United Kingdom – Förhandsanalys\n\nLIV-turneringen på brittisk mark drar in världselitens största namn, med Dustin Johnson och Phil Mickelson bland de främsta favoriter­na att hålla koll på. Brooks Koepka och Bryson DeChambeau representerar två skilda spelfilosofier på LIV-touren – Koepkas precision mot DeChambeau­s explosiva längdspel – och deras inbördes prestanda blir intressant att följa. Utan svenska representanter i topplistan blir fokus helt på hur de amerikanska tungviktarna klarar av engelsk golf­väder och eventuella svårare grön­läsningar än vad de är vana vid från saudiska turneringar."
+              "b": "# LIV Golf United Kingdom – Förhandsanalys\n\nLIV-turneringen på brittisk mark ställer samman flera av seriens tyngsta namn, med Dustin Johnson och Phil Mickelson som återkommande skuggor bakom dagens mer framskjutna aktörer. Fokus bör ligga på hur Bryson DeChambeau och Rory McIlroy förhåller sig till de tightare europeiska banorna – DeChambeau är rätt spelstil för brittiska förhållanden medan McIlroy kan dra nytta av hemmaplan-fördelar. Utan svenska representanter är det lagkonkurrensen som driver spänningen; GJB och Crushers kommer båda med starka uppsättningar och prestationsmässiga tankar inför höstens slutspel."
             },
             {
               "icon": "flag.fill",
