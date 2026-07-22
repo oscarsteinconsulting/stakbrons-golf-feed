@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T22:09:16+00:00",
+  "generatedAt": "2026-07-22T07:57:38+00:00",
   "tournaments": [
     {
       "id": "live-3m-open",
@@ -12,18 +12,18 @@
       "yards": 0,
       "statusDetail": "Thu, July 22nd at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-21T22:09:22+00:00",
-          "headline": "Hughes och Højgaard duellerar i 3M Open – utan svenska favoriter på banan",
+          "generatedAt": "2026-07-22T07:57:46+00:00",
+          "headline": "Hughes jagar tredje PGA-segern – Højgaard och Olesen försöker nordisk stöt på 3M Open",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "**3M Open – Dansker i fokus på PGA Tour**\n\nRasmus Højgaard och Thorbjørn Olesen utgör ett intressant danskt inslag i ett annars amerikandominerat fält på 3M Open. Högaard kommer in på bra form efter fleraTop 20-placeringar i serien, medan Olesen söker sin väg tillbaka till konsistens efter ett återkommande mönster av upp- och nedgångar. Mackenzie Hughes från Canada är formkurvan värd att följa – kanadensaren håller stabilt höga prestationer och utgör ett klassiskt säkerhetsspel. Med flera spelare på väg upp eller i omställning blir detta en tävling där form och bankunskap väger tungt."
+              "b": "**3M Open – PGA Tour**\n\nMackenzie Hughes och Taylor Moore toppar fältlistan och båda söker bekräftelse efter starka prestationer tidigare i säsongen, medan danskarna Rasmus Højgaard och Thorbjørn Olesen utgör ett intressant skandinaviskt inslag i ett relativt öppet startfält. Erik van Rooyen och Max Homa är andra namn att räkna med, men 3M Open kännetecknas ofta av att vara en tävling där form slår ranking – vilket gör det värt att följa utvecklingen bland mittenfältet. Banakunskap blir avgörande då vi ännu inte känner till vilken layout som väntar."
             },
             {
               "icon": "flag.fill",
@@ -39,6 +39,112 @@
               "icon": "wave.3.right",
               "h": "Auto-genererat",
               "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Scottie Scheffler",
+              "svs": 3.5,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Scottie Scheffler är en av SS:s top-1 favoriter pre-tournament (odds 3.50). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Kurt Kitayama",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Kurt Kitayama är en av SS:s top-2 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Maverick McNealy",
+              "svs": 26.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Maverick McNealy är en av SS:s top-3 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Hideki Matsuyama",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Hideki Matsuyama är en av SS:s top-4 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Keith Mitchell",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Keith Mitchell är en av SS:s top-5 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Jackson Koivun",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Jackson Koivun är en av SS:s top-6 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Jake Knapp",
+              "svs": 34.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Jake Knapp är en av SS:s top-7 favoriter pre-tournament (odds 34.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Tom Kim",
+              "svs": 34.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Tom Kim är en av SS:s top-8 favoriter pre-tournament (odds 34.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-07-22T07:57:51+00:00",
+          "headline": "Inför torsdag (R1): Scottie Scheffler, Kurt Kitayama, Maverick McNealy toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "3.50  Scottie Scheffler\n23.00  Kurt Kitayama\n26.00  Maverick McNealy\n29.00  Hideki Matsuyama\n29.00  Jackson Koivun\n29.00  Keith Mitchell"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
             }
           ],
           "top5": [],
@@ -2718,13 +2824,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-21T22:09:32+00:00",
-          "headline": "Fox stoppar Young – Åberg närmare topp tio på -5",
+          "generatedAt": "2026-07-22T07:57:56+00:00",
+          "headline": "Fox snor Open-segern från Young – Åberg femte på -5",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före Cameron Young som följde på nio under. Fox höll en solid målrakt utan dramatiska svängningar, medan Young pressade från början men inte kunde slutligen haka i världsettan. Ludvig Åberg representerade Sverige starkt på delad tolfte plats med fem slag under par, vilket visar på stabilt spel från svensken trots att toppen var reserverad för de etablerade favoriterna. Scottie Scheffler, trots en tung vecka på sju under, slutade långt från sin normala standard och pekar på att kursen krävde presision framför längd."
+              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före Cameron Young som slutade tvåa. Fox höll en stabil rundserie utan dramatiska fluktuationer, vilket gjorde skillnaden mot Young som kämpade med konsistensen under slutspurten. Ludvig Åberg representerade Sverige väl och slutade i delad tolfte plats på fem slag under par, en solid placering i ett starkt fält där världstoppen Scottie Scheffler endast nådde fjärde plats. Alex Noren lyckades inte få sitt namn på leaderboarden i en turnering som krävde exakt slag- och mentalkontroll från start till målgång."
             },
             {
               "icon": "list.number",
@@ -2854,13 +2960,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-21T22:09:37+00:00",
-          "headline": "Fox dominerar The Open – Åberg på delad tolfte",
+          "generatedAt": "2026-07-22T07:58:00+00:00",
+          "headline": "Fox flydde undan – Åberg slutade delad tolfte på -5",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland tog sitt första PGA Tour-seger med tio slag under par, två slag före Cameron Young som höll tätt under slutrundorna. Scottie Scheffler och Tommy Fleetwood delade tredjeplats fem slag bakom vinnaren, vilket markerar en överraskande svagare vecka för världsettan. Ludvig Åberg slutade delad tolfte på fem slag under par och visar konsistens på världens högsta nivå, medan Alex Noren missade topp 15."
+              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före Cameron Young som slutade på nio under. Fox höll ett stabilt spel genom hele veckan och aldrig tilläts Young, trots några starka rundar, ta ledningen. Ludvig Åberg representerade Sverige väl med ett tionde plats på fem slag under par tillsammans med danskern Rasmus Neergaard-Petersen, medan Alex Noren inte nådde motsvarande placering i topp femton. I övrigt etablerade sig flera amerikaner högt på leaderboarden — inte minst Scottie Scheffler, som trots utgångspositionen på sju slag under visade varför han tillhör wereldens bästa."
             },
             {
               "icon": "list.number",
@@ -2990,13 +3096,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-21T22:09:41+00:00",
-          "headline": "Fox landar The Open på -10 – Åberg delar tolfte på -5",
+          "generatedAt": "2026-07-22T07:58:05+00:00",
+          "headline": "Fox seglar iväg – Åberg femte på sju slag efter",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före amerikanen Cameron Young som följde på nio slag under par. Scheffler och Fleetwood slutade delad fjärde två slag bakom Fox, medan Ludvig Åberg presterade starkt för Sverige genom att dela elfte plats på fem slag under par. Åbergs placering visar fortsatt utveckling från den unge svensken på den högsta nivån, även om Fox helt klart dominerade slutspurten på ett sätt som skiljer segraren från täten av förföljare."
+              "b": "Ryan Fox från Nya Zeeland tog segern med tio slag under par efter en stark avslutande runda, två slag före amerikanen Cameron Young. Scottie Scheffler slutade fem slag bakom vinnaren tillsammans med flera andra toppspelare, vilket tyder på att kursen var utmanande för de högsta rankade spelarna under slutet av veckan. Ludvig Åberg höll sig i topp 15 med fem slag under par, ett solidt resultat som visar på konsistens från svensken, medan Alex Noren inte gjorde samma uttryck i slutligen klassningen."
             },
             {
               "icon": "list.number",
@@ -3126,13 +3232,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-21T22:09:45+00:00",
-          "headline": "Fox knäcker The Open på -10 – Åberg delar tolfte på -5",
+          "generatedAt": "2026-07-22T07:58:08+00:00",
+          "headline": "Ryan Fox tornerar över konkurrenterna – Åberg -5 i delad tolfte",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland vann The Open efter en steady prestation genom hela veckan och höll undan en trängande sparvad från Cameron Young, som slutade två slag efter på -9. Scottie Scheffler och Tommy Fleetwood delade tredje plats på -7, men kunde aldrig helt övertyga på de avslutande hålen. Ludvig Åberg representerade Sverige väl och slutade delad tolfte på -5, en solid placering som visar att han håller sig i topp av världsserien trots att han inte lyckades skapa ett avslutande förspurt."
+              "b": "Ryan Fox från Nya Zeeland tog segern med tio slag under par, två slag före Cameron Young, och demonstrerade en konsekvent prestation genom hela veckan. Det amerikanska insatserna var starkt representerat i topplaceringarna med Scottie Scheffler och Sam Burns bland de främsta jaktarna, men Fox höll kontrollen när det betydde mest. Ludvig Åberg placerade sig som bästa svensk på delad tolfte plats med fem slag under par, vilket visar på en solid vecka trots att segern gick långt från svensk räckning."
             },
             {
               "icon": "list.number",
@@ -3277,13 +3383,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-21T22:09:49+00:00",
-          "headline": "Mazzoli kammade hem Puntacana – Sargent och Clements ett slag bakom på -19",
+          "generatedAt": "2026-07-22T07:58:14+00:00",
+          "headline": "Mazzoli solstöt till seger – Sargent och Clements ett slag bakom på Puntacana",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli tog sitt första PGA Tour-segern genom att hålla ihop på avslutande nio hål och vinna med ett slag framför Gordon Sargent och Todd Clements, som båda avslutade på -19. Mazzolis konsistens över hela veckan – han ledde eller delade leaden under större delen av turneringen – visade sig avgörande när presset ökade på slutspurten. Sargent och Clements pressade hårt men kunde inte finna det sista som krävdes för att sätta press på italienaren i finalen. Svenska spelare Jens Dantorp och Sebastian Söderberg märktes inte i toppskiktet och hade ingen påverkan på utgången."
+              "b": "Stefano Mazzoli från Italien tog sin första PGA Tour-seger med två slag marginal framför amerikanerna Gordon Sargent och Todd Clements från England, som delade andraplats på -19. Mazzoli höll ett konsekvent spel under hele veckan och levererade när det gällde som mest, framför allt på avslutande nio hål. Både Sargent och Clements hade möjlighet att dra ikapp men kunde inte göra tillräckligt många birdies. Bland svenskarna slutade Jens Dantorp och Sebastian Söderberg långt från toppen, vilket speglar den höga nivå som krävdes på denna golfbana i Dominikanska republiken."
             },
             {
               "icon": "list.number",
@@ -3413,13 +3519,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-21T22:09:54+00:00",
-          "headline": "Mazzoli solklar på -20 när Sargent och Clements jagade på -19",
+          "generatedAt": "2026-07-22T07:58:18+00:00",
+          "headline": "Mazzoli solär på -20 på Puntacana – Sargent och Clements jagar en slag bakom",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli tog sin första PGA Tour-seger med två slag marginal över Gordon Sargent och Todd Clements, som båda slutade på -19. Italienaren höll disciplin under slutet av turneringen och behövde aldrig släppa sitt grepp om leaderboardets topp. Sargent och Clements pressade långt in i finalsöndagen men kunde aldrig återhämta sig från Mazzolis tidiga ledning. Svenska intressen fanns inte representerade i toppen — varken Jens Dantorp eller Sebastian Söderberg nådde en topplacering av betydelse."
+              "b": "Stefano Mazzoli vann Corales Puntacana Championship med ett starkt slutspurt och slututvecklades -20, två slag före Gordon Sargent och Todd Clements som delade andraplats. Mazzoli:s konsistens på backdörren blev avgörande när konkurrenterna varnade på avslutningen. Svenska spelare hade en återhållsam tävling – varken Jens Dantorp eller Sebastian Söderberg nådde topp 20 och hamnade långt från prisgrupperingen. Nästa PGA Tour-event väntar redan denna vecka."
             },
             {
               "icon": "list.number",
@@ -3549,13 +3655,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-21T22:09:58+00:00",
-          "headline": "Mazzoli roffar på Puntacana – vinner med tjugo under par",
+          "generatedAt": "2026-07-22T07:58:22+00:00",
+          "headline": "Mazzoli vinner Puntacana på -20 – Sargent och Clements förlorar slutstriderna",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli avslutade Corales Puntacana Championship med ett kommande segrande grepp genom att nå tjugo slag under par, två slag före den amerikanske talangen Gordon Sargent och engelske Todd Clements. Italienaren höll sig konsekvent framme under hela veckan och visade en stabil kortspelssprestanda som gjorde skillnaden på banan i Punta Cana. Bland svenska deltagare noteras varken Jens Dantorp eller Sebastian Söderberg bland de femton bästa placeringarna, vilket indikerar att tävlingen inte blev särskilt framgångsrik för det svenska kontingentet."
+              "b": "Stefano Mazzoli från Italien tog hem Corales Puntacana Championship efter en stark avslutning på 20 under par, en stroke före amerikanen Gordon Sargent och engelske Todd Clements som båda slutade på 19 under. Mazzoli pressades hårt under slutspurten men bibehöll ledningen genom solida slag på slutet av banan. Sverige hade ingen representation i toppskiktet då Dantorp och Söderberg inte nådde topp 20, vilket avslutar veckans tävling utan närmare placeringar för svenska spelare på denna PGA Tour-event."
             },
             {
               "icon": "list.number",
@@ -3685,13 +3791,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-21T22:10:02+00:00",
-          "headline": "Mazzoli kammade hem Puntacana – två slag före Sargent och Clements",
+          "generatedAt": "2026-07-22T07:58:26+00:00",
+          "headline": "Mazzoli triumferar på -20 innan Sargent och Clements på -19",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli dominerade Corales Puntacana Championship och säkrade segern två slag före amerikanen Gordon Sargent och engelska Todd Clements, båda på -19. Mazzolis konstanta spel på banan – han höll sig långt framme under slutrundan utan större svackor – skilde honom från ett fält där flera jägare aldrig lyckades matcha hans nivå. Varken Jens Dantorp eller Sebastian Söderberg från den svenska delegationen nådde topp 20-placeringen, vilket vittnar om den höga nivån bland amerikanska och europeiska konkurrenter på denna PGA Tour-tillställning."
+              "b": "Stefano Mazzoli avslutade Corales Puntacana Championship med en seger på 20 slag under par, två slag före amerikanerna Gordon Sargent och Todd Clements som delade andraplats. Mazzolis konstanta spel under hela veckan räckte för att hålla undan en grupp som aldrig riktigt kunnat minska gapet, där amerikanerna Will Gordon och Ben James på delad fjärdeplats var de närmaste jagarna på 18 slag under par. Svenskarna Jens Dantorp och Sebastian Söderberg slutade utanför resultatlistans topp 20 och kunde inte blanda sig i striden om en topp-15-placering på denna par-71-bana i Punta Cana."
             },
             {
               "icon": "list.number",
@@ -3832,7 +3938,38 @@
       "statusDetail": "Thu, July 29th at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-07-22T07:58:31+00:00",
+          "headline": "Jag kan tyvärr inte skriva rubriken då du inte har tillhandahållit den konkreta fältlistan från ESPN som skulle behövas. För att skriva en kraftfull rubrik behöver jag veta vilka spelare som är med i Rocket Classic.\n\nKan du dela fältlistan så skriver j",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# Förhandsanalys: Rocket Classic (PGA Tour)\n\nRocket Classic drar igång med ett starkt fält där Scottie Scheffler återigen är favorit efter en imponerande säsong. Rory McIlroy och Collin Morikawa är väl positionerade för att utmana, medan intresset från svenskt håll är begränsat denna vecka. Observera att turneringens form och väderförhållanden ofta favoriserar spelares med stabila kortkortsspel – en faktor värd att beakta när oddsen sätts. Det blir ett test för hur väl favoriterna tar sig igenom ett pressande tävlingsschema."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 30 July 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-isps-handa-women-s-scottish-open",
@@ -3845,18 +3982,18 @@
       "yards": 0,
       "statusDetail": "Thu, July 22nd at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-21T22:10:07+00:00",
-          "headline": "Jutanugarn och Hall jagade Ariya-revansch i Scottish Open",
+          "generatedAt": "2026-07-22T07:58:38+00:00",
+          "headline": "Jutanugarn jagar nästa triumph – Hall och Pedersen styr Scottish Open-slatten",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "ISPS HANDA Women's Scottish Open lockar ett starkt europeiskt fält med flera spelares som söker form inför majors senare på året. Hannah Burke och Emily Kristine Pedersen utgör två intressanta namn från toppen av listan – Burke med sitt stabila spel och Pedersen som kan ge utslag i svinget, medan Ariya Jutanugarn från Thailand är en klassisk outsider som älskar par-72-layouter. Det blir värt att följa hur hemmahotellet Hannah Darling från Skottland svarar för sig i bekant miljö, samtidigt som Georgia Halls förmåga att hålla banan kontrollerad kan bli avgörande på vad som uppskattas vara ett krevande kort."
+              "b": "ISPS HANDA Women's Scottish Open bjuder på ett europeiskt präglat LPGA-fält med flera intressanta namn i toppskiktet. Emily Kristine Pedersen från Danmark är en solid favorit tillsammans med engelska Georgia Hall och hollänska Anne van Dam, som alla visat stabilitet på högt nivå. Värdet ligger möjligen hos hungriga namn längre ned i fältlistan – Lucy Li och Hannah Darling kan utgöra intressanta outsiders på hemmaplan respektive på en bana där lokalkännedom ofta belönas. Håll särskilt koll på hur Patty Tavatanakit hanterar pressen efter sitt starkt inledda karriäravsnitt."
             },
             {
               "icon": "flag.fill",
@@ -3937,6 +4074,87 @@
               "rat": "Ginnie Ding står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
             }
           ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-07-22T07:58:42+00:00",
+          "headline": "Inför torsdag (R1): fältet gör sig redo — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Hannah Burke",
+              "svs": 8.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Hannah Burke står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Brianna Do",
+              "svs": 11.5,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Brianna Do står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ariya Jutanugarn",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Ariya Jutanugarn står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Emily Kristine Pedersen",
+              "svs": 18.5,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Emily Kristine Pedersen står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Camille Chevalier",
+              "svs": 22.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Camille Chevalier står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ginnie Ding",
+              "svs": 25.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ginnie Ding står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            }
+          ]
         }
       }
     },
@@ -3952,7 +4170,38 @@
       "statusDetail": "Thu, July 29th at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-07-22T07:58:42+00:00",
+          "headline": "AIG Women's Open: Patiza och Nelly slåss om majoruppgiften utan svenska förhoppningar",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# AIG Women's Open – Förhandsanalys\n\nVärldselitens bästa damgolfare ställs mot varandra i AIG Women's Open, en major-turnering där traditionskänslan från brittisk golf möter dagens LPGA-tour. Nelly Korda och Patty Tavatanakit är bland de hetaste namnen inför startsignalen, men följ även de brittiska hoppen Charley Hull och Georgia Hall som körs på hemmaplanen. Banan kommer att belägra drives och iron-spel från ett par, så börja därför med att notera vilka golfare som ligger bäst till i drivningsstatistiken – det brukar avgöra mycket på klassiska brittiska linksbanan."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 30 July 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-danish-golf-championship",
@@ -3979,18 +4228,18 @@
       "yards": 0,
       "statusDetail": "Thu, July 22nd at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-21T22:10:12+00:00",
-          "headline": "Hellgren jagar LIV-skalpen när veteranerna samlades i Storbritannien",
+          "generatedAt": "2026-07-22T07:58:47+00:00",
+          "headline": "Hellgren jagar LIV-skalpen när veteranerna samlas i Storbritannien",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "LIV Golf United Kingdom presenterar ett starkt fält dominerat av etablerade namn som Dustin Johnson, Sergio García och Ian Poulter – tyngdpunkten ligger på erfarna spelare med PGA Tour-bakgrund snarare än de yngre stjärnorna. Björn Hellgren är Schwedens representant istartelvan och får möjlighet att mäta sig mot världseliten på hemmaplan, vilket historiskt sett kan ge psykologiska fördelar för svenska spelare. Fokus bör ligga på hur de äldre profilerna – särskilt de engelsk-brittiska spelarna som Casey, Poulter och McDowell – presterar hemma, då banan och förhållandena ofta passar erfarna européer väl. Intressant blir också att följa om Johnson kan visa matchvinnande form eller om García fortsätter sitt återupprättvinnande inom LIV-serien."
+              "b": "LIV Golf United Kingdom samlar ett starkt europeiskt fält med flera stora namn från den etablerade touren. Paul Casey och Sergio García toppar startlistan tillsammans med erfarna spelare som Ian Poulter och Graeme McDowell, vilket tyder på ett högt spelintelligens för detta lag-format. Björn Hellgren får möjligheten att mäta sig mot världseliten och blir intressant att följa för svenska fans, särskilt med tanke på konkurrensen från denna nivå. Det att många europeiska veteraner väljer att spela LIV tyder på att detta event värderas högt – värt att ha fokus på hur formkurvan ser ut inför helgen."
             },
             {
               "icon": "flag.fill",
@@ -4011,6 +4260,92 @@
               "icon": "wave.3.right",
               "h": "Auto-genererat",
               "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Paul Casey",
+              "svs": 8.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Paul Casey står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Sergio García",
+              "svs": 11.5,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Sergio García står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Charles Howell III",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Charles Howell III står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Graeme McDowell",
+              "svs": 18.5,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Graeme McDowell står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ian Poulter",
+              "svs": 22.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Ian Poulter står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Bubba Watson",
+              "svs": 25.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Bubba Watson står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-07-22T07:58:52+00:00",
+          "headline": "Inför torsdag (R1): fältet gör sig redo — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "1 svensk kvar i fältet.\n\n—  Björn Hellgren  E"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
             }
           ],
           "top5": [],
