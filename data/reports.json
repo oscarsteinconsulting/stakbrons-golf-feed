@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T14:16:49+00:00",
+  "generatedAt": "2026-07-22T16:41:01+00:00",
   "tournaments": [
     {
       "id": "live-3m-open",
@@ -17,13 +17,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-22T14:16:56+00:00",
-          "headline": "Hughes och Højgaard jagar 3M Open-triumfen på PGA Tour",
+          "generatedAt": "2026-07-22T16:41:08+00:00",
+          "headline": "Hughes och Højgaard jagar 3M Open-triumfen utan svenska hopp",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "**3M Open – PGA Tour**\n\nMackenzie Hughes toppar ett fält dominerat av amerikaner utan några överraskande favoritnamn, vilket tyder på ett öppet fältsammansättning där form kan väga tyngre än ranking. Rasmus Højgaard och landsman Thorbjørn Olesen representerar skandinavisk golf med solida förutsättningar, medan engelske Jordan Smith och sydafrikanen Erik van Rooyen utgör intressanta alternativ utanför det tätaste toppen. Med namn som Max Homa och Chris Kirk som etablerade PGA-spelare bör fokus ligga på vilka amerikaner som kommer att hitta sin form på en bana vars karakteristika återstår att identifiera."
+              "b": "3M Open lockar ett intressant blandat fält där kanadensaren Mackenzie Hughes toppar startlistan tillsammans med form-resande amerikaner som Taylor Moore och Max Greyserman. Danske Rasmus Højgaard och engelske Jordan Smith representerar den internationella spetsens ambitioner, medan Erik van Rooyen från Sydafrika är en spelare värd att övervaka för sin konsistens på Amerikaanse gräs. Utan svenska namn i toppen blir fokus på hur Hughes och Moore levererar under detta veckas förhållanden – två spelare som håller solid form inför en turnering som traditionellt ger plats åt både etablerade namn och hungrande outsiders."
             },
             {
               "icon": "flag.fill",
@@ -128,7 +128,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T14:17:00+00:00",
+          "generatedAt": "2026-07-22T16:41:13+00:00",
           "headline": "Inför torsdag (R1): Scottie Scheffler, Kurt Kitayama, Maverick McNealy toppar oddsen — lägg spelen innan utslag",
           "insights": [
             {
@@ -1799,38 +1799,38 @@
               "win": {
                 "prob": 0.0094,
                 "fairOdds": 106.38,
-                "realSSOdds": 126.0,
-                "edgePct": 0.1844,
-                "kellyFraction": 0.0004,
-                "recommendedStakePct": 0.04,
-                "confidence": "Spelvärt"
+                "realSSOdds": 101.0,
+                "edgePct": -0.0506,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0607,
                 "fairOdds": 16.47,
-                "realSSOdds": 17.0,
-                "edgePct": 0.0319,
-                "kellyFraction": 0.0005,
-                "recommendedStakePct": 0.05,
-                "confidence": "Neutral"
+                "realSSOdds": 15.0,
+                "edgePct": -0.0895,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.1178,
                 "fairOdds": 8.49,
-                "realSSOdds": 8.5,
-                "edgePct": 0.0013,
+                "realSSOdds": 7.5,
+                "edgePct": -0.1165,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Chansning"
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.234,
                 "fairOdds": 4.27,
-                "realSSOdds": 4.5,
-                "edgePct": 0.053,
-                "kellyFraction": 0.0038,
-                "recommendedStakePct": 0.38,
-                "confidence": "Neutral"
+                "realSSOdds": 4.0,
+                "edgePct": -0.064,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "cut": {
                 "prob": 0.6072,
@@ -2779,6 +2779,17 @@
             "confidence": "Spelvärt"
           },
           {
+            "name": "Stefano Mazzoli",
+            "market": "top20",
+            "prob": 0.1327,
+            "fairOdds": 7.54,
+            "realSSOdds": 9.0,
+            "edgePct": 0.1943,
+            "kellyFraction": 0.0061,
+            "recommendedStakePct": 0.61,
+            "confidence": "Spelvärt"
+          },
+          {
             "name": "Garrick Higgo",
             "market": "top20",
             "prob": 0.2122,
@@ -2799,17 +2810,6 @@
             "kellyFraction": 0.0025,
             "recommendedStakePct": 0.25,
             "confidence": "Spelvärt"
-          },
-          {
-            "name": "Garrick Higgo",
-            "market": "top10",
-            "prob": 0.1043,
-            "fairOdds": 9.59,
-            "realSSOdds": 11.0,
-            "edgePct": 0.1473,
-            "kellyFraction": 0.0037,
-            "recommendedStakePct": 0.37,
-            "confidence": "Bra läge"
           }
         ]
       }
@@ -2830,13 +2830,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T14:17:04+00:00",
-          "headline": "Fox dominerar Open medan Åberg kämpar sig in på delad tolfte plats",
+          "generatedAt": "2026-07-22T16:41:17+00:00",
+          "headline": "Fox sopar The Open – Åberg slutar delad tolfte på -5",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland tog sitt första PGA Tour-seger med två slag ned före Cameron Young, som pressade hårt men inte räckte fram på finalronden. Scottie Scheffler hamnade fyra slag bakom vinnaren trots sin världsetta-status, vilket visar hur Fox behöll fokus när trycket ökade. Ludvig Åberg slutade delad 12:e på -5, ett resultat som placerar honom i mitten av toppen och bekräftar att svensken utvecklas väl på högsta nivå, medan Alex Noren inte lyckades närma sig leaderboard."
+              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före Cameron Young från USA som slutade på delad andraplats tillsammans med Sam Burns. Ludvig Åberg levererade en solid prestationen och slutade delad elfte plats på fem slag under par, vilket vittnar om att den svenske talangen håller en stabil nivå i världselitens hårdaste tävlingar. Scottie Scheffler, världsettan, hamnade på delad fjärdeplats och kunde därmed inte hävda sig i en turnering där Fox:s konsekvent spel från tee till green gjorde skillnaden på hemmaplan."
             },
             {
               "icon": "list.number",
@@ -2966,13 +2966,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T14:17:09+00:00",
-          "headline": "Fox klipper av i The Open – Åberg en slag från topp tio",
+          "generatedAt": "2026-07-22T16:41:21+00:00",
+          "headline": "Fox soloar in The Open – Åberg slutar delad tolfte",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland tog segern på tio slag under par efter en stark avslutande runda, två slag före Cameron Young som slutade på minus nio. Scottie Scheffler och Tommy Fleetwood följde på minus sju, vilket visar att toppspelarna inte helt dominerade en bana som krävde precision framför brute force. Ludvig Åberg presterade solidt och tog sig in i topp 15 på minus fem, vilket placerar honom bland de bättre svenska resultaten på denna klassiska turneringen, medan Alex Noren inte lyckades konkurrera i den övre delen av leaderboarden."
+              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före Cameron Young som höll andraplaceringen. Scottie Scheffler och Tommy Fleetwood delade fjärdeplats på sju slag under par, medan Ludvig Åberg från Sverige placerade sig delad elftonde på fem slag under par — en solid prestation som visar fortsatt stabilitet från svenska världsettorna. Fox kontrollerade slutet av turneringen effektivt och lämnade ingen plats för några dramatiska avgöranden."
             },
             {
               "icon": "list.number",
@@ -3102,13 +3102,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T14:17:14+00:00",
-          "headline": "Fox trollar fältet – Åberg hackar sig in i topp tolv på -5",
+          "generatedAt": "2026-07-22T16:41:25+00:00",
+          "headline": "Fox solodominerar The Open – Åberg slutar delad tia på -5",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland tog The Open efter en solid avslutning och höll av Cameron Young med en skugga på nio slag under par. Fox visade större stabilitet än konkurrenterna över fyra rundor, medan Young aldrig helt lyckades överbrygga gapet trots flera försök i slutspurten. Ludvig Åberg tangerade femte plats tillsammans med flera andra på minus fem slag, vilket representerar en anständig prestation men inte räckte för att blanda sig in om segern. Den svenska spelaren visade konkurrenskraft genom stora delar av veckan men saknade det avgörande momentet när det gällde som mest."
+              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före Cameron Young som slutade på nio slag under par. Scheffler och Fleetwood låg närmare än väntat på sju slag under par, vilket tyder på att Fox höll ett stabilt spel under hela veckan. Ludvig Åberg slutade på elfte plats med fem slag under par, vilket representerar ett solidt resultat i en stark startfältförsamling, medan Alex Noren inte gjorde sig bemärkt i den slutliga topp 15."
             },
             {
               "icon": "list.number",
@@ -3238,13 +3238,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T14:17:19+00:00",
-          "headline": "Fox dominerar Open – Åberg femma på sju slag efter",
+          "generatedAt": "2026-07-22T16:41:29+00:00",
+          "headline": "Fox dominerar Open – Åberg delar tolfte på -5",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland tog segern på tio slag under par, två slag före den amerikanen Cameron Young som avslutade på nio under. Världsettorna Scottie Scheffler och Tommy Fleetwood delade fjärde plats på sju slag under par, vilket visar att Fox levererade en konsekvent stark prestation när det väl räknades. Ludvig Åberg slutade på delad elfte plats tillsammans med dansken Rasmus Neergaard-Petersen, båda på fem slag under par — en placering som bekräftar Åbergs positionering bland världseliten trots att han inte hade tempo nog för topplacering denna gång."
+              "b": "Ryan Fox från Nya Zeeland dominerade The Open med sitt tio slag under par, två slag före amerikanen Cameron Young som slutade på nio under. Fox höll kontrollen genom hela veckan och skapade ett försvar som de övriga toppspelarna inte kunde bryta igenom, trots att Scottie Scheffler och Tommy Fleetwood försökte minska gapet under slutspurten. Ludvig Åberg presterade stabilt för Sverige och slutade delad tia på fem slag under par, medan Alex Noren inte räckte till bland de tio bästa — en tävling där Fox överlägsenhet i slutet blev helt avgörande."
             },
             {
               "icon": "list.number",
@@ -3389,13 +3389,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T14:17:23+00:00",
-          "headline": "Mazzoli triumferar på -20 – svenska duo strular i Puntacana",
+          "generatedAt": "2026-07-22T16:41:34+00:00",
+          "headline": "Mazzoli dominerar Puntacana – Sargent och Clements jagar på -19",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli slutade på tjugo under par och tog segern på Corales Puntacana Championship före amerikanen Gordon Sargent och engelsman Todd Clements, båda på nitton under. Mazzolis två slagars marginal byggde på konsekvent spel snarare än dramatiska moment — italienaren höll sig framme under hela turneringen utan större växlingar. I jakten på honom fanns ett starkt fält med flera amerikaner inom tre slag, vilket underströk utgångsnivån på denna PGA Tour-deltävling. Jens Dantorp och Sebastian Söderberg representerade Sverige istartelvan men placerade sig utanför topp femtio i slutändan."
+              "b": "Stefano Mazzoli löste gårdagen med italiensk precision och styr in till seger på tjugo under par, två slag före amerikanen Gordon Sargent och engelsmannen Todd Clements som delar andraplats. Mazzolis slutspurt på den utmanande Corales Golf Club-banan visar att han lyckades hitta balansen mellan aggression och kontroll när det värderades som mest. De två tätt följande jaktmarkerna från USA och England kunde aldrig helt matta igen avståndet, vilket pekar på att Mazzoli höll ett stabilt tempo genom hela omgångarna. Svenska sidan levererade inte resultat i topp — Dantorp och Söderberg fastnade utanför skyttegången denna gång."
             },
             {
               "icon": "list.number",
@@ -3525,13 +3525,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T14:17:27+00:00",
-          "headline": "Mazzoli dominerar Puntacana – italienaren åtta slag före närmaste förföljare",
+          "generatedAt": "2026-07-22T16:41:38+00:00",
+          "headline": "Mazzoli utklassar fältet på -20 – Sargent och Clements jagar förlorat slag bakom",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli avslutade Corales Puntacana Championship med två slag marginal före amerikanen Gordon Sargent och engelske Todd Clements, som delade andraplats på -19. Mazzolis konsistens genom fyra rundor på Puntacana Resort & Club räckte för en säker seger, medan Sargent och Clements pressade längs vägen men kunde inte hämta in italienaren. I förföljarpositionen låg ett större fält med Will Gordon, Ben James och tysken Marcel Schneider på -18 och -17 respektive, vilka inte lyckades skära ner på Mazzolis försprång under avslutningsdagarna. Svenska deltagarna Jens Dantorp och Sebastian Söderberg nådde inte topp 20 och kunde inte blanda sig in i striden om segern."
+              "b": "Stefano Mazzoli tog överlägsen seger på Corales Puntacana Championship med 20 under par, fyra slag före amerikanerna Gordon Sargent och Todd Clements som delade andraplats. Italienaren byggde en stadig ledning genom turneringen och behöll kontrollen över slutspurten utan större påtryckningar från jaktfältet. Svenska startfältet lyckades inte utmärka sig i toppen — varken Jens Dantorp eller Sebastian Söderberg kom in bland resultaten på leaderboarden, vilket reflekterar en svagare prestationsdag för Europas spelare på den karibiska banan där amerikanerna dominerade överlag."
             },
             {
               "icon": "list.number",
@@ -3661,13 +3661,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T14:17:32+00:00",
-          "headline": "Mazzoli loppar bort från konkurrenterna på -20 i Puntacana",
+          "generatedAt": "2026-07-22T16:41:43+00:00",
+          "headline": "Mazzoli stänger Puntacana på tjugo under – Sargent och Clements ett slag efter",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli från Italien tog sitt första PGA Tour-seger med två slag före amerikanen Gordon Sargent och engelske Todd Clements på -20. Italienaren höll ett stabilt spel under slutet av veckan och pressades aldrig riktigt på målrakan. I jaktgruppen var Will Gordon och Ben James tillsammans på -18, medan danskarna Jacob Skov Olesen presterade solidt på -17 och säkrade sig en plats bland de främre placerade. Svenska deltagare Jens Dantorp och Sebastian Söderberg nådde inte topp 15, vilket innebär att turneringen slutade utan någon svensk framskjutning på slutresultatet."
+              "b": "Stefano Mazzoli vann Corales Puntacana Championship med två slagars marginal mot amerikanen Gordon Sargent och engelske Todd Clements, båda på -19. Italienaren höll ihop bra genom slutomgångarna medan jagarna bakom honom aldrig kunde skapa tillräckligt tryck för att hota segern. Svenska representationen lyckades inte ta sig in i topp 20, med Jens Dantorp och Sebastian Söderberg utanför placeringslistorna – en besvikelse för hemlandsintresset då PGA Tours latinamerikanska swing brukar passa svenska spelare relativt väl."
             },
             {
               "icon": "list.number",
@@ -3797,13 +3797,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T14:17:36+00:00",
-          "headline": "Mazzoli dominerar Puntacana – Sargent och Clements jaggar på -19",
+          "generatedAt": "2026-07-22T16:41:47+00:00",
+          "headline": "Mazzoli vann på 20 under par – Söderberg och Dantorp missade topp 10",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli dominerade Corales Puntacana Championship med totalt -20, en stroke före amerikanerna Gordon Sargent och engelsman Todd Clements på -19. Italienaren höll ett stadigt tempo genom slutomgångarna och lyckades hålla förföljarna på behörigt avstånd på banan i Dominikanska republiken. Will Gordon och Ben James slutade delade fjärde på -18, medan svenska representanter Jens Dantorp och Sebastian Söderberg inte nådde den här topplaceringen. Detta var Mazzolis andra PGA Tour-seger denna säsong."
+              "b": "Stefano Mazzoli från Italien avslutade Corales Puntacana Championship med ett övertygande sista grepp och segrade med 20 slag under par, två slag före amerikanen Gordon Sargent och engelsman Todd Clements. Mazzoli höll kontrollen under avslutande rundor när konkurrenterna omkring honom gjorde misstag, särskilt på de utmanande senare nio hålen. Will Gordon och Ben James jagade tätt på tredje plats på 18 slag under par, medan Tyskland hade två representanter i topp tio med Marcel Schneider och Thomas Rosenmueller. Svenska närvaron var svag i turneringen—varken Jens Dantorp eller Sebastian Söderberg kom närmare än långt efter ledningen i slutskedet."
             },
             {
               "icon": "list.number",
@@ -3948,13 +3948,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-22T14:17:40+00:00",
-          "headline": "Jag kan tyvärr inte skriva rubriken eftersom fältlistan inte är synlig i din meddelande. För att skapa en konkret och kraftfull rubrik behöver jag se de 15 första spelarna från ESPN.\n\nKan du dela fältlistan så skriver jag rubriken direkt?",
+          "generatedAt": "2026-07-22T16:41:51+00:00",
+          "headline": "Jag har inte tillräcklig information för att skriva en stark rubrik. Du har angett att banan är okänd och att det inte finns relevanta svenskar i fältet. För att skriva en konkret, kraftfull rubrik behöver jag veta vilken bana Rocket Classic spelas på, eller åtminstone",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# Rocket Classic - Förhandsanalys\n\nRocket Classic på PGA Tour lockar ett starkt startfält med flera namn i toppform inför vintersesongen. Tävlingen är känd för att belöna precisionsspel och närspelskontroll, vilket gör det intressant att följa hur etablerade namn som Scottie Scheffler och Rory McIlroy anpassar sig till banans krav. Utan svenska deltagare ligger fokus på att identifiera värdiga outsiders bland de övriga startarna, där form och recent performance blir avgörande faktorer för oddsplaceringen. Följ särskilt hur uppkommande spelare presterar mot etablerade stjärnor – det ger ofta de bästa värdena inför slutligen odds."
+              "b": "# Förhandsanalys: Rocket Classic, PGA Tour\n\nRocket Classic lockar återigen ett starkt världselitfält till Florida, där Scottie Scheffler återigen presenterar sig som topfavorit efter sina senaste prestationer. I ett fält utan svenska representanter är det värt att hålla särskilt koll på formkurvan för aktörer som søker sin första seger på säsongen – ett antal spelare från den högra delen av världsrankingen använder turneringen som springplanka inför The Players Championship några veckor senare. Banans layout och väderförhållandena under turneringen blir avgörande faktorer för vilka speltyper som kommer att dominera, medan det finns möjligheter för större odds på spelarna runt placeringarna 15-20 i startfältet som söker genombrott."
             },
             {
               "icon": "flag.fill",
@@ -3993,13 +3993,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-22T14:17:46+00:00",
-          "headline": "Hutton Castle kaller – Ariya Jutanugarn och världseliten slåss om Scottish Open-guldet",
+          "generatedAt": "2026-07-22T16:41:57+00:00",
+          "headline": "Jutanugarn jagar Scottish Open-triumfen – Hall och Pedersen skärper klorna på LPGA-touren",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "ISPS HANDA Women's Scottish Open bjuder på ett starkt internationellt fält med flera spelare i toppform inför majorserien. Ariya Jutanugarn toppar listan tillsammans med Emily Kristine Pedersen, som båda har visat stabila resultat på LPGA-touren under säsongen. Georgia Hall och Hannah Darling representerar hemmafördelarna och bör trivas väl i skotska förhållanden, medan fransyskorna Chevalier och Laisne utgör ett intressant mittfälte av konsekvent prestandanivå. Det blir spännande att följa hur newcomern Ginnie Ding och veteranen Alison Lee presterar – båda två namn värda uppmärksamhet inför veckans omslagning."
+              "b": "ISPS HANDA Women's Scottish Open lockar ett starkt internationellt fält där Ariya Jutanugarn från Thailand utgör en av favoriterna efter stabil LPGA-höst, medan engelskan Georgia Hall och amerikanskan Alison Lee representerar andra solida valpmetrar. Hemmafördelningen kan spela Skottlands Hannah Darling i händerna, men fokus bör ligga på hur de etablerade namn som Jutanugarn och Hall hanterar förutsättningarna – en Scottish Open på damtouren brukar belöna spelares förmåga att navigera vind och tätt grönt."
             },
             {
               "icon": "flag.fill",
@@ -4084,7 +4084,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T14:17:58+00:00",
+          "generatedAt": "2026-07-22T16:42:01+00:00",
           "headline": "Inför torsdag (R1): fältet gör sig redo — lägg spelen innan utslag",
           "insights": [
             {
@@ -4180,13 +4180,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-22T14:17:58+00:00",
-          "headline": "Patiza och Nelly Korda jagar legendarisk titel – vem bryter sig ur topp-trios dominans?",
+          "generatedAt": "2026-07-22T16:42:01+00:00",
+          "headline": "Patrizias jagade genom regnet – världseliten möts i Women's Open utan svenska hopp",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# AIG Women's Open – Förhandsanalys\n\nVärldseliten ställs mot start när LPGA:s fjärde major aviseras, med Nelly Korda och Patty Tavatanakit bland favoriterna att sätta sitt namn på skyttelklockan. Scottie Scheffels dominans på PGA Tour skapar naturlig nyfikenhet kring hur världsettans form transfereras till damgolfen, medan veteraner som Annika Sörenstam-generationen lämnar plats för ett nytt etablerat hierarki med namn som Brooke Henderson och Lexi Thompson i fokus. Utan svenska medverkande blir uppmärksamheten riktad mot spänningen mellan favoriter och rankingunderdogs – traditionellt har denna major bjudit överraskningar när gräset krävdar precision framför ren kraft."
+              "b": "# AIG Women's Open – Förhandsanalys\n\nVärldseliten ställer upp i AIG Women's Open, där Patty Tavatanakit och Minjee Lee utgör de värsta motståndarna efter starka säsonger på LPGA Tour. Nelly Korda återvänder efter skador och kan bli en X-faktor om formen sitter, medan Brooke Henderson och Atthaya Thitikul erbjuder intressant value bland de långskottade favoriterna. Sverige saknar representation bland toppnamnen denna gång, men banan och väderförhållandena blir avgörande för hur detta elitfält utvecklas under turneringen."
             },
             {
               "icon": "flag.fill",
@@ -4239,13 +4239,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-22T14:18:04+00:00",
-          "headline": "Hellgren jagar LIV-skalpen när veteranerna samlades i Storbritannien",
+          "generatedAt": "2026-07-22T16:42:07+00:00",
+          "headline": "Hellgren jagar LIV-guldet medan Casey och Garcia slåss om brittisk övermakt",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "LIV Golfs brittiska turnering samlar ett starkt europeiskt kontingent med Paul Casey, Sergio García och Ian Poulter i täten – ett trioslag av rutin och stora namn som båda kan vinna och puttra in pengar för de som satsar. Björn Hellgren får chansen att mäta sig mot denna klass, och svenska segare från tidigare LIV-turneringar visar att våra spelare kan konkurrera på denna nivå. Huvudfokus bör ligga på hur amerikanska tungviktare som Dustin Johnson och Bubba Watson presterar på hemmabanan för flera av rivalerna, samt hur den okända banan belönar precision över längd – en faktor som ofta favoriserar erfarna européer."
+              "b": "LIV Golf United Kingdom lockar ett starkt internationellt fält där etablerade namn som Dustin Johnson, Sergio García och Ian Poulter bildar kärnan. Paul Casey leder sitt hemmagalleri och kan förväntas prestera väl på välbekant underlag, medan veteraner som Graeme McDowell och Richard Bland utgör klassiska engelsk-irländska bidrag till turneringen. Björn Hellgren får här möjlighet att mäta sig mot världseliten på en bana som ännu inte bekräftats – det blir intressant att se hur svensken hävdar sig i denna sammansättning. Fokus bör ligga på hur formar går för några av seriens större namn efter långsamt påbörjade säsonger, samt vilka outsiders som potentiellt kan överraska på hemmaplan."
             },
             {
               "icon": "flag.fill",
@@ -4335,7 +4335,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T14:18:10+00:00",
+          "generatedAt": "2026-07-22T16:42:12+00:00",
           "headline": "Inför torsdag (R1): fältet gör sig redo — lägg spelen innan utslag",
           "insights": [
             {
