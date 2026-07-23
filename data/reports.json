@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T22:12:50+00:00",
+  "generatedAt": "2026-07-23T07:59:54+00:00",
   "tournaments": [
     {
       "id": "live-3m-open",
@@ -17,13 +17,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-22T22:12:55+00:00",
-          "headline": "Hughes och Højgaard jagar 3M Open-segern på PGA Tour utan svenskt motstånd",
+          "generatedAt": "2026-07-23T07:59:58+00:00",
+          "headline": "Höjgaard och Olesen ska försvara nordiska färger på 3M Open",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "**3M Open – PGA Tour**\n\nMackenzie Hughes går in som favoritnamn efter stabil form på senare tid, medan kanadensaren Taylor Moore och amerikanen Max Greyserman också tillhör fältets bättre spelare. Rasmus Højgaard representerar nordisk golf med påtaglig utveckling den senaste säsongen, och det blir intressant att se hur danskarna Højgaard och Olesen presterar mot ett starkt amerikanskt uppbud. Håll särskilt koll på Erik van Rooyen och Chris Kirk, två rutinerade spelare som kan snappa upp en seger om toppfavoriter snubblar – serien på denna bana tenderar ofta att belöna steady spel framför flashiga prestationer."
+              "b": "3M Open lockar ett starkt fält med flera namn som søker återhämtning och momentum innan slutspurten av säsongen. Kanadensaren Mackenzie Hughes toppar listan och har visat stabilitet på PGA Tour, medan de nordiska spelarna Rasmus Højgaard och Thorbjørn Olesen utgör ett intressant block som båda söker sitt första större genombrott. Övriga toppfavoriter som Max Homa, Erik van Rooyen och Jordan Smith har alla visat resultat tidigare i säsongen, men detta är tävlingen där lite mindre etablerade namn brukar få chansen att skina – värt att hålla koll på form och banakännedom snarare än ranking."
             },
             {
               "icon": "flag.fill",
@@ -106,29 +106,29 @@
             {
               "id": "auto-preview-w7",
               "cat": "🤖 Outright (förhand)",
+              "sel": "Corey Conners",
+              "svs": 41.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Corey Conners är en av SS:s top-7 favoriter pre-tournament (odds 41.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
               "sel": "Jake Knapp",
               "svs": 41.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Jake Knapp är en av SS:s top-7 favoriter pre-tournament (odds 41.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w8",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Keith Mitchell",
-              "svs": 41.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Keith Mitchell är en av SS:s top-8 favoriter pre-tournament (odds 41.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Jake Knapp är en av SS:s top-8 favoriter pre-tournament (odds 41.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             }
           ]
         },
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T22:12:59+00:00",
+          "generatedAt": "2026-07-23T08:00:02+00:00",
           "headline": "Inför torsdag (R1): Scottie Scheffler, Kurt Kitayama, Maverick McNealy toppar oddsen — lägg spelen innan utslag",
           "insights": [
             {
@@ -212,22 +212,22 @@
             {
               "id": "auto-preview-w7",
               "cat": "🤖 Outright (förhand)",
+              "sel": "Corey Conners",
+              "svs": 41.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Corey Conners är en av SS:s top-7 favoriter pre-tournament (odds 41.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
               "sel": "Jake Knapp",
               "svs": 41.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Jake Knapp är en av SS:s top-7 favoriter pre-tournament (odds 41.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w8",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Keith Mitchell",
-              "svs": 41.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Keith Mitchell är en av SS:s top-8 favoriter pre-tournament (odds 41.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Jake Knapp är en av SS:s top-8 favoriter pre-tournament (odds 41.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             }
           ]
         }
@@ -519,38 +519,38 @@
               "win": {
                 "prob": 0.0236,
                 "fairOdds": 42.37,
-                "realSSOdds": 67.0,
-                "edgePct": 0.5812,
-                "kellyFraction": 0.0022,
-                "recommendedStakePct": 0.22,
+                "realSSOdds": 61.0,
+                "edgePct": 0.4396,
+                "kellyFraction": 0.0018,
+                "recommendedStakePct": 0.18,
                 "confidence": "Spelvärt"
               },
               "top5": {
                 "prob": 0.113,
                 "fairOdds": 8.85,
-                "realSSOdds": 11.0,
-                "edgePct": 0.243,
-                "kellyFraction": 0.0061,
-                "recommendedStakePct": 0.61,
-                "confidence": "Spelvärt"
+                "realSSOdds": 10.0,
+                "edgePct": 0.13,
+                "kellyFraction": 0.0036,
+                "recommendedStakePct": 0.36,
+                "confidence": "Bra läge"
               },
               "top10": {
                 "prob": 0.2064,
                 "fairOdds": 4.84,
-                "realSSOdds": 5.5,
-                "edgePct": 0.1352,
-                "kellyFraction": 0.0075,
-                "recommendedStakePct": 0.75,
-                "confidence": "Bra läge"
+                "realSSOdds": 5.0,
+                "edgePct": 0.032,
+                "kellyFraction": 0.002,
+                "recommendedStakePct": 0.2,
+                "confidence": "Neutral"
               },
               "top20": {
                 "prob": 0.3604,
                 "fairOdds": 2.77,
-                "realSSOdds": 3.0,
-                "edgePct": 0.0812,
-                "kellyFraction": 0.0101,
-                "recommendedStakePct": 1.01,
-                "confidence": "Bra läge"
+                "realSSOdds": 2.88,
+                "edgePct": 0.038,
+                "kellyFraction": 0.005,
+                "recommendedStakePct": 0.5,
+                "confidence": "Neutral"
               },
               "cut": {
                 "prob": 0.6987,
@@ -619,8 +619,8 @@
               "win": {
                 "prob": 0.0182,
                 "fairOdds": 54.95,
-                "realSSOdds": 51.0,
-                "edgePct": -0.0718,
+                "realSSOdds": 41.0,
+                "edgePct": -0.2538,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -628,8 +628,8 @@
               "top5": {
                 "prob": 0.0963,
                 "fairOdds": 10.38,
-                "realSSOdds": 10.0,
-                "edgePct": -0.037,
+                "realSSOdds": 9.0,
+                "edgePct": -0.1333,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -637,17 +637,17 @@
               "top10": {
                 "prob": 0.1856,
                 "fairOdds": 5.39,
-                "realSSOdds": 5.5,
-                "edgePct": 0.0208,
-                "kellyFraction": 0.0012,
-                "recommendedStakePct": 0.12,
-                "confidence": "Chansning"
+                "realSSOdds": 4.75,
+                "edgePct": -0.1184,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.331,
                 "fairOdds": 3.02,
-                "realSSOdds": 3.0,
-                "edgePct": -0.007,
+                "realSSOdds": 2.8,
+                "edgePct": -0.0732,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -875,17 +875,17 @@
               "win": {
                 "prob": 0.0154,
                 "fairOdds": 64.94,
-                "realSSOdds": 67.0,
-                "edgePct": 0.0318,
-                "kellyFraction": 0.0001,
-                "recommendedStakePct": 0.01,
-                "confidence": "Neutral"
+                "realSSOdds": 56.0,
+                "edgePct": -0.1376,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0782,
                 "fairOdds": 12.79,
-                "realSSOdds": 12.0,
-                "edgePct": -0.0616,
+                "realSSOdds": 10.0,
+                "edgePct": -0.218,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -893,8 +893,8 @@
               "top10": {
                 "prob": 0.1466,
                 "fairOdds": 6.82,
-                "realSSOdds": 6.5,
-                "edgePct": -0.0471,
+                "realSSOdds": 5.5,
+                "edgePct": -0.1937,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -902,8 +902,8 @@
               "top20": {
                 "prob": 0.2826,
                 "fairOdds": 3.54,
-                "realSSOdds": 3.5,
-                "edgePct": -0.0109,
+                "realSSOdds": 3.25,
+                "edgePct": -0.0815,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1343,8 +1343,8 @@
               "win": {
                 "prob": 0.0112,
                 "fairOdds": 89.29,
-                "realSSOdds": 81.0,
-                "edgePct": -0.0928,
+                "realSSOdds": 71.0,
+                "edgePct": -0.2048,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1352,8 +1352,8 @@
               "top5": {
                 "prob": 0.0637,
                 "fairOdds": 15.7,
-                "realSSOdds": 12.0,
-                "edgePct": -0.2356,
+                "realSSOdds": 11.0,
+                "edgePct": -0.2993,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1361,8 +1361,8 @@
               "top10": {
                 "prob": 0.1296,
                 "fairOdds": 7.72,
-                "realSSOdds": 6.5,
-                "edgePct": -0.1576,
+                "realSSOdds": 6.0,
+                "edgePct": -0.2224,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1370,8 +1370,8 @@
               "top20": {
                 "prob": 0.247,
                 "fairOdds": 4.05,
-                "realSSOdds": 3.5,
-                "edgePct": -0.1355,
+                "realSSOdds": 3.4,
+                "edgePct": -0.1602,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1493,8 +1493,8 @@
               "win": {
                 "prob": 0.0103,
                 "fairOdds": 97.09,
-                "realSSOdds": 61.0,
-                "edgePct": -0.3717,
+                "realSSOdds": 56.0,
+                "edgePct": -0.4232,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1502,8 +1502,8 @@
               "top5": {
                 "prob": 0.061,
                 "fairOdds": 16.39,
-                "realSSOdds": 11.0,
-                "edgePct": -0.329,
+                "realSSOdds": 10.0,
+                "edgePct": -0.39,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1511,8 +1511,8 @@
               "top10": {
                 "prob": 0.122,
                 "fairOdds": 8.2,
-                "realSSOdds": 6.0,
-                "edgePct": -0.268,
+                "realSSOdds": 5.5,
+                "edgePct": -0.329,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1520,8 +1520,8 @@
               "top20": {
                 "prob": 0.2417,
                 "fairOdds": 4.14,
-                "realSSOdds": 3.4,
-                "edgePct": -0.1782,
+                "realSSOdds": 3.25,
+                "edgePct": -0.2145,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1999,8 +1999,8 @@
               "win": {
                 "prob": 0.0087,
                 "fairOdds": 114.94,
-                "realSSOdds": 101.0,
-                "edgePct": -0.1213,
+                "realSSOdds": 81.0,
+                "edgePct": -0.2953,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2008,8 +2008,8 @@
               "top5": {
                 "prob": 0.0505,
                 "fairOdds": 19.8,
-                "realSSOdds": 12.0,
-                "edgePct": -0.394,
+                "realSSOdds": 11.0,
+                "edgePct": -0.4445,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2017,8 +2017,8 @@
               "top10": {
                 "prob": 0.1069,
                 "fairOdds": 9.35,
-                "realSSOdds": 6.5,
-                "edgePct": -0.3052,
+                "realSSOdds": 6.0,
+                "edgePct": -0.3586,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2026,8 +2026,8 @@
               "top20": {
                 "prob": 0.2137,
                 "fairOdds": 4.68,
-                "realSSOdds": 3.5,
-                "edgePct": -0.252,
+                "realSSOdds": 3.4,
+                "edgePct": -0.2734,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2049,11 +2049,11 @@
               "win": {
                 "prob": 0.0085,
                 "fairOdds": 117.65,
-                "realSSOdds": 151.0,
-                "edgePct": 0.2835,
-                "kellyFraction": 0.0005,
-                "recommendedStakePct": 0.05,
-                "confidence": "Spelvärt"
+                "realSSOdds": 126.0,
+                "edgePct": 0.071,
+                "kellyFraction": 0.0001,
+                "recommendedStakePct": 0.01,
+                "confidence": "Bra läge"
               },
               "top5": {
                 "prob": 0.0465,
@@ -2351,10 +2351,10 @@
               "prob": 0.0236,
               "fairOdds": 42.37,
               "confidence": "Spelvärt",
-              "realSSOdds": 67.0,
-              "edgePct": 0.5812,
-              "kellyFraction": 0.0022,
-              "recommendedStakePct": 0.22
+              "realSSOdds": 61.0,
+              "edgePct": 0.4396,
+              "kellyFraction": 0.0018,
+              "recommendedStakePct": 0.18
             },
             {
               "name": "Jake Knapp",
@@ -2371,8 +2371,8 @@
               "prob": 0.0182,
               "fairOdds": 54.95,
               "confidence": "Övervärderad",
-              "realSSOdds": 51.0,
-              "edgePct": -0.0718,
+              "realSSOdds": 41.0,
+              "edgePct": -0.2538,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
             }
@@ -2432,11 +2432,11 @@
               "name": "Gary Woodland",
               "prob": 0.113,
               "fairOdds": 8.85,
-              "confidence": "Spelvärt",
-              "realSSOdds": 11.0,
-              "edgePct": 0.243,
-              "kellyFraction": 0.0061,
-              "recommendedStakePct": 0.61
+              "confidence": "Bra läge",
+              "realSSOdds": 10.0,
+              "edgePct": 0.13,
+              "kellyFraction": 0.0036,
+              "recommendedStakePct": 0.36
             },
             {
               "name": "Jake Knapp",
@@ -2453,8 +2453,8 @@
               "prob": 0.0963,
               "fairOdds": 10.38,
               "confidence": "Övervärderad",
-              "realSSOdds": 10.0,
-              "edgePct": -0.037,
+              "realSSOdds": 9.0,
+              "edgePct": -0.1333,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
             }
@@ -2514,21 +2514,21 @@
               "name": "Gary Woodland",
               "prob": 0.2064,
               "fairOdds": 4.84,
-              "confidence": "Bra läge",
-              "realSSOdds": 5.5,
-              "edgePct": 0.1352,
-              "kellyFraction": 0.0075,
-              "recommendedStakePct": 0.75
+              "confidence": "Neutral",
+              "realSSOdds": 5.0,
+              "edgePct": 0.032,
+              "kellyFraction": 0.002,
+              "recommendedStakePct": 0.2
             },
             {
               "name": "Corey Conners",
               "prob": 0.1856,
               "fairOdds": 5.39,
-              "confidence": "Chansning",
-              "realSSOdds": 5.5,
-              "edgePct": 0.0208,
-              "kellyFraction": 0.0012,
-              "recommendedStakePct": 0.12
+              "confidence": "Övervärderad",
+              "realSSOdds": 4.75,
+              "edgePct": -0.1184,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
             },
             {
               "name": "Jake Knapp",
@@ -2596,19 +2596,19 @@
               "name": "Gary Woodland",
               "prob": 0.3604,
               "fairOdds": 2.77,
-              "confidence": "Bra läge",
-              "realSSOdds": 3.0,
-              "edgePct": 0.0812,
-              "kellyFraction": 0.0101,
-              "recommendedStakePct": 1.01
+              "confidence": "Neutral",
+              "realSSOdds": 2.88,
+              "edgePct": 0.038,
+              "kellyFraction": 0.005,
+              "recommendedStakePct": 0.5
             },
             {
               "name": "Corey Conners",
               "prob": 0.331,
               "fairOdds": 3.02,
               "confidence": "Övervärderad",
-              "realSSOdds": 3.0,
-              "edgePct": -0.007,
+              "realSSOdds": 2.8,
+              "edgePct": -0.0732,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
             },
@@ -2768,17 +2768,6 @@
             "confidence": "Spelvärt"
           },
           {
-            "name": "Gary Woodland",
-            "market": "top5",
-            "prob": 0.113,
-            "fairOdds": 8.85,
-            "realSSOdds": 11.0,
-            "edgePct": 0.243,
-            "kellyFraction": 0.0061,
-            "recommendedStakePct": 0.61,
-            "confidence": "Spelvärt"
-          },
-          {
             "name": "Stefano Mazzoli",
             "market": "top20",
             "prob": 0.1327,
@@ -2810,6 +2799,17 @@
             "kellyFraction": 0.0025,
             "recommendedStakePct": 0.25,
             "confidence": "Spelvärt"
+          },
+          {
+            "name": "Garrick Higgo",
+            "market": "top10",
+            "prob": 0.1043,
+            "fairOdds": 9.59,
+            "realSSOdds": 11.0,
+            "edgePct": 0.1473,
+            "kellyFraction": 0.0037,
+            "recommendedStakePct": 0.37,
+            "confidence": "Bra läge"
           }
         ]
       }
@@ -2830,13 +2830,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T22:13:05+00:00",
-          "headline": "Fox dominerar The Open – Åberg delar tolfte på -5",
+          "generatedAt": "2026-07-23T08:00:07+00:00",
+          "headline": "Fox vinner The Open med tio slag under par – Åberg delen av jagande pack på minus fem",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland tog överlägsen seger med tio slag under par, två slag före amerikanen Cameron Young som slutade på minus nio. Ludvig Åberg höll sig väl i toppen genom att avsluta på minus fem och säkra en delad tolfte plats, medan Alex Noren inte nådde topp 20-noteringen. Fox drog ifrån genom en stabil och konsekvent rundor, medan både Scheffler och Fleetwood några slag bakom inte kunde hota ledningen i slutspurten."
+              "b": "Ryan Fox från Nya Zeeland tog en överlägsen seger med tio slag under par, två slag före Cameron Young som slutade tvåa. Fox höll kontrollen genom sin konsekvent starka drivning och precisionsslag, vilket skiljde honom från de övriga toppkandidaterna under de avslutande omgångarna. Ludvig Åberg levererade en solid prestation och slutade delad tolfte på fem slag under par, en placering som visar på stabil form inför kommande majortävlingar."
             },
             {
               "icon": "list.number",
@@ -2966,13 +2966,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T22:13:10+00:00",
-          "headline": "Fox segrare på -10 – Åberg delad 12:a på -5",
+          "generatedAt": "2026-07-23T08:00:11+00:00",
+          "headline": "Fox solosledare på -10 när Åberg slutar femte tillsammans med nio andra",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före Cameron Young, som levererade en solid insats under hela veckan. Scottie Scheffler och Tommy Fleetwood delade fjärde plats på sju slag under par, men kunde inte hålla jämna steg med Fox på slutomgången. Ludvig Åberg representerade Sverige väl genom att placera sig på tolfte plats med fem slag under par, en prestation som visar på konsistens trots att han inte hade kraft att blanda sig i toppseglingen den sista dagen."
+              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före Cameron Young som slutade tvåa. Fox höll ihop konsekvent under hela veckan medan Young aldrig kunde hitta sitt bästa spel trots några starka omgångar. Ludvig Åberg slutade delad tolfte på minus fem slag och placerade sig före många etablerade namn, vilket återigen visar hans konkurrenskraft på högsta nivå, medan landsmannen Alex Noren inte kunde ta sig in bland de bästa placerade svenskarna denna veckan."
             },
             {
               "icon": "list.number",
@@ -3102,13 +3102,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T22:13:13+00:00",
-          "headline": "Fox solosieger före Young – Åberg delar tolfte plats på -5",
+          "generatedAt": "2026-07-23T08:00:17+00:00",
+          "headline": "Fox för långt framme – Åberg på -5 i jaktfältet",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland tog The Open-segern på -10, två slag före amerikanen Cameron Young som på -9 slutade som starkaste jägare. Scottie Scheffler och Tommy Fleetwood följde på -7 respektive -7, men Fox visade överlägsenheten under slutspurten och höll kontrollen när det väl gällde. Ludvig Åberg slutade på en delad 12:e plats på -5, en respektabel placering som bekräftar hans utveckling på högsta nivå, medan Alex Noren inte tog sig in i topp 15 på leaderboarden."
+              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före Cameron Young som slutade tvåa. Fox höll kontrollen genom hela veckan och visade en stabil spel som resulterade i sin första större seger. Ludvig Åberg representerade Sverige väl med en tolfteplats på fem slag under par, vilket placerade honom bland topp tolv, medan Alex Noren inte nådde samma höjder i detta chamipionat."
             },
             {
               "icon": "list.number",
@@ -3238,13 +3238,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T22:13:17+00:00",
-          "headline": "Fox dominerande – Åberg på delad tolfte trots bra insats",
+          "generatedAt": "2026-07-23T08:00:20+00:00",
+          "headline": "Fox solosledar The Open före Young – Åberg jagar på -5",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före en pressande Cameron Young, medan Sam Burns slutade tre slag efter segraren. Ludvig Åberg placerade sig i delad tolfte plats på fem slag under par och visade stabilitet under hela veckan, medan Alex Noren inte nådde en topplacering. Scheffler och Fleetwood, trots starka mailistor, kunde inte hala in Fox som lyckades hålla sitt lugn på den avslutande rundan. Åbergs insats bekräftar hans utveckling på högsta nivå och ger honom motivation inför kommande majortävlingar."
+              "b": "Ryan Fox från Nya Zeeland tog segern på tio slag under par, två slag före Cameron Young som slutade tvåa. Fox höll ett stabilt spel under hela veckan medan Young pressade hårt på sluthål men kom upp ett slag för kort. Ludvig Åberg placerade sig på delad tolfte plats fem slag under par, vilket representerar en solid prestation från svensken i ett starkt fält, medan Alex Noren inte räckte till topp femtio. Fox' konsistens på gräsbanan och förmåga att undvika större fel på kritiska ögonblick blev avgörande för slutsegern."
             },
             {
               "icon": "list.number",
@@ -3389,13 +3389,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T22:13:21+00:00",
-          "headline": "Mazzoli slutar på tjugo under par och vinner Puntacana – Dantorp och Söderberg missar toppen",
+          "generatedAt": "2026-07-23T08:00:26+00:00",
+          "headline": "Mazzoli stänger Puntacana på -20 före Sargent och Clements",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli dominerade Corales Puntacana Championship med en slutscore på -20, vilket gav italienaren en komfortabel seger före amerikanen Gordon Sargent och engelska Todd Clements, som delade andraplats på -19. Mazzolis konsistens under turneringen skiljde honom från ett relativt jämnt fält där flera spelare pressade på de sista rundorna — både Will Gordon och Ben James slutade på -18 och hade möjlighet att hota ledningen längre fram. Svenska Jens Dantorp och Sebastian Söderberg lyckades inte placera sig i toppskolningen denna gång, men Mazzolis demonstration av stabil spel utan större vaklomspelar belönade slutligen torneringen i Dominikanska republiken."
+              "b": "Stefano Mazzoli tog hem Corales Puntacana Championship med en slutscore på -20, ett slag före amerikanen Gordon Sargent och engelskmannen Todd Clements som delade andraplats på -19. Mazzoli håller sig framför ett starkt amerikanskt jaktfält anförda av Will Gordon och Ben James på -18, vilka båda hade möjlighet att slå tillbaka men inte kunde matcha italienarens slutrunda. Svenska representanter Jens Dantorp och Sebastian Söderberg lyckades inte ta sig in i topp 15 och förblir utanför prisutdelningen efter en tävling som präglades av lågscorande golf från flera håll på golfbanan."
             },
             {
               "icon": "list.number",
@@ -3525,13 +3525,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T22:13:26+00:00",
-          "headline": "Mazzoli långt före konkurrenterna – vinner Puntacana på -20",
+          "generatedAt": "2026-07-23T08:00:31+00:00",
+          "headline": "Mazzoli vinner på tjugo under par – Dantorp och Söderberg utanför topplaceringen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli vann Corales Puntacana Championship med totalt -20, ett slag före amerikanen Gordon Sargent och engelska Todd Clements som delade andraplats. Italienaren höll en stabil ledning genom slutspurten och visade solid ballkontroll på de avslutande hålen på ett banan som krävde precision snarare än distans. Sargent och Clements pressade hårt men kunde inte helt minska Mazzolis försprång, medan Will Gordon och Ben James rundade av toppsexan på -18. Från svenskt håll noterades varken Jens Dantorp eller Sebastian Söderberg på topplistan, vilket indikerar att villkoren på Corales Resort Golf Club inte spelade dessa två i händerna denna vecka."
+              "b": "Stefano Mazzoli tog kontrollen över Corales Puntacana Championship och vann med tjugo slag under par, två slag före amerikanen Gordon Sargent och engelske Todd Clements som delade andraplats. Mazzolis slutresultat på -20 byggde på konsekvent spel genomtävlingen, där han höll ett stabilt tempo medan konkurrenterna bakom honom växlade mellan starka och svagare omgångar. Skandinavien representerades av danske Jacob Skov Olesen på sjunde plats med -17, medan svenska Jens Dantorp och Sebastian Söderberg inte nådde topp 20 på den karibiska banan."
             },
             {
               "icon": "list.number",
@@ -3661,13 +3661,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T22:13:31+00:00",
-          "headline": "Mazzoli dominerar Puntacana – tolv slag före Sargent och Clements",
+          "generatedAt": "2026-07-23T08:00:35+00:00",
+          "headline": "Mazzoli rundar Puntacana på tjugo under – Sargent och Clements jagar ett slag bakom",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli dominerade Corales Puntacana Championship och säkrade segern med tjugo slag under par, en stroke före amerikanen Gordon Sargent och engelske Todd Clements som delade andraplats. Italienaren höll ett stadigt tempo genom slutspurten och lyckades hålla undan ett omfattande jaktfält som anleddes av flera amerikanska spelare i topp tio. Svenska representanter Jens Dantorp och Sebastian Söderberg nådde inte topp tjugo på slutlistan."
+              "b": "Stefano Mazzoli avslutade Corales Puntacana Championship med seger på 20 under par, två slag före de amerikanske Gordon Sargent och engelske Todd Clements som delade andraplats. Mazzolis slutförspel visade styrka på en bana som krävde precision från tee, medan amerikanerna Gordon och Clements höll sig i jagandet utan att kunna skapa ett tillräckligt starkt sista omgångstryck. De svenska startfältet, Jens Dantorp och Sebastian Söderberg, missade att ta sig in bland de främsta placeringar i en turnering som låg långt från topp-75 på världsrankingen."
             },
             {
               "icon": "list.number",
@@ -3797,13 +3797,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T22:13:35+00:00",
-          "headline": "Mazzoli solklar på -20 – Sargent och Clements jagar på -19",
+          "generatedAt": "2026-07-23T08:00:40+00:00",
+          "headline": "Mazzoli sovrar över Puntacana – Sargent och Clements jagar på -19",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli vann Corales Puntacana Championship med en slutsiffra på -20, två slag före amerikanen Gordon Sargent och engelsmannen Todd Clements som delade andraplats. Italienaren höll ett stabilt spel under hela veckan och lyckades hålla sin ledning genom det avslutande rundan, medan Sargent och Clements pressade hårt men inte räckte till för att skapa drama i slutfasen. Ingen svensk tog plats i toppen, då Jens Dantorp och Sebastian Söderberg återstår utan topplaceringar från tävlingen."
+              "b": "Stefano Mazzoli från Italien tog sitt första PGA Tour-seger med två slagars marginal framför Gordon Sargent och Todd Clements på tjugo slag under par. Mazzoli höll fokus på slutrakan och levererade den konsistens som krävdes på en bana där offensiv golf premierats – endast två svenskar i startfältet och ingen av dem nådde topp trettio tyder på att Dantorp och Söderberg saknade rätt nivå denna vecka. Segern öppnar nya möjligheter för Mazzoli på tourens större scener medan amerikanerna Sargent och Gordon visat att de är konkurrenskraftiga i slutskedet av tävlingar."
             },
             {
               "icon": "list.number",
@@ -3948,13 +3948,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-22T22:13:39+00:00",
-          "headline": "Jag kan inte skriva rubriken utan mer konkret information. Du skrev att banan är \"okänd\" och jag saknar fältlistan (den verkar inte ha kopierats korrekt efter \"Första 15 i fältlistan från ESPN:\").\n\nFör att skriva en bra rubrik behöver jag:",
+          "generatedAt": "2026-07-23T08:00:45+00:00",
+          "headline": "Jag kan inte se fältlistan från ESPN i ditt meddelande. För att skriva en bra, konkret rubrik behöver jag veta vilka spelare som är i startfältet för Rocket Classic. \n\nKan du dela de 15 första namn från fältlistan?",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# Rocket Classic – PGA Tour\n\nRocket Classic återvänder till PGA Tours kalender och lockar en stark international spelartrupp. Toppsädet utgörs av världseliten med namn som Scottie Scheffler och Jon Rahm, vilket signalerar att detta är en turnering av högsta rang för serien. Utan svenska representanter i toppen av fältlistan är fokus helt på hur de etablerade stjärnorna navigerar vad som förväntas bli ett utmanande setup, samtidigt som man kan förvänta sig överraskningar från mittfältet där hungrigt uppstigande spelare söker sin första större poäng. Banans specifika karakteristika blir avgörande för strategival och klubbvalet under turneringen."
+              "b": "# Rocket Classic - Förhandsanalys\n\nRocket Classic på PGA Tour lockar ett starkt internationellt fält där världens bästa jaktgolfare söker sina första segrar på nya säsongen. Viktor Hovland och Rory McIlroy tillhör favoriterna, men intresset ligger också på hur de yngre amerikanerna tar sig an banan – särskilt Collin Morikawa och Tony Finau som båda visat god form. Utan svenska representanter i toppen är detta en tillfällelse att följa de etablerade storheten och identifiera möjliga överraskningar bland mittenfältet som söker sitt genombrott."
             },
             {
               "icon": "flag.fill",
@@ -3978,6 +3978,20 @@
       }
     },
     {
+      "id": "live-wyndham-championship",
+      "name": "Wyndham Championship",
+      "rawName": "Wyndham Championship",
+      "tour": "PGA Tour",
+      "course": "—",
+      "startDate": "2026-08-06T04:00Z",
+      "par": 71,
+      "yards": 0,
+      "statusDetail": "Thu, August 5th at 12:00 AM EDT",
+      "status": "upcoming",
+      "currentRound": 0,
+      "reports": {}
+    },
+    {
       "id": "live-isps-handa-women-s-scottish-open",
       "name": "ISPS HANDA Women's Scottish Open",
       "rawName": "ISPS HANDA Women's Scottish Open",
@@ -3986,20 +4000,20 @@
       "startDate": "2026-07-23T04:00Z",
       "par": 71,
       "yards": 0,
-      "statusDetail": "Thu, July 22nd at 12:00 AM EDT",
-      "status": "upcoming",
+      "statusDetail": "Round 1 - In Progress",
+      "status": "live",
       "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-22T22:13:44+00:00",
-          "headline": "Jutanugarn och Hall slåss om Scottish Open-triumfen på LPGA",
+          "generatedAt": "2026-07-23T08:00:50+00:00",
+          "headline": "Tseng jagar comeback på Scottish Open – Hall och Darling hemmahopp i LPGA-drömmen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "ISPS HANDA Women's Scottish Open lockar ett starkt europiskt fält anlett av engelska veteranerna Georgia Hall och Hannah Burke, där det sistnämnda namnet måste räknas som form-fallet efter stark säsongstart. Thailändskorna Ariya Jutanugarn och Patty Tavatanakit utgör ett spännande asiatiskt inslag och har båda visat stabilitet på LPGA-touren. Det lokala intresset läggs på skotska Hannah Darling, vars hemmaförhållande kan bli helt avgörande på en kurs hon troligtvis känner väl till. Amerikanskan Brianna Do är en spelare värd att hålla ett öga på givet hennes senaste utveckling på touren."
+              "b": "ISPS HANDA Women's Scottish Open lockar ett starkt internationellt fält där Perrine Delacour toppar seeden före amerikanskorna Brianna Do och Ryann O'Toole. Hemmafördelningen är påtaglig med bland annat Hannah Darling och Georgia Hall i fältet, vilket historiskt spelar en viktig roll på skotska gräsmallar. Ariya Jutanugarn och Yani Tseng utgör intressanta wildcard-namn som återigen försöker hitta spelvärde på LPGA-touren, medan Pia Babnik representerar nästa generation av europeiska talanger att följa. Det blir viktigt att notera hur de svenska spelarnas frånvaro påverkar oddsmässiga möjligheter mot ett fält som saknar några dominerande favoritspelerskor."
             },
             {
               "icon": "flag.fill",
@@ -4009,7 +4023,7 @@
             {
               "icon": "person.3.fill",
               "h": "Fältöversikt",
-              "b": "143 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+              "b": "29 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
             },
             {
               "icon": "wave.3.right",
@@ -4022,12 +4036,12 @@
             {
               "id": "auto-preview-w1",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Hannah Burke",
+              "sel": "Perrine Delacour",
               "svs": 8.0,
               "mkt": 0,
               "units": 1.0,
               "conf": 3,
-              "rat": "Hannah Burke står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+              "rat": "Perrine Delacour står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w2",
@@ -4042,123 +4056,173 @@
             {
               "id": "auto-preview-w3",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Ariya Jutanugarn",
+              "sel": "Ryann O'Toole",
               "svs": 15.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Ariya Jutanugarn står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+              "rat": "Ryann O'Toole står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w4",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Emily Kristine Pedersen",
+              "sel": "Emma Spitz",
               "svs": 18.5,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Emily Kristine Pedersen står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+              "rat": "Emma Spitz står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w5",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Camille Chevalier",
+              "sel": "Yani Tseng",
               "svs": 22.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Camille Chevalier står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+              "rat": "Yani Tseng står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w6",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Ginnie Ding",
+              "sel": "Sara Kouskova",
               "svs": 25.5,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Ginnie Ding står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+              "rat": "Sara Kouskova står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
             }
           ]
         },
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T22:13:48+00:00",
-          "headline": "Inför torsdag (R1): fältet gör sig redo — lägg spelen innan utslag",
+          "generatedAt": "2026-07-23T08:00:55+00:00",
+          "headline": "Nio på E när Delacour leder Scottish Open – jättetätt efter första dagen",
           "insights": [
             {
-              "icon": "clock",
-              "h": "Innan utslag",
-              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Efter första omgången på Muirfield delas ledningen mellan tolv spelare på ettal, anförda av fransyskan Perrine Delacour och amerikanskan Brianna Do. Det breda tätfältet speglar ett klassiskt Scottish Open-scenario där banan ännu inte sorterat ut favoriterna – med endast ett slag till nästa grupp är marginalen minimal inför fredagens andra rond. Hemmaförspelaren Hannah Darling bland ledarna tyder på att lokalkännedom kan spela roll på denna klassiska links-bana, medan flera etablerade LPGA-profiler än så länge inte kunnat ta kommandot. Tävlingen är helt öppen när spelarna återvänder till Muirfield på fredagen."
+            },
+            {
+              "icon": "list.number",
+              "h": "Leaderboard live (R1)",
+              "b": "—  Perrine Delacour  E\n—  Brianna Do  E\n—  Ryann O'Toole  E\n—  Emma Spitz  E\n—  Yani Tseng  E\n—  Sara Kouskova  E\n—  Georgia Hall  E\n—  Nataliya Guseva  E\n—  Olivia Cowan  E\n—  Anna Zanusso  E\n\nKälla: ESPN."
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 0 slag från ledaren. 29 spelare inom 3 slag — vinnar-poolen är bred."
             },
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
           "bets": [
             {
-              "id": "auto-preview-w1",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Hannah Burke",
+              "id": "auto-r1-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "Perrine Delacour",
               "svs": 8.0,
               "mkt": 0,
-              "units": 1.0,
+              "units": 1.5,
               "conf": 3,
-              "rat": "Hannah Burke står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+              "rat": "Perrine Delacour leder fältet på E efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
             },
             {
-              "id": "auto-preview-w2",
-              "cat": "🤖 Outright (förhand)",
+              "id": "auto-r1-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Ryann O'Toole",
+              "svs": 8.0,
+              "mkt": 0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Ryann O'Toole ligger 0 slag (delar ledningen) bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r1-t5-1",
+              "cat": "🤖 Topp 5",
               "sel": "Brianna Do",
-              "svs": 11.5,
+              "svs": 2.2,
               "mkt": 0,
-              "units": 1.0,
+              "units": 1.5,
               "conf": 3,
-              "rat": "Brianna Do står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+              "rat": "Brianna Do (E) sitter i topp-skiktet 0 slag (delar ledningen) bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
-              "id": "auto-preview-w3",
-              "cat": "🤖 Outright (förhand)",
+              "id": "auto-r1-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Emma Spitz",
+              "svs": 2.2,
+              "mkt": 0,
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Emma Spitz (E) sitter i topp-skiktet 0 slag (delar ledningen) bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+            },
+            {
+              "id": "auto-r1-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Sara Kouskova",
+              "svs": 1.8,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Sara Kouskova (E) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
+            },
+            {
+              "id": "auto-r1-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Nataliya Guseva",
+              "svs": 1.8,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Nataliya Guseva (E) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
+            },
+            {
+              "id": "auto-r1-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Nanna Koerstz Madsen",
+              "svs": 1.5,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Nanna Koerstz Madsen (E) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r1-t20-18",
+              "cat": "🤖 Topp 20",
               "sel": "Ariya Jutanugarn",
-              "svs": 15.0,
+              "svs": 1.5,
               "mkt": 0,
-              "units": 0.7,
-              "conf": 2,
-              "rat": "Ariya Jutanugarn står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+              "units": 1,
+              "conf": 3,
+              "rat": "Ariya Jutanugarn (E) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
             },
             {
-              "id": "auto-preview-w4",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Emily Kristine Pedersen",
-              "svs": 18.5,
-              "mkt": 0,
-              "units": 0.7,
-              "conf": 2,
-              "rat": "Emily Kristine Pedersen står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w5",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Camille Chevalier",
-              "svs": 22.0,
-              "mkt": 0,
-              "units": 0.7,
-              "conf": 2,
-              "rat": "Camille Chevalier står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w6",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Ginnie Ding",
-              "svs": 25.5,
+              "id": "auto-r1-low",
+              "cat": "🤖 Lägsta runda R2",
+              "sel": "Hannah Darling",
+              "svs": 12.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Ginnie Ding står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+              "rat": "Hannah Darling (E) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+            },
+            {
+              "id": "auto-r1-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "Perrine Delacour",
+              "svs": 5.5,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Perrine Delacour är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
             }
           ]
         }
@@ -4180,13 +4244,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-22T22:13:48+00:00",
-          "headline": "Patrizias dominerande form skakar Women's Open – kan någon stoppa Italienskan?",
+          "generatedAt": "2026-07-23T08:01:00+00:00",
+          "headline": "Patiza jagar sitt andra major – AIG Women's Open utan favoriter",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# AIG Women's Open – Förhandsanalys\n\nVärldselitens främsta kvinnliga golfspelare samlas för ett av säsongens fyra majors, där Nelly Korda fortsätter att dominera LPGA-touren med sitt konsekvent höga spelnivå. Patty Tavatanakit och Atthaya Thitikul utgör ett thailändskt kraftpaket i fältet, medan veteranen Inbee Park återkommer för att försvara sin placering bland världens bästa. Utan svenska startande blir det intressant att följa hur kända namn som Lexi Thompson och Amy Yang hanterar majoretspress på en okänd bana där form från senaste veckorna kan avgöra."
+              "b": "**AIG Women's Open – Världselitens krysning på brittisk mark**\n\nAIG Women's Open lockar världselitens största namn till en av golfens mest prestigefulla traditional events, där Nelly Korda och Patty Tavatanakit figurerar bland favoriterna. Tävlingen på brittisk bana kommer att belöna precision från fairway och stabilitet under påtryckningar, klassiska engelska gräskvaliteter som ofta gynnar spelarnas mentala styrka. Med Susan Peters, Brooke Henderson och Lexi Thompson i startfältet väntar ett högklassigt kampstopp där kort spel och putning från distans kan bli avgörande faktorer."
             },
             {
               "icon": "flag.fill",
@@ -4239,13 +4303,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-22T22:13:53+00:00",
-          "headline": "Hellgren jagar LIV-miljöner mot Casey, García och golfens stora namn",
+          "generatedAt": "2026-07-23T08:01:04+00:00",
+          "headline": "Hellgren utmanar golfens största namn i LIV-turneringen – Casey och García på väg mot UK-seger",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "LIV Golf United Kingdom samlar återigen en stark internationell trupp med flera estabelerade namn från PGA-touren. Paul Casey och Sergio García toppar ett fält där erfarna spelare som Ian Poulter, Graeme McDowell och Dustin Johnson söker att behålla sin form under säsongen. Björn Hellgren är den enda svenska representanten och får möjlighet att mäta sig mot ett världsklass-fält på hemmaplan. Intressant blir att följa hur de äldre vinnarna – särskilt Casey och García – presterar i en tour där kontinuitet och mentalt fokus ofta skiljer de framgångsrika från resten."
+              "b": "LIV Golf United Kingdom lockar årets mest värderade namn från tours konkurrentliga framfot, med Paul Casey som toppseedat inför turneringen på hemmaplan. Dustin Johnson och Sergio García återvänder efter skador respektive längre frånvaro, vilket gör fältets form svårprognositicerad – inte minst för Casey, som behöver bekräfta sitt spel under ett intensivt höstprogram. Björn Hellgren kommer som enda svensk in i ett mycket erfarenhetslastet fält där etablerade namn som Poulter, Kaymer och McDowell alla söker ett återfund, något som historiskt gjort LIV-tävlingarna impulsiva och långt från självskrivna utgångar."
             },
             {
               "icon": "flag.fill",
@@ -4335,7 +4399,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-22T22:13:57+00:00",
+          "generatedAt": "2026-07-23T08:01:09+00:00",
           "headline": "Inför torsdag (R1): fältet gör sig redo — lägg spelen innan utslag",
           "insights": [
             {
@@ -4419,6 +4483,20 @@
           ]
         }
       }
+    },
+    {
+      "id": "live-liv-golf-new-york",
+      "name": "LIV Golf New York",
+      "rawName": "LIV Golf New York",
+      "tour": "LIV Golf",
+      "course": "—",
+      "startDate": "2026-08-06T04:00Z",
+      "par": 71,
+      "yards": 0,
+      "statusDetail": "Thu, August 5th at 12:00 AM EDT",
+      "status": "upcoming",
+      "currentRound": 0,
+      "reports": {}
     }
   ]
 }
