@@ -1,0 +1,760 @@
+{
+  "id": "live-liv-golf-united-kingdom",
+  "name": "LIV Golf United Kingdom",
+  "tour": "LIV Golf",
+  "course": "—",
+  "dates": null,
+  "par": 71,
+  "yards": 0,
+  "startDate": "2026-07-23T04:00Z",
+  "snapshotAt": "2026-07-26T19:26:16+00:00",
+  "headlines": {
+    "torsdag": "Herbert krossar konkurrenterna med sex slag – Hellgren långt bakom",
+    "fredag": "Herbert dominerar – sex slag före Hatton på LIV UK",
+    "lordag": "Herbert dominerar med 30 slag under par – Hellgren missar topp 10",
+    "sondag": "Herbert dominerar med sex slag - Hatton tvåa, DeChambeau trea på LIV UK"
+  },
+  "finalLeaderboard": [
+    {
+      "position": "1",
+      "name": "Lucas Herbert",
+      "country": "Australia",
+      "totalDisplay": "-30",
+      "totalValue": -30.0,
+      "rounds": [
+        "-11",
+        "-6",
+        "-3",
+        "-10"
+      ]
+    },
+    {
+      "position": "2",
+      "name": "Tyrrell Hatton",
+      "country": "England",
+      "totalDisplay": "-24",
+      "totalValue": -24.0,
+      "rounds": [
+        "-6",
+        "-4",
+        "-5",
+        "-9"
+      ]
+    },
+    {
+      "position": "3",
+      "name": "Bryson DeChambeau",
+      "country": "USA",
+      "totalDisplay": "-21",
+      "totalValue": -21.0,
+      "rounds": [
+        "-8",
+        "-5",
+        "-4",
+        "-4"
+      ]
+    },
+    {
+      "position": "4",
+      "name": "Cameron Smith",
+      "country": "Australia",
+      "totalDisplay": "-17",
+      "totalValue": -17.0,
+      "rounds": [
+        "-3",
+        "-5",
+        "-6",
+        "-3"
+      ]
+    },
+    {
+      "position": "T5",
+      "name": "Caleb Surratt",
+      "country": "USA",
+      "totalDisplay": "-14",
+      "totalValue": -14.0,
+      "rounds": [
+        "-4",
+        "-3",
+        "-2",
+        "-5"
+      ]
+    },
+    {
+      "position": "T5",
+      "name": "Abraham Ancer",
+      "country": "Mexico",
+      "totalDisplay": "-14",
+      "totalValue": -14.0,
+      "rounds": [
+        "-4",
+        "-2",
+        "-7",
+        "-1"
+      ]
+    },
+    {
+      "position": "T7",
+      "name": "Laurie Canter",
+      "country": "England",
+      "totalDisplay": "-13",
+      "totalValue": -13.0,
+      "rounds": [
+        "+1",
+        "-6",
+        "-2",
+        "-6"
+      ]
+    },
+    {
+      "position": "T7",
+      "name": "Charles Howell III",
+      "country": "USA",
+      "totalDisplay": "-13",
+      "totalValue": -13.0,
+      "rounds": [
+        "-4",
+        "-2",
+        "-3",
+        "-4"
+      ]
+    },
+    {
+      "position": "T7",
+      "name": "Harold Varner III",
+      "country": "USA",
+      "totalDisplay": "-13",
+      "totalValue": -13.0,
+      "rounds": [
+        "-6",
+        "-3",
+        "-4",
+        "E"
+      ]
+    },
+    {
+      "position": "10",
+      "name": "Carlos Ortiz",
+      "country": "Mexico",
+      "totalDisplay": "-12",
+      "totalValue": -12.0,
+      "rounds": [
+        "-2",
+        "-4",
+        "E",
+        "-6"
+      ]
+    },
+    {
+      "position": "11",
+      "name": "Byeong Hun An",
+      "country": "South Korea",
+      "totalDisplay": "-11",
+      "totalValue": -11.0,
+      "rounds": [
+        "-5",
+        "-4",
+        "-2",
+        "E"
+      ]
+    },
+    {
+      "position": "T12",
+      "name": "David Puig",
+      "country": "Spain",
+      "totalDisplay": "-9",
+      "totalValue": -9.0,
+      "rounds": [
+        "+1",
+        "-3",
+        "-2",
+        "-5"
+      ]
+    },
+    {
+      "position": "T12",
+      "name": "Anthony Kim",
+      "country": "USA",
+      "totalDisplay": "-9",
+      "totalValue": -9.0,
+      "rounds": [
+        "+1",
+        "-2",
+        "-5",
+        "-3"
+      ]
+    },
+    {
+      "position": "T12",
+      "name": "Marc Leishman",
+      "country": "Australia",
+      "totalDisplay": "-9",
+      "totalValue": -9.0,
+      "rounds": [
+        "-4",
+        "-4",
+        "-1",
+        "E"
+      ]
+    },
+    {
+      "position": "T15",
+      "name": "Ian Poulter",
+      "country": "England",
+      "totalDisplay": "-8",
+      "totalValue": -8.0,
+      "rounds": [
+        "-4",
+        "-1",
+        "-2",
+        "-1"
+      ]
+    },
+    {
+      "position": "T15",
+      "name": "Peter Uihlein",
+      "country": "USA",
+      "totalDisplay": "-8",
+      "totalValue": -8.0,
+      "rounds": [
+        "-3",
+        "-5",
+        "E",
+        "E"
+      ]
+    },
+    {
+      "position": "T17",
+      "name": "Branden Grace",
+      "country": "South Africa",
+      "totalDisplay": "-7",
+      "totalValue": -7.0,
+      "rounds": [
+        "-1",
+        "+1",
+        "-4",
+        "-3"
+      ]
+    },
+    {
+      "position": "T17",
+      "name": "Björn Hellgren",
+      "country": "Sweden",
+      "totalDisplay": "-7",
+      "totalValue": -7.0,
+      "rounds": [
+        "-4",
+        "-1",
+        "E",
+        "-2"
+      ]
+    },
+    {
+      "position": "T17",
+      "name": "Dean Burmester",
+      "country": "South Africa",
+      "totalDisplay": "-7",
+      "totalValue": -7.0,
+      "rounds": [
+        "-2",
+        "-6",
+        "+1",
+        "E"
+      ]
+    },
+    {
+      "position": "T20",
+      "name": "Tom McKibbin",
+      "country": "Northern Ireland",
+      "totalDisplay": "-6",
+      "totalValue": -6.0,
+      "rounds": [
+        "+1",
+        "-2",
+        "-2",
+        "-3"
+      ]
+    },
+    {
+      "position": "T20",
+      "name": "Josele Ballester",
+      "country": "Spain",
+      "totalDisplay": "-6",
+      "totalValue": -6.0,
+      "rounds": [
+        "E",
+        "-3",
+        "E",
+        "-3"
+      ]
+    },
+    {
+      "position": "22",
+      "name": "Charl Schwartzel",
+      "country": "South Africa",
+      "totalDisplay": "-5",
+      "totalValue": -5.0,
+      "rounds": [
+        "+1",
+        "-3",
+        "-2",
+        "-1"
+      ]
+    },
+    {
+      "position": "T23",
+      "name": "Victor Perez",
+      "country": "France",
+      "totalDisplay": "-4",
+      "totalValue": -4.0,
+      "rounds": [
+        "+2",
+        "-2",
+        "E",
+        "-4"
+      ]
+    },
+    {
+      "position": "T23",
+      "name": "Jon Rahm",
+      "country": "Spain",
+      "totalDisplay": "-4",
+      "totalValue": -4.0,
+      "rounds": [
+        "+1",
+        "-2",
+        "-1",
+        "-2"
+      ]
+    },
+    {
+      "position": "T23",
+      "name": "Paul Casey",
+      "country": "England",
+      "totalDisplay": "-4",
+      "totalValue": -4.0,
+      "rounds": [
+        "+1",
+        "-3",
+        "E",
+        "-2"
+      ]
+    },
+    {
+      "position": "T23",
+      "name": "Anirban Lahiri",
+      "country": "India",
+      "totalDisplay": "-4",
+      "totalValue": -4.0,
+      "rounds": [
+        "-4",
+        "-3",
+        "+3",
+        "E"
+      ]
+    },
+    {
+      "position": "T23",
+      "name": "Thomas Pieters",
+      "country": "Belgium",
+      "totalDisplay": "-4",
+      "totalValue": -4.0,
+      "rounds": [
+        "-1",
+        "-4",
+        "E",
+        "+1"
+      ]
+    },
+    {
+      "position": "T28",
+      "name": "Joaquín Niemann",
+      "country": "Chile",
+      "totalDisplay": "-3",
+      "totalValue": -3.0,
+      "rounds": [
+        "+1",
+        "E",
+        "-4",
+        "E"
+      ]
+    },
+    {
+      "position": "T28",
+      "name": "Scott Vincent",
+      "country": "Zimbabwe",
+      "totalDisplay": "-3",
+      "totalValue": -3.0,
+      "rounds": [
+        "-4",
+        "-1",
+        "-3",
+        "+5"
+      ]
+    },
+    {
+      "position": "T28",
+      "name": "Adrian Meronk",
+      "country": "Poland",
+      "totalDisplay": "-3",
+      "totalValue": -3.0,
+      "rounds": [
+        "-2",
+        "-4",
+        "-2",
+        "+5"
+      ]
+    },
+    {
+      "position": "T31",
+      "name": "Danny Lee",
+      "country": "New Zealand",
+      "totalDisplay": "-2",
+      "totalValue": -2.0,
+      "rounds": [
+        "+2",
+        "+3",
+        "-2",
+        "-5"
+      ]
+    },
+    {
+      "position": "T31",
+      "name": "Young-han Song",
+      "country": "South Korea",
+      "totalDisplay": "-2",
+      "totalValue": -2.0,
+      "rounds": [
+        "-1",
+        "+2",
+        "+2",
+        "-5"
+      ]
+    },
+    {
+      "position": "T31",
+      "name": "Bubba Watson",
+      "country": "USA",
+      "totalDisplay": "-2",
+      "totalValue": -2.0,
+      "rounds": [
+        "-1",
+        "+1",
+        "+3",
+        "-5"
+      ]
+    },
+    {
+      "position": "T31",
+      "name": "Martin Kaymer",
+      "country": "Germany",
+      "totalDisplay": "-2",
+      "totalValue": -2.0,
+      "rounds": [
+        "E",
+        "-2",
+        "+5",
+        "-5"
+      ]
+    },
+    {
+      "position": "T31",
+      "name": "Thomas Detry",
+      "country": "Belgium",
+      "totalDisplay": "-2",
+      "totalValue": -2.0,
+      "rounds": [
+        "-3",
+        "+4",
+        "+1",
+        "-4"
+      ]
+    },
+    {
+      "position": "T31",
+      "name": "Cameron Tringale",
+      "country": "USA",
+      "totalDisplay": "-2",
+      "totalValue": -2.0,
+      "rounds": [
+        "+2",
+        "-2",
+        "+1",
+        "-3"
+      ]
+    },
+    {
+      "position": "T31",
+      "name": "Martin Vorster",
+      "country": "South Africa",
+      "totalDisplay": "-2",
+      "totalValue": -2.0,
+      "rounds": [
+        "E",
+        "-2",
+        "+2",
+        "-2"
+      ]
+    },
+    {
+      "position": "T31",
+      "name": "Luis Masaveu",
+      "country": "Spain",
+      "totalDisplay": "-2",
+      "totalValue": -2.0,
+      "rounds": [
+        "-4",
+        "+3",
+        "-1",
+        "E"
+      ]
+    },
+    {
+      "position": "T31",
+      "name": "Richard T. Lee",
+      "country": "Canada",
+      "totalDisplay": "-2",
+      "totalValue": -2.0,
+      "rounds": [
+        "-5",
+        "-1",
+        "+4",
+        "+42"
+      ]
+    },
+    {
+      "position": "T40",
+      "name": "Sam Horsfield",
+      "country": "England",
+      "totalDisplay": "-1",
+      "totalValue": -1.0,
+      "rounds": [
+        "+1",
+        "+3",
+        "-1",
+        "-4"
+      ]
+    },
+    {
+      "position": "T40",
+      "name": "Sebastián Muñoz",
+      "country": "Colombia",
+      "totalDisplay": "-1",
+      "totalValue": -1.0,
+      "rounds": [
+        "+6",
+        "-2",
+        "-1",
+        "-4"
+      ]
+    },
+    {
+      "position": "T42",
+      "name": "Sergio García",
+      "country": "Spain",
+      "totalDisplay": "+1",
+      "totalValue": 1.0,
+      "rounds": [
+        "E",
+        "+4",
+        "E",
+        "-3"
+      ]
+    },
+    {
+      "position": "T42",
+      "name": "Matthew Wolff",
+      "country": "USA",
+      "totalDisplay": "+1",
+      "totalValue": 1.0,
+      "rounds": [
+        "E",
+        "-1",
+        "E",
+        "+2"
+      ]
+    },
+    {
+      "position": "44",
+      "name": "Yosuke Asaji",
+      "country": "Japan",
+      "totalDisplay": "+2",
+      "totalValue": 2.0,
+      "rounds": [
+        "+3",
+        "+1",
+        "-1",
+        "-1"
+      ]
+    },
+    {
+      "position": "T45",
+      "name": "Talor Gooch",
+      "country": "USA",
+      "totalDisplay": "+3",
+      "totalValue": 3.0,
+      "rounds": [
+        "-1",
+        "+4",
+        "E",
+        "E"
+      ]
+    },
+    {
+      "position": "T45",
+      "name": "Richard Bland",
+      "country": "England",
+      "totalDisplay": "+3",
+      "totalValue": 3.0,
+      "rounds": [
+        "-1",
+        "+1",
+        "+2",
+        "+1"
+      ]
+    },
+    {
+      "position": "T47",
+      "name": "Brendan Steele",
+      "country": "USA",
+      "totalDisplay": "+4",
+      "totalValue": 4.0,
+      "rounds": [
+        "+1",
+        "+2",
+        "+2",
+        "-1"
+      ]
+    },
+    {
+      "position": "T47",
+      "name": "Minkyu Kim",
+      "country": "South Korea",
+      "totalDisplay": "+4",
+      "totalValue": 4.0,
+      "rounds": [
+        "+1",
+        "+1",
+        "+1",
+        "+1"
+      ]
+    },
+    {
+      "position": "T47",
+      "name": "Travis Smyth",
+      "country": "Australia",
+      "totalDisplay": "+4",
+      "totalValue": 4.0,
+      "rounds": [
+        "-1",
+        "-3",
+        "+6",
+        "+2"
+      ]
+    },
+    {
+      "position": "50",
+      "name": "Miguel Tabuena",
+      "country": "Philippines",
+      "totalDisplay": "+5",
+      "totalValue": 5.0,
+      "rounds": [
+        "+1",
+        "+2",
+        "+1",
+        "+1"
+      ]
+    },
+    {
+      "position": "51",
+      "name": "Ben Campbell",
+      "country": "New Zealand",
+      "totalDisplay": "+6",
+      "totalValue": 6.0,
+      "rounds": [
+        "+3",
+        "+4",
+        "-4",
+        "+3"
+      ]
+    },
+    {
+      "position": "52",
+      "name": "Dustin Johnson",
+      "country": "USA",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "+1",
+        "-3",
+        "+3",
+        "+6"
+      ]
+    },
+    {
+      "position": "T53",
+      "name": "Doyeob Mun",
+      "country": "South Korea",
+      "totalDisplay": "+8",
+      "totalValue": 8.0,
+      "rounds": [
+        "+1",
+        "+3",
+        "+1",
+        "+3"
+      ]
+    },
+    {
+      "position": "T53",
+      "name": "Graeme McDowell",
+      "country": "Northern Ireland",
+      "totalDisplay": "+8",
+      "totalValue": 8.0,
+      "rounds": [
+        "E",
+        "E",
+        "+3",
+        "+5"
+      ]
+    },
+    {
+      "position": "55",
+      "name": "Jason Kokrak",
+      "country": "USA",
+      "totalDisplay": "+10",
+      "totalValue": 10.0,
+      "rounds": [
+        "-1",
+        "+6",
+        "+4",
+        "+1"
+      ]
+    },
+    {
+      "position": "56",
+      "name": "Michael La Sasso",
+      "country": "USA",
+      "totalDisplay": "+11",
+      "totalValue": 11.0,
+      "rounds": [
+        "E",
+        "+1",
+        "+4",
+        "+6"
+      ]
+    },
+    {
+      "position": "—",
+      "name": "Lee Westwood",
+      "country": "England",
+      "totalDisplay": "E",
+      "totalValue": 999.0,
+      "rounds": [
+        "-1",
+        "-2",
+        "E",
+        "+3"
+      ]
+    }
+  ]
+}
