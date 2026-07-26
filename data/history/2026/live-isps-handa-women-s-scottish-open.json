@@ -1,0 +1,995 @@
+{
+  "id": "live-isps-handa-women-s-scottish-open",
+  "name": "ISPS HANDA Women's Scottish Open",
+  "tour": "LPGA",
+  "course": "—",
+  "dates": null,
+  "par": 71,
+  "yards": 0,
+  "startDate": "2026-07-23T04:00Z",
+  "snapshotAt": "2026-07-26T16:13:34+00:00",
+  "headlines": {
+    "torsdag": "Shin stänger på nio under par – Stark och Nordqvist utan slutsprint",
+    "fredag": "Shin dominerar Scottish Open – Stark missar topplaceringen",
+    "lordag": "Shin dominerar Scottish Open – Stark utanför topp tolv",
+    "sondag": "Shin dominerar Scottish Open – Stark och Nordqvist utan topplaceringI thought about this more - let me reconsider since neither Stark nor Nordqvist appear to be in top 12.\n\nShin vinner Scottish Open på nio under par"
+  },
+  "finalLeaderboard": [
+    {
+      "position": "1",
+      "name": "Jenny Shin",
+      "country": "South Korea",
+      "totalDisplay": "-9",
+      "totalValue": -9.0,
+      "rounds": [
+        "-6",
+        "-5",
+        "-1",
+        "+3"
+      ]
+    },
+    {
+      "position": "2",
+      "name": "A Lim Kim",
+      "country": "South Korea",
+      "totalDisplay": "-7",
+      "totalValue": -7.0,
+      "rounds": [
+        "-5",
+        "E",
+        "+2",
+        "-4"
+      ]
+    },
+    {
+      "position": "3",
+      "name": "Pajaree Anannarukarn",
+      "country": "Thailand",
+      "totalDisplay": "-5",
+      "totalValue": -5.0,
+      "rounds": [
+        "-1",
+        "-3",
+        "-3",
+        "+2"
+      ]
+    },
+    {
+      "position": "4",
+      "name": "Esther Henseleit",
+      "country": "Germany",
+      "totalDisplay": "-4",
+      "totalValue": -4.0,
+      "rounds": [
+        "-2",
+        "-4",
+        "+1",
+        "+1"
+      ]
+    },
+    {
+      "position": "T5",
+      "name": "Miyu Yamashita",
+      "country": "Japan",
+      "totalDisplay": "-3",
+      "totalValue": -3.0,
+      "rounds": [
+        "-2",
+        "+2",
+        "-2",
+        "-1"
+      ]
+    },
+    {
+      "position": "T5",
+      "name": "Lauren Coughlin",
+      "country": "USA",
+      "totalDisplay": "-3",
+      "totalValue": -3.0,
+      "rounds": [
+        "-6",
+        "+2",
+        "+2",
+        "-1"
+      ]
+    },
+    {
+      "position": "7",
+      "name": "Chanettee Wannasaen",
+      "country": "Thailand",
+      "totalDisplay": "-2",
+      "totalValue": -2.0,
+      "rounds": [
+        "-1",
+        "+4",
+        "-2",
+        "-3"
+      ]
+    },
+    {
+      "position": "T8",
+      "name": "Leona Maguire",
+      "country": "Ireland",
+      "totalDisplay": "-1",
+      "totalValue": -1.0,
+      "rounds": [
+        "E",
+        "E",
+        "+1",
+        "-2"
+      ]
+    },
+    {
+      "position": "T8",
+      "name": "Ryann O'Toole",
+      "country": "USA",
+      "totalDisplay": "-1",
+      "totalValue": -1.0,
+      "rounds": [
+        "+1",
+        "E",
+        "-1",
+        "-1"
+      ]
+    },
+    {
+      "position": "T8",
+      "name": "Erika Hara",
+      "country": "Japan",
+      "totalDisplay": "-1",
+      "totalValue": -1.0,
+      "rounds": [
+        "-2",
+        "-2",
+        "-1",
+        "+4"
+      ]
+    },
+    {
+      "position": "T11",
+      "name": "Hye-Jin Choi",
+      "country": "South Korea",
+      "totalDisplay": "+1",
+      "totalValue": 1.0,
+      "rounds": [
+        "+4",
+        "-2",
+        "+4",
+        "-5"
+      ]
+    },
+    {
+      "position": "T11",
+      "name": "Patty Tavatanakit",
+      "country": "Thailand",
+      "totalDisplay": "+1",
+      "totalValue": 1.0,
+      "rounds": [
+        "-1",
+        "-3",
+        "+6",
+        "-1"
+      ]
+    },
+    {
+      "position": "T11",
+      "name": "Amy Yang",
+      "country": "South Korea",
+      "totalDisplay": "+1",
+      "totalValue": 1.0,
+      "rounds": [
+        "+4",
+        "-3",
+        "-1",
+        "+1"
+      ]
+    },
+    {
+      "position": "T14",
+      "name": "Nelly Korda",
+      "country": "USA",
+      "totalDisplay": "+2",
+      "totalValue": 2.0,
+      "rounds": [
+        "E",
+        "+4",
+        "+1",
+        "-3"
+      ]
+    },
+    {
+      "position": "T14",
+      "name": "Hyo Joo Kim",
+      "country": "South Korea",
+      "totalDisplay": "+2",
+      "totalValue": 2.0,
+      "rounds": [
+        "+3",
+        "-2",
+        "+1",
+        "E"
+      ]
+    },
+    {
+      "position": "T14",
+      "name": "Diksha Dagar",
+      "country": "India",
+      "totalDisplay": "+2",
+      "totalValue": 2.0,
+      "rounds": [
+        "+2",
+        "+1",
+        "-2",
+        "+1"
+      ]
+    },
+    {
+      "position": "T17",
+      "name": "Pauline Roussin-Bouchard",
+      "country": "France",
+      "totalDisplay": "+3",
+      "totalValue": 3.0,
+      "rounds": [
+        "+1",
+        "+1",
+        "+4",
+        "-3"
+      ]
+    },
+    {
+      "position": "T17",
+      "name": "Sei Young Kim",
+      "country": "South Korea",
+      "totalDisplay": "+3",
+      "totalValue": 3.0,
+      "rounds": [
+        "+3",
+        "E",
+        "+1",
+        "-1"
+      ]
+    },
+    {
+      "position": "T17",
+      "name": "Alice Hewson",
+      "country": "England",
+      "totalDisplay": "+3",
+      "totalValue": 3.0,
+      "rounds": [
+        "+3",
+        "-2",
+        "+3",
+        "-1"
+      ]
+    },
+    {
+      "position": "T17",
+      "name": "Maja Stark",
+      "country": "Sweden",
+      "totalDisplay": "+3",
+      "totalValue": 3.0,
+      "rounds": [
+        "+2",
+        "E",
+        "+1",
+        "E"
+      ]
+    },
+    {
+      "position": "T17",
+      "name": "Weiwei Zhang",
+      "country": "China",
+      "totalDisplay": "+3",
+      "totalValue": 3.0,
+      "rounds": [
+        "+1",
+        "+1",
+        "+1",
+        "E"
+      ]
+    },
+    {
+      "position": "T17",
+      "name": "Daniela Darquea",
+      "country": "Ecuador",
+      "totalDisplay": "+3",
+      "totalValue": 3.0,
+      "rounds": [
+        "-1",
+        "E",
+        "+2",
+        "+2"
+      ]
+    },
+    {
+      "position": "T23",
+      "name": "Nataliya Guseva",
+      "country": "Russia",
+      "totalDisplay": "+4",
+      "totalValue": 4.0,
+      "rounds": [
+        "E",
+        "+2",
+        "+1",
+        "+1"
+      ]
+    },
+    {
+      "position": "T23",
+      "name": "Ariya Jutanugarn",
+      "country": "Thailand",
+      "totalDisplay": "+4",
+      "totalValue": 4.0,
+      "rounds": [
+        "+1",
+        "+1",
+        "-1",
+        "+3"
+      ]
+    },
+    {
+      "position": "T23",
+      "name": "Rose Zhang",
+      "country": "USA",
+      "totalDisplay": "+4",
+      "totalValue": 4.0,
+      "rounds": [
+        "+1",
+        "E",
+        "-1",
+        "+4"
+      ]
+    },
+    {
+      "position": "T26",
+      "name": "Anna Nordqvist",
+      "country": "Sweden",
+      "totalDisplay": "+5",
+      "totalValue": 5.0,
+      "rounds": [
+        "-2",
+        "+7",
+        "+1",
+        "-1"
+      ]
+    },
+    {
+      "position": "T26",
+      "name": "Arpichaya Yubol",
+      "country": "Thailand",
+      "totalDisplay": "+5",
+      "totalValue": 5.0,
+      "rounds": [
+        "+1",
+        "E",
+        "+5",
+        "-1"
+      ]
+    },
+    {
+      "position": "T26",
+      "name": "Ina Yoon",
+      "country": "South Korea",
+      "totalDisplay": "+5",
+      "totalValue": 5.0,
+      "rounds": [
+        "+1",
+        "-4",
+        "+4",
+        "+4"
+      ]
+    },
+    {
+      "position": "T29",
+      "name": "Hannah Green",
+      "country": "Australia",
+      "totalDisplay": "+6",
+      "totalValue": 6.0,
+      "rounds": [
+        "+2",
+        "+4",
+        "+2",
+        "-2"
+      ]
+    },
+    {
+      "position": "T29",
+      "name": "Manon De Roey",
+      "country": "Belgium",
+      "totalDisplay": "+6",
+      "totalValue": 6.0,
+      "rounds": [
+        "+1",
+        "+3",
+        "+4",
+        "-2"
+      ]
+    },
+    {
+      "position": "T29",
+      "name": "Sara Kouskova",
+      "country": "Czechia",
+      "totalDisplay": "+6",
+      "totalValue": 6.0,
+      "rounds": [
+        "+5",
+        "-3",
+        "+4",
+        "E"
+      ]
+    },
+    {
+      "position": "T29",
+      "name": "Chizzy Iwai",
+      "country": "Japan",
+      "totalDisplay": "+6",
+      "totalValue": 6.0,
+      "rounds": [
+        "E",
+        "+2",
+        "+3",
+        "+1"
+      ]
+    },
+    {
+      "position": "T29",
+      "name": "Nastasia Nadaud",
+      "country": "France",
+      "totalDisplay": "+6",
+      "totalValue": 6.0,
+      "rounds": [
+        "+3",
+        "-1",
+        "+2",
+        "+2"
+      ]
+    },
+    {
+      "position": "T29",
+      "name": "Mi Hyang Lee",
+      "country": "South Korea",
+      "totalDisplay": "+6",
+      "totalValue": 6.0,
+      "rounds": [
+        "+3",
+        "-4",
+        "+5",
+        "+2"
+      ]
+    },
+    {
+      "position": "T35",
+      "name": "Pia Babnik",
+      "country": "Slovenia",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "+5",
+        "-1",
+        "+2",
+        "+1"
+      ]
+    },
+    {
+      "position": "T35",
+      "name": "Amanda Doherty",
+      "country": "USA",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "E",
+        "+1",
+        "+5",
+        "+1"
+      ]
+    },
+    {
+      "position": "T35",
+      "name": "Lottie Woad",
+      "country": "England",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "+2",
+        "-2",
+        "+6",
+        "+1"
+      ]
+    },
+    {
+      "position": "T35",
+      "name": "Moa Folke",
+      "country": "Sweden",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "+4",
+        "-2",
+        "+3",
+        "+2"
+      ]
+    },
+    {
+      "position": "T35",
+      "name": "Lucy Li",
+      "country": "USA",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "+9",
+        "-2"
+      ]
+    },
+    {
+      "position": "T35",
+      "name": "Minami Katsu",
+      "country": "Japan",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "+8",
+        "-1"
+      ]
+    },
+    {
+      "position": "T35",
+      "name": "Ashleigh Buhai",
+      "country": "South Africa",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "+7",
+        "E"
+      ]
+    },
+    {
+      "position": "T35",
+      "name": "Lauren Walsh",
+      "country": "Ireland",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "+7",
+        "E"
+      ]
+    },
+    {
+      "position": "T35",
+      "name": "Yu Liu",
+      "country": "China",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "+6",
+        "+1"
+      ]
+    },
+    {
+      "position": "T35",
+      "name": "Hannah Screen",
+      "country": "England",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "+5",
+        "+2"
+      ]
+    },
+    {
+      "position": "T35",
+      "name": "Carolina Chacarra",
+      "country": "Spain",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "+5",
+        "+2"
+      ]
+    },
+    {
+      "position": "T35",
+      "name": "Kelsey Bennett",
+      "country": "Australia",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "+5",
+        "+2"
+      ]
+    },
+    {
+      "position": "T35",
+      "name": "Karis Davidson",
+      "country": "Australia",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "+4",
+        "+3"
+      ]
+    },
+    {
+      "position": "T35",
+      "name": "Carlota Ciganda",
+      "country": "Spain",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "+2",
+        "+5"
+      ]
+    },
+    {
+      "position": "T35",
+      "name": "Nicole Broch Estrup",
+      "country": "Denmark",
+      "totalDisplay": "+7",
+      "totalValue": 7.0,
+      "rounds": [
+        "+1",
+        "+6"
+      ]
+    },
+    {
+      "position": "T50",
+      "name": "Allisen Corpuz",
+      "country": "USA",
+      "totalDisplay": "+8",
+      "totalValue": 8.0,
+      "rounds": [
+        "+6",
+        "E",
+        "E",
+        "+2"
+      ]
+    },
+    {
+      "position": "T50",
+      "name": "Wei-Ling Hsu",
+      "country": "Chinese Taipei",
+      "totalDisplay": "+8",
+      "totalValue": 8.0,
+      "rounds": [
+        "+9",
+        "-1"
+      ]
+    },
+    {
+      "position": "T50",
+      "name": "Kirsten Rudgeley",
+      "country": "Australia",
+      "totalDisplay": "+8",
+      "totalValue": 8.0,
+      "rounds": [
+        "+7",
+        "+1"
+      ]
+    },
+    {
+      "position": "T50",
+      "name": "Alison Lee",
+      "country": "USA",
+      "totalDisplay": "+8",
+      "totalValue": 8.0,
+      "rounds": [
+        "+7",
+        "+1"
+      ]
+    },
+    {
+      "position": "T50",
+      "name": "Kiara Romero",
+      "country": "USA",
+      "totalDisplay": "+8",
+      "totalValue": 8.0,
+      "rounds": [
+        "+5",
+        "+3"
+      ]
+    },
+    {
+      "position": "T50",
+      "name": "Dorthea Forbrigd",
+      "country": "Norway",
+      "totalDisplay": "+8",
+      "totalValue": 8.0,
+      "rounds": [
+        "+5",
+        "+3"
+      ]
+    },
+    {
+      "position": "T50",
+      "name": "Gina Kim",
+      "country": "USA",
+      "totalDisplay": "+8",
+      "totalValue": 8.0,
+      "rounds": [
+        "+5",
+        "+3"
+      ]
+    },
+    {
+      "position": "T50",
+      "name": "Jing Yan",
+      "country": "USA",
+      "totalDisplay": "+8",
+      "totalValue": 8.0,
+      "rounds": [
+        "+4",
+        "+4"
+      ]
+    },
+    {
+      "position": "T50",
+      "name": "Jin Young Ko",
+      "country": "South Korea",
+      "totalDisplay": "+8",
+      "totalValue": 8.0,
+      "rounds": [
+        "+4",
+        "+4"
+      ]
+    },
+    {
+      "position": "T50",
+      "name": "Brianna Do",
+      "country": "USA",
+      "totalDisplay": "+8",
+      "totalValue": 8.0,
+      "rounds": [
+        "E",
+        "+8"
+      ]
+    },
+    {
+      "position": "T60",
+      "name": "Youmin Hwang",
+      "country": "South Korea",
+      "totalDisplay": "+9",
+      "totalValue": 9.0,
+      "rounds": [
+        "+2",
+        "+2",
+        "+5",
+        "E"
+      ]
+    },
+    {
+      "position": "T60",
+      "name": "Lisa Pettersson",
+      "country": "Sweden",
+      "totalDisplay": "+9",
+      "totalValue": 9.0,
+      "rounds": [
+        "-3",
+        "+5",
+        "+5",
+        "+2"
+      ]
+    },
+    {
+      "position": "T60",
+      "name": "Emily Kristine Pedersen",
+      "country": "Denmark",
+      "totalDisplay": "+9",
+      "totalValue": 9.0,
+      "rounds": [
+        "+9",
+        "E"
+      ]
+    },
+    {
+      "position": "T60",
+      "name": "Alexandra Forsterling",
+      "country": "Germany",
+      "totalDisplay": "+9",
+      "totalValue": 9.0,
+      "rounds": [
+        "+8",
+        "+1"
+      ]
+    },
+    {
+      "position": "T60",
+      "name": "Lilia Vu",
+      "country": "USA",
+      "totalDisplay": "+9",
+      "totalValue": 9.0,
+      "rounds": [
+        "+7",
+        "+2"
+      ]
+    },
+    {
+      "position": "T60",
+      "name": "Melanie Green",
+      "country": "USA",
+      "totalDisplay": "+9",
+      "totalValue": 9.0,
+      "rounds": [
+        "+7",
+        "+2"
+      ]
+    },
+    {
+      "position": "T60",
+      "name": "Anne van Dam",
+      "country": "Netherlands",
+      "totalDisplay": "+9",
+      "totalValue": 9.0,
+      "rounds": [
+        "+6",
+        "+3"
+      ]
+    },
+    {
+      "position": "T60",
+      "name": "Kajsa Arwefjall",
+      "country": "Sweden",
+      "totalDisplay": "+9",
+      "totalValue": 9.0,
+      "rounds": [
+        "+5",
+        "+4"
+      ]
+    },
+    {
+      "position": "T60",
+      "name": "Hannah Burke",
+      "country": "England",
+      "totalDisplay": "+9",
+      "totalValue": 9.0,
+      "rounds": [
+        "+4",
+        "+5"
+      ]
+    },
+    {
+      "position": "T60",
+      "name": "Jodi Ewart Shadoff",
+      "country": "England",
+      "totalDisplay": "+9",
+      "totalValue": 9.0,
+      "rounds": [
+        "+2",
+        "+7"
+      ]
+    },
+    {
+      "position": "T70",
+      "name": "Dewi Weber",
+      "country": "Netherlands",
+      "totalDisplay": "+10",
+      "totalValue": 10.0,
+      "rounds": [
+        "+7",
+        "-1",
+        "+4",
+        "E"
+      ]
+    },
+    {
+      "position": "T70",
+      "name": "Alexa Pano",
+      "country": "USA",
+      "totalDisplay": "+10",
+      "totalValue": 10.0,
+      "rounds": [
+        "+3",
+        "E",
+        "+6",
+        "+1"
+      ]
+    },
+    {
+      "position": "T70",
+      "name": "Charley Hull",
+      "country": "England",
+      "totalDisplay": "+10",
+      "totalValue": 10.0,
+      "rounds": [
+        "+6",
+        "-1",
+        "+3",
+        "+2"
+      ]
+    },
+    {
+      "position": "T70",
+      "name": "Lindy Duncan",
+      "country": "USA",
+      "totalDisplay": "+10",
+      "totalValue": 10.0,
+      "rounds": [
+        "+2",
+        "+2",
+        "+4",
+        "+2"
+      ]
+    },
+    {
+      "position": "T70",
+      "name": "Amelia Garvey",
+      "country": "New Zealand",
+      "totalDisplay": "+10",
+      "totalValue": 10.0,
+      "rounds": [
+        "+4",
+        "+1",
+        "E",
+        "+5"
+      ]
+    },
+    {
+      "position": "T70",
+      "name": "Helen Briem",
+      "country": "Germany",
+      "totalDisplay": "+10",
+      "totalValue": 10.0,
+      "rounds": [
+        "+5",
+        "-2",
+        "+2",
+        "+5"
+      ]
+    },
+    {
+      "position": "T70",
+      "name": "Grace Kim",
+      "country": "Australia",
+      "totalDisplay": "+10",
+      "totalValue": 10.0,
+      "rounds": [
+        "+2",
+        "-2",
+        "+4",
+        "+6"
+      ]
+    },
+    {
+      "position": "T70",
+      "name": "Chiara Tamburlini",
+      "country": "Switzerland",
+      "totalDisplay": "+10",
+      "totalValue": 10.0,
+      "rounds": [
+        "+10",
+        "E"
+      ]
+    },
+    {
+      "position": "T70",
+      "name": "Cara Gainer",
+      "country": "England",
+      "totalDisplay": "+10",
+      "totalValue": 10.0,
+      "rounds": [
+        "+9",
+        "+1"
+      ]
+    },
+    {
+      "position": "T70",
+      "name": "Esme Hamilton",
+      "country": "England",
+      "totalDisplay": "+10",
+      "totalValue": 10.0,
+      "rounds": [
+        "+7",
+        "+3"
+      ]
+    },
+    {
+      "position": "T70",
+      "name": "Lydia Hall",
+      "country": "Wales",
+      "totalDisplay": "+10",
+      "totalValue": 10.0,
+      "rounds": [
+        "+7",
+        "+3"
+      ]
+    }
+  ]
+}
