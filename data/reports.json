@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T19:24:32+00:00",
+  "generatedAt": "2026-07-26T22:07:34+00:00",
   "tournaments": [
     {
       "id": "live-3m-open",
@@ -10,141 +10,25 @@
       "startDate": "2026-07-23T04:00Z",
       "par": 71,
       "yards": 0,
-      "statusDetail": "Round 4 - In Progress",
-      "status": "live",
+      "statusDetail": "Round 4 - Play Complete",
+      "status": "final",
       "currentRound": 4,
       "reports": {
-        "onsdag": {
-          "kind": "preview",
-          "locked": false,
-          "generatedAt": "2026-07-26T19:24:35+00:00",
-          "headline": "Scheffler jagar tredje segern – Nyholm och Svensson gör gästspel på PGA Tour",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "3M Open lockar världseliten till en klassisk PGA Tour-tävling där Scottie Scheffler återigen är favorit tillsammans med starka namn som Brian Harman och Billy Horschel. Svenska skyttel vilar på Pontus Nyholm och Jesper Svensson, båda erfarna tourspelare som behöver hålla sig relevanta i Fight to the PGA Cup. Matsuyama och Tom Kim representerar asiatet sterkt i ett internationellt fält, medan det blir intressant att se om någon outsider förmår utmana gänget runt Scheffler som dominerat stora delar av säsongen."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "Banan & schemat",
-              "b": "Bana: —\nStarttid runda 1: Thursday 23 July 2026"
-            },
-            {
-              "icon": "person.3.fill",
-              "h": "Fältöversikt",
-              "b": "144 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskar i fältet",
-              "b": "2 svenska kvar i fältet.\n\n—  Pontus Nyholm  -10  (i röda siffror)\n—  Jesper Svensson  -9  (i röda siffror)"
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-preview-w1",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Jackson Koivun",
-              "svs": 1.13,
-              "mkt": 0,
-              "units": 1.0,
-              "conf": 3,
-              "rat": "Jackson Koivun är en av SS:s top-1 favoriter pre-tournament (odds 1.13). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w2",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Scottie Scheffler",
-              "svs": 8.5,
-              "mkt": 0,
-              "units": 1.0,
-              "conf": 3,
-              "rat": "Scottie Scheffler är en av SS:s top-2 favoriter pre-tournament (odds 8.50). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w3",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Brian Harman",
-              "svs": 41.0,
-              "mkt": 0,
-              "units": 0.7,
-              "conf": 2,
-              "rat": "Brian Harman är en av SS:s top-3 favoriter pre-tournament (odds 41.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w4",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Ben Kohles",
-              "svs": 51.0,
-              "mkt": 0,
-              "units": 0.7,
-              "conf": 2,
-              "rat": "Ben Kohles är en av SS:s top-4 favoriter pre-tournament (odds 51.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w5",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Denny McCarthy",
-              "svs": 81.0,
-              "mkt": 0,
-              "units": 0.7,
-              "conf": 2,
-              "rat": "Denny McCarthy är en av SS:s top-5 favoriter pre-tournament (odds 81.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w6",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Billy Horschel",
-              "svs": 101.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Billy Horschel är en av SS:s top-6 favoriter pre-tournament (odds 101.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w7",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Emiliano Grillo",
-              "svs": 101.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Emiliano Grillo är en av SS:s top-7 favoriter pre-tournament (odds 101.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w8",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Chandler Phillips",
-              "svs": 251.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Chandler Phillips är en av SS:s top-8 favoriter pre-tournament (odds 251.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            }
-          ]
-        },
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:24:40+00:00",
-          "headline": "Koivun spricker löst – fyra slag före Scheffler på 3M Open",
+          "generatedAt": "2026-07-26T22:07:37+00:00",
+          "headline": "Koivun dominerar 3M Open – femton slag före Scheffler på Minnesota",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jackson Koivun dominerar leaderboarden efter första omgången med imponerande -23, fyra slag före Scottie Scheffler som ligger på -19. Koivun, som inte är en etablerad namn på toptour, levererar en nästan feltolös runda medan Scheffler ändå håller sig i stridande position tillsammans med Harman och Kohles på -18. Inför kommande omgångar blir avgörande för jaktledarna att förminska klyftan till Koivun, då banan visar sig spelbara och många spelare redan noterat låga siffror — en indikation på att par kan slipas kraftigt långt ner under turneringen. Svenska startuppställningen med Nyholm och Svensson behöver ett snabbt svar på banan för att hålla sig i kontention."
+              "b": "Jackson Koivun tog en överlägsen seger på 3M Open med 25 under par, tre slag före Scottie Scheffler som slutade på 22 under par. Koivun höll kontrollen genom helgen och visade konsekvent golf från både tee och green, medan Scheffler hade en stark avslutning men aldrig hotade ledningen. Fyra spelare delade tredjeplats på 20 under par – Matsuyama, Harman, McCarthy och Phillips – i ett tätt mittfält där små marginaler skilde mellan placeringar. Varken Pontus Nyholm eller Jesper Svensson nådde slutpositioner i topp 15."
             },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R1)",
-              "b": "—  Jackson Koivun  -23\n—  Scottie Scheffler  -19\n—  Brian Harman  -18\n—  Ben Kohles  -18\n—  Gary Woodland  -17\n—  Billy Horschel  -17\n—  Denny McCarthy  -17\n—  Emiliano Grillo  -17\n—  Jake Knapp  -16\n—  Davis Thompson  -16\n\nKälla: ESPN."
+              "b": "—  Jackson Koivun  -25\n—  Scottie Scheffler  -22\n—  Hideki Matsuyama  -20\n—  Brian Harman  -20\n—  Denny McCarthy  -20\n—  Chandler Phillips  -20\n—  Davis Thompson  -19\n—  Emiliano Grillo  -19\n—  Ben Kohles  -18\n—  Gary Woodland  -17\n\nKälla: ESPN."
             },
             {
               "icon": "flag.fill",
@@ -154,7 +38,7 @@
             {
               "icon": "scope",
               "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 7 slag från ledaren. 1 spelare inom 3 slag — vinnar-poolen är smal."
+              "b": "Topp 10 ligger inom 8 slag från ledaren. 1 spelare inom 3 slag — vinnar-poolen är smal."
             },
             {
               "icon": "wave.3.right",
@@ -172,47 +56,47 @@
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Jackson Koivun leder fältet på -23 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+              "rat": "Jackson Koivun leder fältet på -25 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
             },
             {
               "id": "auto-r1-w2",
               "cat": "🤖 Vinnare (värde)",
-              "sel": "Brian Harman",
+              "sel": "Hideki Matsuyama",
               "svs": 28.0,
               "mkt": 0,
               "units": 0.75,
               "conf": 2,
-              "rat": "Brian Harman ligger 5 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+              "rat": "Hideki Matsuyama ligger 5 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
             },
             {
               "id": "auto-r1-t5-1",
               "cat": "🤖 Topp 5",
               "sel": "Scottie Scheffler",
-              "svs": 3.4,
+              "svs": 3.1,
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Scottie Scheffler (-19) sitter i topp-skiktet 4 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Scottie Scheffler (-22) sitter i topp-skiktet 3 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r1-t5-3",
               "cat": "🤖 Topp 5",
-              "sel": "Ben Kohles",
+              "sel": "Brian Harman",
               "svs": 3.7,
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Ben Kohles (-18) sitter i topp-skiktet 5 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Brian Harman (-20) sitter i topp-skiktet 5 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r1-t10-5",
               "cat": "🤖 Topp 10",
-              "sel": "Billy Horschel",
-              "svs": 3.0,
+              "sel": "Chandler Phillips",
+              "svs": 2.8,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Billy Horschel (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
+              "rat": "Chandler Phillips (-20) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
             },
             {
               "id": "auto-r1-t10-7",
@@ -222,37 +106,37 @@
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Emiliano Grillo (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
+              "rat": "Emiliano Grillo (-19) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
             },
             {
               "id": "auto-r1-t20-14",
               "cat": "🤖 Topp 20",
-              "sel": "Séamus Power",
-              "svs": 2.3,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Séamus Power (-15) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r1-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Zac Blair",
+              "sel": "Billy Horschel",
               "svs": 2.4,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Zac Blair (-14) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+              "rat": "Billy Horschel (-16) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r1-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Kevin Yu",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Kevin Yu (-15) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
             },
             {
               "id": "auto-r1-low",
               "cat": "🤖 Lägsta runda R2",
-              "sel": "Patrick Fishburn",
+              "sel": "Michael Kim",
               "svs": 12.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Patrick Fishburn (-15) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+              "rat": "Michael Kim (-17) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
             },
             {
               "id": "auto-r1-bf",
@@ -269,18 +153,18 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:24:46+00:00",
-          "headline": "Koivun sprinter mot -23 – Scheffler nio slag bakom i Minneapolis",
+          "generatedAt": "2026-07-26T22:07:41+00:00",
+          "headline": "Koivun krossade konkurrenterna – femton slag före Scheffler på 3M Open",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jackson Koivun leder 3M Open efter två rundor med imponerande -23, fyra slag före Scottie Scheffler som hålls tillbaka trots stark prestation på -19. Tätt bakom американerna bildar Harman och Kohles på -18 en andra förföljningsgrupp, medan Woodland, Horschel och McCarthy på -17 representerar en bred top-10 utan någon klar favorit utöver Koivun. Svenska representanter verkar inte ha gjort avtryck i toppen då varken Pontus Nyholm eller Jesper Svensson finns bland de femton bästa, vilket innebär ett kraftigt arbete återstår för att någon av dem ska kamma hem prestigepokalen."
+              "b": "Jackson Koivun dominerade 3M Open med slutresultatet -25, tre slag före Scottie Scheffler som slutade på -22. Fyra spelare delade tredjeplats på -20, vilket visar att tävlingen var relativt öppen i slutfasen, men Koivun höll ett stadigt grepp genom veckan. Varken Pontus Nyholm eller Jesper Svensson nådde topp 20 i detta arrangemang."
             },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R2)",
-              "b": "—  Jackson Koivun  -23\n—  Scottie Scheffler  -19\n—  Brian Harman  -18\n—  Ben Kohles  -18\n—  Gary Woodland  -17\n—  Billy Horschel  -17\n—  Denny McCarthy  -17\n—  Emiliano Grillo  -17\n—  Jake Knapp  -16\n—  Davis Thompson  -16\n\nKälla: ESPN."
+              "b": "—  Jackson Koivun  -25\n—  Scottie Scheffler  -22\n—  Hideki Matsuyama  -20\n—  Brian Harman  -20\n—  Denny McCarthy  -20\n—  Chandler Phillips  -20\n—  Davis Thompson  -19\n—  Emiliano Grillo  -19\n—  Ben Kohles  -18\n—  Gary Woodland  -17\n\nKälla: ESPN."
             },
             {
               "icon": "flag.fill",
@@ -290,7 +174,7 @@
             {
               "icon": "scope",
               "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 7 slag från ledaren. 1 spelare inom 3 slag — vinnar-poolen är smal."
+              "b": "Topp 10 ligger inom 8 slag från ledaren. 1 spelare inom 3 slag — vinnar-poolen är smal."
             },
             {
               "icon": "wave.3.right",
@@ -308,47 +192,47 @@
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Jackson Koivun leder fältet på -23 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+              "rat": "Jackson Koivun leder fältet på -25 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
             },
             {
               "id": "auto-r2-w2",
               "cat": "🤖 Vinnare (värde)",
-              "sel": "Brian Harman",
+              "sel": "Hideki Matsuyama",
               "svs": 17.5,
               "mkt": 0,
               "units": 0.75,
               "conf": 2,
-              "rat": "Brian Harman ligger 5 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+              "rat": "Hideki Matsuyama ligger 5 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
             },
             {
               "id": "auto-r2-t5-1",
               "cat": "🤖 Topp 5",
               "sel": "Scottie Scheffler",
-              "svs": 3.4,
+              "svs": 3.1,
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Scottie Scheffler (-19) sitter i topp-skiktet 4 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Scottie Scheffler (-22) sitter i topp-skiktet 3 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r2-t5-3",
               "cat": "🤖 Topp 5",
-              "sel": "Ben Kohles",
+              "sel": "Brian Harman",
               "svs": 3.7,
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Ben Kohles (-18) sitter i topp-skiktet 5 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Brian Harman (-20) sitter i topp-skiktet 5 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r2-t10-5",
               "cat": "🤖 Topp 10",
-              "sel": "Billy Horschel",
-              "svs": 3.0,
+              "sel": "Chandler Phillips",
+              "svs": 2.8,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Billy Horschel (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
+              "rat": "Chandler Phillips (-20) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
             },
             {
               "id": "auto-r2-t10-7",
@@ -358,37 +242,37 @@
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Emiliano Grillo (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
+              "rat": "Emiliano Grillo (-19) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
             },
             {
               "id": "auto-r2-t20-14",
               "cat": "🤖 Topp 20",
-              "sel": "Séamus Power",
-              "svs": 2.3,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Séamus Power (-15) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r2-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Zac Blair",
+              "sel": "Billy Horschel",
               "svs": 2.4,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Zac Blair (-14) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+              "rat": "Billy Horschel (-16) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r2-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Kevin Yu",
+              "svs": 2.5,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Kevin Yu (-15) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
             },
             {
               "id": "auto-r2-low",
               "cat": "🤖 Lägsta runda R3",
-              "sel": "Patrick Fishburn",
+              "sel": "Michael Kim",
               "svs": 12.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Patrick Fishburn (-15) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+              "rat": "Michael Kim (-17) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
             },
             {
               "id": "auto-r2-bf",
@@ -405,18 +289,18 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:24:50+00:00",
-          "headline": "Koivun sprinter mot seger – fjärde omgång väntar på -23",
+          "generatedAt": "2026-07-26T22:07:44+00:00",
+          "headline": "Koivun rundar Scheffler – vinnare på imponerande -25 på 3M Open",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jackson Koivun dominerar 3M Open efter tre rundor med imponerande -23 och fyra slagars försprång före Scottie Scheffler, som trots sitt starkt spel på PGA Tour inte kunnat ta sig närmare tätledaren. Förföljarna Harman och Kohles på -18 utgör ett hot men måste prestera exceptionellt på finalrundan för att hota Koivuns position. Svenska Pontus Nyholm och Jesper Svensson saknas från topplaceringarna, vilket innebär att fokus för hemmalaget ligger på hur de två formerar sig under sista dagen utan realistisk chans till en topplacering."
+              "b": "Jackson Koivun vann 3M Open med imponerande -25, tre slag före Scottie Scheffler som aldrig fick fotfästet i slutspurten. Bakåt i leaderboard bildades ett tätt fält runt -20 med Matsuyama, Harman, McCarthy och Phillips på samma poäng, vilket visar på ett jämnt spelarfält genom helgen. Varken Pontus Nyholm eller Jesper Svensson från Sverige lyckades ta sig högt upp på resultatlistan, vilket begränsar svenskarnas genomslag i denna turnering."
             },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R3)",
-              "b": "—  Jackson Koivun  -23\n—  Scottie Scheffler  -19\n—  Brian Harman  -18\n—  Ben Kohles  -18\n—  Gary Woodland  -17\n—  Billy Horschel  -17\n—  Denny McCarthy  -17\n—  Emiliano Grillo  -17\n—  Jake Knapp  -16\n—  Davis Thompson  -16\n\nKälla: ESPN."
+              "b": "—  Jackson Koivun  -25\n—  Scottie Scheffler  -22\n—  Hideki Matsuyama  -20\n—  Brian Harman  -20\n—  Denny McCarthy  -20\n—  Chandler Phillips  -20\n—  Davis Thompson  -19\n—  Emiliano Grillo  -19\n—  Ben Kohles  -18\n—  Gary Woodland  -17\n\nKälla: ESPN."
             },
             {
               "icon": "flag.fill",
@@ -426,7 +310,7 @@
             {
               "icon": "scope",
               "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 7 slag från ledaren. 1 spelare inom 3 slag — vinnar-poolen är smal."
+              "b": "Topp 10 ligger inom 8 slag från ledaren. 1 spelare inom 3 slag — vinnar-poolen är smal."
             },
             {
               "icon": "wave.3.right",
@@ -444,47 +328,47 @@
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Jackson Koivun leder fältet på -23 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+              "rat": "Jackson Koivun leder fältet på -25 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
             },
             {
               "id": "auto-r3-w2",
               "cat": "🤖 Vinnare (värde)",
-              "sel": "Brian Harman",
+              "sel": "Hideki Matsuyama",
               "svs": 8.75,
               "mkt": 0,
               "units": 0.75,
               "conf": 2,
-              "rat": "Brian Harman ligger 5 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+              "rat": "Hideki Matsuyama ligger 5 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
             },
             {
               "id": "auto-r3-t5-1",
               "cat": "🤖 Topp 5",
               "sel": "Scottie Scheffler",
-              "svs": 2.5,
+              "svs": 2.3,
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Scottie Scheffler (-19) sitter i topp-skiktet 4 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Scottie Scheffler (-22) sitter i topp-skiktet 3 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r3-t5-3",
               "cat": "🤖 Topp 5",
-              "sel": "Ben Kohles",
+              "sel": "Brian Harman",
               "svs": 2.7,
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Ben Kohles (-18) sitter i topp-skiktet 5 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Brian Harman (-20) sitter i topp-skiktet 5 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r3-t10-5",
               "cat": "🤖 Topp 10",
-              "sel": "Billy Horschel",
-              "svs": 2.0,
+              "sel": "Chandler Phillips",
+              "svs": 1.9,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Billy Horschel (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
+              "rat": "Chandler Phillips (-20) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
             },
             {
               "id": "auto-r3-t10-7",
@@ -494,37 +378,37 @@
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Emiliano Grillo (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
+              "rat": "Emiliano Grillo (-19) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
             },
             {
               "id": "auto-r3-t20-14",
               "cat": "🤖 Topp 20",
-              "sel": "Séamus Power",
-              "svs": 1.6,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Séamus Power (-15) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r3-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Zac Blair",
+              "sel": "Billy Horschel",
               "svs": 1.65,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Zac Blair (-14) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+              "rat": "Billy Horschel (-16) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r3-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Kevin Yu",
+              "svs": 1.7,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Kevin Yu (-15) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
             },
             {
               "id": "auto-r3-low",
               "cat": "🤖 Lägsta runda R4",
-              "sel": "Patrick Fishburn",
+              "sel": "Michael Kim",
               "svs": 12.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Patrick Fishburn (-15) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+              "rat": "Michael Kim (-17) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
             },
             {
               "id": "auto-r3-bf",
@@ -541,18 +425,18 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:24:54+00:00",
-          "headline": "Koivun sprinter mot seger – fyra slag före Scheffler på Minnesota",
+          "generatedAt": "2026-07-26T22:07:48+00:00",
+          "headline": "Koivun runaway på -25 – Scheffler på -22 bakom",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jackson Koivun dominerar 3M Open med fyra slags ledning inför finalen, medan världsettorna Scottie Scheffler halkat ned till delad andraplats på -19. Klivningen mellan Koivun och övriga fältet är anmärkningsvärd – närmaste förföljare ligger redan fyra slag bakom, vilket ger den amerikanen ett komfortabelt utgångsläge inför söndag. I striden om toppplaceringarna bryts det mellan en bred grupp på -17 till -18, där både Brian Harman och Ben Kohles fortfarande har realistiska vinnarchancer. De svenska deltagarna Pontus Nyholm och Jesper Svensson återfinns utanför topp 15 och behöver kraftiga avslutningar för att sätta avtryck på slutresultatet."
+              "b": "Jackson Koivun dominerade 3M Open med överlägsen slutresultat på -25, tre slag före Scottie Scheffler som slutade på -22. Bakom amerikanerna samlades ett starkt fält på -20, där fyra spelare—japanen Hideki Matsuyama, Brian Harman, Denny McCarthy och Chandler Phillips—delades om andra plats, vilket vittnar om en kompetitiv avslutande runda. Ingen svensk lyckades ta sig in i topp 15, då Pontus Nyholm och Jesper Svensson hamnade längre ned på leaderboarden."
             },
             {
               "icon": "list.number",
-              "h": "Leaderboard live (R4)",
-              "b": "—  Jackson Koivun  -23\n—  Scottie Scheffler  -19\n—  Brian Harman  -18\n—  Ben Kohles  -18\n—  Gary Woodland  -17\n—  Billy Horschel  -17\n—  Denny McCarthy  -17\n—  Emiliano Grillo  -17\n—  Jake Knapp  -16\n—  Davis Thompson  -16\n\nKälla: ESPN."
+              "h": "Slutresultat",
+              "b": "—  Jackson Koivun  -25\n—  Scottie Scheffler  -22\n—  Hideki Matsuyama  -20\n—  Brian Harman  -20\n—  Denny McCarthy  -20\n—  Chandler Phillips  -20\n—  Davis Thompson  -19\n—  Emiliano Grillo  -19\n—  Ben Kohles  -18\n—  Gary Woodland  -17\n\nKälla: ESPN."
             },
             {
               "icon": "flag.fill",
@@ -562,7 +446,7 @@
             {
               "icon": "scope",
               "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 7 slag från ledaren. 1 spelare inom 3 slag — vinnar-poolen är smal."
+              "b": "Topp 10 ligger inom 8 slag från ledaren. 1 spelare inom 3 slag — vinnar-poolen är smal."
             },
             {
               "icon": "wave.3.right",
@@ -580,47 +464,47 @@
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Jackson Koivun leder fältet på -23 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+              "rat": "Jackson Koivun leder fältet på -25 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
             },
             {
               "id": "auto-r4-w2",
               "cat": "🤖 Vinnare (värde)",
-              "sel": "Brian Harman",
+              "sel": "Hideki Matsuyama",
               "svs": 5.25,
               "mkt": 0,
               "units": 0.75,
               "conf": 2,
-              "rat": "Brian Harman ligger 5 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+              "rat": "Hideki Matsuyama ligger 5 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
             },
             {
               "id": "auto-r4-t5-1",
               "cat": "🤖 Topp 5",
               "sel": "Scottie Scheffler",
-              "svs": 2.5,
+              "svs": 2.3,
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Scottie Scheffler (-19) sitter i topp-skiktet 4 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Scottie Scheffler (-22) sitter i topp-skiktet 3 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r4-t5-3",
               "cat": "🤖 Topp 5",
-              "sel": "Ben Kohles",
+              "sel": "Brian Harman",
               "svs": 2.7,
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Ben Kohles (-18) sitter i topp-skiktet 5 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Brian Harman (-20) sitter i topp-skiktet 5 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r4-t10-5",
               "cat": "🤖 Topp 10",
-              "sel": "Billy Horschel",
-              "svs": 2.0,
+              "sel": "Chandler Phillips",
+              "svs": 1.9,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Billy Horschel (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
+              "rat": "Chandler Phillips (-20) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
             },
             {
               "id": "auto-r4-t10-7",
@@ -630,37 +514,37 @@
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Emiliano Grillo (-17) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
+              "rat": "Emiliano Grillo (-19) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
             },
             {
               "id": "auto-r4-t20-14",
               "cat": "🤖 Topp 20",
-              "sel": "Séamus Power",
-              "svs": 1.6,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Séamus Power (-15) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r4-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Zac Blair",
+              "sel": "Billy Horschel",
               "svs": 1.65,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Zac Blair (-14) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+              "rat": "Billy Horschel (-16) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r4-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Kevin Yu",
+              "svs": 1.7,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Kevin Yu (-15) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
             },
             {
               "id": "auto-r4-low",
               "cat": "🤖 Lägsta runda R5",
-              "sel": "Patrick Fishburn",
+              "sel": "Michael Kim",
               "svs": 12.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Patrick Fishburn (-15) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+              "rat": "Michael Kim (-17) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
             },
             {
               "id": "auto-r4-bf",
@@ -674,1582 +558,6 @@
             }
           ]
         }
-      },
-      "edge": {
-        "modelVersion": "0.7.0",
-        "simulations": 10000,
-        "remainingRounds": 1,
-        "completedRounds": 3,
-        "roundStarted": true,
-        "sigmaPerRound": 2.8,
-        "assumedSSVig": 0.1,
-        "fieldSize": 144,
-        "hasRealOdds": true,
-        "independentRanking": true,
-        "rankingSource": "OWGR/DG",
-        "picks": [
-          {
-            "name": "Jackson Koivun",
-            "mu": -1.39,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -23,
-            "markets": {
-              "win": {
-                "prob": 0.5794,
-                "fairOdds": 1.73,
-                "realSSOdds": 1.13,
-                "edgePct": -0.3453,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.9468,
-                "fairOdds": 1.06,
-                "estimatedSSOdds": 0.95,
-                "confidence": "Stark"
-              },
-              "top10": {
-                "prob": 0.9906,
-                "fairOdds": 1.01,
-                "estimatedSSOdds": 0.91,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.9996,
-                "fairOdds": 1.0,
-                "estimatedSSOdds": 0.9,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Scottie Scheffler",
-            "mu": -3.16,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -19,
-            "markets": {
-              "win": {
-                "prob": 0.21,
-                "fairOdds": 4.76,
-                "realSSOdds": 8.5,
-                "edgePct": 0.785,
-                "kellyFraction": 0.0262,
-                "recommendedStakePct": 2.62,
-                "confidence": "Spelvärt"
-              },
-              "top5": {
-                "prob": 0.7947,
-                "fairOdds": 1.26,
-                "estimatedSSOdds": 1.13,
-                "confidence": "Stark"
-              },
-              "top10": {
-                "prob": 0.9468,
-                "fairOdds": 1.06,
-                "estimatedSSOdds": 0.95,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.9946,
-                "fairOdds": 1.01,
-                "estimatedSSOdds": 0.91,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Brian Harman",
-            "mu": -1.65,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -18,
-            "markets": {
-              "win": {
-                "prob": 0.049,
-                "fairOdds": 20.41,
-                "realSSOdds": 41.0,
-                "edgePct": 1.009,
-                "kellyFraction": 0.0063,
-                "recommendedStakePct": 0.63,
-                "confidence": "Spelvärt"
-              },
-              "top5": {
-                "prob": 0.4616,
-                "fairOdds": 2.17,
-                "estimatedSSOdds": 1.95,
-                "confidence": "Stark"
-              },
-              "top10": {
-                "prob": 0.7594,
-                "fairOdds": 1.32,
-                "estimatedSSOdds": 1.19,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.9556,
-                "fairOdds": 1.05,
-                "estimatedSSOdds": 0.95,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Ben Kohles",
-            "mu": -1.31,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -18,
-            "markets": {
-              "win": {
-                "prob": 0.041,
-                "fairOdds": 24.39,
-                "realSSOdds": 51.0,
-                "edgePct": 1.091,
-                "kellyFraction": 0.0055,
-                "recommendedStakePct": 0.55,
-                "confidence": "Spelvärt"
-              },
-              "top5": {
-                "prob": 0.4266,
-                "fairOdds": 2.34,
-                "estimatedSSOdds": 2.11,
-                "confidence": "Stark"
-              },
-              "top10": {
-                "prob": 0.7234,
-                "fairOdds": 1.38,
-                "estimatedSSOdds": 1.24,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.9427,
-                "fairOdds": 1.06,
-                "estimatedSSOdds": 0.95,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Gary Woodland",
-            "mu": -1.77,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -17,
-            "markets": {
-              "win": {
-                "prob": 0.0236,
-                "fairOdds": 42.37,
-                "estimatedSSOdds": 38.13,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.3549,
-                "fairOdds": 2.82,
-                "estimatedSSOdds": 2.54,
-                "confidence": "Stark"
-              },
-              "top10": {
-                "prob": 0.6643,
-                "fairOdds": 1.51,
-                "estimatedSSOdds": 1.36,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.9244,
-                "fairOdds": 1.08,
-                "estimatedSSOdds": 0.97,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Denny McCarthy",
-            "mu": -1.33,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -17,
-            "markets": {
-              "win": {
-                "prob": 0.0202,
-                "fairOdds": 49.5,
-                "realSSOdds": 81.0,
-                "edgePct": 0.6362,
-                "kellyFraction": 0.002,
-                "recommendedStakePct": 0.2,
-                "confidence": "Spelvärt"
-              },
-              "top5": {
-                "prob": 0.286,
-                "fairOdds": 3.5,
-                "estimatedSSOdds": 3.15,
-                "confidence": "Stark"
-              },
-              "top10": {
-                "prob": 0.5905,
-                "fairOdds": 1.69,
-                "estimatedSSOdds": 1.52,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.8909,
-                "fairOdds": 1.12,
-                "estimatedSSOdds": 1.01,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Emiliano Grillo",
-            "mu": -1.29,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -17,
-            "markets": {
-              "win": {
-                "prob": 0.02,
-                "fairOdds": 50.0,
-                "realSSOdds": 101.0,
-                "edgePct": 1.02,
-                "kellyFraction": 0.0026,
-                "recommendedStakePct": 0.26,
-                "confidence": "Spelvärt"
-              },
-              "top5": {
-                "prob": 0.2758,
-                "fairOdds": 3.63,
-                "estimatedSSOdds": 3.27,
-                "confidence": "Stark"
-              },
-              "top10": {
-                "prob": 0.5833,
-                "fairOdds": 1.71,
-                "estimatedSSOdds": 1.54,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.8862,
-                "fairOdds": 1.13,
-                "estimatedSSOdds": 1.02,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Billy Horschel",
-            "mu": -1.05,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -17,
-            "markets": {
-              "win": {
-                "prob": 0.0138,
-                "fairOdds": 72.46,
-                "realSSOdds": 101.0,
-                "edgePct": 0.3938,
-                "kellyFraction": 0.001,
-                "recommendedStakePct": 0.1,
-                "confidence": "Spelvärt"
-              },
-              "top5": {
-                "prob": 0.2515,
-                "fairOdds": 3.98,
-                "estimatedSSOdds": 3.58,
-                "confidence": "Stark"
-              },
-              "top10": {
-                "prob": 0.5521,
-                "fairOdds": 1.81,
-                "estimatedSSOdds": 1.63,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.8756,
-                "fairOdds": 1.14,
-                "estimatedSSOdds": 1.03,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Jake Knapp",
-            "mu": -1.65,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -16,
-            "markets": {
-              "win": {
-                "prob": 0.0123,
-                "fairOdds": 81.3,
-                "estimatedSSOdds": 73.17,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.213,
-                "fairOdds": 4.69,
-                "estimatedSSOdds": 4.22,
-                "confidence": "Lutar"
-              },
-              "top10": {
-                "prob": 0.496,
-                "fairOdds": 2.02,
-                "estimatedSSOdds": 1.82,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.8387,
-                "fairOdds": 1.19,
-                "estimatedSSOdds": 1.07,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Chandler Phillips",
-            "mu": -1.0,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -16,
-            "markets": {
-              "win": {
-                "prob": 0.0068,
-                "fairOdds": 147.06,
-                "realSSOdds": 251.0,
-                "edgePct": 0.7068,
-                "kellyFraction": 0.0007,
-                "recommendedStakePct": 0.07,
-                "confidence": "Spelvärt"
-              },
-              "top5": {
-                "prob": 0.1503,
-                "fairOdds": 6.65,
-                "estimatedSSOdds": 5.99,
-                "confidence": "Lutar"
-              },
-              "top10": {
-                "prob": 0.4097,
-                "fairOdds": 2.44,
-                "estimatedSSOdds": 2.2,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.7927,
-                "fairOdds": 1.26,
-                "estimatedSSOdds": 1.13,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Hideki Matsuyama",
-            "mu": -1.82,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -15,
-            "markets": {
-              "win": {
-                "prob": 0.0062,
-                "fairOdds": 161.29,
-                "estimatedSSOdds": 145.16,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.1357,
-                "fairOdds": 7.37,
-                "estimatedSSOdds": 6.63,
-                "confidence": "Jämn"
-              },
-              "top10": {
-                "prob": 0.3867,
-                "fairOdds": 2.59,
-                "estimatedSSOdds": 2.33,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.7631,
-                "fairOdds": 1.31,
-                "estimatedSSOdds": 1.18,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Davis Thompson",
-            "mu": -1.06,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -16,
-            "markets": {
-              "win": {
-                "prob": 0.0048,
-                "fairOdds": 208.33,
-                "estimatedSSOdds": 187.5,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.1531,
-                "fairOdds": 6.53,
-                "estimatedSSOdds": 5.88,
-                "confidence": "Lutar"
-              },
-              "top10": {
-                "prob": 0.4115,
-                "fairOdds": 2.43,
-                "estimatedSSOdds": 2.19,
-                "confidence": "Stark"
-              },
-              "top20": {
-                "prob": 0.787,
-                "fairOdds": 1.27,
-                "estimatedSSOdds": 1.14,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Tom Kim",
-            "mu": -1.69,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -14,
-            "markets": {
-              "win": {
-                "prob": 0.002,
-                "fairOdds": 500.0,
-                "estimatedSSOdds": 450.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0662,
-                "fairOdds": 15.11,
-                "estimatedSSOdds": 13.6,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.2323,
-                "fairOdds": 4.3,
-                "estimatedSSOdds": 3.87,
-                "confidence": "Jämn"
-              },
-              "top20": {
-                "prob": 0.6138,
-                "fairOdds": 1.63,
-                "estimatedSSOdds": 1.47,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Michael Brennan",
-            "mu": -1.36,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -14,
-            "markets": {
-              "win": {
-                "prob": 0.0019,
-                "fairOdds": 526.32,
-                "estimatedSSOdds": 473.69,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0487,
-                "fairOdds": 20.53,
-                "estimatedSSOdds": 18.48,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.1992,
-                "fairOdds": 5.02,
-                "estimatedSSOdds": 4.52,
-                "confidence": "Jämn"
-              },
-              "top20": {
-                "prob": 0.5668,
-                "fairOdds": 1.76,
-                "estimatedSSOdds": 1.58,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Patrick Fishburn",
-            "mu": -0.72,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -15,
-            "markets": {
-              "win": {
-                "prob": 0.0014,
-                "fairOdds": 714.29,
-                "estimatedSSOdds": 642.86,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0649,
-                "fairOdds": 15.41,
-                "estimatedSSOdds": 13.87,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.2299,
-                "fairOdds": 4.35,
-                "estimatedSSOdds": 3.91,
-                "confidence": "Jämn"
-              },
-              "top20": {
-                "prob": 0.6209,
-                "fairOdds": 1.61,
-                "estimatedSSOdds": 1.45,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Lee Hodges",
-            "mu": -1.01,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -14,
-            "markets": {
-              "win": {
-                "prob": 0.0011,
-                "fairOdds": 909.09,
-                "estimatedSSOdds": 818.18,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0385,
-                "fairOdds": 25.97,
-                "estimatedSSOdds": 23.37,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.1782,
-                "fairOdds": 5.61,
-                "estimatedSSOdds": 5.05,
-                "confidence": "Jämn"
-              },
-              "top20": {
-                "prob": 0.5227,
-                "fairOdds": 1.91,
-                "estimatedSSOdds": 1.72,
-                "confidence": "Lutar"
-              }
-            }
-          },
-          {
-            "name": "Christiaan Bezuidenhout",
-            "mu": -1.12,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -14,
-            "markets": {
-              "win": {
-                "prob": 0.001,
-                "fairOdds": 1000.0,
-                "estimatedSSOdds": 900.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0423,
-                "fairOdds": 23.64,
-                "estimatedSSOdds": 21.28,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.1697,
-                "fairOdds": 5.89,
-                "estimatedSSOdds": 5.3,
-                "confidence": "Jämn"
-              },
-              "top20": {
-                "prob": 0.5389,
-                "fairOdds": 1.86,
-                "estimatedSSOdds": 1.67,
-                "confidence": "Lutar"
-              }
-            }
-          },
-          {
-            "name": "Rasmus Neergaard-Petersen",
-            "mu": -1.26,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -14,
-            "markets": {
-              "win": {
-                "prob": 0.0009,
-                "fairOdds": 1111.11,
-                "estimatedSSOdds": 1000.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0481,
-                "fairOdds": 20.79,
-                "estimatedSSOdds": 18.71,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.1862,
-                "fairOdds": 5.37,
-                "estimatedSSOdds": 4.83,
-                "confidence": "Jämn"
-              },
-              "top20": {
-                "prob": 0.5467,
-                "fairOdds": 1.83,
-                "estimatedSSOdds": 1.65,
-                "confidence": "Lutar"
-              }
-            }
-          },
-          {
-            "name": "Zac Blair",
-            "mu": -0.89,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -14,
-            "markets": {
-              "win": {
-                "prob": 0.0008,
-                "fairOdds": 1250.0,
-                "estimatedSSOdds": 1125.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0362,
-                "fairOdds": 27.62,
-                "estimatedSSOdds": 24.86,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.161,
-                "fairOdds": 6.21,
-                "estimatedSSOdds": 5.59,
-                "confidence": "Jämn"
-              },
-              "top20": {
-                "prob": 0.5047,
-                "fairOdds": 1.98,
-                "estimatedSSOdds": 1.78,
-                "confidence": "Lutar"
-              }
-            }
-          },
-          {
-            "name": "Zecheng Dou",
-            "mu": 0.62,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -15,
-            "markets": {
-              "win": {
-                "prob": 0.0007,
-                "fairOdds": 1428.57,
-                "estimatedSSOdds": 1285.71,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0266,
-                "fairOdds": 37.59,
-                "estimatedSSOdds": 33.83,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.1192,
-                "fairOdds": 8.39,
-                "estimatedSSOdds": 7.55,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.4321,
-                "fairOdds": 2.31,
-                "estimatedSSOdds": 2.08,
-                "confidence": "Lutar"
-              }
-            }
-          },
-          {
-            "name": "Michael Kim",
-            "mu": -1.32,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -13,
-            "markets": {
-              "win": {
-                "prob": 0.0005,
-                "fairOdds": 2000.0,
-                "estimatedSSOdds": 1800.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0241,
-                "fairOdds": 41.49,
-                "estimatedSSOdds": 37.34,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.1181,
-                "fairOdds": 8.47,
-                "estimatedSSOdds": 7.62,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.4293,
-                "fairOdds": 2.33,
-                "estimatedSSOdds": 2.1,
-                "confidence": "Lutar"
-              }
-            }
-          },
-          {
-            "name": "Séamus Power",
-            "mu": 0.62,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -15,
-            "markets": {
-              "win": {
-                "prob": 0.0004,
-                "fairOdds": 2500.0,
-                "estimatedSSOdds": 2250.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0261,
-                "fairOdds": 38.31,
-                "estimatedSSOdds": 34.48,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.1214,
-                "fairOdds": 8.24,
-                "estimatedSSOdds": 7.42,
-                "confidence": "Jämn"
-              },
-              "top20": {
-                "prob": 0.4371,
-                "fairOdds": 2.29,
-                "estimatedSSOdds": 2.06,
-                "confidence": "Lutar"
-              }
-            }
-          },
-          {
-            "name": "John Parry",
-            "mu": -1.1,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -13,
-            "markets": {
-              "win": {
-                "prob": 0.0004,
-                "fairOdds": 2500.0,
-                "estimatedSSOdds": 2250.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0192,
-                "fairOdds": 52.08,
-                "estimatedSSOdds": 46.87,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.1015,
-                "fairOdds": 9.85,
-                "estimatedSSOdds": 8.87,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.3964,
-                "fairOdds": 2.52,
-                "estimatedSSOdds": 2.27,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Kevin Streelman",
-            "mu": -0.09,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -13,
-            "markets": {
-              "win": {
-                "prob": 0.0003,
-                "fairOdds": 3333.33,
-                "estimatedSSOdds": 3000.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0081,
-                "fairOdds": 123.46,
-                "estimatedSSOdds": 111.11,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0561,
-                "fairOdds": 17.83,
-                "estimatedSSOdds": 16.05,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.2612,
-                "fairOdds": 3.83,
-                "estimatedSSOdds": 3.45,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Kevin Roy",
-            "mu": -0.94,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -13,
-            "markets": {
-              "win": {
-                "prob": 0.0003,
-                "fairOdds": 3333.33,
-                "estimatedSSOdds": 3000.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0178,
-                "fairOdds": 56.18,
-                "estimatedSSOdds": 50.56,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0913,
-                "fairOdds": 10.95,
-                "estimatedSSOdds": 9.86,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.3836,
-                "fairOdds": 2.61,
-                "estimatedSSOdds": 2.35,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Chris Kirk",
-            "mu": -0.97,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -13,
-            "markets": {
-              "win": {
-                "prob": 0.0003,
-                "fairOdds": 3333.33,
-                "estimatedSSOdds": 3000.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0165,
-                "fairOdds": 60.61,
-                "estimatedSSOdds": 54.55,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0912,
-                "fairOdds": 10.96,
-                "estimatedSSOdds": 9.86,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.3779,
-                "fairOdds": 2.65,
-                "estimatedSSOdds": 2.38,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Mark Hubbard",
-            "mu": -0.81,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -12,
-            "markets": {
-              "win": {
-                "prob": 0.0003,
-                "fairOdds": 3333.33,
-                "estimatedSSOdds": 3000.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0058,
-                "fairOdds": 172.41,
-                "estimatedSSOdds": 155.17,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0391,
-                "fairOdds": 25.58,
-                "estimatedSSOdds": 23.02,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.2355,
-                "fairOdds": 4.25,
-                "estimatedSSOdds": 3.83,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Max Greyserman",
-            "mu": -1.08,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -12,
-            "markets": {
-              "win": {
-                "prob": 0.0002,
-                "fairOdds": 5000.0,
-                "estimatedSSOdds": 4500.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0085,
-                "fairOdds": 117.65,
-                "estimatedSSOdds": 105.89,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0524,
-                "fairOdds": 19.08,
-                "estimatedSSOdds": 17.17,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.262,
-                "fairOdds": 3.82,
-                "estimatedSSOdds": 3.44,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Kurt Kitayama",
-            "mu": -1.49,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -12,
-            "markets": {
-              "win": {
-                "prob": 0.0002,
-                "fairOdds": 5000.0,
-                "estimatedSSOdds": 4500.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.015,
-                "fairOdds": 66.67,
-                "estimatedSSOdds": 60.0,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.075,
-                "fairOdds": 13.33,
-                "estimatedSSOdds": 12.0,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.3217,
-                "fairOdds": 3.11,
-                "estimatedSSOdds": 2.8,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Davis Chatfield",
-            "mu": -0.46,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -13,
-            "markets": {
-              "win": {
-                "prob": 0.0001,
-                "fairOdds": 10000.0,
-                "estimatedSSOdds": 9000.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0106,
-                "fairOdds": 94.34,
-                "estimatedSSOdds": 84.91,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0651,
-                "fairOdds": 15.36,
-                "estimatedSSOdds": 13.82,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.3058,
-                "fairOdds": 3.27,
-                "estimatedSSOdds": 2.94,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Vince Whaley",
-            "mu": 0.92,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -11,
-            "markets": {
-              "win": {
-                "prob": 0.0001,
-                "fairOdds": 10000.0,
-                "estimatedSSOdds": 9000.0,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0007,
-                "fairOdds": 1428.57,
-                "estimatedSSOdds": 1285.71,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0044,
-                "fairOdds": 227.27,
-                "estimatedSSOdds": 204.54,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.0415,
-                "fairOdds": 24.1,
-                "estimatedSSOdds": 21.69,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Kevin Yu",
-            "mu": 0.77,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -13,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0029,
-                "fairOdds": 344.83,
-                "estimatedSSOdds": 310.35,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0246,
-                "fairOdds": 40.65,
-                "estimatedSSOdds": 36.59,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.1708,
-                "fairOdds": 5.85,
-                "estimatedSSOdds": 5.26,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Austin Smotherman",
-            "mu": -0.93,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -12,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0079,
-                "fairOdds": 126.58,
-                "estimatedSSOdds": 113.92,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0458,
-                "fairOdds": 21.83,
-                "estimatedSSOdds": 19.65,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.243,
-                "fairOdds": 4.12,
-                "estimatedSSOdds": 3.71,
-                "confidence": "Jämn"
-              }
-            }
-          },
-          {
-            "name": "Maverick McNealy",
-            "mu": -1.34,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -11,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0039,
-                "fairOdds": 256.41,
-                "estimatedSSOdds": 230.77,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0303,
-                "fairOdds": 33.0,
-                "estimatedSSOdds": 29.7,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.185,
-                "fairOdds": 5.41,
-                "estimatedSSOdds": 4.87,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Muzzy Donohue",
-            "mu": 0.92,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -11,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0005,
-                "fairOdds": 2000.0,
-                "estimatedSSOdds": 1800.0,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0033,
-                "fairOdds": 303.03,
-                "estimatedSSOdds": 272.73,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.0475,
-                "fairOdds": 21.05,
-                "estimatedSSOdds": 18.95,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Joel Dahmen",
-            "mu": -0.46,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -11,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0014,
-                "fairOdds": 714.29,
-                "estimatedSSOdds": 642.86,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0126,
-                "fairOdds": 79.37,
-                "estimatedSSOdds": 71.43,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.1087,
-                "fairOdds": 9.2,
-                "estimatedSSOdds": 8.28,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Hank Lebioda",
-            "mu": -0.33,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -11,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0012,
-                "fairOdds": 833.33,
-                "estimatedSSOdds": 750.0,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0117,
-                "fairOdds": 85.47,
-                "estimatedSSOdds": 76.92,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.1033,
-                "fairOdds": 9.68,
-                "estimatedSSOdds": 8.71,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Chandler Blanchet",
-            "mu": -0.77,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -11,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0027,
-                "fairOdds": 370.37,
-                "estimatedSSOdds": 333.33,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0189,
-                "fairOdds": 52.91,
-                "estimatedSSOdds": 47.62,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.1355,
-                "fairOdds": 7.38,
-                "estimatedSSOdds": 6.64,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Pontus Nyholm",
-            "mu": -0.24,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -10,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0003,
-                "fairOdds": 3333.33,
-                "estimatedSSOdds": 3000.0,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0039,
-                "fairOdds": 256.41,
-                "estimatedSSOdds": 230.77,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.0522,
-                "fairOdds": 19.16,
-                "estimatedSSOdds": 17.24,
-                "confidence": "Svag"
-              }
-            }
-          },
-          {
-            "name": "Jordan Smith",
-            "mu": -0.97,
-            "muSource": "3r form 23% + baseline",
-            "completedScore": -10,
-            "markets": {
-              "win": {
-                "prob": 0.0,
-                "fairOdds": null,
-                "estimatedSSOdds": null,
-                "confidence": "Svag"
-              },
-              "top5": {
-                "prob": 0.0008,
-                "fairOdds": 1250.0,
-                "estimatedSSOdds": 1125.0,
-                "confidence": "Svag"
-              },
-              "top10": {
-                "prob": 0.0092,
-                "fairOdds": 108.7,
-                "estimatedSSOdds": 97.83,
-                "confidence": "Svag"
-              },
-              "top20": {
-                "prob": 0.0879,
-                "fairOdds": 11.38,
-                "estimatedSSOdds": 10.24,
-                "confidence": "Svag"
-              }
-            }
-          }
-        ],
-        "topByMarket": {
-          "win": [
-            {
-              "name": "Jackson Koivun",
-              "prob": 0.5794,
-              "fairOdds": 1.73,
-              "confidence": "Övervärderad",
-              "realSSOdds": 1.13,
-              "edgePct": -0.3453,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
-            },
-            {
-              "name": "Scottie Scheffler",
-              "prob": 0.21,
-              "fairOdds": 4.76,
-              "confidence": "Spelvärt",
-              "realSSOdds": 8.5,
-              "edgePct": 0.785,
-              "kellyFraction": 0.0262,
-              "recommendedStakePct": 2.62
-            },
-            {
-              "name": "Brian Harman",
-              "prob": 0.049,
-              "fairOdds": 20.41,
-              "confidence": "Spelvärt",
-              "realSSOdds": 41.0,
-              "edgePct": 1.009,
-              "kellyFraction": 0.0063,
-              "recommendedStakePct": 0.63
-            },
-            {
-              "name": "Ben Kohles",
-              "prob": 0.041,
-              "fairOdds": 24.39,
-              "confidence": "Spelvärt",
-              "realSSOdds": 51.0,
-              "edgePct": 1.091,
-              "kellyFraction": 0.0055,
-              "recommendedStakePct": 0.55
-            },
-            {
-              "name": "Gary Woodland",
-              "prob": 0.0236,
-              "fairOdds": 42.37,
-              "confidence": "Svag",
-              "estimatedSSOdds": 38.13
-            },
-            {
-              "name": "Denny McCarthy",
-              "prob": 0.0202,
-              "fairOdds": 49.5,
-              "confidence": "Spelvärt",
-              "realSSOdds": 81.0,
-              "edgePct": 0.6362,
-              "kellyFraction": 0.002,
-              "recommendedStakePct": 0.2
-            },
-            {
-              "name": "Emiliano Grillo",
-              "prob": 0.02,
-              "fairOdds": 50.0,
-              "confidence": "Spelvärt",
-              "realSSOdds": 101.0,
-              "edgePct": 1.02,
-              "kellyFraction": 0.0026,
-              "recommendedStakePct": 0.26
-            },
-            {
-              "name": "Billy Horschel",
-              "prob": 0.0138,
-              "fairOdds": 72.46,
-              "confidence": "Spelvärt",
-              "realSSOdds": 101.0,
-              "edgePct": 0.3938,
-              "kellyFraction": 0.001,
-              "recommendedStakePct": 0.1
-            }
-          ],
-          "top5": [
-            {
-              "name": "Jackson Koivun",
-              "prob": 0.9468,
-              "fairOdds": 1.06,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.95
-            },
-            {
-              "name": "Scottie Scheffler",
-              "prob": 0.7947,
-              "fairOdds": 1.26,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.13
-            },
-            {
-              "name": "Brian Harman",
-              "prob": 0.4616,
-              "fairOdds": 2.17,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.95
-            },
-            {
-              "name": "Ben Kohles",
-              "prob": 0.4266,
-              "fairOdds": 2.34,
-              "confidence": "Stark",
-              "estimatedSSOdds": 2.11
-            },
-            {
-              "name": "Gary Woodland",
-              "prob": 0.3549,
-              "fairOdds": 2.82,
-              "confidence": "Stark",
-              "estimatedSSOdds": 2.54
-            },
-            {
-              "name": "Denny McCarthy",
-              "prob": 0.286,
-              "fairOdds": 3.5,
-              "confidence": "Stark",
-              "estimatedSSOdds": 3.15
-            },
-            {
-              "name": "Emiliano Grillo",
-              "prob": 0.2758,
-              "fairOdds": 3.63,
-              "confidence": "Stark",
-              "estimatedSSOdds": 3.27
-            },
-            {
-              "name": "Billy Horschel",
-              "prob": 0.2515,
-              "fairOdds": 3.98,
-              "confidence": "Stark",
-              "estimatedSSOdds": 3.58
-            }
-          ],
-          "top10": [
-            {
-              "name": "Jackson Koivun",
-              "prob": 0.9906,
-              "fairOdds": 1.01,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.91
-            },
-            {
-              "name": "Scottie Scheffler",
-              "prob": 0.9468,
-              "fairOdds": 1.06,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.95
-            },
-            {
-              "name": "Brian Harman",
-              "prob": 0.7594,
-              "fairOdds": 1.32,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.19
-            },
-            {
-              "name": "Ben Kohles",
-              "prob": 0.7234,
-              "fairOdds": 1.38,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.24
-            },
-            {
-              "name": "Gary Woodland",
-              "prob": 0.6643,
-              "fairOdds": 1.51,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.36
-            },
-            {
-              "name": "Denny McCarthy",
-              "prob": 0.5905,
-              "fairOdds": 1.69,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.52
-            },
-            {
-              "name": "Emiliano Grillo",
-              "prob": 0.5833,
-              "fairOdds": 1.71,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.54
-            },
-            {
-              "name": "Billy Horschel",
-              "prob": 0.5521,
-              "fairOdds": 1.81,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.63
-            }
-          ],
-          "top20": [
-            {
-              "name": "Jackson Koivun",
-              "prob": 0.9996,
-              "fairOdds": 1.0,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.9
-            },
-            {
-              "name": "Scottie Scheffler",
-              "prob": 0.9946,
-              "fairOdds": 1.01,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.91
-            },
-            {
-              "name": "Brian Harman",
-              "prob": 0.9556,
-              "fairOdds": 1.05,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.95
-            },
-            {
-              "name": "Ben Kohles",
-              "prob": 0.9427,
-              "fairOdds": 1.06,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.95
-            },
-            {
-              "name": "Gary Woodland",
-              "prob": 0.9244,
-              "fairOdds": 1.08,
-              "confidence": "Stark",
-              "estimatedSSOdds": 0.97
-            },
-            {
-              "name": "Denny McCarthy",
-              "prob": 0.8909,
-              "fairOdds": 1.12,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.01
-            },
-            {
-              "name": "Emiliano Grillo",
-              "prob": 0.8862,
-              "fairOdds": 1.13,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.02
-            },
-            {
-              "name": "Billy Horschel",
-              "prob": 0.8756,
-              "fairOdds": 1.14,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.03
-            }
-          ],
-          "cut": []
-        },
-        "topEdges": []
       }
     },
     {
@@ -2268,13 +576,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:25:02+00:00",
-          "headline": "Fox slår alla – Åberg delad tolfte på -5",
+          "generatedAt": "2026-07-26T22:07:51+00:00",
+          "headline": "Fox solerar före Young - Åberg slutar delad tolfte på -5",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före amerikanen Cameron Young som slutade på nio slag under par. Scottie Scheffler och Tommy Fleetwood delade fjärde plats på sju slag under par, men kunde inte hålla jämna steg med Fox' konsistenta spel under finaldagarna. Ludvig Åberg presenterade en solid prestation och slutade delad tolfte på fem slag under par, vilket visar på ett växande självförtroende från svensken i majortävlingar."
+              "b": "Ryan Fox från Nya Zealand vann The Open med tio under par, två slag före Cameron Young som slutade på nio under. Fox visade överlägsna greenjobb under slutet av tävlingen, medan Young aldrig helt kunde hitta rytmen trots flera närbilder. Ludvig Åberg presterade solitt och säkrade en tolfte plats på fem under par, vilket visar kontinuitet från svensken efter starka försäsonger. Alex Noren framgår inte i topp 15, vilket indikerar att det blev en utmanande vecka för honom på denna banan."
             },
             {
               "icon": "list.number",
@@ -2404,13 +712,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:25:06+00:00",
-          "headline": "Fox stoppar Young på -10 medan Åberg kämpar på delad tolfte plats",
+          "generatedAt": "2026-07-26T22:07:55+00:00",
+          "headline": "Fox slutar på -10 och håller undan – Åberg slutar delad tolfte på -5",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före Cameron Young som slutade sexa på nio under. Scottie Scheffler och Tommy Fleetwood följde på sju under par vardera, men kunde inte hålla jämna steg med Fox framåt i sista rundan. Ludvig Åberg placerade sig elfte på fem under par och fortsätter därmed att visa konsekvent form på högsta nivå, medan Alex Noren inte nådde topplaceringar i detta arrangement."
+              "b": "Ryan Fox från Nya Zeeland tog sin första PGA Tour-seger med tio slag under par, två slag före Cameron Young som höll sig stabil genom hela veckan. Scottie Scheffler slutade fyra slag bakom vinnaren trots att han räknades som favorit innan start, vilket tyder på att Fox var överordnad både mentalt och tekniskt när det räknades. Ludvig Åberg placerade sig delad tolfte på fem slag under par – en respektabel prestation som visar att svensken fortfarande hittar sin PGA Tour-rytm efter övergången från DP World Tour."
             },
             {
               "icon": "list.number",
@@ -2540,13 +848,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:25:09+00:00",
-          "headline": "Fox segrare på -10 – Åberg delar tolfte plats på -5",
+          "generatedAt": "2026-07-26T22:08:00+00:00",
+          "headline": "Fox stoppade Young på -10 – Åberg delad tolfte på -5",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland tog The Open-segern med tio slag under par, två slag före Cameron Young som slutade tvåa. Fox visade en konsekvent rond under turneringen medan Young och Sam Burns på tredje plats höll tätt i slutspurten. Ludvig Åberg slutade på delad tolfte plats med fem slag under par, vilket representerar en stabil prestentation för svensken i ett starkt fält där världsettan Scottie Scheffler hamnade på delad fjärde plats tillsammans med Tommy Fleetwood."
+              "b": "Ryan Fox's seger på tio slag under par markerar en klar dominans över konkurrenterna, med Cameron Young på nio slag under par som närmaste förföljare. Scheffler och Fleetwood på sju slag under par fick aldrig fart tillräckligt för att hota ledarnas position under slutrundorna. Ludvig Åberg slutade starkt på tolfte plats tillsammans med flera andra på fem slag under par, ett solidt resultat som visar hans förmåga att hålla sig bland eliten även på de mest krävande banan."
             },
             {
               "icon": "list.number",
@@ -2676,13 +984,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:25:13+00:00",
-          "headline": "Fox stoppade Young – Åberg på -5 räddade topptio",
+          "generatedAt": "2026-07-26T22:08:04+00:00",
+          "headline": "Fox stoppar alla på -10 – Åberg jagar på delad tolfte",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ryan Fox från Nya Zeeland vann The Open med tio slag under par, två slag före Cameron Young som stängde hårt in mot slutet. Scottie Scheffler, världsettan, nådde endast sju slag under par och hamnade långt från topstriden, vilket pekar på att kursen och förhållandena favoritiserade en specifik spelstil denna vecka. Ludvig Åberg slutade på delt tolfte plats med fem slag under par efter en ojämn turnering, medan Alex Noren inte placerade sig i topp 15."
+              "b": "Ryan Fox från Nya Zeeland segrade med tio slag under par och en slags marginal före Cameron Young, som visade konsekvent golf genom hela veckan. Scottie Scheffler och Tommy Fleetwood slutade femton slag efter vinnaren och representerar en större grupp av etablerade namn som aldrig riktigt fick ordning på sitt spel under tävlingen. Ludvig Åberg slutade delad tolfte på fem slag under par, vilket var en solid prestation men långt från att konkurrera om segern, medan landsman Alex Noren inte nådde topp 20."
             },
             {
               "icon": "list.number",
@@ -2827,13 +1135,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:25:17+00:00",
-          "headline": "Mazzoli dominerar Puntacana – Sargent och Clements jagar på -19",
+          "generatedAt": "2026-07-26T22:08:08+00:00",
+          "headline": "Mazzoli körde ifrån konkurrenterna – vann Puntacana med tjugo slag under par",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli dominerade Corales Puntacana Championship och säkrade segern med 20 under par, ett slag före amerikanen Gordon Sargent och engelsmannen Todd Clements som båda slutade på 19 under. Italienaren höll kontrollen genom turneringen och visade en stabil prestation som räckte för att hålla en stark motståndarlista på armslängds avstånd. Ingen svensk kom in i topp 20, där Jens Dantorp och Sebastian Söderberg fick nöja sig med placeringar längre ned på resultatlistan."
+              "b": "Stefano Mazzoli från Italien tog hem segern på Corales Puntacana Championship med en slagstark avslutning på -20, ett slag före amerikanen Gordon Sargent och engelske Todd Clements. Mazzoli höll kontrollen genom turneringen och visade en stabil prestation som räckte till slutlig vinst trots hårt tryck från de två jagande konkurrenterna. I gruppen därnäst följer Will Gordon och Ben James båda på -18, medan danskern Jacob Skov Olesen placerade sig starkt på -17 tillsammans med tyskarna Marcel Schneider och amerikanen Joe Highsmith. Svenska namn återfanns inte i topp-15, med Jens Dantorp och Sebastian Söderberg långt från poängsättningen."
             },
             {
               "icon": "list.number",
@@ -2963,13 +1271,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:25:20+00:00",
-          "headline": "Mazzoli trollar Puntacana – Sargent och Clements på -19 jagar italienaren",
+          "generatedAt": "2026-07-26T22:08:12+00:00",
+          "headline": "Mazzoli dominerar Puntacana – Sargent och Clements jagar på -19",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli vann Corales Puntacana Championship med ett slag före amerikanerna Gordon Sargent och Todd Clements, vilka delade andraplats på -19. Italienaren dominerade slutsegmentet och höll undan förföljarna på en avslutning där många spelare kämpade med vädrets påverkan. De svenska representanterna Jens Dantorp och Sebastian Söderberg nådde inte topp 20 i fältet och får ta med sig erfarenheten från en intensiv tävling på The Corales Golf Club."
+              "b": "Stefano Mazzoli från Italien tog hem Corales Puntacana Championship med -20, två slag före amerikanerna Gordon Sargent och engelske Todd Clements som delade andraplats på -19. Mazzoli håll en stabil prestation genom veckans alla rundor och visade större konsistens än förföljarna i slutet av turneringen. Svenska representanterna Jens Dantorp och Sebastian Söderberg nådde inte bland de tjugo bästa på resultatlistan."
             },
             {
               "icon": "list.number",
@@ -3099,13 +1407,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:25:24+00:00",
-          "headline": "Mazzoli dominerar Puntacana – italien tar sitt andra PGA-seger på tjugo slag under par",
+          "generatedAt": "2026-07-26T22:08:15+00:00",
+          "headline": "Mazzoli trollar Puntacana – italienaren vinner på -20 före Sargent och Clements",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli kontrollerade Corales Puntacana Championship från start till mål och vann överlägset med tjugo slag under par, två slag före Gordon Sargent och Todd Clements. Italienaren visade solid spel under hela veckan utan större svackor, vilket räckte långt då konkurrenterna aldrig kunnat skapa verklig press på leaderboarden. Bland svenskarna presterade varken Jens Dantorp eller Sebastian Söderberg tillräckligt för att hamna i relevanta resultatpositioner på en tour där kvaliteten fortsatt är högre än på utvecklingstouren."
+              "b": "Stefano Mazzoli från Italien tog ett övertygande sista steg fram och vann Corales Puntacana Championship med tjugo slag under par, två slag före Gordon Sargent och Todd Clements som delade andraplats. Italienaren styrde controlleringen från ledningen genom slutrundan och uppvisade stabilitet när konkurrensen var hårdast, medan amerikanerna Sargent och engelske Clements pressade men inte räckte till. Jens Dantorp och Sebastian Söderberg nådde inte slutresultatet bland de femton bästa men har nu möjlighet att fortsätta sin säsonguppbyggnad på PGA Tour inför kommande tävlingar."
             },
             {
               "icon": "list.number",
@@ -3235,13 +1543,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:25:29+00:00",
-          "headline": "Mazzoli dominerar Puntacana – Sargent och Clements ett slag bakom",
+          "generatedAt": "2026-07-26T22:08:19+00:00",
+          "headline": "Mazzoli håller på -20 när Sargent och Clements jagar på -19",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Stefano Mazzoli från Italien tog hemåt segern med sex slag före tvåan efter en stark avslutande rond på Corales Golf Club. Amerikanerna Gordon Sargent och Todd Clements delade andraplats på 19 under par, men kunde aldrig hota Mazzolis ledning som byggdes successivt under veckan. Svenskarna Jens Dantorp och Sebastian Söderberg lyckades inte ta sig in bland de högre placerade, men tävlingen utgör värdefull träning inför fortsatta PGA Tour-uppgifter senare på säsongen."
+              "b": "Stefano Mazzoli från Italien tog sitt första PGA Tour-seger genom att avsluta Corales Puntacana Championship med 20 slag under par, två slag före amerikanen Gordon Sargent och engelske Todd Clements på delad andraplats. Mazzolis konsistens under hela veckan avgjorde på ett par där konkurrenterna inte kunde leverera samtidigt — Sargent och Clements möttes aldrig Mazzolis press trots starka rundor in på slutet. Av de två svenska bidragen slutade varken Jens Dantorp eller Sebastian Söderberg i närheten av topplaceringarna, vilket speglar längden på det amerikanska fältet på denna nivå."
             },
             {
               "icon": "list.number",
@@ -3386,13 +1694,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-26T19:25:33+00:00",
-          "headline": "Jag kan inte skriva rubriken utan att veta vilken bana Rocket Classic spelas på. Kan du bekräfta vilken golfbana tävlingen hålls på?",
+          "generatedAt": "2026-07-26T22:08:23+00:00",
+          "headline": "Jag kan tyvärr inte skriva rubriken eftersom jag inte har åtkomst till fältlistan från ESPN som du refererar till. För att skriva en kraftfull och konkret rubrik behöver jag veta vilka spelare som är med i tävlingen.\n\nKan du dela fältlistan eller de spel",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# Rocket Classic – Förhandsanalys\n\nRocket Classic på PGA Tour lockar ett starkt fält där Scottie Scheffler och Rory McIlroy är huvudattraktionerna i vad som blir en klassisk vårturné. Utan svenska representanter med relevans är fokus på hur toppspelarnas form utvecklas inför majorturneringarna, där stabiliteten ofta väger tyngre än dramaturgi. Det är värt att notera hur de rutinerade spelarna presterar på en bana som traditionellt belönar precision och course management – faktorer som ofta förutspår framgång senare på säsongen."
+              "b": "Rocket Classic lockar återigen världseliten till PGA Tour med ett spännande startfält. Ledande namn som Scottie Scheffler och Rory McIlroy förväntas vara på plats för att säkra poäng före slutspurten av säsongen. Utan svenska representanter av betydelse är fokus på amerikanska favoriter och etablerade namn från touren, där konsistens och form på de senaste veckorna blir avgörande för oddssättningen. Keepa ett öga på vilka spelare som lyckas minimera feltalet på grönerna – det brukar vara nyckeln på denna bana."
             },
             {
               "icon": "flag.fill",
@@ -3445,13 +1753,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:25:39+00:00",
-          "headline": "Shin dominerar Scottish Open – Kim tvåa på nio slag från topp",
+          "generatedAt": "2026-07-26T22:08:30+00:00",
+          "headline": "Shin golfar ifrån konkurrenterna på Scottish Open – Stark utanför topp 10",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jenny Shin dominerade ISPS HANDA Women's Scottish Open med två slag marginal till närmaste jägare A Lim Kim, båda från Sydkorea. Shin kontrollerade tävlingen genom sitt konsistenta spel medan Kim och thailändskan Pajaree Anannarukarn gjorde försök att haka på från början av finaldagen. Svenska representanter nådde inte topp 15 – Maja Stark, Anna Nordqvist och Moa Folke hamnade utanför medaljplaceringarna trots att Nordqvist och Stark normalt konkurrerar på högsta nivå internationellt. Shins seger är hennes andra större seger på några säsonger och bekräftar hennes återkomst som en av världens starkaste golfspelare."
+              "b": "Jenny Shin dominerade ISPS HANDA Women's Scottish Open med en slutresultat på nio under par, två slag före den sydkoreanska A Lim Kim som slutade på sju under. Shin höll kontrollen genom hela veckan och visade stabilitet när konkurrenterna bakom henne, anförda av thailändska Pajaree Anannarukarn på fem under par, inte lyckades hitta några större löpningar. Svenska representationen nådde inte slutstriden — Maja Stark, Anna Nordqvist och Moa Folke låg utanför resultatlistan — vilket markerar en svag vikning för svenskt golf på denna LPGA-tävling."
             },
             {
               "icon": "list.number",
@@ -3581,13 +1889,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:25:43+00:00",
-          "headline": "Shin dominerar Scottish Open – två slag före Kim på -9",
+          "generatedAt": "2026-07-26T22:08:34+00:00",
+          "headline": "Shin dominerar Scottish Open – svenska misslyckades på hemmaplan",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jenny Shin dominerade Women's Scottish Open med nio slag under par och vann därmed komfortabelt före sydkoreanskan A Lim Kim på sju slag under par. Shins konsistenta spel under hela veckan skilde sig från ett relativt öppet jagande där den tredje platsen delades mellan flera utmanare runt fem slag under par. Svenska spelares gjorde ingen större insats i detta LPGA-arrangemang – varken Maja Stark, Anna Nordqvist eller Moa Folke lyckades nå de högre placeringarna, vilket återspeglar en något svagare vecka från svenskt håll på Skottlands golfbanan."
+              "b": "Jenny Shin från Sydkorea dominerade ISPS HANDA Women's Scottish Open och tog segern på nio slag under par, två slag före A Lim Kim som delade andraplats. Shins konsistenta spel under turneringen gjorde skillnaden gentemot en tätt sammantryckt förföljarkår där Pajaree Anannarukarn och Esther Henseleit hamnade på delade tredjeplatserna. Svenska representanter lyckades inte bryta sig in i den hetaste delen av leaderboarden — varken Maja Stark, Anna Nordqvist eller Moa Folke nådde topp 20-placeringar i det europeiska LPGA-arrangemamanget."
             },
             {
               "icon": "list.number",
@@ -3717,13 +2025,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:25:47+00:00",
-          "headline": "Shin dominerar Scottish Open – Nordqvist och Stark långt efter",
+          "generatedAt": "2026-07-26T22:08:38+00:00",
+          "headline": "Shin dominerar Scottish Open – Stark utanför topp tio",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jenny Shin från Sydkorea dominerade ISPS HANDA Women's Scottish Open med två slag marginal och slutade på nio under par, vilket var tillräckligt för att hålla tillbaka A Lim Kim på andraplats. Theländska spelaren Pajarees Anannarukarn följde på tredje plats fyra slag bakom ledaren, medan tyska Esther Henseleit kompletterade toppen fyra. Ingen av de tre svenska representanterna — Maja Stark, Anna Nordqvist och Moa Folke — lyckades ta sig in bland de 15 bästa placerade, vilket indikerar att motståndskraften från världseliten var särskilt hög under veckan i Skottland."
+              "b": "Jenny Shin dominerade ISPS HANDA Women's Scottish Open med nio slag under par, två slag före südkoreankan A Lim Kim på delad andraplats. Shins konsistenta spel genom hela veckan separerade henne från ett sammanpressat fält där den tredje placeringen endast ligger fem slag bakom ledningen. Ingen av de svenska spelarna – Maja Stark, Anna Nordqvist och Moa Folke – lyckades ta sig in i topp 15, vilket vittnar om den höga nivån på startfältet i denna LPGA-tävling."
             },
             {
               "icon": "list.number",
@@ -3853,13 +2161,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:25:50+00:00",
-          "headline": "Shin dominerar Scottish Open – Stark utanför topp tolv",
+          "generatedAt": "2026-07-26T22:08:41+00:00",
+          "headline": "Jenny Shin seglar iväg – Kim på nio slag bakom i Skottland",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jenny Shin från Sydkorea tog hem ISPS HANDA Women's Scottish Open med nio slag under par, två slag före A Lim Kim som slutade tvåa på sju under. Shin låg stadigt och kontrollerat genom turneringen medan konkurrenterna aldrig lyckades få ihop ett sammanhängande pressande på henne. Svenska spelare nådde inte topp 20, vilket vittnar om att nivån på denna LPGA-tävling var exceptionell med en stark internationell besättning dominerad av asiater."
+              "b": "Jenny Shin från Sydkorea dominerade ISPS HANDA Women's Scottish Open och tog hem segern med nio slag under par, två slag före A Lim Kim som slutade på minus sju. Shins stabilitet genom rundan skiljde henne från ett relativt jämnt fält där flera spelare – särskilt thailändska Pajaree Anannarukarn på tredje plats – höll sig inom räckhåll. Ingen av de svenska spelarna – Maja Stark, Anna Nordqvist och Moa Folke – lyckades ta sig in i topp femton, vilket illustrerar ett starkt internationellt fält på denna LPGA-tävling."
             },
             {
               "icon": "list.number",
@@ -4004,13 +2312,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-26T19:25:54+00:00",
-          "headline": "Patharinsprins stort odds när världens beste samlades till AIG Women's Open",
+          "generatedAt": "2026-07-26T22:08:45+00:00",
+          "headline": "Patty Tavatanakit och Minjee Lee slåss om AIG Women's Open-kronan",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# AIG Women's Open – Förhandsanalys\n\nAIG Women's Open på LPGA-touren fortsätter att locka världens starkaste golfspelare, och detta år ser vi återigen en elitklubb av namn i startfältet. Scottie Scheffels dominans under säsongen sätter standarden, men med spelares som Patty Tavatanakit och Brooke Henderson i form är det långt ifrån givna odds som gäller. Utan Svenska namn i toppen av fältlistan är fokus på hur den etablerade eliten hanterar pressituationen – ofta avgörande på majorturneringar – och vilka av de uppsträvande spelarna som kan göra överraskande framstötar under de fyra rundorna."
+              "b": "# AIG Women's Open – Förhandsanalys\n\nAIG Women's Open presenterar återigen golfens absoluta elit när världens bästa spelarinnor samlas för att strida om ett av majoritetens mest prestigefyllda titlar. Patty Tavatanakit, som dominerat stora delar av säsongen, kommer som favorit tillsammans med etablerade megastjärnor som Nelly Korda och Lexi Thompson, men turneringen har historiskt sett överraskningar – här är det viktigt att följa Form över ranking då LPGA:s kompetitivitet är högre än någonsin. Utan svenska namn i spetsen är fokus helt på hur favoriterna hanterar presset i majortävlingen, samt vilka hungrare spelare längre ned i fältlistan som kan sätta sitt namn på en av golfens största troféer."
             },
             {
               "icon": "flag.fill",
@@ -4063,13 +2371,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:25:58+00:00",
-          "headline": "Herbert krossar konkurrenterna med sex slag – Hellgren långt bakom",
+          "generatedAt": "2026-07-26T22:08:51+00:00",
+          "headline": "Herbert dominerar med sex slag försprång – Hellgren långt bakom i starkt fält",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med sex slag före förföljaren Tyrrell Hatton, vilket tyder på en konsekvent stark prestanda under hela tävlingen. Bryson DeChambeau slutade på tredje plats nio slag bakom Herbert, medan Cameron Smith aldrig kunde närma sig topposition och fastnade på fyra underpar. Björn Hellgren nådde inte topp 20-placeringen i detta arrangemang."
+              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med en slutscore på -30, sex slag före andraplatsen Tyrrell Hatton som slutade på -24. Bryson DeChambeau gjorde ett respektabelt försök men fastnade på -21, sex slag bakom Herbert. Björn Hellgren fanns inte representerad i topp 15, vilket antyder att svensken inte lyckades konkurrera på högsta nivå under denna omgång av LIV Golf-serien."
             },
             {
               "icon": "list.number",
@@ -4199,13 +2507,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:26:01+00:00",
-          "headline": "Herbert dominerar – sex slag före Hatton på LIV UK",
+          "generatedAt": "2026-07-26T22:08:54+00:00",
+          "headline": "Herbert rundar fältet – sex slag före Hatton på UK-sluttningen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Lucas Herbert avslutade LIV Golf United Kingdom med överlägsen dominans på sex slag före silvermedaljören Tyrrell Hatton, vars -24 räckte långt ifrån för att hota australiensaren. Bryson DeChambeau på tredjeplats med -21 var den enda utmanaren som kom på någorlunda avståndsrätt, men Herberts konsistens under turneringen var överlägsen. Svenska Björn Hellgren hamnade utanför topp 20 och kunde inte konkurrera med elitgruppen på denna LIV-tävling, där avståndet mellan ledande namn och mittfältet blev påtagligt stort."
+              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med en imponerande slutsiffra på -30, sex slag före andreman Tyrrell Hatton som slutade på -24. Herbert byggde en påtaglig marginal genom stabila prestationer under alla tre rundor, vilket gjorde att förföljarna aldrig kom särskilt nära. Bryson DeChambeau på -21 representerade det närmaste motsåndet från världseliten, men även han var nio slag bakom vinnaren. Björn Hellgren låg utanför topp 15 och kunde inte följetappa Herberts dominanta prestation på denna LIV-turnering."
             },
             {
               "icon": "list.number",
@@ -4335,13 +2643,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:26:09+00:00",
-          "headline": "Herbert dominerar med 30 slag under par – Hellgren missar topp 10",
+          "generatedAt": "2026-07-26T22:08:58+00:00",
+          "headline": "Herbert dominerar i Storbritannien – sex slag före Hatton på -30",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med en slutlig poäng på -30, sex slag före Tyrrell Hatton som slutade på -24. Herberts märkliga överlägsenhet byggdes på konsekvent skuggor under hela turneringen, medan Hatton kämpade för att hålla sin andraplats mot en hårt pressande Bryson DeChambeau på -21. Björn Hellgren nådde inte topplaceringen men bidrog till det svenska deltagandet i turneringen som redan är avslutad."
+              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med en slutlig poäng på -30, sex slag före tvåan Tyrrell Hatton som avslutade på -24. Herberts prestanda var överlägsen under turneringen och han lämnade inget utrymme för sina konkurrenter att hämta igen. Bryson DeChambeau följde på tredje plats med -21, medan resten av leaderboarden splittrades mellan flera spelare som inte lyckades skapa något allvarligt hot mot Herberts ledning. Björn Hellgren var inte representerad bland de bästa resultaten i detta LIV Golf-event."
             },
             {
               "icon": "list.number",
@@ -4471,13 +2779,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-26T19:26:12+00:00",
-          "headline": "Herbert dominerar med sex slag - Hatton tvåa, DeChambeau trea på LIV UK",
+          "generatedAt": "2026-07-26T22:09:02+00:00",
+          "headline": "Herbert dominerar med -30 – sex slag före Hatton på brittisk LIV-gräs",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Lucas Herbert dominerade LIV Golf United Kingdom och vann övertygande sex slag före Tyrrell Hatton, som aldrig lyckades hota australiensaren från ledningen. Herbert höll kontroll genom hela veckan med en imponerande -30-poängare, medan Bryson DeChambeau slutligen hamnade nio slag bakom på delad tredjeplats tillsammans med ett gäng andra jägare. Björn Hellgren fanns i startelvan men lyckades inte placera sig i topp-15-nivå för att påverka slutresultatet nämnvärt."
+              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med sex slag före förföljaren Tyrrell Hatton, som slutade på -24. Australiern höll kontrollen under slutspurten och avslutade på imponerande -30, vilket vittnar om en konsekvent prestation över turneringens tre rundor. Bryson DeChambeau slutade tredje på -21, men kunde aldrig hota Herberts ledning under slutfasen. Björn Hellgren lyckades inte ta sig in i toppskiktet denna gång och hade ingen påverkan på slutresultatet."
             },
             {
               "icon": "list.number",
