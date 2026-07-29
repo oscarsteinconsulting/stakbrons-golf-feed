@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T08:09:10+00:00",
+  "generatedAt": "2026-07-29T08:52:56+00:00",
   "tournaments": [
     {
       "id": "live-rocket-classic",
@@ -17,13 +17,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-29T08:09:16+00:00",
-          "headline": "Brendon Todd jagar första PGA-segern på Rocket Classic – amerikanskt dominans väntar",
+          "generatedAt": "2026-07-29T08:53:00+00:00",
+          "headline": "Todd jagar återkomsten på Rocket Classic – amerikanskt toppfält utan svenska utmaningar",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Rocket Classic lockar ett starkt PGA Tour-fält där Brendon Todd inleder som favorit tillsammans med en hårdkokad kretsen av amerikanska mittenfältsspelare. Emiliano Grillo och Christiaan Bezuidenhout utgör de intressantaste internationella motkandidaterna, medan Tony Finaus närvaro på lista 19 väcker frågor om hans form under säsongen. Utan svenska representanter är fokus på hur Todd hanterar favoritskapet och om någon av de hungriga amerikanska uppkomlingarna lyckas störa toppen."
+              "b": "**Rocket Classic – PGA Tour**\n\nBrendon Todd återvänder som toppseedat efter starka prestationer tidigare i säsongen, men fältlistan domineras av amerikanska mittenfältsspelare som söker sin genombrott. Emiliano Grillo från Argentina och sydafrikanen Christiaan Bezuidenhout utgör de mest intressanta internationella namnen och bör övervakas för oddsvärde. Tony Finau och Chris Kirk avslutar topp 20 och representerar erfarenhet i ett fält där konsistens snarare än spektakulära individuella prestationer kommer att belönas."
             },
             {
               "icon": "flag.fill",
@@ -128,7 +128,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-29T08:09:20+00:00",
+          "generatedAt": "2026-07-29T08:53:05+00:00",
           "headline": "Inför torsdag (R1): Cameron Young, Chris Gotterup, Jackson Koivun toppar oddsen — lägg spelen innan utslag",
           "insights": [
             {
@@ -466,11 +466,11 @@
               "win": {
                 "prob": 0.0376,
                 "fairOdds": 26.6,
-                "realSSOdds": 31.0,
-                "edgePct": 0.1656,
-                "kellyFraction": 0.0014,
-                "recommendedStakePct": 0.14,
-                "confidence": "Spelvärt"
+                "realSSOdds": 29.0,
+                "edgePct": 0.0904,
+                "kellyFraction": 0.0008,
+                "recommendedStakePct": 0.08,
+                "confidence": "Bra läge"
               },
               "top5": {
                 "prob": 0.1474,
@@ -1705,8 +1705,8 @@
               "win": {
                 "prob": 0.0093,
                 "fairOdds": 107.53,
-                "realSSOdds": 91.0,
-                "edgePct": -0.1537,
+                "realSSOdds": 81.0,
+                "edgePct": -0.2467,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1905,8 +1905,8 @@
               "win": {
                 "prob": 0.0088,
                 "fairOdds": 113.64,
-                "realSSOdds": 71.0,
-                "edgePct": -0.3752,
+                "realSSOdds": 61.0,
+                "edgePct": -0.4632,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2346,11 +2346,11 @@
               "name": "J.J. Spaun",
               "prob": 0.0376,
               "fairOdds": 26.6,
-              "confidence": "Spelvärt",
-              "realSSOdds": 31.0,
-              "edgePct": 0.1656,
-              "kellyFraction": 0.0014,
-              "recommendedStakePct": 0.14
+              "confidence": "Bra läge",
+              "realSSOdds": 29.0,
+              "edgePct": 0.0904,
+              "kellyFraction": 0.0008,
+              "recommendedStakePct": 0.08
             },
             {
               "name": "Ben Griffin",
@@ -2842,13 +2842,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-29T08:09:26+00:00",
-          "headline": "R1 utfall: Jackson Koivun leder -25 — Scottie Scheffler jagar 3 slag bakom",
+          "generatedAt": "2026-07-29T08:53:10+00:00",
+          "headline": "Koivun dominerar 3M Open – Scheffler åtta slag bakom på -22",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jackson Koivun vann 3M Open med imponerande -25, tre slag före Scottie Scheffler som aldrig kom tillräckligt nära trots en stark insats. Koivun höll kontrollen genom finalen medan Scheffler och ett flertal andra jägare — Matsuyama, Harman, McCarthy och Phillips samtliga på -20 — inte lyckades minska gapet tillräckligt. Svenska intressena Pontus Nyholm och Jesper Svensson nådde inte topplaceringarna i ett starkt amerikanskdominerat fält."
+              "b": "Jackson Koivun gjorde en stark slutsprint och vann 3M Open på imponerande 25 under par, tre slag före Scottie Scheffler som trots det högre världsrankingen inte kunde hålla jämna steg. Matsuyama, Harman, McCarthy och Phillips delade tredjeplats på 20 under par efter en spänd helgslutstrid, medan Thompson och Grillo kompletterade toppen på 19 under. Ingen svensk kom att spela en framträdande roll — varken Pontus Nyholm eller Jesper Svensson nådde en topplacering av betydelse."
             },
             {
               "icon": "list.number",
@@ -2978,13 +2978,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-29T08:09:29+00:00",
-          "headline": "R2 utfall: Jackson Koivun leder -25 — Scottie Scheffler jagar 3 slag bakom",
+          "generatedAt": "2026-07-29T08:53:14+00:00",
+          "headline": "Koivun dominerar 3M Open – tre slag före Scheffler på -25",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jackson Koivun vann 3M Open med överraskande dominans på -25, tre slag före Scottie Scheffler som slutade på -22. Koivun, som före turneringen inte fanns på radarn för många, gjorde ett konsekvent spel över fyra rundor utan större misstag. Fyra spelare kämpade om andraplatsen på -20, vilket visar en relativt jämn topp efter vinnaren, medan svenskarna Pontus Nyholm och Jesper Svensson inte tog sig in i top 15-notering."
+              "b": "Jackson Koivun vann 3M Open efter en imponerande slutspurt till -25, tre slag före Scottie Scheffler som inte lyckades hålla jämna steg trots stark form på PGA Tour. Fyra spelare låg samlat på -20 på tredjeplats, där Hideki Matsuyama, Brian Harman, Denny McCarthy och Chandler Phillips kämpade om pallplatser under finalslingorna. Svenska deltagarna Pontus Nyholm och Jesper Svensson missade att nå resultattabellens övre delar i en turnering dominerad av amerikanska och internationella toppspelare."
             },
             {
               "icon": "list.number",
@@ -3114,13 +3114,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-29T08:09:33+00:00",
-          "headline": "Koivun dominerar 3M Open – tre slag före Scheffler på -25",
+          "generatedAt": "2026-07-29T08:53:19+00:00",
+          "headline": "Koivun dominerar 3M Open – blir på -25 före Scheffler på -22",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jackson Koivun avslutade 3M Open med ett överlägset segergrepp på -25, tre slag före världsettan Scottie Scheffler som slutade på -22. Koivun höll en stabil ledning genom slutspurten medan Scheffler inte lyckades skapa något påtryckande på de avslutande hålen. Hideki Matsuyama, Brian Harman, Denny McCarthy och Chandler Phillips delade tredje plats på -20, vilket visar på ett starkt och utspritt fält längre ner i leaderboarden. Ingen svensk hamnade i topp 15 denna vecka."
+              "b": "Jackson Koivun avslutade 3M Open med en imponerande seger på -25, tre slag före Scottie Scheffler som slutade på -22. Koivun höll kontrollen genom en stark avslutning medan Scheffler hamnade för långt bak för att hota topplaceringen. En fyrgrupperande jagade på -20, anförda av Matsuyama, Harman, McCarthy och Phillips, men ingen lyckades helt enkelt närma sig Koivuns nivå under slutsträckan. Svenskarna Pontus Nyholm och Jesper Svensson stannade utanför topp 20 och kunde inte blanda sig i toppsegrationen."
             },
             {
               "icon": "list.number",
@@ -3250,13 +3250,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-29T08:09:40+00:00",
-          "headline": "Slutresultat: Jackson Koivun vann på -25 — vinst med 3 slag över Scottie Scheffler",
+          "generatedAt": "2026-07-29T08:53:24+00:00",
+          "headline": "Koivun ensam på topp med -25 när Scheffler halkar efter på -22",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jackson Koivun avslutade 3M Open med en övertygande seger på -25, tre slag före Scottie Scheffler som slutade på -22. Det bildades en fyramans jäkt om andraplats på -20, där Matsuyama, Harman, McCarthy och Phillips inte kunde skilja sig åt. Svenskarna Pontus Nyholm och Jesper Svensson nådde inte topp-15-placeringen, vilket innebär att det inte finns några skandinaviska namn bland de framstormande resultatmakarna på gräsmattan i Minnesota."
+              "b": "Jackson Koivun vann 3M Open med imponerande -25, tre slag före Scottie Scheffler som slutade på -22. Koivun presterade konsekvent genom hela veckan och höll undan ett pressande slagkryp där fyra spelare delade tredjeplats på -20. De svenska bidragen från Pontus Nyholm och Jesper Svensson räckte inte för en topplacering i ett starkt fält dominerat av amerikanska namn."
             },
             {
               "icon": "list.number",
@@ -3401,13 +3401,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-29T08:09:43+00:00",
-          "headline": "Wyndham Championship: Rahm och Koepka slåss om slutspelsplatserna",
+          "generatedAt": "2026-07-29T08:53:28+00:00",
+          "headline": "Wyndham Championship blir säsongsslut-showdown på PGA Tour – vem tar sista platsen?",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "**Wyndham Championship - Förhandsanalys**\n\nWyndham Championship fungerar som sista chansen för golfares att säkra sin plats på FedEx Cup-slutspelet, vilket gör att fältet består av hungrande spelare i desperat behov av poäng. Utan svenska namn i toppen av startlistan är fokus på hur etablerade namn som Rory McIlroy och andra rankingledande agerar under pressen från förföljarna. Banan belönar precision snarare än längd, vilket innebär att vi bör förvänta oss jämna resultat och höga poängsummor från spelarna som hittat sin form veckan innan slutspelet drar igång."
+              "b": "# Wyndham Championship – Förhandsanalys\n\nWyndham Championship utgör traditionsenligt säsongfinalen på PGA Tour innan FedExCup-slutspelet, och fältet består av spelare som är hungriga på att säkra sin plats i playoffserien. Utan svenska namn på topplistan är fokus istället på etablerade amerikanska spelare och europeer som söker en sista chans att imponera före slutspelet. Tävlingen lockar ofta världsstjärnor som kombinerar sina slutresultat här med förberedelserna inför det avgörande FedExCup-systemet."
             },
             {
               "icon": "flag.fill",
@@ -3446,13 +3446,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-29T08:09:49+00:00",
-          "headline": "Nordqvist jagar majorvinst – AIG Women's Open lockar världseliten",
+          "generatedAt": "2026-07-29T08:53:33+00:00",
+          "headline": "Nordqvist jagar sitt andra major – svenskarna utmanar världseliten i AIG Women's Open",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "AIG Women's Open lockar ett starkt internationellt fält där Anna Nordqvist är den högst seedade svenskan på tionde plats, medan Linn Grant söker att ta steget upp bland eliten på denna prestigefyllda LPGA-tävling. De engelska favorterna Alice Hewson och Chloe Williams från Wales får hemmaförtroende, men serien visar att kvaliteten är jämn över hela fältet med flera stabila namn från Australien, Japan och USA. Intressant är att följa hur Nordqvist hanterar pressionen som högst rankad svensk och om Grant kan leverera en stark prestanda för att befästa sitt rykte som kommande svenskt golftalang."
+              "b": "AIG Women's Open bjuder på ett starkt internationellt fält med flera spännande namn att följa. Svenska Anna Nordqvist placeras högt på oddsen och gör comeback i en av årets viktigaste majortävlingar, medan Linn Grant är en intressant outsider som kan överraska på rätt dag. De engelska spelarna Alice Hewson och Carlota Ciganda från Spanien hör till favoriterna, men banan blir avgörande för hur favoritskapen fallerar – notera den blandade framgångshistan bland de högsta rankade spelarna. Detta är ett open där formkurvan och anpassningen till banan potentiellt väger tyngre än seedningen."
             },
             {
               "icon": "flag.fill",
@@ -3562,7 +3562,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-29T08:09:54+00:00",
+          "generatedAt": "2026-07-29T08:53:37+00:00",
           "headline": "Inför torsdag (R1): Nelly Korda, Haeran Ryu, Jeeno Thitikul toppar oddsen — lägg spelen innan utslag",
           "insights": [
             {
@@ -6203,13 +6203,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-29T08:09:58+00:00",
-          "headline": "Jenny Shin's nio under par – två slag före Kim på klassisk Scottish Open",
+          "generatedAt": "2026-07-29T08:53:41+00:00",
+          "headline": "Shin dominerar Scottish Open – Stark missar topplaceringen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jenny Shin från Sydkorea tog ett övertygande seger med nio slag under par, två slag före A Lim Kim som åtminstone höll konkurrensen levande under större delen av slutspurten. Tredjeplaceringen gick till Pajarees Anannarukarn på fyra slag under par, vilket illustrerar hur spelbanan på Dundonald Links krävde exakt slag och fokuserad bollkontroll. Svenska startfältet levererade inte på önskad nivå denna vecka — varken Maja Stark, Anna Nordqvist eller Moa Folke tog sig in i topp femtio."
+              "b": "Jenny Shin dominerade ISPS HANDA Women's Scottish Open med nio slag under par, två slag före südkoreanska A Lim Kim på delad andraplats. Shins konsistenta spel genom hela veckan skiljde sig från konkurrenternas oregelbundna resultat, vilket framgår av det relativt spretat leaderboard där tredje placeringen endast ligger fem slag under par. Svenska representationen nådde inte topplaceringarna, utan Maja Stark, Anna Nordqvist och Moa Folke hamnade utanför topp 15, vilket indikerar att nivån i LPGA-fältet fortsatt är högre än många svenska golfares nuvarande form."
             },
             {
               "icon": "list.number",
@@ -6339,13 +6339,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-29T08:10:05+00:00",
-          "headline": "Shin dominerar Scottish Open – Stark och Nordqvist mister topplaceringen",
+          "generatedAt": "2026-07-29T08:53:49+00:00",
+          "headline": "Jenny Shin dominerar Scottish Open – svenska trion utanför topp tolv",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jenny Shin dominerade Women's Scottish Open med slutpoängen -9, två slag före östasiatiska rivalen A Lim Kim som slutade på -7. Shin höll en stabil ledning under större delen av turneringen och lyckades hålla undan pressade chasers från Thailand och Tyskland. Ingen av de tre svenska spelarna gjorde det i topplaceringarna – Maja Stark, Anna Nordqvist och Moa Folke kom inte upp i resultatlistan – vilket innebär att Sverige missade att få representation bland de bästa på Muirfield Village denna vecka."
+              "b": "Jenny Shin från Sydkorea dominerade ISPS HANDA Women's Scottish Open med två slag försprång på nio under par. A Lim Kim slutade på andraplats två slag bakom vinnaren, medan thailändsiskan Pajaree Anannarukarn tog tredje plats på fem under par. Ingen av de svenska spelarna lyckades etablera sig i toppen — Maja Stark, Anna Nordqvist och Moa Folke hamnade utanför topp 15 och har därmed få poäng att hämta från denna LPGA-tävling innan sommarpausen."
             },
             {
               "icon": "list.number",
@@ -6475,13 +6475,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-29T08:10:09+00:00",
-          "headline": "Shin dominerar Scottish Open – Stark utanför topp tio",
+          "generatedAt": "2026-07-29T08:53:53+00:00",
+          "headline": "Shin dominerar Scottish Open – Stark och Nordqvist bakom elitgruppen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jenny Shin dominerade ISPS HANDA Women's Scottish Open och slutade på nio under par, två slag före A Lim Kim som samlades två slag bakom. Skorna fördelades mellan thailändska och asiatiska spelare överlag, med Pajaree Anannarukarn på tredje plats på fem under par och en grupp europeiska och amerikanska utmanare som aldrig fick riktigt fotfäste. Svenska startfältet lyckades inte nå de översta placeringarna – Maja Stark, Anna Nordqvist och Moa Folke kunde inte konkurrera på topp-15-nivå när Shins stabila spel och låga scoresvar från början av veckan avgjorde kampen."
+              "b": "Jenny Shin från Sydkorea dominerade ISPS HANDA Women's Scottish Open och säkrade segern på nio slag under par, två slag före A Lim Kim. Shin höll kontrollen under hela slutet av turneringen och visade stabilt spel när konkurrenterna hade svårt att nå samma konsistens. Svenska spelare nådde inte topplaceringarna denna vecka – Maja Stark, Anna Nordqvist och Moa Folke kom inte upp bland de bästa placeringarna i ett starkt internationellt startfält dominerat av östasiatiska och amerikanska spelare."
             },
             {
               "icon": "list.number",
@@ -6611,13 +6611,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-29T08:10:14+00:00",
-          "headline": "Shin dominerar Scottish Open – fyra slag före Kim, svenska stjärnorna utanför topp tolv",
+          "generatedAt": "2026-07-29T08:53:56+00:00",
+          "headline": "Jenny Shin dominerar Scottish Open – Kim nio slag bakom på -7",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jenny Shin dominerade ISPS HANDA Women's Scottish Open med nio slag under par och två slags marginal ned till A Lim Kim på andra plats. Shin kontrollerade tävlingen genom stabila rundor utan större väckelser, medan Kim kämpade för att reducera gapet från sitt läge på -7. Det fanns ingen svensk representation i topp 15, vilket indikerar att Maja Stark, Anna Nordqvist och Moa Folke inte lyckades få fäste i en tävling där längsta slagens betydelse kom till uttryck på Dundonald Links utmanande layout."
+              "b": "Jenny Shin från Sydkorea dominerade ISPS HANDA Women's Scottish Open genom att sluta nio slag under par, två slag före A Lim Kim på andraplatsen. Shins konstanta spel under hela veckan skiljde henne från konkurrenterna, där bara tre spelare lyckades hålla sig under par tillsammans med totvåan. Svenska startuppställningen hade det tufft på den skotska kursen — ingen av Maja Stark, Anna Nordqvist eller Moa Folke nådde topp 20, vilket speglar tävlingens höga svårighetsgrad och en starkt besatt startlista dominerad av sydkoreanska och asiatiska spelare."
             },
             {
               "icon": "list.number",
@@ -6776,13 +6776,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-29T08:10:18+00:00",
-          "headline": "Ingen dansk eller engelsk databas tillgänglig för denna tävling. Vi kan se \"New York\" men banans namn saknas helt. Utan banainformation och utan svenska spelare kan jag inte skriva en konkret, kraftfull rubrik enligt dina krav.\n\nJag behöver: Banans namn för att göra ru",
+          "generatedAt": "2026-07-29T08:54:02+00:00",
+          "headline": "Kapitalkraft möter rebellion när LIV Golf återvänder till New York – nu utan Rory McIlroy i vägen.",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# LIV Golf New York – Förhandsanalys\n\nLIV Golf gästar New York för tredje året i rad, och återigen blir det en vitnesklass med världens toppspelare samlad på samma plats. Dustin Johnson och Phil Mickelson är några av namnen som lockat mest uppmärksamhet historiskt, men denna säsong är det framför allt frågan om hur Rory McIlroy och Jon Rahm står sig – McIlroy då som viss favoritfavorit när han ännu inte tecknat för något LIV-lag. Utan svenska namn i eliten att följa blir fokus istället på hur den amerikanska dominansen i seriens toppskikt håller i sig, samt vilken bana som väntar och hur den gagnar de längre slagare som traditionellt haft övertag i LIV-formatet."
+              "b": "# LIV Golf New York – Förhandsanalys\n\nLIV Golf gästfredar New York för fjärde året i rad, och årets upplaga lockar återigen eliten från Saudi-Arabiens breakaway-serie. Dustin Johnson och Bryson DeChambeau återfinns högst upp på världsrankingen och utgör de naturliga favoriterna, medan Jon Rahm söker sitt första LIV-segrare efter övergången från PGA Tour. Utan svenska spelare i fåltet blir fokus på hur den amerikanska dominansen fortsätter att växa på LIV-sidan – särskilt intressant är hur de etablerade stjärnorna presterar relativt nytillkomna namn som har värvats för att hålla sérien konkurrenskraftig."
             },
             {
               "icon": "flag.fill",
@@ -6821,13 +6821,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-29T08:10:24+00:00",
-          "headline": "Herbert dominerar LIV UK – sex slag före Hatton",
+          "generatedAt": "2026-07-29T08:54:06+00:00",
+          "headline": "Herbert rundar alla – sex slag före Hatton på brittisk LIV-gala",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med imponerade sex slag före Tyrrell Hatton, vars stark prestation räckte inte för att hota australiensarens kontrollerande framspelning. Bryson DeChambeau på tredje plats, sju slag bakom Herbert, ledde en större jaktgrupp utan att kunna hitta tillräcklig momentum för att nå täten. Björn Hellgren slutade utanför toppresultaten och kunde inte påverka slutstriden."
+              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med en imponerande slutresultat på -30, sex slag före silvermedaljören Tyrrell Hatton. Australiern byggde ett tillräckligt stort försprång för att hålla undan både Bryson DeChambeau på -21 och övriga jagare utan dramatik under slutrundan. Björn Hellgren lyckades inte ta sig in bland topplaceringarna i detta starkt besatta fält med bland annat Cameron Smith och återkommen Anthony Kim bland deltagarna."
             },
             {
               "icon": "list.number",
@@ -6957,13 +6957,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-29T08:10:28+00:00",
-          "headline": "Herbert dominerar Storbritannien – sex slag före Hatton",
+          "generatedAt": "2026-07-29T08:54:11+00:00",
+          "headline": "Herbert stänger till -30 på LIV – Hellgren långt bakom i británfältet",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med en imponerande slutsumma på -30, sex slag före tvåan Tyrrell Hatton. Australiern etablerade ett komfortabelt försprång genom konsekvent spel under hela veckan och lämnade aldrig någon tveksamhet om dominansen. Bryson DeChambeau följde på tredjeplats sju slag efter Herbert, medan Cameron Smith på -17 representerade den tredje australiska toppen tio. Björn Hellgren fanns inte representerad i topplaceringarna, vilket tyder på en svagare insats från den svenska representanten under denna LIV-omgång."
+              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med sex slag före närmaste förföljare Tyrrell Hatton, en kommanderande prestation som visar Herberts konsistens på kort tid i turneringen. Bryson DeChambeau följer på tredje plats tre slag bakom Hatton, medan den australiska stjärnan Cameron Smith hamnade långt efter på -17. Björn Hellgren kom inte upp bland resultaten i toppen, och turneringen är nu avslutad med Herberts övertygande seger."
             },
             {
               "icon": "list.number",
@@ -7093,13 +7093,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-29T08:10:32+00:00",
-          "headline": "Herbert solarfierar i UK – sex slag före Hatton",
+          "generatedAt": "2026-07-29T08:54:15+00:00",
+          "headline": "Herbert förkrossade konkurrenterna – sex slag före Hatton på hemmaplan",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med en imponerande slutsiffra på -30, sex slag före tvåan Tyrrell Hatton som slutade på -24. Herbert byggde sitt försprång genom konsekvent spel och höll undan ett pressande försök från Bryson DeChambeau på -21, som återigen visade varför han är en av LIV-turnéringens mest dominerande spelare. Bland svenska deltagare kunde Björn Hellgren inte ta sig in i topp 20, vilket ger honom arbete inför kommande tävlingar."
+              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med en slutnotering på -30, sex slag före engelske Tyrrell Hatton som tangerade andra plats. Bryson DeChambeau slutade som bästa amerikanske spelare på -21, tretio slag bakom vinnaren, vilket tydligt illustrerar Herberts överlägsenhet under veckan. Björn Hellgren noterades inte i topp 15 och hamnade därmed långt ned på resultatlistan, då det krävdes minst -8 för att säkra en placeringspunkt bland de femton bästa."
             },
             {
               "icon": "list.number",
@@ -7229,13 +7229,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-29T08:10:36+00:00",
-          "headline": "Herbert rundar alla – sex slag före Hatton på engelsk gräsmatta",
+          "generatedAt": "2026-07-29T08:54:18+00:00",
+          "headline": "Herbert dominerar – sex slag före Hatton i LIV-triumf",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Lucas Herbert från Australien dominerade LIV Golf United Kingdom med en imponerande slutsumma på -30, sex slag före silvermedaljören Tyrrell Hatton som slutade på -24. DeChambeau följde på tredje plats tre slag bakom Hatton, vilket visar att Herbert's prestationen var i en helt egen klass under turneringen. En stor grupp jägare samlades mellan -14 och -8, vilket tyder på relativt jämn spelnivå i mittengruppen, men ingen kunde närma sig Herberts konsistenta form över alla omgångar."
+              "b": "Lucas Herbert dominerade turneringen med en slutscore på -30, sex slag före Tyrrell Hatton som slutade på -24, vilket vittnar om en överlägsen prestation från australiern. Bryson DeChambeau följde på tredje plats med -21, tre slag bakom Hatton, medan Cameron Smith aldrig kunde närma sig toppen trots ett respektabelt -17. Björn Hellgren lyckades inte ta sig in i de främsta placeringarna och hamnade långt från leaderboards topp när turneringen avslutades."
             },
             {
               "icon": "list.number",
