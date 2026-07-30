@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T08:44:52+00:00",
+  "generatedAt": "2026-07-30T14:25:16+00:00",
   "tournaments": [
     {
       "id": "live-rocket-classic",
@@ -10,20 +10,20 @@
       "startDate": "2026-07-30T04:00Z",
       "par": 71,
       "yards": 0,
-      "statusDetail": "Thu, July 29th at 12:00 AM EDT",
-      "status": "upcoming",
+      "statusDetail": "Round 1 - In Progress",
+      "status": "live",
       "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-30T08:44:59+00:00",
-          "headline": "Todd jagar sin tredje PGA-seger på Rocket Classic – Grillo och Bezuidenhout skuggar",
+          "generatedAt": "2026-07-30T14:25:20+00:00",
+          "headline": "Malnati jagar första PGA-vinsten – Nyholm och Svensson utmanar på Rocket Classic",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "**Rocket Classic – PGA Tour**\n\nBrendon Todd är favorit i ett fält dominerat av amerikanska mittenfältsspelare, där tanto Finau utgör det största namnet bland övriga startande. Argentinaren Emiliano Grillo och Christiaan Bezuidenhout från Sydafrika erbjuder intressant motspel på en bana där resultatstatistiken blir avgörande – utan banainformation bör fokus ligga på senaste formkurvor och PGA Tour-rutinörer mot hungrigt mittenfält. Eric Cole och Joel Dahmen visar stabila säsonger och kan utgöra värde om odds reflekterar favoritspekulationen kring Todd."
+              "b": "**Rocket Classic förhandsanalys**\n\nRocket Classic på PGA Tour ser ut att bli ett öppet fält där Peter Malnati och Chris Kirk utgör två av favoriterna, men konkurrensen är spretig med flera spelares som Tony Finau och Stephan Jaeger som alltid måste räknas med. Svenska delen representeras av Pontus Nyholm och Jesper Svensson – båda intressanta namn att följa i ett fält som verkar ligga till rätta för en outsider. Utan information om banan är det svårt att peka ut särskilda fördelar, men fokus bör ligga på form och konsistens innan veckans start."
             },
             {
               "icon": "flag.fill",
@@ -34,6 +34,11 @@
               "icon": "person.3.fill",
               "h": "Fältöversikt",
               "b": "147 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskar i fältet",
+              "b": "2 svenska kvar i fältet.\n\n—  Pontus Nyholm  +1\n—  Jesper Svensson  +1"
             },
             {
               "icon": "wave.3.right",
@@ -47,187 +52,217 @@
               "id": "auto-preview-w1",
               "cat": "🤖 Outright (förhand)",
               "sel": "Cameron Young",
-              "svs": 11.0,
+              "svs": 12.0,
               "mkt": 0,
               "units": 1.0,
               "conf": 3,
-              "rat": "Cameron Young är en av SS:s top-1 favoriter pre-tournament (odds 11.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Cameron Young är en av SS:s top-1 favoriter pre-tournament (odds 12.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w2",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Jackson Koivun",
-              "svs": 19.0,
+              "sel": "Rickie Fowler",
+              "svs": 15.0,
               "mkt": 0,
               "units": 1.0,
               "conf": 3,
-              "rat": "Jackson Koivun är en av SS:s top-2 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Rickie Fowler är en av SS:s top-2 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w3",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Xander Schauffele",
-              "svs": 19.0,
+              "sel": "Keegan Bradley",
+              "svs": 17.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Xander Schauffele är en av SS:s top-3 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Keegan Bradley är en av SS:s top-3 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w4",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Chris Gotterup",
-              "svs": 19.0,
+              "sel": "Si Woo Kim",
+              "svs": 17.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Chris Gotterup är en av SS:s top-4 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Si Woo Kim är en av SS:s top-4 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w5",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Si Woo Kim",
-              "svs": 21.0,
+              "sel": "Jackson Koivun",
+              "svs": 19.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Si Woo Kim är en av SS:s top-5 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Jackson Koivun är en av SS:s top-5 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w6",
               "cat": "🤖 Outright (förhand)",
               "sel": "Wyndham Clark",
-              "svs": 23.0,
+              "svs": 21.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Wyndham Clark är en av SS:s top-6 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Wyndham Clark är en av SS:s top-6 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w7",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Russell Henley",
-              "svs": 23.0,
+              "sel": "Chris Gotterup",
+              "svs": 21.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Russell Henley är en av SS:s top-7 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Chris Gotterup är en av SS:s top-7 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w8",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Patrick Cantlay",
+              "sel": "Xander Schauffele",
               "svs": 23.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Patrick Cantlay är en av SS:s top-8 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Xander Schauffele är en av SS:s top-8 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             }
           ]
         },
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-30T08:45:04+00:00",
-          "headline": "Inför torsdag (R1): Cameron Young, Chris Gotterup, Jackson Koivun toppar oddsen — lägg spelen innan utslag",
+          "generatedAt": "2026-07-30T14:25:27+00:00",
+          "headline": "Malnati slirar iväg på Rocket Classic – åtta slag under par efter första omgången",
           "insights": [
             {
-              "icon": "clock",
-              "h": "Innan utslag",
-              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Peter Malnati leder Rocket Classic efter första dagen med åtta slag under par, fyra slag före närmaste förföljare. Malnati har etablerat ett komfotabelt försprång framför ett större jaktfält anförda av Chris Kirk och Gordon Sargent på minus fyra. Ett brett fält av spelare ligger tätt packade på minus två och minus tre, vilket innebär att ledningen är långt ifrån avgjord med tre rundor återstående. De svenska bidragen från Pontus Nyholm och Jesper Svensson framgår inte bland de 15 bästa, vilket tyder på att båda två behöver väsentliga förbättringar redan under fredagens andra runda för att återkomma i diskussionen."
             },
             {
-              "icon": "star.fill",
-              "h": "Svenska Spels favoriter (vinnare)",
-              "b": "11.00  Cameron Young\n19.00  Chris Gotterup\n19.00  Jackson Koivun\n19.00  Xander Schauffele\n21.00  Si Woo Kim\n23.00  Patrick Cantlay"
+              "icon": "list.number",
+              "h": "Leaderboard live (R1)",
+              "b": "—  Peter Malnati  -8\n—  Chris Kirk  -4\n—  Gordon Sargent  -4\n—  Tony Finau  -3\n—  Ricky Castillo  -3\n—  Davis Riley  -3\n—  Matt Kuchar  -3\n—  Stephan Jaeger  -3\n—  Michael Kim  -2\n—  Emiliano Grillo  -2\n\nKälla: ESPN."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "2 svenska kvar i fältet.\n\n—  Pontus Nyholm  +1\n—  Jesper Svensson  +1"
+            },
+            {
+              "icon": "scope",
+              "h": "Spridning i toppen",
+              "b": "Topp 10 ligger inom 6 slag från ledaren. 1 spelare inom 3 slag — vinnar-poolen är smal."
             },
             {
               "icon": "wave.3.right",
               "h": "Auto-genererat",
-              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
+              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
             }
           ],
           "top5": [],
           "bets": [
             {
-              "id": "auto-preview-w1",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Cameron Young",
-              "svs": 11.0,
+              "id": "auto-r1-w1",
+              "cat": "🤖 Vinnare (uppdaterad)",
+              "sel": "Peter Malnati",
+              "svs": 8.0,
               "mkt": 0,
-              "units": 1.0,
+              "units": 1.5,
               "conf": 3,
-              "rat": "Cameron Young är en av SS:s top-1 favoriter pre-tournament (odds 11.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Peter Malnati leder fältet på -8 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
             },
             {
-              "id": "auto-preview-w2",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Jackson Koivun",
-              "svs": 19.0,
+              "id": "auto-r1-w2",
+              "cat": "🤖 Vinnare (värde)",
+              "sel": "Gordon Sargent",
+              "svs": 24.0,
               "mkt": 0,
-              "units": 1.0,
+              "units": 0.75,
+              "conf": 2,
+              "rat": "Gordon Sargent ligger 4 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+            },
+            {
+              "id": "auto-r1-t5-1",
+              "cat": "🤖 Topp 5",
+              "sel": "Chris Kirk",
+              "svs": 3.4,
+              "mkt": 0,
+              "units": 1.5,
               "conf": 3,
-              "rat": "Jackson Koivun är en av SS:s top-2 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Chris Kirk (-4) sitter i topp-skiktet 4 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
-              "id": "auto-preview-w3",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Xander Schauffele",
-              "svs": 19.0,
+              "id": "auto-r1-t5-3",
+              "cat": "🤖 Topp 5",
+              "sel": "Tony Finau",
+              "svs": 3.7,
               "mkt": 0,
-              "units": 0.7,
-              "conf": 2,
-              "rat": "Xander Schauffele är en av SS:s top-3 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "units": 1.5,
+              "conf": 3,
+              "rat": "Tony Finau (-3) sitter i topp-skiktet 5 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
-              "id": "auto-preview-w4",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Chris Gotterup",
-              "svs": 19.0,
+              "id": "auto-r1-t10-5",
+              "cat": "🤖 Topp 10",
+              "sel": "Davis Riley",
+              "svs": 2.8,
               "mkt": 0,
-              "units": 0.7,
-              "conf": 2,
-              "rat": "Chris Gotterup är en av SS:s top-4 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "units": 1,
+              "conf": 3,
+              "rat": "Davis Riley (-3) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
             },
             {
-              "id": "auto-preview-w5",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Si Woo Kim",
-              "svs": 21.0,
+              "id": "auto-r1-t10-7",
+              "cat": "🤖 Topp 10",
+              "sel": "Stephan Jaeger",
+              "svs": 2.8,
               "mkt": 0,
-              "units": 0.7,
-              "conf": 2,
-              "rat": "Si Woo Kim är en av SS:s top-5 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "units": 1,
+              "conf": 3,
+              "rat": "Stephan Jaeger (-3) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
             },
             {
-              "id": "auto-preview-w6",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Wyndham Clark",
-              "svs": 23.0,
+              "id": "auto-r1-t20-14",
+              "cat": "🤖 Topp 20",
+              "sel": "Joel Dahmen",
+              "svs": 2.1,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Joel Dahmen (-2) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r1-t20-18",
+              "cat": "🤖 Topp 20",
+              "sel": "Lanto Griffin",
+              "svs": 2.2,
+              "mkt": 0,
+              "units": 1,
+              "conf": 3,
+              "rat": "Lanto Griffin (-1) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+            },
+            {
+              "id": "auto-r1-low",
+              "cat": "🤖 Lägsta runda R2",
+              "sel": "Harry Hall",
+              "svs": 12.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Wyndham Clark är en av SS:s top-6 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Harry Hall (-2) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
             },
             {
-              "id": "auto-preview-w7",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Russell Henley",
-              "svs": 23.0,
+              "id": "auto-r1-bf",
+              "cat": "🤖 Bogeyfri runda",
+              "sel": "Peter Malnati",
+              "svs": 5.5,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Russell Henley är en av SS:s top-7 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w8",
-              "cat": "🤖 Outright (förhand)",
-              "sel": "Patrick Cantlay",
-              "svs": 23.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Patrick Cantlay är en av SS:s top-8 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Peter Malnati är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
             }
           ]
         }
@@ -237,7 +272,7 @@
         "simulations": 10000,
         "remainingRounds": 4,
         "completedRounds": 0,
-        "roundStarted": false,
+        "roundStarted": true,
         "sigmaPerRound": 2.8,
         "assumedSSVig": 0.1,
         "fieldSize": 147,
@@ -252,155 +287,37 @@
             "completedScore": 0,
             "markets": {
               "win": {
-                "prob": 0.0702,
-                "fairOdds": 14.25,
-                "realSSOdds": 11.0,
-                "edgePct": -0.2278,
+                "prob": 0.0619,
+                "fairOdds": 16.16,
+                "realSSOdds": 12.0,
+                "edgePct": -0.2572,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
               },
               "top5": {
-                "prob": 0.2491,
-                "fairOdds": 4.01,
-                "realSSOdds": 3.6,
-                "edgePct": -0.1032,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.2299,
+                "fairOdds": 4.35,
+                "estimatedSSOdds": 3.91,
+                "confidence": "Stark"
               },
               "top10": {
-                "prob": 0.389,
-                "fairOdds": 2.57,
-                "realSSOdds": 2.55,
-                "edgePct": -0.0081,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.3642,
+                "fairOdds": 2.75,
+                "estimatedSSOdds": 2.48,
+                "confidence": "Lutar"
               },
               "top20": {
-                "prob": 0.5694,
-                "fairOdds": 1.76,
-                "realSSOdds": 1.8,
-                "edgePct": 0.0249,
-                "kellyFraction": 0.0078,
-                "recommendedStakePct": 0.78,
-                "confidence": "Chansning"
+                "prob": 0.5465,
+                "fairOdds": 1.83,
+                "estimatedSSOdds": 1.65,
+                "confidence": "Lutar"
               },
               "cut": {
-                "prob": 0.815,
-                "fairOdds": 1.23,
-                "realSSOdds": 1.16,
-                "edgePct": -0.0546,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              }
-            }
-          },
-          {
-            "name": "Chris Gotterup",
-            "mu": -1.26,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.05,
-                "fairOdds": 20.0,
-                "realSSOdds": 19.0,
-                "edgePct": -0.05,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.1707,
-                "fairOdds": 5.86,
-                "realSSOdds": 5.5,
-                "edgePct": -0.0612,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top10": {
-                "prob": 0.2858,
-                "fairOdds": 3.5,
-                "realSSOdds": 3.5,
-                "edgePct": 0.0003,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Chansning"
-              },
-              "top20": {
-                "prob": 0.4661,
-                "fairOdds": 2.15,
-                "realSSOdds": 2.1,
-                "edgePct": -0.0212,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "cut": {
-                "prob": 0.7607,
-                "fairOdds": 1.31,
-                "realSSOdds": 1.2,
-                "edgePct": -0.0872,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              }
-            }
-          },
-          {
-            "name": "Wyndham Clark",
-            "mu": -1.22,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0466,
-                "fairOdds": 21.46,
-                "realSSOdds": 23.0,
-                "edgePct": 0.0718,
-                "kellyFraction": 0.0008,
-                "recommendedStakePct": 0.08,
-                "confidence": "Bra läge"
-              },
-              "top5": {
-                "prob": 0.1697,
-                "fairOdds": 5.89,
-                "realSSOdds": 6.5,
-                "edgePct": 0.103,
-                "kellyFraction": 0.0047,
-                "recommendedStakePct": 0.47,
-                "confidence": "Bra läge"
-              },
-              "top10": {
-                "prob": 0.28,
-                "fairOdds": 3.57,
-                "realSSOdds": 4.0,
-                "edgePct": 0.12,
-                "kellyFraction": 0.01,
-                "recommendedStakePct": 1.0,
-                "confidence": "Bra läge"
-              },
-              "top20": {
-                "prob": 0.4447,
-                "fairOdds": 2.25,
-                "realSSOdds": 2.38,
-                "edgePct": 0.0584,
-                "kellyFraction": 0.0106,
-                "recommendedStakePct": 1.06,
-                "confidence": "Neutral"
-              },
-              "cut": {
-                "prob": 0.7536,
-                "fairOdds": 1.33,
-                "realSSOdds": 1.29,
-                "edgePct": -0.0279,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.7994,
+                "fairOdds": 1.25,
+                "estimatedSSOdds": 1.12,
+                "confidence": "Stark"
               }
             }
           },
@@ -411,49 +328,160 @@
             "completedScore": 0,
             "markets": {
               "win": {
-                "prob": 0.0452,
-                "fairOdds": 22.12,
-                "realSSOdds": 23.0,
-                "edgePct": 0.0396,
-                "kellyFraction": 0.0004,
-                "recommendedStakePct": 0.04,
-                "confidence": "Neutral"
-              },
-              "top5": {
-                "prob": 0.1809,
-                "fairOdds": 5.53,
-                "realSSOdds": 6.0,
-                "edgePct": 0.0854,
-                "kellyFraction": 0.0043,
-                "recommendedStakePct": 0.43,
-                "confidence": "Bra läge"
-              },
-              "top10": {
-                "prob": 0.2931,
-                "fairOdds": 3.41,
-                "realSSOdds": 4.0,
-                "edgePct": 0.1724,
-                "kellyFraction": 0.0144,
-                "recommendedStakePct": 1.44,
+                "prob": 0.0415,
+                "fairOdds": 24.1,
+                "realSSOdds": 29.0,
+                "edgePct": 0.2035,
+                "kellyFraction": 0.0018,
+                "recommendedStakePct": 0.18,
                 "confidence": "Spelvärt"
               },
+              "top5": {
+                "prob": 0.1583,
+                "fairOdds": 6.32,
+                "estimatedSSOdds": 5.69,
+                "confidence": "Lutar"
+              },
+              "top10": {
+                "prob": 0.2731,
+                "fairOdds": 3.66,
+                "estimatedSSOdds": 3.29,
+                "confidence": "Lutar"
+              },
               "top20": {
-                "prob": 0.4657,
-                "fairOdds": 2.15,
-                "realSSOdds": 2.25,
-                "edgePct": 0.0478,
-                "kellyFraction": 0.0096,
-                "recommendedStakePct": 0.96,
-                "confidence": "Neutral"
+                "prob": 0.441,
+                "fairOdds": 2.27,
+                "estimatedSSOdds": 2.04,
+                "confidence": "Lutar"
               },
               "cut": {
-                "prob": 0.7619,
-                "fairOdds": 1.31,
-                "realSSOdds": 1.29,
-                "edgePct": -0.0171,
+                "prob": 0.7433,
+                "fairOdds": 1.35,
+                "estimatedSSOdds": 1.22,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Chris Gotterup",
+            "mu": -1.26,
+            "muSource": "OWGR-points",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0378,
+                "fairOdds": 26.46,
+                "realSSOdds": 21.0,
+                "edgePct": -0.2062,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
+              },
+              "top5": {
+                "prob": 0.148,
+                "fairOdds": 6.76,
+                "estimatedSSOdds": 6.08,
+                "confidence": "Lutar"
+              },
+              "top10": {
+                "prob": 0.2558,
+                "fairOdds": 3.91,
+                "estimatedSSOdds": 3.52,
+                "confidence": "Lutar"
+              },
+              "top20": {
+                "prob": 0.4244,
+                "fairOdds": 2.36,
+                "estimatedSSOdds": 2.12,
+                "confidence": "Lutar"
+              },
+              "cut": {
+                "prob": 0.7418,
+                "fairOdds": 1.35,
+                "estimatedSSOdds": 1.22,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Ryan Gerard",
+            "mu": -0.9,
+            "muSource": "OWGR-points",
+            "completedScore": -1,
+            "markets": {
+              "win": {
+                "prob": 0.0358,
+                "fairOdds": 27.93,
+                "realSSOdds": 41.0,
+                "edgePct": 0.4678,
+                "kellyFraction": 0.0029,
+                "recommendedStakePct": 0.29,
+                "confidence": "Spelvärt"
+              },
+              "top5": {
+                "prob": 0.1448,
+                "fairOdds": 6.91,
+                "estimatedSSOdds": 6.22,
+                "confidence": "Lutar"
+              },
+              "top10": {
+                "prob": 0.244,
+                "fairOdds": 4.1,
+                "estimatedSSOdds": 3.69,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.3992,
+                "fairOdds": 2.51,
+                "estimatedSSOdds": 2.26,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.7637,
+                "fairOdds": 1.31,
+                "estimatedSSOdds": 1.18,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Wyndham Clark",
+            "mu": -1.22,
+            "muSource": "OWGR-points",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0354,
+                "fairOdds": 28.25,
+                "realSSOdds": 21.0,
+                "edgePct": -0.2566,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
+              },
+              "top5": {
+                "prob": 0.1518,
+                "fairOdds": 6.59,
+                "estimatedSSOdds": 5.93,
+                "confidence": "Lutar"
+              },
+              "top10": {
+                "prob": 0.256,
+                "fairOdds": 3.91,
+                "estimatedSSOdds": 3.52,
+                "confidence": "Lutar"
+              },
+              "top20": {
+                "prob": 0.4213,
+                "fairOdds": 2.37,
+                "estimatedSSOdds": 2.13,
+                "confidence": "Lutar"
+              },
+              "cut": {
+                "prob": 0.7358,
+                "fairOdds": 1.36,
+                "estimatedSSOdds": 1.22,
+                "confidence": "Stark"
               }
             }
           },
@@ -464,102 +492,37 @@
             "completedScore": 0,
             "markets": {
               "win": {
-                "prob": 0.0376,
-                "fairOdds": 26.6,
-                "realSSOdds": 26.0,
-                "edgePct": -0.0224,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.1474,
-                "fairOdds": 6.78,
-                "realSSOdds": 7.0,
-                "edgePct": 0.0318,
-                "kellyFraction": 0.0013,
-                "recommendedStakePct": 0.13,
-                "confidence": "Neutral"
-              },
-              "top10": {
-                "prob": 0.2565,
-                "fairOdds": 3.9,
-                "realSSOdds": 4.25,
-                "edgePct": 0.0901,
-                "kellyFraction": 0.0069,
-                "recommendedStakePct": 0.69,
-                "confidence": "Bra läge"
-              },
-              "top20": {
-                "prob": 0.4247,
-                "fairOdds": 2.35,
-                "realSSOdds": 2.55,
-                "edgePct": 0.083,
-                "kellyFraction": 0.0134,
-                "recommendedStakePct": 1.34,
-                "confidence": "Bra läge"
-              },
-              "cut": {
-                "prob": 0.7333,
-                "fairOdds": 1.36,
-                "realSSOdds": 1.25,
-                "edgePct": -0.0834,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              }
-            }
-          },
-          {
-            "name": "Ben Griffin",
-            "mu": -1.03,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.035,
-                "fairOdds": 28.57,
+                "prob": 0.0332,
+                "fairOdds": 30.12,
                 "realSSOdds": 29.0,
-                "edgePct": 0.015,
-                "kellyFraction": 0.0001,
-                "recommendedStakePct": 0.01,
-                "confidence": "Chansning"
+                "edgePct": -0.0372,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top5": {
-                "prob": 0.1365,
-                "fairOdds": 7.33,
-                "realSSOdds": 7.0,
-                "edgePct": -0.0445,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.1322,
+                "fairOdds": 7.56,
+                "estimatedSSOdds": 6.8,
+                "confidence": "Jämn"
               },
               "top10": {
-                "prob": 0.2416,
-                "fairOdds": 4.14,
-                "realSSOdds": 4.5,
-                "edgePct": 0.0872,
-                "kellyFraction": 0.0062,
-                "recommendedStakePct": 0.62,
-                "confidence": "Bra läge"
+                "prob": 0.2353,
+                "fairOdds": 4.25,
+                "estimatedSSOdds": 3.83,
+                "confidence": "Jämn"
               },
               "top20": {
-                "prob": 0.4049,
-                "fairOdds": 2.47,
-                "realSSOdds": 2.5,
-                "edgePct": 0.0122,
-                "kellyFraction": 0.002,
-                "recommendedStakePct": 0.2,
-                "confidence": "Chansning"
+                "prob": 0.4001,
+                "fairOdds": 2.5,
+                "estimatedSSOdds": 2.25,
+                "confidence": "Lutar"
               },
               "cut": {
-                "prob": 0.7225,
-                "fairOdds": 1.38,
-                "realSSOdds": 1.29,
-                "edgePct": -0.068,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.7154,
+                "fairOdds": 1.4,
+                "estimatedSSOdds": 1.26,
+                "confidence": "Stark"
               }
             }
           },
@@ -570,49 +533,78 @@
             "completedScore": 0,
             "markets": {
               "win": {
-                "prob": 0.0348,
-                "fairOdds": 28.74,
-                "realSSOdds": 19.0,
-                "edgePct": -0.3388,
+                "prob": 0.0318,
+                "fairOdds": 31.45,
+                "realSSOdds": 23.0,
+                "edgePct": -0.2686,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
               },
               "top5": {
-                "prob": 0.143,
-                "fairOdds": 6.99,
-                "realSSOdds": 5.0,
-                "edgePct": -0.285,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.1295,
+                "fairOdds": 7.72,
+                "estimatedSSOdds": 6.95,
+                "confidence": "Jämn"
               },
               "top10": {
-                "prob": 0.2522,
-                "fairOdds": 3.97,
-                "realSSOdds": 3.25,
-                "edgePct": -0.1804,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.2268,
+                "fairOdds": 4.41,
+                "estimatedSSOdds": 3.97,
+                "confidence": "Jämn"
               },
               "top20": {
-                "prob": 0.4107,
-                "fairOdds": 2.43,
-                "realSSOdds": 2.0,
-                "edgePct": -0.1786,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.3877,
+                "fairOdds": 2.58,
+                "estimatedSSOdds": 2.32,
+                "confidence": "Jämn"
               },
               "cut": {
-                "prob": 0.7416,
-                "fairOdds": 1.35,
-                "realSSOdds": 1.2,
-                "edgePct": -0.1101,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.7125,
+                "fairOdds": 1.4,
+                "estimatedSSOdds": 1.26,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Ben Griffin",
+            "mu": -1.03,
+            "muSource": "OWGR-points",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0299,
+                "fairOdds": 33.44,
+                "realSSOdds": 34.0,
+                "edgePct": 0.0166,
+                "kellyFraction": 0.0001,
+                "recommendedStakePct": 0.01,
+                "confidence": "Chansning"
+              },
+              "top5": {
+                "prob": 0.1239,
+                "fairOdds": 8.07,
+                "estimatedSSOdds": 7.26,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.2203,
+                "fairOdds": 4.54,
+                "estimatedSSOdds": 4.09,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.3825,
+                "fairOdds": 2.61,
+                "estimatedSSOdds": 2.35,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.7007,
+                "fairOdds": 1.43,
+                "estimatedSSOdds": 1.29,
+                "confidence": "Stark"
               }
             }
           },
@@ -623,49 +615,119 @@
             "completedScore": 0,
             "markets": {
               "win": {
-                "prob": 0.0274,
-                "fairOdds": 36.5,
-                "realSSOdds": 21.0,
-                "edgePct": -0.4246,
+                "prob": 0.0281,
+                "fairOdds": 35.59,
+                "realSSOdds": 17.0,
+                "edgePct": -0.5223,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
               },
               "top5": {
-                "prob": 0.1351,
-                "fairOdds": 7.4,
-                "realSSOdds": 6.0,
-                "edgePct": -0.1894,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.1224,
+                "fairOdds": 8.17,
+                "estimatedSSOdds": 7.35,
+                "confidence": "Jämn"
               },
               "top10": {
-                "prob": 0.2358,
-                "fairOdds": 4.24,
-                "realSSOdds": 3.75,
-                "edgePct": -0.1158,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.2133,
+                "fairOdds": 4.69,
+                "estimatedSSOdds": 4.22,
+                "confidence": "Jämn"
               },
               "top20": {
-                "prob": 0.4014,
-                "fairOdds": 2.49,
-                "realSSOdds": 2.1,
-                "edgePct": -0.1571,
+                "prob": 0.3675,
+                "fairOdds": 2.72,
+                "estimatedSSOdds": 2.45,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.7015,
+                "fairOdds": 1.43,
+                "estimatedSSOdds": 1.29,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Michael Kim",
+            "mu": -0.44,
+            "muSource": "OWGR-points",
+            "completedScore": -2,
+            "markets": {
+              "win": {
+                "prob": 0.0264,
+                "fairOdds": 37.88,
+                "realSSOdds": 41.0,
+                "edgePct": 0.0824,
+                "kellyFraction": 0.0005,
+                "recommendedStakePct": 0.05,
+                "confidence": "Bra läge"
+              },
+              "top5": {
+                "prob": 0.1097,
+                "fairOdds": 9.12,
+                "estimatedSSOdds": 8.21,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.2032,
+                "fairOdds": 4.92,
+                "estimatedSSOdds": 4.43,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.3575,
+                "fairOdds": 2.8,
+                "estimatedSSOdds": 2.52,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.7767,
+                "fairOdds": 1.29,
+                "estimatedSSOdds": 1.16,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Chris Kirk",
+            "mu": 0.05,
+            "muSource": "OWGR-points",
+            "completedScore": -4,
+            "markets": {
+              "win": {
+                "prob": 0.0238,
+                "fairOdds": 42.02,
+                "realSSOdds": 41.0,
+                "edgePct": -0.0242,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
               },
+              "top5": {
+                "prob": 0.1114,
+                "fairOdds": 8.98,
+                "estimatedSSOdds": 8.08,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.2019,
+                "fairOdds": 4.95,
+                "estimatedSSOdds": 4.46,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.3523,
+                "fairOdds": 2.84,
+                "estimatedSSOdds": 2.56,
+                "confidence": "Jämn"
+              },
               "cut": {
-                "prob": 0.7238,
-                "fairOdds": 1.38,
-                "realSSOdds": 1.23,
-                "edgePct": -0.1097,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.8449,
+                "fairOdds": 1.18,
+                "estimatedSSOdds": 1.06,
+                "confidence": "Stark"
               }
             }
           },
@@ -676,102 +738,37 @@
             "completedScore": 0,
             "markets": {
               "win": {
-                "prob": 0.0263,
-                "fairOdds": 38.02,
+                "prob": 0.023,
+                "fairOdds": 43.48,
                 "realSSOdds": 29.0,
-                "edgePct": -0.2373,
+                "edgePct": -0.333,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
               },
               "top5": {
-                "prob": 0.1148,
-                "fairOdds": 8.71,
-                "realSSOdds": 7.5,
-                "edgePct": -0.139,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.1032,
+                "fairOdds": 9.69,
+                "estimatedSSOdds": 8.72,
+                "confidence": "Jämn"
               },
               "top10": {
-                "prob": 0.2028,
-                "fairOdds": 4.93,
-                "realSSOdds": 4.5,
-                "edgePct": -0.0874,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.1876,
+                "fairOdds": 5.33,
+                "estimatedSSOdds": 4.8,
+                "confidence": "Jämn"
               },
               "top20": {
-                "prob": 0.3534,
-                "fairOdds": 2.83,
-                "realSSOdds": 2.5,
-                "edgePct": -0.1165,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.3316,
+                "fairOdds": 3.02,
+                "estimatedSSOdds": 2.72,
+                "confidence": "Jämn"
               },
               "cut": {
-                "prob": 0.689,
-                "fairOdds": 1.45,
-                "realSSOdds": 1.29,
-                "edgePct": -0.1112,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              }
-            }
-          },
-          {
-            "name": "Ryan Gerard",
-            "mu": -0.9,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0256,
-                "fairOdds": 39.06,
-                "realSSOdds": 36.0,
-                "edgePct": -0.0784,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.1146,
-                "fairOdds": 8.73,
-                "realSSOdds": 9.0,
-                "edgePct": 0.0314,
-                "kellyFraction": 0.001,
-                "recommendedStakePct": 0.1,
-                "confidence": "Neutral"
-              },
-              "top10": {
-                "prob": 0.2029,
-                "fairOdds": 4.93,
-                "realSSOdds": 5.0,
-                "edgePct": 0.0145,
-                "kellyFraction": 0.0009,
-                "recommendedStakePct": 0.09,
-                "confidence": "Chansning"
-              },
-              "top20": {
-                "prob": 0.353,
-                "fairOdds": 2.83,
-                "realSSOdds": 3.0,
-                "edgePct": 0.059,
-                "kellyFraction": 0.0074,
-                "recommendedStakePct": 0.74,
-                "confidence": "Neutral"
-              },
-              "cut": {
-                "prob": 0.6955,
-                "fairOdds": 1.44,
-                "realSSOdds": 1.37,
-                "edgePct": -0.0472,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.6694,
+                "fairOdds": 1.49,
+                "estimatedSSOdds": 1.34,
+                "confidence": "Stark"
               }
             }
           },
@@ -782,49 +779,37 @@
             "completedScore": 0,
             "markets": {
               "win": {
-                "prob": 0.0241,
-                "fairOdds": 41.49,
-                "realSSOdds": 36.0,
-                "edgePct": -0.1324,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.0217,
+                "fairOdds": 46.08,
+                "realSSOdds": 67.0,
+                "edgePct": 0.4539,
+                "kellyFraction": 0.0017,
+                "recommendedStakePct": 0.17,
+                "confidence": "Spelvärt"
               },
               "top5": {
-                "prob": 0.1069,
-                "fairOdds": 9.35,
-                "realSSOdds": 8.5,
-                "edgePct": -0.0914,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.0961,
+                "fairOdds": 10.41,
+                "estimatedSSOdds": 9.37,
+                "confidence": "Jämn"
               },
               "top10": {
-                "prob": 0.1933,
-                "fairOdds": 5.17,
-                "realSSOdds": 5.0,
-                "edgePct": -0.0335,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.1756,
+                "fairOdds": 5.69,
+                "estimatedSSOdds": 5.12,
+                "confidence": "Jämn"
               },
               "top20": {
-                "prob": 0.3423,
-                "fairOdds": 2.92,
-                "realSSOdds": 2.75,
-                "edgePct": -0.0587,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.3164,
+                "fairOdds": 3.16,
+                "estimatedSSOdds": 2.84,
+                "confidence": "Jämn"
               },
               "cut": {
-                "prob": 0.6886,
-                "fairOdds": 1.45,
-                "realSSOdds": 1.4,
-                "edgePct": -0.036,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.6705,
+                "fairOdds": 1.49,
+                "estimatedSSOdds": 1.34,
+                "confidence": "Stark"
               }
             }
           },
@@ -835,49 +820,78 @@
             "completedScore": 0,
             "markets": {
               "win": {
-                "prob": 0.021,
-                "fairOdds": 47.62,
-                "realSSOdds": 51.0,
-                "edgePct": 0.071,
+                "prob": 0.0193,
+                "fairOdds": 51.81,
+                "realSSOdds": 56.0,
+                "edgePct": 0.0808,
                 "kellyFraction": 0.0004,
                 "recommendedStakePct": 0.04,
                 "confidence": "Bra läge"
               },
               "top5": {
-                "prob": 0.1026,
-                "fairOdds": 9.75,
-                "realSSOdds": 10.0,
-                "edgePct": 0.026,
-                "kellyFraction": 0.0007,
-                "recommendedStakePct": 0.07,
-                "confidence": "Chansning"
+                "prob": 0.0915,
+                "fairOdds": 10.93,
+                "estimatedSSOdds": 9.84,
+                "confidence": "Jämn"
               },
               "top10": {
-                "prob": 0.1938,
-                "fairOdds": 5.16,
-                "realSSOdds": 6.0,
-                "edgePct": 0.1628,
-                "kellyFraction": 0.0081,
-                "recommendedStakePct": 0.81,
-                "confidence": "Spelvärt"
+                "prob": 0.1793,
+                "fairOdds": 5.58,
+                "estimatedSSOdds": 5.02,
+                "confidence": "Jämn"
               },
               "top20": {
-                "prob": 0.3469,
-                "fairOdds": 2.88,
-                "realSSOdds": 3.25,
-                "edgePct": 0.1274,
-                "kellyFraction": 0.0142,
-                "recommendedStakePct": 1.42,
-                "confidence": "Bra läge"
+                "prob": 0.3269,
+                "fairOdds": 3.06,
+                "estimatedSSOdds": 2.75,
+                "confidence": "Jämn"
               },
               "cut": {
-                "prob": 0.6934,
-                "fairOdds": 1.44,
-                "realSSOdds": 1.4,
-                "edgePct": -0.0292,
+                "prob": 0.6728,
+                "fairOdds": 1.49,
+                "estimatedSSOdds": 1.34,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Ricky Castillo",
+            "mu": -0.06,
+            "muSource": "OWGR-points",
+            "completedScore": -3,
+            "markets": {
+              "win": {
+                "prob": 0.0186,
+                "fairOdds": 53.76,
+                "realSSOdds": 51.0,
+                "edgePct": -0.0514,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
+              },
+              "top5": {
+                "prob": 0.0877,
+                "fairOdds": 11.4,
+                "estimatedSSOdds": 10.26,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1688,
+                "fairOdds": 5.92,
+                "estimatedSSOdds": 5.33,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.3137,
+                "fairOdds": 3.19,
+                "estimatedSSOdds": 2.87,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.7879,
+                "fairOdds": 1.27,
+                "estimatedSSOdds": 1.14,
+                "confidence": "Stark"
               }
             }
           },
@@ -888,151 +902,77 @@
             "completedScore": 0,
             "markets": {
               "win": {
-                "prob": 0.0205,
-                "fairOdds": 48.78,
+                "prob": 0.0184,
+                "fairOdds": 54.35,
                 "realSSOdds": 46.0,
-                "edgePct": -0.057,
+                "edgePct": -0.1536,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
               },
               "top5": {
-                "prob": 0.0966,
-                "fairOdds": 10.35,
-                "realSSOdds": 9.0,
-                "edgePct": -0.1306,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.0897,
+                "fairOdds": 11.15,
+                "estimatedSSOdds": 10.04,
+                "confidence": "Jämn"
               },
               "top10": {
-                "prob": 0.1817,
-                "fairOdds": 5.5,
-                "realSSOdds": 5.5,
-                "edgePct": -0.0007,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.1613,
+                "fairOdds": 6.2,
+                "estimatedSSOdds": 5.58,
+                "confidence": "Jämn"
               },
               "top20": {
-                "prob": 0.3242,
-                "fairOdds": 3.08,
-                "realSSOdds": 3.0,
-                "edgePct": -0.0274,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.3014,
+                "fairOdds": 3.32,
+                "estimatedSSOdds": 2.99,
+                "confidence": "Jämn"
               },
               "cut": {
-                "prob": 0.6809,
-                "fairOdds": 1.47,
-                "realSSOdds": 1.37,
-                "edgePct": -0.0672,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              }
-            }
-          },
-          {
-            "name": "Patrick Cantlay",
-            "mu": -0.69,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0191,
-                "fairOdds": 52.36,
-                "realSSOdds": 23.0,
-                "edgePct": -0.5607,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.0867,
-                "fairOdds": 11.53,
-                "realSSOdds": 5.5,
-                "edgePct": -0.5232,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top10": {
-                "prob": 0.1644,
-                "fairOdds": 6.08,
-                "realSSOdds": 3.75,
-                "edgePct": -0.3835,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top20": {
-                "prob": 0.2998,
-                "fairOdds": 3.34,
-                "realSSOdds": 2.25,
-                "edgePct": -0.3255,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "cut": {
-                "prob": 0.6596,
-                "fairOdds": 1.52,
-                "realSSOdds": 1.25,
-                "edgePct": -0.1755,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              }
-            }
-          },
-          {
-            "name": "Rickie Fowler",
-            "mu": -0.65,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0179,
-                "fairOdds": 55.87,
-                "realSSOdds": 51.0,
-                "edgePct": -0.0871,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.0834,
-                "fairOdds": 11.99,
-                "realSSOdds": 11.0,
-                "edgePct": -0.0826,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top10": {
-                "prob": 0.1583,
-                "fairOdds": 6.32,
-                "realSSOdds": 6.5,
-                "edgePct": 0.029,
-                "kellyFraction": 0.0013,
-                "recommendedStakePct": 0.13,
-                "confidence": "Chansning"
-              },
-              "top20": {
-                "prob": 0.292,
-                "fairOdds": 3.42,
-                "realSSOdds": 3.5,
-                "edgePct": 0.022,
-                "kellyFraction": 0.0022,
-                "recommendedStakePct": 0.22,
-                "confidence": "Chansning"
-              },
-              "cut": {
-                "prob": 0.6627,
+                "prob": 0.6607,
                 "fairOdds": 1.51,
                 "estimatedSSOdds": 1.36,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Stephan Jaeger",
+            "mu": -0.01,
+            "muSource": "OWGR-points",
+            "completedScore": -3,
+            "markets": {
+              "win": {
+                "prob": 0.0165,
+                "fairOdds": 60.61,
+                "realSSOdds": 67.0,
+                "edgePct": 0.1055,
+                "kellyFraction": 0.0004,
+                "recommendedStakePct": 0.04,
+                "confidence": "Bra läge"
+              },
+              "top5": {
+                "prob": 0.083,
+                "fairOdds": 12.05,
+                "estimatedSSOdds": 10.85,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1614,
+                "fairOdds": 6.2,
+                "estimatedSSOdds": 5.58,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.2979,
+                "fairOdds": 3.36,
+                "estimatedSSOdds": 3.02,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.7864,
+                "fairOdds": 1.27,
+                "estimatedSSOdds": 1.14,
                 "confidence": "Stark"
               }
             }
@@ -1044,45 +984,200 @@
             "completedScore": 0,
             "markets": {
               "win": {
-                "prob": 0.0165,
-                "fairOdds": 60.61,
-                "realSSOdds": 61.0,
-                "edgePct": 0.0065,
+                "prob": 0.0161,
+                "fairOdds": 62.11,
+                "realSSOdds": 17.0,
+                "edgePct": -0.7263,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
-                "confidence": "Chansning"
+                "confidence": "Övervärderad"
               },
               "top5": {
-                "prob": 0.08,
-                "fairOdds": 12.5,
-                "realSSOdds": 13.0,
-                "edgePct": 0.04,
-                "kellyFraction": 0.0008,
-                "recommendedStakePct": 0.08,
-                "confidence": "Neutral"
+                "prob": 0.074,
+                "fairOdds": 13.51,
+                "estimatedSSOdds": 12.16,
+                "confidence": "Jämn"
               },
               "top10": {
-                "prob": 0.1516,
-                "fairOdds": 6.6,
-                "realSSOdds": 7.0,
-                "edgePct": 0.0612,
-                "kellyFraction": 0.0026,
-                "recommendedStakePct": 0.26,
-                "confidence": "Neutral"
+                "prob": 0.1399,
+                "fairOdds": 7.15,
+                "estimatedSSOdds": 6.44,
+                "confidence": "Jämn"
               },
               "top20": {
-                "prob": 0.2821,
-                "fairOdds": 3.54,
-                "realSSOdds": 3.75,
-                "edgePct": 0.0579,
-                "kellyFraction": 0.0053,
-                "recommendedStakePct": 0.53,
-                "confidence": "Neutral"
+                "prob": 0.2645,
+                "fairOdds": 3.78,
+                "estimatedSSOdds": 3.4,
+                "confidence": "Jämn"
               },
               "cut": {
-                "prob": 0.6422,
+                "prob": 0.6269,
+                "fairOdds": 1.6,
+                "estimatedSSOdds": 1.44,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Harry Hall",
+            "mu": -0.19,
+            "muSource": "OWGR-points",
+            "completedScore": -2,
+            "markets": {
+              "win": {
+                "prob": 0.0159,
+                "fairOdds": 62.89,
+                "realSSOdds": 81.0,
+                "edgePct": 0.2879,
+                "kellyFraction": 0.0009,
+                "recommendedStakePct": 0.09,
+                "confidence": "Spelvärt"
+              },
+              "top5": {
+                "prob": 0.0789,
+                "fairOdds": 12.67,
+                "estimatedSSOdds": 11.4,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1519,
+                "fairOdds": 6.58,
+                "estimatedSSOdds": 5.92,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.2887,
+                "fairOdds": 3.46,
+                "estimatedSSOdds": 3.11,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.731,
+                "fairOdds": 1.37,
+                "estimatedSSOdds": 1.23,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Patrick Cantlay",
+            "mu": -0.69,
+            "muSource": "OWGR-points",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0156,
+                "fairOdds": 64.1,
+                "realSSOdds": 29.0,
+                "edgePct": -0.5476,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
+              },
+              "top5": {
+                "prob": 0.0764,
+                "fairOdds": 13.09,
+                "estimatedSSOdds": 11.78,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1488,
+                "fairOdds": 6.72,
+                "estimatedSSOdds": 6.05,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.28,
+                "fairOdds": 3.57,
+                "estimatedSSOdds": 3.21,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.6396,
                 "fairOdds": 1.56,
                 "estimatedSSOdds": 1.4,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Rickie Fowler",
+            "mu": -0.65,
+            "muSource": "OWGR-points",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0143,
+                "fairOdds": 69.93,
+                "realSSOdds": 15.0,
+                "edgePct": -0.7855,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
+              },
+              "top5": {
+                "prob": 0.0735,
+                "fairOdds": 13.61,
+                "estimatedSSOdds": 12.25,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1461,
+                "fairOdds": 6.84,
+                "estimatedSSOdds": 6.16,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.2744,
+                "fairOdds": 3.64,
+                "estimatedSSOdds": 3.28,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.6327,
+                "fairOdds": 1.58,
+                "estimatedSSOdds": 1.42,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Emiliano Grillo",
+            "mu": -0.06,
+            "muSource": "OWGR-points",
+            "completedScore": -2,
+            "markets": {
+              "win": {
+                "prob": 0.0131,
+                "fairOdds": 76.34,
+                "realSSOdds": 67.0,
+                "edgePct": -0.1223,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
+              },
+              "top5": {
+                "prob": 0.068,
+                "fairOdds": 14.71,
+                "estimatedSSOdds": 13.24,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.1363,
+                "fairOdds": 7.34,
+                "estimatedSSOdds": 6.61,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.2555,
+                "fairOdds": 3.91,
+                "estimatedSSOdds": 3.52,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.7086,
+                "fairOdds": 1.41,
+                "estimatedSSOdds": 1.27,
                 "confidence": "Stark"
               }
             }
@@ -1094,146 +1189,34 @@
             "completedScore": 0,
             "markets": {
               "win": {
-                "prob": 0.0161,
-                "fairOdds": 62.11,
+                "prob": 0.0131,
+                "fairOdds": 76.34,
                 "realSSOdds": 29.0,
-                "edgePct": -0.5331,
+                "edgePct": -0.6201,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
               },
               "top5": {
-                "prob": 0.0762,
-                "fairOdds": 13.12,
-                "realSSOdds": 7.0,
-                "edgePct": -0.4666,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.0671,
+                "fairOdds": 14.9,
+                "estimatedSSOdds": 13.41,
+                "confidence": "Svag"
               },
               "top10": {
-                "prob": 0.1443,
-                "fairOdds": 6.93,
-                "realSSOdds": 4.5,
-                "edgePct": -0.3506,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.1286,
+                "fairOdds": 7.78,
+                "estimatedSSOdds": 7.0,
+                "confidence": "Jämn"
               },
               "top20": {
-                "prob": 0.269,
-                "fairOdds": 3.72,
-                "realSSOdds": 2.5,
-                "edgePct": -0.3275,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.2479,
+                "fairOdds": 4.03,
+                "estimatedSSOdds": 3.63,
+                "confidence": "Jämn"
               },
               "cut": {
-                "prob": 0.6408,
-                "fairOdds": 1.56,
-                "realSSOdds": 1.34,
-                "edgePct": -0.1413,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              }
-            }
-          },
-          {
-            "name": "Marco Penge",
-            "mu": -0.48,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0138,
-                "fairOdds": 72.46,
-                "realSSOdds": 67.0,
-                "edgePct": -0.0754,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.0653,
-                "fairOdds": 15.31,
-                "realSSOdds": 13.0,
-                "edgePct": -0.1511,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top10": {
-                "prob": 0.1282,
-                "fairOdds": 7.8,
-                "realSSOdds": 7.0,
-                "edgePct": -0.1026,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top20": {
-                "prob": 0.2531,
-                "fairOdds": 3.95,
-                "realSSOdds": 3.75,
-                "edgePct": -0.0509,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "cut": {
-                "prob": 0.6116,
-                "fairOdds": 1.64,
-                "estimatedSSOdds": 1.48,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Michael Kim",
-            "mu": -0.44,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0125,
-                "fairOdds": 80.0,
-                "realSSOdds": 91.0,
-                "edgePct": 0.1375,
-                "kellyFraction": 0.0004,
-                "recommendedStakePct": 0.04,
-                "confidence": "Bra läge"
-              },
-              "top5": {
-                "prob": 0.0653,
-                "fairOdds": 15.31,
-                "realSSOdds": 17.0,
-                "edgePct": 0.1101,
-                "kellyFraction": 0.0017,
-                "recommendedStakePct": 0.17,
-                "confidence": "Bra läge"
-              },
-              "top10": {
-                "prob": 0.1306,
-                "fairOdds": 7.66,
-                "realSSOdds": 8.5,
-                "edgePct": 0.1101,
-                "kellyFraction": 0.0037,
-                "recommendedStakePct": 0.37,
-                "confidence": "Bra läge"
-              },
-              "top20": {
-                "prob": 0.2524,
-                "fairOdds": 3.96,
-                "realSSOdds": 4.5,
-                "edgePct": 0.1358,
-                "kellyFraction": 0.0097,
-                "recommendedStakePct": 0.97,
-                "confidence": "Bra läge"
-              },
-              "cut": {
-                "prob": 0.6195,
+                "prob": 0.6207,
                 "fairOdds": 1.61,
                 "estimatedSSOdds": 1.45,
                 "confidence": "Stark"
@@ -1241,58 +1224,90 @@
             }
           },
           {
-            "name": "Pierceson Coody",
-            "mu": -0.37,
+            "name": "Peter Malnati",
+            "mu": 1.48,
             "muSource": "OWGR-points",
-            "completedScore": 0,
+            "completedScore": -8,
             "markets": {
               "win": {
-                "prob": 0.0115,
-                "fairOdds": 86.96,
-                "realSSOdds": 81.0,
-                "edgePct": -0.0685,
+                "prob": 0.0129,
+                "fairOdds": 77.52,
+                "realSSOdds": 34.0,
+                "edgePct": -0.5614,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
               },
               "top5": {
-                "prob": 0.0566,
-                "fairOdds": 17.67,
-                "realSSOdds": 15.0,
-                "edgePct": -0.151,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.0628,
+                "fairOdds": 15.92,
+                "estimatedSSOdds": 14.33,
+                "confidence": "Svag"
               },
               "top10": {
-                "prob": 0.1131,
-                "fairOdds": 8.84,
-                "realSSOdds": 8.0,
-                "edgePct": -0.0952,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.1282,
+                "fairOdds": 7.8,
+                "estimatedSSOdds": 7.02,
+                "confidence": "Jämn"
               },
               "top20": {
-                "prob": 0.2262,
-                "fairOdds": 4.42,
-                "realSSOdds": 4.35,
-                "edgePct": -0.016,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.2527,
+                "fairOdds": 3.96,
+                "estimatedSSOdds": 3.56,
+                "confidence": "Jämn"
               },
               "cut": {
-                "prob": 0.5965,
-                "fairOdds": 1.68,
-                "estimatedSSOdds": 1.51,
+                "prob": 0.9035,
+                "fairOdds": 1.11,
+                "estimatedSSOdds": 1.0,
                 "confidence": "Stark"
               }
             }
           },
           {
-            "name": "Jordan Spieth",
-            "mu": -0.42,
+            "name": "Tony Finau",
+            "mu": 0.1,
+            "muSource": "OWGR-points",
+            "completedScore": -3,
+            "markets": {
+              "win": {
+                "prob": 0.0128,
+                "fairOdds": 78.12,
+                "realSSOdds": 34.0,
+                "edgePct": -0.5648,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
+              },
+              "top5": {
+                "prob": 0.071,
+                "fairOdds": 14.08,
+                "estimatedSSOdds": 12.67,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.1402,
+                "fairOdds": 7.13,
+                "estimatedSSOdds": 6.42,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.2703,
+                "fairOdds": 3.7,
+                "estimatedSSOdds": 3.33,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.765,
+                "fairOdds": 1.31,
+                "estimatedSSOdds": 1.18,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Marco Penge",
+            "mu": -0.48,
             "muSource": "OWGR-points",
             "completedScore": 0,
             "markets": {
@@ -1306,36 +1321,150 @@
                 "confidence": "Övervärderad"
               },
               "top5": {
-                "prob": 0.0638,
-                "fairOdds": 15.67,
-                "realSSOdds": 13.0,
-                "edgePct": -0.1706,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.0552,
+                "fairOdds": 18.12,
+                "estimatedSSOdds": 16.31,
+                "confidence": "Svag"
               },
               "top10": {
-                "prob": 0.1254,
-                "fairOdds": 7.97,
-                "realSSOdds": 7.0,
-                "edgePct": -0.1222,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.1162,
+                "fairOdds": 8.61,
+                "estimatedSSOdds": 7.75,
+                "confidence": "Svag"
               },
               "top20": {
-                "prob": 0.248,
-                "fairOdds": 4.03,
-                "realSSOdds": 3.75,
-                "edgePct": -0.07,
+                "prob": 0.2334,
+                "fairOdds": 4.28,
+                "estimatedSSOdds": 3.85,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.5925,
+                "fairOdds": 1.69,
+                "estimatedSSOdds": 1.52,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Jackson Koivun",
+            "mu": -0.28,
+            "muSource": "OWGR-points",
+            "completedScore": -1,
+            "markets": {
+              "win": {
+                "prob": 0.011,
+                "fairOdds": 90.91,
+                "realSSOdds": 19.0,
+                "edgePct": -0.791,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
               },
+              "top5": {
+                "prob": 0.0619,
+                "fairOdds": 16.16,
+                "estimatedSSOdds": 14.54,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.1252,
+                "fairOdds": 7.99,
+                "estimatedSSOdds": 7.19,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.2461,
+                "fairOdds": 4.06,
+                "estimatedSSOdds": 3.65,
+                "confidence": "Jämn"
+              },
               "cut": {
-                "prob": 0.6028,
-                "fairOdds": 1.66,
-                "estimatedSSOdds": 1.49,
+                "prob": 0.6583,
+                "fairOdds": 1.52,
+                "estimatedSSOdds": 1.37,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Eric Cole",
+            "mu": -0.29,
+            "muSource": "OWGR-points",
+            "completedScore": -1,
+            "markets": {
+              "win": {
+                "prob": 0.0109,
+                "fairOdds": 91.74,
+                "realSSOdds": 67.0,
+                "edgePct": -0.2697,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
+              },
+              "top5": {
+                "prob": 0.0643,
+                "fairOdds": 15.55,
+                "estimatedSSOdds": 14.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.1289,
+                "fairOdds": 7.76,
+                "estimatedSSOdds": 6.98,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.2531,
+                "fairOdds": 3.95,
+                "estimatedSSOdds": 3.56,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.6626,
+                "fairOdds": 1.51,
+                "estimatedSSOdds": 1.36,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Jordan Spieth",
+            "mu": -0.42,
+            "muSource": "OWGR-points",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0106,
+                "fairOdds": 94.34,
+                "realSSOdds": 81.0,
+                "edgePct": -0.1414,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
+              },
+              "top5": {
+                "prob": 0.0566,
+                "fairOdds": 17.67,
+                "estimatedSSOdds": 15.9,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.112,
+                "fairOdds": 8.93,
+                "estimatedSSOdds": 8.04,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.2295,
+                "fairOdds": 4.36,
+                "estimatedSSOdds": 3.92,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.5846,
+                "fairOdds": 1.71,
+                "estimatedSSOdds": 1.54,
                 "confidence": "Stark"
               }
             }
@@ -1347,95 +1476,153 @@
             "completedScore": 0,
             "markets": {
               "win": {
-                "prob": 0.0111,
-                "fairOdds": 90.09,
+                "prob": 0.0097,
+                "fairOdds": 103.09,
                 "realSSOdds": 67.0,
-                "edgePct": -0.2563,
+                "edgePct": -0.3501,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
               },
               "top5": {
-                "prob": 0.0693,
-                "fairOdds": 14.43,
-                "realSSOdds": 12.0,
-                "edgePct": -0.1684,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.0604,
+                "fairOdds": 16.56,
+                "estimatedSSOdds": 14.9,
+                "confidence": "Svag"
               },
               "top10": {
-                "prob": 0.1354,
-                "fairOdds": 7.39,
-                "realSSOdds": 6.5,
-                "edgePct": -0.1199,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.1219,
+                "fairOdds": 8.2,
+                "estimatedSSOdds": 7.38,
+                "confidence": "Jämn"
               },
               "top20": {
-                "prob": 0.2556,
-                "fairOdds": 3.91,
-                "realSSOdds": 3.5,
-                "edgePct": -0.1054,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.2374,
+                "fairOdds": 4.21,
+                "estimatedSSOdds": 3.79,
+                "confidence": "Jämn"
               },
               "cut": {
-                "prob": 0.6214,
-                "fairOdds": 1.61,
-                "estimatedSSOdds": 1.45,
+                "prob": 0.5996,
+                "fairOdds": 1.67,
+                "estimatedSSOdds": 1.5,
                 "confidence": "Stark"
               }
             }
           },
           {
-            "name": "Sungjae Im",
-            "mu": -0.24,
+            "name": "Davis Riley",
+            "mu": 0.36,
             "muSource": "OWGR-points",
-            "completedScore": 0,
+            "completedScore": -3,
             "markets": {
               "win": {
-                "prob": 0.011,
-                "fairOdds": 90.91,
-                "realSSOdds": 91.0,
-                "edgePct": 0.001,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Chansning"
+                "prob": 0.0096,
+                "fairOdds": 104.17,
+                "estimatedSSOdds": 93.75,
+                "confidence": "Svag"
               },
               "top5": {
-                "prob": 0.0503,
-                "fairOdds": 19.88,
-                "realSSOdds": 17.0,
-                "edgePct": -0.1449,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.0483,
+                "fairOdds": 20.7,
+                "estimatedSSOdds": 18.63,
+                "confidence": "Svag"
               },
               "top10": {
-                "prob": 0.104,
-                "fairOdds": 9.62,
-                "realSSOdds": 8.5,
-                "edgePct": -0.116,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.1042,
+                "fairOdds": 9.6,
+                "estimatedSSOdds": 8.64,
+                "confidence": "Svag"
               },
               "top20": {
-                "prob": 0.2074,
-                "fairOdds": 4.82,
-                "realSSOdds": 4.5,
-                "edgePct": -0.0667,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.2145,
+                "fairOdds": 4.66,
+                "estimatedSSOdds": 4.19,
+                "confidence": "Jämn"
               },
               "cut": {
-                "prob": 0.5774,
-                "fairOdds": 1.73,
-                "estimatedSSOdds": 1.56,
+                "prob": 0.7253,
+                "fairOdds": 1.38,
+                "estimatedSSOdds": 1.24,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Matt Kuchar",
+            "mu": 0.38,
+            "muSource": "OWGR-points",
+            "completedScore": -3,
+            "markets": {
+              "win": {
+                "prob": 0.0096,
+                "fairOdds": 104.17,
+                "realSSOdds": 151.0,
+                "edgePct": 0.4496,
+                "kellyFraction": 0.0007,
+                "recommendedStakePct": 0.07,
+                "confidence": "Spelvärt"
+              },
+              "top5": {
+                "prob": 0.0505,
+                "fairOdds": 19.8,
+                "estimatedSSOdds": 17.82,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.1048,
+                "fairOdds": 9.54,
+                "estimatedSSOdds": 8.59,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.2026,
+                "fairOdds": 4.94,
+                "estimatedSSOdds": 4.45,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.7151,
+                "fairOdds": 1.4,
+                "estimatedSSOdds": 1.26,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Mark Hubbard",
+            "mu": 0.13,
+            "muSource": "OWGR-points",
+            "completedScore": -2,
+            "markets": {
+              "win": {
+                "prob": 0.0095,
+                "fairOdds": 105.26,
+                "estimatedSSOdds": 94.73,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0546,
+                "fairOdds": 18.32,
+                "estimatedSSOdds": 16.49,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.1113,
+                "fairOdds": 8.98,
+                "estimatedSSOdds": 8.08,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.2169,
+                "fairOdds": 4.61,
+                "estimatedSSOdds": 4.15,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.6669,
+                "fairOdds": 1.5,
+                "estimatedSSOdds": 1.35,
                 "confidence": "Stark"
               }
             }
@@ -1447,45 +1634,200 @@
             "completedScore": 0,
             "markets": {
               "win": {
-                "prob": 0.0106,
-                "fairOdds": 94.34,
-                "realSSOdds": 126.0,
-                "edgePct": 0.3356,
+                "prob": 0.0093,
+                "fairOdds": 107.53,
+                "realSSOdds": 151.0,
+                "edgePct": 0.4043,
                 "kellyFraction": 0.0007,
                 "recommendedStakePct": 0.07,
                 "confidence": "Spelvärt"
               },
               "top5": {
-                "prob": 0.0516,
-                "fairOdds": 19.38,
-                "realSSOdds": 26.0,
-                "edgePct": 0.3416,
-                "kellyFraction": 0.0034,
-                "recommendedStakePct": 0.34,
-                "confidence": "Spelvärt"
+                "prob": 0.0445,
+                "fairOdds": 22.47,
+                "estimatedSSOdds": 20.22,
+                "confidence": "Svag"
               },
               "top10": {
-                "prob": 0.1097,
-                "fairOdds": 9.12,
-                "realSSOdds": 12.0,
-                "edgePct": 0.3164,
-                "kellyFraction": 0.0072,
-                "recommendedStakePct": 0.72,
-                "confidence": "Spelvärt"
+                "prob": 0.0964,
+                "fairOdds": 10.37,
+                "estimatedSSOdds": 9.33,
+                "confidence": "Svag"
               },
               "top20": {
-                "prob": 0.2161,
-                "fairOdds": 4.63,
-                "realSSOdds": 5.5,
-                "edgePct": 0.1885,
-                "kellyFraction": 0.0105,
-                "recommendedStakePct": 1.05,
-                "confidence": "Spelvärt"
+                "prob": 0.1978,
+                "fairOdds": 5.06,
+                "estimatedSSOdds": 4.55,
+                "confidence": "Svag"
               },
               "cut": {
-                "prob": 0.5856,
-                "fairOdds": 1.71,
-                "estimatedSSOdds": 1.54,
+                "prob": 0.5649,
+                "fairOdds": 1.77,
+                "estimatedSSOdds": 1.59,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Sungjae Im",
+            "mu": -0.24,
+            "muSource": "OWGR-points",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0091,
+                "fairOdds": 109.89,
+                "realSSOdds": 81.0,
+                "edgePct": -0.2629,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
+              },
+              "top5": {
+                "prob": 0.0441,
+                "fairOdds": 22.68,
+                "estimatedSSOdds": 20.41,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0921,
+                "fairOdds": 10.86,
+                "estimatedSSOdds": 9.77,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1896,
+                "fairOdds": 5.27,
+                "estimatedSSOdds": 4.74,
+                "confidence": "Svag"
+              },
+              "cut": {
+                "prob": 0.5567,
+                "fairOdds": 1.8,
+                "estimatedSSOdds": 1.62,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Pierceson Coody",
+            "mu": -0.37,
+            "muSource": "OWGR-points",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0089,
+                "fairOdds": 112.36,
+                "realSSOdds": 56.0,
+                "edgePct": -0.5016,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
+              },
+              "top5": {
+                "prob": 0.0505,
+                "fairOdds": 19.8,
+                "estimatedSSOdds": 17.82,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.1054,
+                "fairOdds": 9.49,
+                "estimatedSSOdds": 8.54,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.2102,
+                "fairOdds": 4.76,
+                "estimatedSSOdds": 4.28,
+                "confidence": "Jämn"
+              },
+              "cut": {
+                "prob": 0.5829,
+                "fairOdds": 1.72,
+                "estimatedSSOdds": 1.55,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Steven Fisk",
+            "mu": -0.19,
+            "muSource": "OWGR-points",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0088,
+                "fairOdds": 113.64,
+                "realSSOdds": 126.0,
+                "edgePct": 0.1088,
+                "kellyFraction": 0.0002,
+                "recommendedStakePct": 0.02,
+                "confidence": "Bra läge"
+              },
+              "top5": {
+                "prob": 0.0384,
+                "fairOdds": 26.04,
+                "estimatedSSOdds": 23.44,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0814,
+                "fairOdds": 12.29,
+                "estimatedSSOdds": 11.06,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1725,
+                "fairOdds": 5.8,
+                "estimatedSSOdds": 5.22,
+                "confidence": "Svag"
+              },
+              "cut": {
+                "prob": 0.5412,
+                "fairOdds": 1.85,
+                "estimatedSSOdds": 1.67,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Matti Schmid",
+            "mu": -0.2,
+            "muSource": "OWGR-points",
+            "completedScore": 0,
+            "markets": {
+              "win": {
+                "prob": 0.0086,
+                "fairOdds": 116.28,
+                "realSSOdds": 201.0,
+                "edgePct": 0.7286,
+                "kellyFraction": 0.0009,
+                "recommendedStakePct": 0.09,
+                "confidence": "Spelvärt"
+              },
+              "top5": {
+                "prob": 0.0415,
+                "fairOdds": 24.1,
+                "estimatedSSOdds": 21.69,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0861,
+                "fairOdds": 11.61,
+                "estimatedSSOdds": 10.45,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1774,
+                "fairOdds": 5.64,
+                "estimatedSSOdds": 5.08,
+                "confidence": "Svag"
+              },
+              "cut": {
+                "prob": 0.5405,
+                "fairOdds": 1.85,
+                "estimatedSSOdds": 1.67,
                 "confidence": "Stark"
               }
             }
@@ -1497,98 +1839,36 @@
             "completedScore": 0,
             "markets": {
               "win": {
-                "prob": 0.0099,
-                "fairOdds": 101.01,
-                "realSSOdds": 46.0,
-                "edgePct": -0.5446,
+                "prob": 0.0083,
+                "fairOdds": 120.48,
+                "realSSOdds": 51.0,
+                "edgePct": -0.5767,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
               },
               "top5": {
-                "prob": 0.0535,
-                "fairOdds": 18.69,
-                "realSSOdds": 9.0,
-                "edgePct": -0.5185,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.0485,
+                "fairOdds": 20.62,
+                "estimatedSSOdds": 18.56,
+                "confidence": "Svag"
               },
               "top10": {
-                "prob": 0.1188,
-                "fairOdds": 8.42,
-                "realSSOdds": 5.5,
-                "edgePct": -0.3466,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.1037,
+                "fairOdds": 9.64,
+                "estimatedSSOdds": 8.68,
+                "confidence": "Svag"
               },
               "top20": {
-                "prob": 0.2349,
-                "fairOdds": 4.26,
-                "realSSOdds": 3.0,
-                "edgePct": -0.2953,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.2186,
+                "fairOdds": 4.57,
+                "estimatedSSOdds": 4.11,
+                "confidence": "Jämn"
               },
               "cut": {
-                "prob": 0.6003,
-                "fairOdds": 1.67,
-                "realSSOdds": 1.45,
-                "edgePct": -0.1296,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              }
-            }
-          },
-          {
-            "name": "Steven Fisk",
-            "mu": -0.19,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0098,
-                "fairOdds": 102.04,
-                "realSSOdds": 126.0,
-                "edgePct": 0.2348,
-                "kellyFraction": 0.0005,
-                "recommendedStakePct": 0.05,
-                "confidence": "Spelvärt"
-              },
-              "top5": {
-                "prob": 0.0441,
-                "fairOdds": 22.68,
-                "realSSOdds": 26.0,
-                "edgePct": 0.1466,
-                "kellyFraction": 0.0015,
-                "recommendedStakePct": 0.15,
-                "confidence": "Bra läge"
-              },
-              "top10": {
-                "prob": 0.0908,
-                "fairOdds": 11.01,
-                "realSSOdds": 12.0,
-                "edgePct": 0.0896,
-                "kellyFraction": 0.002,
-                "recommendedStakePct": 0.2,
-                "confidence": "Bra läge"
-              },
-              "top20": {
-                "prob": 0.1876,
-                "fairOdds": 5.33,
-                "realSSOdds": 5.5,
-                "edgePct": 0.0318,
-                "kellyFraction": 0.0018,
-                "recommendedStakePct": 0.18,
-                "confidence": "Neutral"
-              },
-              "cut": {
-                "prob": 0.5641,
-                "fairOdds": 1.77,
-                "estimatedSSOdds": 1.59,
+                "prob": 0.5783,
+                "fairOdds": 1.73,
+                "estimatedSSOdds": 1.56,
                 "confidence": "Stark"
               }
             }
@@ -1600,701 +1880,36 @@
             "completedScore": 0,
             "markets": {
               "win": {
-                "prob": 0.0096,
-                "fairOdds": 104.17,
-                "realSSOdds": 36.0,
-                "edgePct": -0.6544,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.0511,
-                "fairOdds": 19.57,
-                "realSSOdds": 9.0,
-                "edgePct": -0.5401,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top10": {
-                "prob": 0.1107,
-                "fairOdds": 9.03,
-                "realSSOdds": 5.5,
-                "edgePct": -0.3911,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top20": {
-                "prob": 0.2219,
-                "fairOdds": 4.51,
-                "realSSOdds": 3.0,
-                "edgePct": -0.3343,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "cut": {
-                "prob": 0.5929,
-                "fairOdds": 1.69,
-                "realSSOdds": 1.37,
-                "edgePct": -0.1877,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              }
-            }
-          },
-          {
-            "name": "Nick Taylor",
-            "mu": -0.29,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0093,
-                "fairOdds": 107.53,
-                "realSSOdds": 91.0,
-                "edgePct": -0.1537,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.0531,
-                "fairOdds": 18.83,
-                "realSSOdds": 17.0,
-                "edgePct": -0.0973,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top10": {
-                "prob": 0.1066,
-                "fairOdds": 9.38,
-                "realSSOdds": 8.5,
-                "edgePct": -0.0939,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top20": {
-                "prob": 0.212,
-                "fairOdds": 4.72,
-                "realSSOdds": 4.5,
-                "edgePct": -0.046,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "cut": {
-                "prob": 0.5871,
-                "fairOdds": 1.7,
-                "estimatedSSOdds": 1.53,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Matt Wallace",
-            "mu": -0.28,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0093,
-                "fairOdds": 107.53,
-                "realSSOdds": 81.0,
-                "edgePct": -0.2467,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.0507,
-                "fairOdds": 19.72,
-                "realSSOdds": 17.0,
-                "edgePct": -0.1381,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top10": {
-                "prob": 0.1035,
-                "fairOdds": 9.66,
-                "realSSOdds": 8.5,
-                "edgePct": -0.1203,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top20": {
-                "prob": 0.2067,
-                "fairOdds": 4.84,
-                "realSSOdds": 4.5,
-                "edgePct": -0.0698,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "cut": {
-                "prob": 0.5836,
-                "fairOdds": 1.71,
-                "estimatedSSOdds": 1.54,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Andrew Novak",
-            "mu": -0.26,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0091,
-                "fairOdds": 109.89,
-                "realSSOdds": 101.0,
-                "edgePct": -0.0809,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.0512,
-                "fairOdds": 19.53,
-                "realSSOdds": 21.0,
-                "edgePct": 0.0752,
-                "kellyFraction": 0.0009,
-                "recommendedStakePct": 0.09,
-                "confidence": "Bra läge"
-              },
-              "top10": {
-                "prob": 0.1036,
-                "fairOdds": 9.65,
-                "realSSOdds": 10.0,
-                "edgePct": 0.036,
-                "kellyFraction": 0.001,
-                "recommendedStakePct": 0.1,
-                "confidence": "Neutral"
-              },
-              "top20": {
-                "prob": 0.2075,
-                "fairOdds": 4.82,
-                "realSSOdds": 5.0,
-                "edgePct": 0.0375,
-                "kellyFraction": 0.0023,
-                "recommendedStakePct": 0.23,
-                "confidence": "Neutral"
-              },
-              "cut": {
-                "prob": 0.5901,
-                "fairOdds": 1.69,
-                "estimatedSSOdds": 1.52,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Jordan Smith",
-            "mu": -0.26,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0091,
-                "fairOdds": 109.89,
-                "realSSOdds": 67.0,
-                "edgePct": -0.3903,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.0467,
-                "fairOdds": 21.41,
-                "realSSOdds": 13.0,
-                "edgePct": -0.3929,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top10": {
-                "prob": 0.1011,
-                "fairOdds": 9.89,
-                "realSSOdds": 7.0,
-                "edgePct": -0.2923,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top20": {
-                "prob": 0.2077,
-                "fairOdds": 4.81,
-                "realSSOdds": 3.75,
-                "edgePct": -0.2211,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "cut": {
-                "prob": 0.5701,
-                "fairOdds": 1.75,
-                "estimatedSSOdds": 1.57,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Matti Schmid",
-            "mu": -0.2,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.009,
-                "fairOdds": 111.11,
-                "realSSOdds": 151.0,
-                "edgePct": 0.359,
-                "kellyFraction": 0.0006,
-                "recommendedStakePct": 0.06,
-                "confidence": "Spelvärt"
-              },
-              "top5": {
-                "prob": 0.0464,
-                "fairOdds": 21.55,
-                "realSSOdds": 34.0,
-                "edgePct": 0.5776,
-                "kellyFraction": 0.0044,
-                "recommendedStakePct": 0.44,
-                "confidence": "Spelvärt"
-              },
-              "top10": {
-                "prob": 0.0945,
-                "fairOdds": 10.58,
-                "realSSOdds": 13.0,
-                "edgePct": 0.2285,
-                "kellyFraction": 0.0048,
-                "recommendedStakePct": 0.48,
-                "confidence": "Spelvärt"
-              },
-              "top20": {
-                "prob": 0.1942,
-                "fairOdds": 5.15,
-                "realSSOdds": 6.0,
-                "edgePct": 0.1652,
-                "kellyFraction": 0.0083,
-                "recommendedStakePct": 0.83,
-                "confidence": "Spelvärt"
-              },
-              "cut": {
-                "prob": 0.5621,
-                "fairOdds": 1.78,
-                "estimatedSSOdds": 1.6,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Ryo Hisatsune",
-            "mu": -0.35,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0088,
-                "fairOdds": 113.64,
-                "realSSOdds": 61.0,
-                "edgePct": -0.4632,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.0529,
-                "fairOdds": 18.9,
-                "realSSOdds": 15.0,
-                "edgePct": -0.2065,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top10": {
-                "prob": 0.1103,
-                "fairOdds": 9.07,
-                "realSSOdds": 7.5,
-                "edgePct": -0.1728,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top20": {
-                "prob": 0.2192,
-                "fairOdds": 4.56,
-                "realSSOdds": 4.0,
-                "edgePct": -0.1232,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "cut": {
-                "prob": 0.5959,
-                "fairOdds": 1.68,
-                "estimatedSSOdds": 1.51,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Denny McCarthy",
-            "mu": -0.15,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0083,
-                "fairOdds": 120.48,
-                "realSSOdds": 67.0,
-                "edgePct": -0.4439,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.0452,
-                "fairOdds": 22.12,
-                "realSSOdds": 13.0,
-                "edgePct": -0.4124,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top10": {
-                "prob": 0.0898,
-                "fairOdds": 11.14,
-                "realSSOdds": 7.0,
-                "edgePct": -0.3714,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top20": {
-                "prob": 0.1837,
-                "fairOdds": 5.44,
-                "realSSOdds": 3.75,
-                "edgePct": -0.3111,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "cut": {
-                "prob": 0.5476,
-                "fairOdds": 1.83,
-                "estimatedSSOdds": 1.65,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Max Greyserman",
-            "mu": -0.2,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.008,
-                "fairOdds": 125.0,
-                "realSSOdds": 81.0,
-                "edgePct": -0.352,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.0431,
-                "fairOdds": 23.2,
-                "realSSOdds": 15.0,
-                "edgePct": -0.3535,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top10": {
-                "prob": 0.091,
-                "fairOdds": 10.99,
-                "realSSOdds": 8.0,
-                "edgePct": -0.272,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top20": {
-                "prob": 0.1882,
-                "fairOdds": 5.31,
-                "realSSOdds": 4.35,
-                "edgePct": -0.1813,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "cut": {
-                "prob": 0.5645,
-                "fairOdds": 1.77,
-                "estimatedSSOdds": 1.59,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Rasmus Neergaard-Petersen",
-            "mu": -0.25,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
                 "prob": 0.0079,
                 "fairOdds": 126.58,
-                "realSSOdds": 81.0,
-                "edgePct": -0.3601,
+                "realSSOdds": 46.0,
+                "edgePct": -0.6366,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
               },
               "top5": {
-                "prob": 0.0468,
-                "fairOdds": 21.37,
-                "realSSOdds": 17.0,
-                "edgePct": -0.2044,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.0453,
+                "fairOdds": 22.08,
+                "estimatedSSOdds": 19.87,
+                "confidence": "Svag"
               },
               "top10": {
-                "prob": 0.0956,
-                "fairOdds": 10.46,
-                "realSSOdds": 8.5,
-                "edgePct": -0.1874,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.0995,
+                "fairOdds": 10.05,
+                "estimatedSSOdds": 9.05,
+                "confidence": "Svag"
               },
               "top20": {
-                "prob": 0.2027,
-                "fairOdds": 4.93,
-                "realSSOdds": 4.5,
-                "edgePct": -0.0878,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "prob": 0.2024,
+                "fairOdds": 4.94,
+                "estimatedSSOdds": 4.45,
+                "confidence": "Jämn"
               },
               "cut": {
-                "prob": 0.5788,
-                "fairOdds": 1.73,
-                "estimatedSSOdds": 1.56,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Harry Hall",
-            "mu": -0.19,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0078,
-                "fairOdds": 128.21,
-                "realSSOdds": 101.0,
-                "edgePct": -0.2122,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.0444,
-                "fairOdds": 22.52,
-                "realSSOdds": 21.0,
-                "edgePct": -0.0676,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top10": {
-                "prob": 0.0934,
-                "fairOdds": 10.71,
-                "realSSOdds": 10.0,
-                "edgePct": -0.066,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top20": {
-                "prob": 0.1912,
-                "fairOdds": 5.23,
-                "realSSOdds": 5.0,
-                "edgePct": -0.044,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "cut": {
-                "prob": 0.5689,
+                "prob": 0.5678,
                 "fairOdds": 1.76,
                 "estimatedSSOdds": 1.58,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "Jackson Koivun",
-            "mu": -0.28,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0077,
-                "fairOdds": 129.87,
-                "realSSOdds": 19.0,
-                "edgePct": -0.8537,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.0488,
-                "fairOdds": 20.49,
-                "realSSOdds": 5.0,
-                "edgePct": -0.756,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top10": {
-                "prob": 0.1048,
-                "fairOdds": 9.54,
-                "realSSOdds": 3.1,
-                "edgePct": -0.6751,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top20": {
-                "prob": 0.2155,
-                "fairOdds": 4.64,
-                "realSSOdds": 1.91,
-                "edgePct": -0.5884,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "cut": {
-                "prob": 0.579,
-                "fairOdds": 1.73,
-                "realSSOdds": 1.29,
-                "edgePct": -0.2531,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              }
-            }
-          },
-          {
-            "name": "Eric Cole",
-            "mu": -0.29,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0071,
-                "fairOdds": 140.85,
-                "realSSOdds": 67.0,
-                "edgePct": -0.5243,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.0475,
-                "fairOdds": 21.05,
-                "realSSOdds": 13.0,
-                "edgePct": -0.3825,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top10": {
-                "prob": 0.0991,
-                "fairOdds": 10.09,
-                "realSSOdds": 7.0,
-                "edgePct": -0.3063,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top20": {
-                "prob": 0.2085,
-                "fairOdds": 4.8,
-                "realSSOdds": 3.75,
-                "edgePct": -0.2181,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "cut": {
-                "prob": 0.585,
-                "fairOdds": 1.71,
-                "estimatedSSOdds": 1.54,
-                "confidence": "Stark"
-              }
-            }
-          },
-          {
-            "name": "John Parry",
-            "mu": -0.13,
-            "muSource": "OWGR-points",
-            "completedScore": 0,
-            "markets": {
-              "win": {
-                "prob": 0.0071,
-                "fairOdds": 140.85,
-                "realSSOdds": 91.0,
-                "edgePct": -0.3539,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top5": {
-                "prob": 0.0402,
-                "fairOdds": 24.88,
-                "realSSOdds": 17.0,
-                "edgePct": -0.3166,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top10": {
-                "prob": 0.085,
-                "fairOdds": 11.76,
-                "realSSOdds": 8.5,
-                "edgePct": -0.2775,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "top20": {
-                "prob": 0.1826,
-                "fairOdds": 5.48,
-                "realSSOdds": 4.5,
-                "edgePct": -0.1783,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
-              },
-              "cut": {
-                "prob": 0.5634,
-                "fairOdds": 1.77,
-                "estimatedSSOdds": 1.59,
                 "confidence": "Stark"
               }
             }
@@ -2304,526 +1919,319 @@
           "win": [
             {
               "name": "Cameron Young",
-              "prob": 0.0702,
-              "fairOdds": 14.25,
+              "prob": 0.0619,
+              "fairOdds": 16.16,
               "confidence": "Övervärderad",
-              "realSSOdds": 11.0,
-              "edgePct": -0.2278,
+              "realSSOdds": 12.0,
+              "edgePct": -0.2572,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
-            },
-            {
-              "name": "Chris Gotterup",
-              "prob": 0.05,
-              "fairOdds": 20.0,
-              "confidence": "Övervärderad",
-              "realSSOdds": 19.0,
-              "edgePct": -0.05,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
-            },
-            {
-              "name": "Wyndham Clark",
-              "prob": 0.0466,
-              "fairOdds": 21.46,
-              "confidence": "Bra läge",
-              "realSSOdds": 23.0,
-              "edgePct": 0.0718,
-              "kellyFraction": 0.0008,
-              "recommendedStakePct": 0.08
             },
             {
               "name": "Russell Henley",
-              "prob": 0.0452,
-              "fairOdds": 22.12,
-              "confidence": "Neutral",
-              "realSSOdds": 23.0,
-              "edgePct": 0.0396,
-              "kellyFraction": 0.0004,
-              "recommendedStakePct": 0.04
+              "prob": 0.0415,
+              "fairOdds": 24.1,
+              "confidence": "Spelvärt",
+              "realSSOdds": 29.0,
+              "edgePct": 0.2035,
+              "kellyFraction": 0.0018,
+              "recommendedStakePct": 0.18
+            },
+            {
+              "name": "Chris Gotterup",
+              "prob": 0.0378,
+              "fairOdds": 26.46,
+              "confidence": "Övervärderad",
+              "realSSOdds": 21.0,
+              "edgePct": -0.2062,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
+            },
+            {
+              "name": "Ryan Gerard",
+              "prob": 0.0358,
+              "fairOdds": 27.93,
+              "confidence": "Spelvärt",
+              "realSSOdds": 41.0,
+              "edgePct": 0.4678,
+              "kellyFraction": 0.0029,
+              "recommendedStakePct": 0.29
+            },
+            {
+              "name": "Wyndham Clark",
+              "prob": 0.0354,
+              "fairOdds": 28.25,
+              "confidence": "Övervärderad",
+              "realSSOdds": 21.0,
+              "edgePct": -0.2566,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
             },
             {
               "name": "J.J. Spaun",
-              "prob": 0.0376,
-              "fairOdds": 26.6,
+              "prob": 0.0332,
+              "fairOdds": 30.12,
               "confidence": "Övervärderad",
-              "realSSOdds": 26.0,
-              "edgePct": -0.0224,
+              "realSSOdds": 29.0,
+              "edgePct": -0.0372,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
+            },
+            {
+              "name": "Xander Schauffele",
+              "prob": 0.0318,
+              "fairOdds": 31.45,
+              "confidence": "Övervärderad",
+              "realSSOdds": 23.0,
+              "edgePct": -0.2686,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
             },
             {
               "name": "Ben Griffin",
-              "prob": 0.035,
-              "fairOdds": 28.57,
+              "prob": 0.0299,
+              "fairOdds": 33.44,
               "confidence": "Chansning",
-              "realSSOdds": 29.0,
-              "edgePct": 0.015,
+              "realSSOdds": 34.0,
+              "edgePct": 0.0166,
               "kellyFraction": 0.0001,
               "recommendedStakePct": 0.01
-            },
-            {
-              "name": "Xander Schauffele",
-              "prob": 0.0348,
-              "fairOdds": 28.74,
-              "confidence": "Övervärderad",
-              "realSSOdds": 19.0,
-              "edgePct": -0.3388,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
-            },
-            {
-              "name": "Si Woo Kim",
-              "prob": 0.0274,
-              "fairOdds": 36.5,
-              "confidence": "Övervärderad",
-              "realSSOdds": 21.0,
-              "edgePct": -0.4246,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
             }
           ],
           "top5": [
             {
               "name": "Cameron Young",
-              "prob": 0.2491,
-              "fairOdds": 4.01,
-              "confidence": "Övervärderad",
-              "realSSOdds": 3.6,
-              "edgePct": -0.1032,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
+              "prob": 0.2299,
+              "fairOdds": 4.35,
+              "confidence": "Stark",
+              "estimatedSSOdds": 3.91
             },
             {
               "name": "Russell Henley",
-              "prob": 0.1809,
-              "fairOdds": 5.53,
-              "confidence": "Bra läge",
-              "realSSOdds": 6.0,
-              "edgePct": 0.0854,
-              "kellyFraction": 0.0043,
-              "recommendedStakePct": 0.43
-            },
-            {
-              "name": "Chris Gotterup",
-              "prob": 0.1707,
-              "fairOdds": 5.86,
-              "confidence": "Övervärderad",
-              "realSSOdds": 5.5,
-              "edgePct": -0.0612,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
+              "prob": 0.1583,
+              "fairOdds": 6.32,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 5.69
             },
             {
               "name": "Wyndham Clark",
-              "prob": 0.1697,
-              "fairOdds": 5.89,
-              "confidence": "Bra läge",
-              "realSSOdds": 6.5,
-              "edgePct": 0.103,
-              "kellyFraction": 0.0047,
-              "recommendedStakePct": 0.47
+              "prob": 0.1518,
+              "fairOdds": 6.59,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 5.93
+            },
+            {
+              "name": "Chris Gotterup",
+              "prob": 0.148,
+              "fairOdds": 6.76,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 6.08
+            },
+            {
+              "name": "Ryan Gerard",
+              "prob": 0.1448,
+              "fairOdds": 6.91,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 6.22
             },
             {
               "name": "J.J. Spaun",
-              "prob": 0.1474,
-              "fairOdds": 6.78,
-              "confidence": "Neutral",
-              "realSSOdds": 7.0,
-              "edgePct": 0.0318,
-              "kellyFraction": 0.0013,
-              "recommendedStakePct": 0.13
+              "prob": 0.1322,
+              "fairOdds": 7.56,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 6.8
             },
             {
               "name": "Xander Schauffele",
-              "prob": 0.143,
-              "fairOdds": 6.99,
-              "confidence": "Övervärderad",
-              "realSSOdds": 5.0,
-              "edgePct": -0.285,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
+              "prob": 0.1295,
+              "fairOdds": 7.72,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 6.95
             },
             {
               "name": "Ben Griffin",
-              "prob": 0.1365,
-              "fairOdds": 7.33,
-              "confidence": "Övervärderad",
-              "realSSOdds": 7.0,
-              "edgePct": -0.0445,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
-            },
-            {
-              "name": "Si Woo Kim",
-              "prob": 0.1351,
-              "fairOdds": 7.4,
-              "confidence": "Övervärderad",
-              "realSSOdds": 6.0,
-              "edgePct": -0.1894,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
+              "prob": 0.1239,
+              "fairOdds": 8.07,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 7.26
             }
           ],
           "top10": [
             {
               "name": "Cameron Young",
-              "prob": 0.389,
-              "fairOdds": 2.57,
-              "confidence": "Övervärderad",
-              "realSSOdds": 2.55,
-              "edgePct": -0.0081,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
+              "prob": 0.3642,
+              "fairOdds": 2.75,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 2.48
             },
             {
               "name": "Russell Henley",
-              "prob": 0.2931,
-              "fairOdds": 3.41,
-              "confidence": "Spelvärt",
-              "realSSOdds": 4.0,
-              "edgePct": 0.1724,
-              "kellyFraction": 0.0144,
-              "recommendedStakePct": 1.44
-            },
-            {
-              "name": "Chris Gotterup",
-              "prob": 0.2858,
-              "fairOdds": 3.5,
-              "confidence": "Chansning",
-              "realSSOdds": 3.5,
-              "edgePct": 0.0003,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
+              "prob": 0.2731,
+              "fairOdds": 3.66,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 3.29
             },
             {
               "name": "Wyndham Clark",
-              "prob": 0.28,
-              "fairOdds": 3.57,
-              "confidence": "Bra läge",
-              "realSSOdds": 4.0,
-              "edgePct": 0.12,
-              "kellyFraction": 0.01,
-              "recommendedStakePct": 1.0
+              "prob": 0.256,
+              "fairOdds": 3.91,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 3.52
+            },
+            {
+              "name": "Chris Gotterup",
+              "prob": 0.2558,
+              "fairOdds": 3.91,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 3.52
+            },
+            {
+              "name": "Ryan Gerard",
+              "prob": 0.244,
+              "fairOdds": 4.1,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 3.69
             },
             {
               "name": "J.J. Spaun",
-              "prob": 0.2565,
-              "fairOdds": 3.9,
-              "confidence": "Bra läge",
-              "realSSOdds": 4.25,
-              "edgePct": 0.0901,
-              "kellyFraction": 0.0069,
-              "recommendedStakePct": 0.69
+              "prob": 0.2353,
+              "fairOdds": 4.25,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 3.83
             },
             {
               "name": "Xander Schauffele",
-              "prob": 0.2522,
-              "fairOdds": 3.97,
-              "confidence": "Övervärderad",
-              "realSSOdds": 3.25,
-              "edgePct": -0.1804,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
+              "prob": 0.2268,
+              "fairOdds": 4.41,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 3.97
             },
             {
               "name": "Ben Griffin",
-              "prob": 0.2416,
-              "fairOdds": 4.14,
-              "confidence": "Bra läge",
-              "realSSOdds": 4.5,
-              "edgePct": 0.0872,
-              "kellyFraction": 0.0062,
-              "recommendedStakePct": 0.62
-            },
-            {
-              "name": "Si Woo Kim",
-              "prob": 0.2358,
-              "fairOdds": 4.24,
-              "confidence": "Övervärderad",
-              "realSSOdds": 3.75,
-              "edgePct": -0.1158,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
+              "prob": 0.2203,
+              "fairOdds": 4.54,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 4.09
             }
           ],
           "top20": [
             {
               "name": "Cameron Young",
-              "prob": 0.5694,
-              "fairOdds": 1.76,
-              "confidence": "Chansning",
-              "realSSOdds": 1.8,
-              "edgePct": 0.0249,
-              "kellyFraction": 0.0078,
-              "recommendedStakePct": 0.78
-            },
-            {
-              "name": "Chris Gotterup",
-              "prob": 0.4661,
-              "fairOdds": 2.15,
-              "confidence": "Övervärderad",
-              "realSSOdds": 2.1,
-              "edgePct": -0.0212,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
+              "prob": 0.5465,
+              "fairOdds": 1.83,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 1.65
             },
             {
               "name": "Russell Henley",
-              "prob": 0.4657,
-              "fairOdds": 2.15,
-              "confidence": "Neutral",
-              "realSSOdds": 2.25,
-              "edgePct": 0.0478,
-              "kellyFraction": 0.0096,
-              "recommendedStakePct": 0.96
+              "prob": 0.441,
+              "fairOdds": 2.27,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 2.04
+            },
+            {
+              "name": "Chris Gotterup",
+              "prob": 0.4244,
+              "fairOdds": 2.36,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 2.12
             },
             {
               "name": "Wyndham Clark",
-              "prob": 0.4447,
-              "fairOdds": 2.25,
-              "confidence": "Neutral",
-              "realSSOdds": 2.38,
-              "edgePct": 0.0584,
-              "kellyFraction": 0.0106,
-              "recommendedStakePct": 1.06
+              "prob": 0.4213,
+              "fairOdds": 2.37,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 2.13
             },
             {
               "name": "J.J. Spaun",
-              "prob": 0.4247,
-              "fairOdds": 2.35,
-              "confidence": "Bra läge",
-              "realSSOdds": 2.55,
-              "edgePct": 0.083,
-              "kellyFraction": 0.0134,
-              "recommendedStakePct": 1.34
+              "prob": 0.4001,
+              "fairOdds": 2.5,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 2.25
+            },
+            {
+              "name": "Ryan Gerard",
+              "prob": 0.3992,
+              "fairOdds": 2.51,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 2.26
             },
             {
               "name": "Xander Schauffele",
-              "prob": 0.4107,
-              "fairOdds": 2.43,
-              "confidence": "Övervärderad",
-              "realSSOdds": 2.0,
-              "edgePct": -0.1786,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
+              "prob": 0.3877,
+              "fairOdds": 2.58,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 2.32
             },
             {
               "name": "Ben Griffin",
-              "prob": 0.4049,
-              "fairOdds": 2.47,
-              "confidence": "Chansning",
-              "realSSOdds": 2.5,
-              "edgePct": 0.0122,
-              "kellyFraction": 0.002,
-              "recommendedStakePct": 0.2
-            },
-            {
-              "name": "Si Woo Kim",
-              "prob": 0.4014,
-              "fairOdds": 2.49,
-              "confidence": "Övervärderad",
-              "realSSOdds": 2.1,
-              "edgePct": -0.1571,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
+              "prob": 0.3825,
+              "fairOdds": 2.61,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 2.35
             }
           ],
           "cut": [
             {
+              "name": "Peter Malnati",
+              "prob": 0.9035,
+              "fairOdds": 1.11,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.0
+            },
+            {
+              "name": "Chris Kirk",
+              "prob": 0.8449,
+              "fairOdds": 1.18,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.06
+            },
+            {
               "name": "Cameron Young",
-              "prob": 0.815,
-              "fairOdds": 1.23,
-              "confidence": "Övervärderad",
-              "realSSOdds": 1.16,
-              "edgePct": -0.0546,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
+              "prob": 0.7994,
+              "fairOdds": 1.25,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.12
             },
             {
-              "name": "Russell Henley",
-              "prob": 0.7619,
+              "name": "Ricky Castillo",
+              "prob": 0.7879,
+              "fairOdds": 1.27,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.14
+            },
+            {
+              "name": "Stephan Jaeger",
+              "prob": 0.7864,
+              "fairOdds": 1.27,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.14
+            },
+            {
+              "name": "Michael Kim",
+              "prob": 0.7767,
+              "fairOdds": 1.29,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.16
+            },
+            {
+              "name": "Tony Finau",
+              "prob": 0.765,
               "fairOdds": 1.31,
-              "confidence": "Övervärderad",
-              "realSSOdds": 1.29,
-              "edgePct": -0.0171,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.18
             },
             {
-              "name": "Chris Gotterup",
-              "prob": 0.7607,
+              "name": "Ryan Gerard",
+              "prob": 0.7637,
               "fairOdds": 1.31,
-              "confidence": "Övervärderad",
-              "realSSOdds": 1.2,
-              "edgePct": -0.0872,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
-            },
-            {
-              "name": "Wyndham Clark",
-              "prob": 0.7536,
-              "fairOdds": 1.33,
-              "confidence": "Övervärderad",
-              "realSSOdds": 1.29,
-              "edgePct": -0.0279,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
-            },
-            {
-              "name": "Xander Schauffele",
-              "prob": 0.7416,
-              "fairOdds": 1.35,
-              "confidence": "Övervärderad",
-              "realSSOdds": 1.2,
-              "edgePct": -0.1101,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
-            },
-            {
-              "name": "J.J. Spaun",
-              "prob": 0.7333,
-              "fairOdds": 1.36,
-              "confidence": "Övervärderad",
-              "realSSOdds": 1.25,
-              "edgePct": -0.0834,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
-            },
-            {
-              "name": "Si Woo Kim",
-              "prob": 0.7238,
-              "fairOdds": 1.38,
-              "confidence": "Övervärderad",
-              "realSSOdds": 1.23,
-              "edgePct": -0.1097,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
-            },
-            {
-              "name": "Ben Griffin",
-              "prob": 0.7225,
-              "fairOdds": 1.38,
-              "confidence": "Övervärderad",
-              "realSSOdds": 1.29,
-              "edgePct": -0.068,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.18
             }
           ]
         },
-        "topEdges": [
-          {
-            "name": "David Lipsky",
-            "market": "top20",
-            "prob": 0.1481,
-            "fairOdds": 6.75,
-            "realSSOdds": 9.0,
-            "edgePct": 0.3329,
-            "kellyFraction": 0.0104,
-            "recommendedStakePct": 1.04,
-            "confidence": "Spelvärt"
-          },
-          {
-            "name": "Stefano Mazzoli",
-            "market": "top20",
-            "prob": 0.0878,
-            "fairOdds": 11.39,
-            "realSSOdds": 15.0,
-            "edgePct": 0.317,
-            "kellyFraction": 0.0057,
-            "recommendedStakePct": 0.57,
-            "confidence": "Spelvärt"
-          },
-          {
-            "name": "Matt McCarty",
-            "market": "top10",
-            "prob": 0.1097,
-            "fairOdds": 9.12,
-            "realSSOdds": 12.0,
-            "edgePct": 0.3164,
-            "kellyFraction": 0.0072,
-            "recommendedStakePct": 0.72,
-            "confidence": "Spelvärt"
-          },
-          {
-            "name": "Mark Hubbard",
-            "market": "top20",
-            "prob": 0.1431,
-            "fairOdds": 6.99,
-            "realSSOdds": 9.0,
-            "edgePct": 0.2879,
-            "kellyFraction": 0.009,
-            "recommendedStakePct": 0.9,
-            "confidence": "Spelvärt"
-          },
-          {
-            "name": "Austin Smotherman",
-            "market": "top10",
-            "prob": 0.0752,
-            "fairOdds": 13.3,
-            "realSSOdds": 17.0,
-            "edgePct": 0.2784,
-            "kellyFraction": 0.0043,
-            "recommendedStakePct": 0.43,
-            "confidence": "Spelvärt"
-          },
-          {
-            "name": "Davis Riley",
-            "market": "top20",
-            "prob": 0.105,
-            "fairOdds": 9.52,
-            "realSSOdds": 12.0,
-            "edgePct": 0.26,
-            "kellyFraction": 0.0059,
-            "recommendedStakePct": 0.59,
-            "confidence": "Spelvärt"
-          },
-          {
-            "name": "Matti Schmid",
-            "market": "top10",
-            "prob": 0.0945,
-            "fairOdds": 10.58,
-            "realSSOdds": 13.0,
-            "edgePct": 0.2285,
-            "kellyFraction": 0.0048,
-            "recommendedStakePct": 0.48,
-            "confidence": "Spelvärt"
-          },
-          {
-            "name": "Austin Smotherman",
-            "market": "top20",
-            "prob": 0.1599,
-            "fairOdds": 6.25,
-            "realSSOdds": 7.5,
-            "edgePct": 0.1992,
-            "kellyFraction": 0.0077,
-            "recommendedStakePct": 0.77,
-            "confidence": "Spelvärt"
-          },
-          {
-            "name": "Matt McCarty",
-            "market": "top20",
-            "prob": 0.2161,
-            "fairOdds": 4.63,
-            "realSSOdds": 5.5,
-            "edgePct": 0.1885,
-            "kellyFraction": 0.0105,
-            "recommendedStakePct": 1.05,
-            "confidence": "Spelvärt"
-          },
-          {
-            "name": "Russell Henley",
-            "market": "top10",
-            "prob": 0.2931,
-            "fairOdds": 3.41,
-            "realSSOdds": 4.0,
-            "edgePct": 0.1724,
-            "kellyFraction": 0.0144,
-            "recommendedStakePct": 1.44,
-            "confidence": "Spelvärt"
-          }
-        ]
+        "topEdges": []
       }
     },
     {
@@ -2842,13 +2250,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-30T08:45:09+00:00",
-          "headline": "Koivun dominerar 3M Open – Scheffler släppt tre slag bakom",
+          "generatedAt": "2026-07-30T14:25:41+00:00",
+          "headline": "Koivun rundar hela fältet – tar 3M Open på dominanta -25",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jackson Koivun vann 3M Open med fem slag marginal mot Scottie Scheffler, som återigen visade sin formstyrka genom att slutföra på -22. Koivun hålls ett konsekvent spel på -25 och avslutade innan någon av konkurrenterna kunde hota sin position. Matsuyama, Harman, McCarthy och Phillips slutade delad trea på -20, medan Thompson och Grillo på -19 utgjorde nästa jagande skikt. Varken Pontus Nyholm eller Jesper Svensson nådde topp 20 i detta amerikanska turnering."
+              "b": "Jackson Koivun tog sin första PGA Tour-seger efter en stark avslutning på -25, tre slag före Scottie Scheffler som presterade solidt men inte tillräckligt. Matsuyama, Harman, McCarthy och Phillips delade tredje plats på -20, vilket visar en relativt öppen tävling där flera spelare höll sig i kontention under större delen av turneringen. Pontus Nyholm och Jesper Svensson lyckades inte etablera sig i toppen – en tuff helg för svenskarna på ett par där genomsnittsspelaren behövde långt under par för att konkurrera i världselitens led."
             },
             {
               "icon": "list.number",
@@ -2978,13 +2386,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-30T08:45:13+00:00",
-          "headline": "Koivun rundar hela fältet – vinner 3M Open med -25",
+          "generatedAt": "2026-07-30T14:25:47+00:00",
+          "headline": "Koivun dominerar 3M Open – vinnare på imponerande -25",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jackson Koivun dominerade 3M Open med två slag före Scottie Scheffler, som slutade på -22. Koivun höll sitt lugn under slutspurten medan Scheffler – trots en stark prestations – inte kunde minska gapet. Matsuyama, Harman, McCarthy och Phillips delade tredjeplats på -20 och formade en mycket tajt topp fem. Vare sig Pontus Nyholm eller Jesper Svensson nådde resultatlistans topp, men Koivuns utgång i Minnesota markerar ett viktigt segermonument på PGA Tour."
+              "b": "Jackson Koivun avslutade 3M Open med överlägsen prestation på -25, tre slag före Scottie Scheffler som slutade på -22. Koivun höll kontrollen genom slutspurten medan Scheffler, trots stabil golf, inte lyckades hota ledningen på slutet. En fyrmans jakt följde på -20 med Matsuyama, Harman, McCarthy och Phillips tätt sammansatta. Varken Pontus Nyholm eller Jesper Svensson nådde topp 20-placeringarna, vilket visar att gapet mellan wereldseliten och övriga fältet förblir påtagligt på PGA Tour."
             },
             {
               "icon": "list.number",
@@ -3114,13 +2522,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-30T08:45:17+00:00",
-          "headline": "Koivun skär genom fältet – vinner 3M Open på imponerande -25",
+          "generatedAt": "2026-07-30T14:25:53+00:00",
+          "headline": "Koivun rundar amerikanerna – dominerar 3M Open på -25",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jackson Koivun dominerade 3M Open med sin slutsegring på -25, vilket gav honom ett komfortabelt försprång på tre slag före Scottie Scheffler. Fyra spelare kämpade om andraplatsen på -20, anförda av Hideki Matsuyama, men kunde inte helt matcha Koivuns konsistens genom turneringen. Varken Pontus Nyholm eller Jesper Svensson nådde topp 20 i detta startfält, där resultatet bekräftar Koivuns stabilitet under PGA Tours högsäsong."
+              "b": "Jackson Koivun tog en överraskande seger på 3M Open med ett slutresultat på 25 under par, tre slag före Scottie Scheffler som slutade på 22 under. Koivun, som hade ledningen genom större delen av veckan, pressades hårt av Scheffler under finaldagen men höll sig strax framför. Ett stort fält av amerikanska spelare slutade på 20 under par eller bättre, vilket visar att banan låg öppen för scoring. Ingen svensk nådde en topplaceringen denna vecka."
             },
             {
               "icon": "list.number",
@@ -3250,13 +2658,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-30T08:45:20+00:00",
-          "headline": "Koivun dominerar 3M Open på -25 – Scheffler åtta slag bakom",
+          "generatedAt": "2026-07-30T14:26:03+00:00",
+          "headline": "Koivun sträcker sig till -25 – Scheffler nio slag bakom på 3M Open",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jackson Koivun tog en överraskande seger på 3M Open efter att ha slutat på imponerande 25 under par, tre slag före Scottie Scheffler som trots solida prestationer inte räckte fram. En fyrvägs delning för tredje platsen på 20 under par mellan Hideki Matsuyama, Brian Harman, Denny McCarthy och Chandler Phillips visar på en jämn slutfas där flera spelare höll sig i närheten men inte kunde svara på Koivuns avslutande framspurt. Vare sig Pontus Nyholm eller Jesper Svensson nådde resultat som placerade dem i topplaceringen för denna omgång."
+              "b": "Jackson Koivun dominerade 3M Open med slutresultatet -25, tre slag före världsettan Scottie Scheffler som slutade på -22. Bakom Scheffler bildades en tätt paket med fyra spelare på -20 (Matsuyama, Harman, McCarthy och Phillips), vilket vittnar om starkt motstånd från många håll under turneringen. Svenska inslaget var begränsat—varken Pontus Nyholm eller Jesper Svensson nådde topp 20-noteringen—medan Koivuns konsistenta spel under hela veckan räckte för en överlägsen seger på den amerikanska turserien."
             },
             {
               "icon": "list.number",
@@ -3401,13 +2809,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-30T08:45:26+00:00",
-          "headline": "Wyndham Championship: Koepka jagar sista PGA-biljetten före playoffs",
+          "generatedAt": "2026-07-30T14:26:10+00:00",
+          "headline": "Collin Morikawa jagar sin tredje PGA-seger – Wyndham Championship lockar eliten",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# Förhandsanalys: Wyndham Championship\n\nWyndham Championship utgör årets sista ordinarie tävling på PGA Tour innan slutspelssäsongen, och fältet består traditionellt av en blandning av etablerade namn och spelare som jagar sin Tour Card. Quentin Johnston och Collin Morikawa hör till favoriterna, medan namn som Sungjae Im och Tom Kim återigen visar asiatisk styrka på touren. Det gäller att notera att flera spelare använder denna tävling för att putsa sin timing inför de kommande slutspelsturneringarna, vilket kan ge oväntade resultat för den uppmärksamme oddsspelaren."
+              "b": "# Wyndham Championship – Förhandsanalys\n\nWyndham Championship avslutar PGA Tours ordinarie säsong och lockar traditionellt ett starkt fält då detta är sista chansen för spelare att säkra playoff-plats. Utan svenska representanter i toppen av fältlistan blir fokus på toppnamnen som söker final positioning inför playoffs, där konsistens på en välkänd bana ofta premieras högre än spektakulär spel. Det blir intressant att följa vilka av favorterna som använder veckan som en uppvärmning respektive någon som försöker göra ett sista desperado-försök för att ta sig in i playoff-serien."
             },
             {
               "icon": "flag.fill",
@@ -3460,13 +2868,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-30T08:45:31+00:00",
-          "headline": "Linn Grant jagar majorjakten – svenskan mellan världselitans tätgrupp i AIG Women's Open",
+          "generatedAt": "2026-07-30T14:26:18+00:00",
+          "headline": "Nordqvist jagar majorité när världseliten möts i AIG Women's Open",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "AIG Women's Open utgör ett kvalificerat internationellt mästerskap där både Linn Grant och Anna Nordqvist får möjlighet att visa sin form på högsta nivå. Grant är redan seedat på tionde plats i startfältet och representerar Sverige bland en stark uppsättning spelare, med särskilt många sydkoreanska namn högup på rankingen – Jiyai Shin, Jenny Shin och Sei Young Kim är alla etablerade stjärnor som måste räknas bland favoriterna. Utöver de svenska intressena bör Alice Hewson från England och australienserna Cassie Porter och Stephanie Kyriacou följas noga, då de tillsammans med de asiatiska toppnamnen formar kärngruppen av favorititer. Banan och väderförhållandena blir avgörande faktorer – detta är ett open-format som ofta belönar spelare med brett spelrepertoar och mentalt tålamod."
+              "b": "AIG Women's Open presenterar ett starkt internationellt fält dominerat av asiatiska spelare, där sydkoreanska Haeran Ryu och Jin Hee Im utgör huvudfavoriter tillsammans med thailändska Jeeno Thitikul som continues sitt starka 2024. Svenska representationen leds av Anna Nordqvist, som tillsammans med Maja Stark och Kajsa Arwefjäll hoppas kunna slå till när de världsbästa samlas. Europas chanser vilar mycket på engelska spelarnas storform – Lottie Woad, Alice Hewson och Annabell Fuller är alla i topptrim – men Asien ser ut att vara favoriserad baserat på både ranking och resultatform."
             },
             {
               "icon": "flag.fill",
@@ -3481,7 +2889,7 @@
             {
               "icon": "flag.fill",
               "h": "🇸🇪 Svenskar i fältet",
-              "b": "2 svenska kvar i fältet.\n\n—  Linn Grant  -1  (i röda siffror)\n—  Anna Nordqvist  +2"
+              "b": "3 svenska kvar i fältet.\n\n—  Anna Nordqvist  +2\n—  Kajsa Arwefjäll  +2\n—  Maja Stark  +2"
             },
             {
               "icon": "wave.3.right",
@@ -3494,90 +2902,90 @@
             {
               "id": "auto-preview-w1",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Alice Hewson",
+              "sel": "Haeran Ryu",
               "svs": 8.0,
               "mkt": 0,
               "units": 1.0,
               "conf": 3,
-              "rat": "Alice Hewson står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+              "rat": "Haeran Ryu står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w2",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Cassie Porter",
+              "sel": "Yealimi Noh",
               "svs": 11.5,
               "mkt": 0,
               "units": 1.0,
               "conf": 3,
-              "rat": "Cassie Porter står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+              "rat": "Yealimi Noh står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w3",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Stephanie Kyriacou",
+              "sel": "Shiho Kuwaki",
               "svs": 15.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Stephanie Kyriacou står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+              "rat": "Shiho Kuwaki står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w4",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Alison Lee",
+              "sel": "Paula Martin Sampedro",
               "svs": 18.5,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Alison Lee står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+              "rat": "Paula Martin Sampedro står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w5",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Wei-Ling Hsu",
+              "sel": "Jeeno Thitikul",
               "svs": 22.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Wei-Ling Hsu står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+              "rat": "Jeeno Thitikul står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w6",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Yealimi Noh",
+              "sel": "Jin Hee Im",
               "svs": 25.5,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Yealimi Noh står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
+              "rat": "Jin Hee Im står med i fältet. Indikativt pris baserat på fält-position; verifiera linjen och formen hos Svenska Spel innan spel."
             }
           ]
         },
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-30T08:45:36+00:00",
-          "headline": "Hewson toppar AIG Women's Open – Grant hackar sig in i topp tolv",
+          "generatedAt": "2026-07-30T14:26:25+00:00",
+          "headline": "Ryu leder Women's Open på fem slag före jagad amerikansk trio",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Alice Hewson leder efter första omgången med tre slag under par, två slag före australiensarna Cassie Porter och Stephanie Kyriacou samt amerikanskan Alison Lee. Linn Grant håller sig väl i toppen på delad tionde plats efter -1, medan Anna Nordqvist inte syns bland de bästa två åttio — en svag start för Sveriges andra representant. Förföljarna är spridda utan någon större grupp på jakten, vilket tyder på att resultaten är jämnt fördelade över fältet och att det finns många möjligheter att ta sig framåt de kommande rundorna."
+              "b": "Haeran Ryu ligger efter första dagen på fem under par och toppar leaderboarden före Yealimi Noh på fyra under, medan en större grupp med spelare som Shiho Kuwaki, Paula Martin Sampedro och Jeeno Thitikul delar tredjeplats på tre under par. Ryu har etablerat ett litet men inte helt säkert försprång, och många spelare ligger inom två slag vilket indikerar på ett öppet fälts klassiska majortävling. De svenska startade svagare — ingen av Anna Nordqvist, Kajsa Arwefjäll eller Maja Stark finns representerade på leaderboardens övre del efter första omgång, vilket ställer höga krav på återhämtning redan under andra dagen."
             },
             {
               "icon": "list.number",
               "h": "Leaderboard live (R1)",
-              "b": "—  Alice Hewson  -3\n—  Cassie Porter  -2\n—  Stephanie Kyriacou  -2\n—  Alison Lee  -2\n—  Wei-Ling Hsu  -1\n—  Yealimi Noh  -1\n—  Minami Katsu  -1\n—  Yunseo Yang  -1\n—  Jiyai Shin  -1\n—  Linn Grant  -1\n\nKälla: ESPN."
+              "b": "—  Haeran Ryu  -5\n—  Yealimi Noh  -4\n—  Shiho Kuwaki  -3\n—  Paula Martin Sampedro  -3\n—  Jeeno Thitikul  -3\n—  Jin Hee Im  -3\n—  Rio Takeda  -2\n—  Mao Saigo  -2\n—  Lottie Woad  -2\n—  Shannon Tan  -2\n\nKälla: ESPN."
             },
             {
               "icon": "flag.fill",
               "h": "🇸🇪 Svenskkollen",
-              "b": "2 svenska kvar i fältet.\n\n—  Linn Grant  -1  (i röda siffror)\n—  Anna Nordqvist  +2"
+              "b": "3 svenska kvar i fältet.\n\n—  Anna Nordqvist  +2\n—  Kajsa Arwefjäll  +2\n—  Maja Stark  +2"
             },
             {
               "icon": "scope",
               "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 2 slag från ledaren. 12 spelare inom 3 slag — vinnar-poolen är bred."
+              "b": "Topp 10 ligger inom 3 slag från ledaren. 6 spelare inom 3 slag — vinnar-poolen är bred."
             },
             {
               "icon": "wave.3.right",
@@ -3590,102 +2998,102 @@
             {
               "id": "auto-r1-w1",
               "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Alice Hewson",
+              "sel": "Haeran Ryu",
               "svs": 8.0,
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Alice Hewson leder fältet på -3 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+              "rat": "Haeran Ryu leder fältet på -5 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
             },
             {
               "id": "auto-r1-w2",
               "cat": "🤖 Vinnare (värde)",
-              "sel": "Stephanie Kyriacou",
-              "svs": 12.0,
+              "sel": "Shiho Kuwaki",
+              "svs": 16.0,
               "mkt": 0,
               "units": 0.75,
               "conf": 2,
-              "rat": "Stephanie Kyriacou ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+              "rat": "Shiho Kuwaki ligger 2 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
             },
             {
               "id": "auto-r1-t5-1",
               "cat": "🤖 Topp 5",
-              "sel": "Cassie Porter",
+              "sel": "Yealimi Noh",
               "svs": 2.5,
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Cassie Porter (-2) sitter i topp-skiktet ett slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Yealimi Noh (-4) sitter i topp-skiktet ett slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r1-t5-3",
               "cat": "🤖 Topp 5",
-              "sel": "Alison Lee",
-              "svs": 2.5,
+              "sel": "Paula Martin Sampedro",
+              "svs": 2.8,
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Alison Lee (-2) sitter i topp-skiktet ett slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Paula Martin Sampedro (-3) sitter i topp-skiktet 2 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r1-t10-5",
               "cat": "🤖 Topp 10",
-              "sel": "Yealimi Noh",
+              "sel": "Jin Hee Im",
               "svs": 2.2,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Yealimi Noh (-1) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
+              "rat": "Jin Hee Im (-3) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
             },
             {
               "id": "auto-r1-t10-7",
               "cat": "🤖 Topp 10",
-              "sel": "Yunseo Yang",
-              "svs": 2.2,
+              "sel": "Mao Saigo",
+              "svs": 2.4,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Yunseo Yang (-1) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
+              "rat": "Mao Saigo (-2) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
             },
             {
               "id": "auto-r1-t20-14",
               "cat": "🤖 Topp 20",
-              "sel": "Maria José Marin",
+              "sel": "Yunseo Yang",
               "svs": 1.9,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Maria José Marin (+1) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+              "rat": "Yunseo Yang (-1) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
             },
             {
               "id": "auto-r1-t20-18",
               "cat": "🤖 Topp 20",
-              "sel": "Grace Kim",
+              "sel": "Soo Bin Joo",
               "svs": 1.9,
               "mkt": 0,
               "units": 1,
               "conf": 3,
-              "rat": "Grace Kim (+1) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
+              "rat": "Soo Bin Joo (-1) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
             },
             {
               "id": "auto-r1-low",
               "cat": "🤖 Lägsta runda R2",
-              "sel": "Jenny Shin",
+              "sel": "Lauren Coughlin",
               "svs": 12.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Jenny Shin (-1) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
+              "rat": "Lauren Coughlin (-2) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
             },
             {
               "id": "auto-r1-bf",
               "cat": "🤖 Bogeyfri runda",
-              "sel": "Alice Hewson",
+              "sel": "Haeran Ryu",
               "svs": 5.5,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Alice Hewson är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
+              "rat": "Haeran Ryu är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
             }
           ]
         }
@@ -3707,13 +3115,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-30T08:45:40+00:00",
-          "headline": "Jenny Shin dominerar Scottish Open – två slag före Kim på -9",
+          "generatedAt": "2026-07-30T14:26:31+00:00",
+          "headline": "Shin dominerar Scottish Open – Stark och Nordqvist utan topplacering",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jenny Shin tog överraskande segern på Women's Scottish Open med nio slag under par, två slag före sydkoreankan A Lim Kim. Shins konsistenta spel över turneringen gav henne kontroll över leaderboarden från början, och hon hanterade pressionen bättre än sina huvudsakliga utmanare. Svenska representationen nådde inte topplaceringarna – varken Maja Stark, Anna Nordqvist eller Moa Folke återfinns i topp 15 – vilket tyder på att denna veckas Skotska kurs ställde särskilda krav som svenska spelarna hade svårt att matcha."
+              "b": "Jenny Shin från Sydkorea dominerade ISPS HANDA Women's Scottish Open med två slag före A Lim Kim, som också levererade en solid insats på hemmaplan för det asiatiska golfen. Tredjeplaceringen gick till Pajaree Anannarukarn från Thailand, tre slag bakom vinnaren, medan den tyska talangen Esther Henseleit rundade topp fyra på fyra slag under par. Svenska representanter lyckades inte konkurrera i spetsen — varken Maja Stark, Anna Nordqvist eller Moa Folke placerade sig bland de bästa femton, vilket visar att tävlingsnivån var hög med flera asiatiska spelare som tog hem poäng på hemmaplan och världsranglistens topp-namn som Nelly Kord och Patty Tavatanakit långt ifrån sina bästa nivåer."
             },
             {
               "icon": "list.number",
@@ -3843,13 +3251,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-30T08:45:49+00:00",
-          "headline": "Jenny Shin dominerar Scottish Open – Shin på -9 före Kim och thailändarna",
+          "generatedAt": "2026-07-30T14:26:36+00:00",
+          "headline": "Shin triumferar på nio slag under par – Stark missar topp tio i Skottland",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jenny Shin från Sydkorea tog en tydlig seger med nio slag under par, två slag före näraliggande A Lim Kim som slutade på sju under. Shin håll kontrollen under hela turneringen och visade en stabil prestationsförmåga som skiljade henne från konkurrenterna. Ingen av de svenska spelarna – Maja Stark, Anna Nordqvist eller Moa Folke – nådde topp 20, vilket reflekterar det höga spelinivån i denna LPGA-tävling där även etablerade namn som Nelly Kord och Patty Tavatanakit hamnade långt efter vinnaren."
+              "b": "Jenny Shin från Sydkorea dominerade Women's Scottish Open med två slag före närmaste förföljare A Lim Kim, vilket vittnar om en konsekvent rond från Shin som aldrig släppte kontrollen över turneringen. Gapet ned till tredjeplatsen på fem slag under par var betydande, vilket indikerar att segern avgjordes genom stabilt spel snarare än dramatiska moment på slutrundorna. Ingen av de tre svenska spelarna i fältet – Maja Stark, Anna Nordqvist och Moa Folke – placerade sig i topp 20, vilket reflekterar en relativt svag vecka för svenskt golfintresse på denna LPGA-tävling."
             },
             {
               "icon": "list.number",
@@ -3979,13 +3387,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-30T08:45:53+00:00",
-          "headline": "Shin dominerar Scottish Open – svenskarna långt från toppen",
+          "generatedAt": "2026-07-30T14:26:45+00:00",
+          "headline": "Shin dominerar Scottish Open – två slag före Kim på -9",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jenny Shin från Sydkorea tog hem ISPS HANDA Women's Scottish Open efter en stark prestation på nio slag under par, två slag före A Lim Kim som slutade tvåa. Shinmedförde ett stabilt spel genom hele turneringen och höll undan den hårt pressande konkurrensen från asiatiska spelare som dominerade leaderboarden. Svenska representanter lyckades inte placera sig i topp 15 denna vecka, men turneringen visar återigen hur asiatiska LPGA-spelare ökar sitt maktövertagande på den större scenen."
+              "b": "Jenny Shin från Sydkorea dominerade ISPS HANDA Women's Scottish Open med nio slag under par, två slag före A Lim Kim som delade andraplats. Shins konsistenta spel hela veckan gjorde att ingen av förföljarna lyckades hota hennes ledning på slutet. Bland svenskorna noterades ingen topplacering — Maja Stark, Anna Nordqvist och Moa Folke slutade utanför topp 20 och kunde inte kapitalisera på hemmaplan när det gällde som mest på den skotska kusten."
             },
             {
               "icon": "list.number",
@@ -4115,13 +3523,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-30T08:45:57+00:00",
-          "headline": "Shin dominerar Scottish Open – Stark missade topptio",
+          "generatedAt": "2026-07-30T14:26:51+00:00",
+          "headline": "Shin dominerar Scottish Open – Stark och Nordqvist långt efter",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jenny Shin tog överlägsen seger i ISPS HANDA Women's Scottish Open efter en stark prestation på nio slag under par, två slag före A Lim Kim från Sydkorea. Shin höll fokus genom hela tävlingen medan de flesta konkurrenterna från toppen aldrig lyckades etablera något verkligt tryck – endast Kim och Pajaree Anannarukarn från Thailand håller sig under par på resultatlistans tredje respektive fjärde plats. Det noteras att ingen av de svenska spelarna – Maja Stark, Anna Nordqvist eller Moa Folke – lyckades ta sig in bland resultatets topp 15, vilket indikerar ett återigen tufft LPGA-möte för svenskt golfs damrepresentation."
+              "b": "Jenny Shin från Sydkorea dominerade ISPS HANDA Women's Scottish Open genom att avsluta på nio under par, två slag före A Lim Kim som slutade på sju under. Shin behöll kontrollen under en avslutande runda där konkurrenterna inte lyckades minska gapet nämnvärt. Ingen av de svenska spelarna – Maja Stark, Anna Nordqvist eller Moa Folke – lyckades etablera sig i toppen, vilket placerar dem bort från pjäserna efter en vecka där de asiatiska spelarna dominerade leaderboarden helt."
             },
             {
               "icon": "list.number",
@@ -4294,13 +3702,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-07-30T08:46:04+00:00",
-          "headline": "LIV Golf återvänder till New York – Koepka och Rahm jagar försäsongens första triumf",
+          "generatedAt": "2026-07-30T14:26:58+00:00",
+          "headline": "Kan inte leverera rubrik utan tillräcklig information. Jag saknar:\n- Banans namn\n- Fältlistans detaljer (namn på de 15 första spelarna)\n\nGe dessa uppgifter så skriver jag en konkret rubrik.",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "I brist på tillgänglig fältlista och baninformation blir en gedigen analys svår att genomföra. LIV Golf New York lockar traditionellt världens bästa spelare, men utan kännedom om vilka namn som är confirmade denna gång samt banans specifika karaktär kan jag inte ge någon saklig bedömning av favoriterna eller vad som kommer att avgöra tävlingen. För en meningsfull förhandsanalys behövs fältlistan kompletterad med baninformation."
+              "b": "# LIV Golf New York – Förhandsanalys\n\nLIV Golf närmar sig sitt avslutande kapitel innan säsongen går in i playoff-fasen, och New York-uppgörelsen lockar återigen världens högsta rankade spelare. Utan svenska representanter i fältet är uppmärksamheten riktad mot etablerade namn som Rory McIlroy och den starka amerikanska gruppen som försöker förstärka sina slutspelspositioner. Det blir intressant att följa hur form och motivation spelar tillsammans då flera toppspelare använder dessa sista reguljära tävlingar för att finjustera före playoff-serien. Bananivå och väderförhållanden kommer att vara avgörande faktorer för vilka skugga-spelarnas förväntade utgångspunkter håller."
             },
             {
               "icon": "flag.fill",
@@ -4339,13 +3747,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-30T08:46:08+00:00",
-          "headline": "Herbert rundar alla – sex slag före Hatton i Leeds",
+          "generatedAt": "2026-07-30T14:27:04+00:00",
+          "headline": "Herbert dominerar LIV UK – sex slag före Hatton",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Lucas Herbert från Australien dominerade LIV Golf United Kingdom med en imponerande slutsträcka på -30, sex slag före tvåan Tyrrell Hatton som stoppade på -24. Bryson DeChambeau slutade på tredje plats med -21, en position som visar på återhämtning för amerikanaren efter ett svagare spel tidigare. Björn Hellgren representerade Sverige istartelvan men placerade sig utanför topp 15, medan Herbert löste tävlingen redan före avslutningsdagen med sitt öppna spel och konsekventa poäng från fairway."
+              "b": "Lucas Herbert dominerade på hemmaplan och försvagade konkurrenternas chanser långt innan målgången genom att bygga ett sex slag stort försprång på Tyrrell Hatton. DeChambeau placerade sig på tredje plats vid nio slag på Herbert och blev återigen en ungdomlig kraft i LIV-serien, medan australiensaren Cameron Smith hamnade långt efter på minus 17. Järnet mellan placering fyra och tio var tätt – bara två slag skilde Surratt, Ancer, Canter, Howell III och Varner III – men Herbert löste frågan redan tidigare under veckan."
             },
             {
               "icon": "list.number",
@@ -4475,13 +3883,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-30T08:46:12+00:00",
-          "headline": "Herbert dominerar med sex slag före Hatton – Hellgren utanför toppen",
+          "generatedAt": "2026-07-30T14:27:11+00:00",
+          "headline": "Herbert dominerar: Sex slag före Hatton i LIV-slutet",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med imponerande sex slagars marginal över tvåan Tyrrell Hatton, som presterade solidt men inte räckte till trots sitt minus 24. Bryson DeChambeau hamnade på tredjeplats med minus 21, vilket visar att amerikanaren fortsatt är en konkurrenskraftig kraft inom LIV-touren trots sommarens förhållandevis svagare resultat. Björn Hellgren nådde inte topp 20 i sitt försök att utmana eliten på brittiska gräset."
+              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med en överlägsen slutställning på -30, sex slag före främste förföljare Tyrrell Hatton. Bryson DeChambeau återhämtade sig från tidigare veckor och placerade sig på tredje plats nio slag bakom vinnaren, medan australiensaren Cameron Smith hamnade på fjärde plats men föll långt från toppen. Björn Hellgren fanns representerad i det svenska laget men nådde inte topp 20-placeringen i detta LIV Golf-event."
             },
             {
               "icon": "list.number",
@@ -4611,13 +4019,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-30T08:46:17+00:00",
-          "headline": "Herbert sprängde gränsen – Herbert på -30 när DeChambeau sjönk till -21",
+          "generatedAt": "2026-07-30T14:27:20+00:00",
+          "headline": "Herbert dominerar med sex slag före Hatton – Hellgren utan poäng i LIV-slutspelet",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med sex slag före tvåan Tyrrell Hatton, vilket var en övertygande seger för australiern. Bryson DeChambeau på delad tredjeplats tre slag bakom Hatton ledde jaktgruppen, medan Cameron Smith hamnade långt efter på -17. Herbert höll kontrollen genom hela tävlingen och visade en stabilitet som hans konkurrenter inte kunde matcha över 54 hål."
+              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med en imponerande slutscore på -30, vilket gav honom sex slags marginal framför engelske Tyrrell Hatton på andra plats. Bryson DeChambeau placerade sig på tredje plats på -21, något som bekräftar hans återkomst till toppspelarnas rad efter sin sommarsatsning. Björn Hellgren, Sveriges enda representant i fältet, lyckades inte ta sig in i topp 20 och var långt från de främre placeringarna då Herbert presterade på en helt annan nivå än övriga startfältet."
             },
             {
               "icon": "list.number",
@@ -4747,13 +4155,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-07-30T08:46:22+00:00",
-          "headline": "Herbert rundar bort konkurrenterna på sex slag i Storbritannien",
+          "generatedAt": "2026-07-30T14:27:27+00:00",
+          "headline": "Herbert rundar bort konkurrenterna – sex slag före Hatton på brittiskt gräs",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Lucas Herbert dominerade LIV Golf United Kingdom med ett imponerande resultat på -30, sex slag före silvermedaljören Tyrrell Hatton. Bryson DeChambeau följde på tredje plats nio slag bakom vinnaren, vilket visar Herberts överlägsenhet genom turneringen. Björn Hellgren lyckades inte ta sig in i topp 20 denna gång, medan avståndet mellan ledande grupp och resterande fält var omfattande – ett tecken på att Herbert och Hatton spelade på en annan nivå än konkurrenterna."
+              "b": "Lucas Herbert dominerar efter en imponerande prestation på sex slag före förföljaren Tyrrell Hatton, som står på -24. DeChambeau på -21 utgör den närmaste amerikanska utmaningen, men avståndet till ledningen är redan påtagligt för att säkerställa Herberts seger. Resten av fältet splittras mellan -17 och -8, där Smith och duon Surratt–Ancer håller fast vid de närmsta positionerna men saknar momentum att nå upp till ledningen i slutspurten."
             },
             {
               "icon": "list.number",
