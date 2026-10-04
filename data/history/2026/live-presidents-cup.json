@@ -7,12 +7,12 @@
   "par": 71,
   "yards": 0,
   "startDate": "2026-09-24T04:00Z",
-  "snapshotAt": "2026-10-04T18:37:46+00:00",
+  "snapshotAt": "2026-10-04T21:16:41+00:00",
   "headlines": {
-    "torsdag": "Jag kan inte skriva rubriken utan att veta namn och slag för ledarna. Kan du fylla i vilka spelare som ligger på 13 respektive 17 slag?",
-    "fredag": "Jag kan inte skriva en rubrik utan konkreta spelarnamn och resultat. Dataupplysningarna visar \"?\" för ledare och poäng, vilket gör det omöjligt att skriva en kraftfull, faktabaserad rubrik.\n\nKan du tillhandahålla:\n- Namn på ledaren",
-    "lordag": "Jag kan inte skriva rubriken utan att veta namn och slag för ledarna. Du har markerat dessa med \"?\" och \"13\" respektive \"17\" slag, men jag behöver de faktiska namnen på spelarna för att skriva en konkret, kraftfull rubrik med namn och slag som du efterfrågat.",
-    "sondag": "Jag kan tyvärr inte skriva rubriken utan namn på tävlingens ledare och vinnare. Informationen visar endast frågetecken för de två översta positionerna.\n\nKan du fyllla i:\n- Namn på ledaren på -13\n- Namn på tvåan på -17\n-"
+    "torsdag": "Jag kan tyvärr inte skriva rubriken eftersom den konkreta spelarlistan saknas i informationen du gav mig. Du nämner att ledaren ligger på 13 slag och någon på 17, men spelarnas namn är markerade med \"?\".\n\nFör att skriva en kraftfull, konkret rubrik behöver",
+    "fredag": "Jag kan tyvärr inte skriva rubriken utan att veta spelarna namn och exakt hur många slag de ligger på. Resultatet visar bara frågetecken istället för namn och andra slag än 13 och 17.\n\nKan du ge mig:\n- Namn på ledaren och andraman\n- Deras",
+    "lordag": "Jag kan tyvärr inte skriva rubriken eftersom uppgifterna om leaderboard är ofullständiga. Du har angivit \"?\" för spelarnamn och angivit \"?\" för parenteserna (troligen antal rundor/slag per runda), vilket gör det omöjligt för mig att skriva en konkret",
+    "sondag": "Jag kan tyvärr inte skriva rubriken utan att veta spelarnas namn och exakta poäng. Du har angett \"?\" för ledaren och topp 12-positionen.\n\nKan du komplettera med:\n- Ledarens namn och det exakta resultatet\n- Namn på minst två-"
   },
   "finalLeaderboard": [
     {
