@@ -7,12 +7,12 @@
   "par": 71,
   "yards": 0,
   "startDate": "2026-10-01T04:00Z",
-  "snapshotAt": "2026-10-04T16:48:53+00:00",
+  "snapshotAt": "2026-10-04T18:38:38+00:00",
   "headlines": {
-    "torsdag": "Meronk dominerar Dunhill Links – Nørgaard två slag bakom",
-    "fredag": "Meronk dominerar med -20 – ingen svensk i toppen när Noren och Lagergren struntar längre ner",
-    "lordag": "Meronk dominerar Dunhill Links – Nørgaard och Jarvis jagade på -18",
-    "sondag": "Meronk klär fältet på St Andrews – svensk toppning uteblev"
+    "torsdag": "Meronk dominerar Dunhill Links med -20 – svenska spelare utan topplacering",
+    "fredag": "Meronk dominerar Dunhill – Noren utanför topplaceringen",
+    "lordag": "Meronk dominerar Dunhill – tvåslags försprång före dansken Nørgaard",
+    "sondag": "Meronk-dominans på -20 – Nørgaard och Jarvis jagar två slag bakom"
   },
   "finalLeaderboard": [
     {
@@ -211,7 +211,20 @@
       ]
     },
     {
-      "position": "T16",
+      "position": "T11",
+      "name": "Matthew Jordan",
+      "country": "England",
+      "totalDisplay": "-13",
+      "totalValue": -13.0,
+      "rounds": [
+        "-3",
+        "-7",
+        "-6",
+        "+3"
+      ]
+    },
+    {
+      "position": "T17",
       "name": "Andreas Halvorsen",
       "country": "Norway",
       "totalDisplay": "-12",
@@ -224,7 +237,7 @@
       ]
     },
     {
-      "position": "T16",
+      "position": "T17",
       "name": "Sam Bairstow",
       "country": "England",
       "totalDisplay": "-12",
@@ -237,7 +250,7 @@
       ]
     },
     {
-      "position": "T16",
+      "position": "T17",
       "name": "Mikael Lindberg",
       "country": "Sweden",
       "totalDisplay": "-12",
@@ -250,7 +263,7 @@
       ]
     },
     {
-      "position": "T16",
+      "position": "T17",
       "name": "Calum Hill",
       "country": "Scotland",
       "totalDisplay": "-12",
@@ -263,7 +276,7 @@
       ]
     },
     {
-      "position": "T16",
+      "position": "T17",
       "name": "Matt Fitzpatrick",
       "country": "England",
       "totalDisplay": "-12",
@@ -276,7 +289,7 @@
       ]
     },
     {
-      "position": "T16",
+      "position": "T17",
       "name": "Sebastian Söderberg",
       "country": "Sweden",
       "totalDisplay": "-12",
@@ -289,7 +302,7 @@
       ]
     },
     {
-      "position": "T22",
+      "position": "T23",
       "name": "Jeremy Paul",
       "country": "Germany",
       "totalDisplay": "-11",
@@ -302,7 +315,7 @@
       ]
     },
     {
-      "position": "T22",
+      "position": "T23",
       "name": "Alex Noren",
       "country": "Sweden",
       "totalDisplay": "-11",
@@ -315,7 +328,7 @@
       ]
     },
     {
-      "position": "T22",
+      "position": "T23",
       "name": "David Law",
       "country": "Scotland",
       "totalDisplay": "-11",
@@ -328,7 +341,7 @@
       ]
     },
     {
-      "position": "T22",
+      "position": "T23",
       "name": "Richard Mansell",
       "country": "England",
       "totalDisplay": "-11",
@@ -341,7 +354,7 @@
       ]
     },
     {
-      "position": "T22",
+      "position": "T23",
       "name": "Ivan Cantero",
       "country": "Spain",
       "totalDisplay": "-11",
@@ -354,7 +367,7 @@
       ]
     },
     {
-      "position": "T22",
+      "position": "T23",
       "name": "Rocco Repetto Taylor",
       "country": "Spain",
       "totalDisplay": "-11",
@@ -367,7 +380,7 @@
       ]
     },
     {
-      "position": "T22",
+      "position": "T23",
       "name": "Sepp Straka",
       "country": "Austria",
       "totalDisplay": "-11",
@@ -377,19 +390,6 @@
         "-1",
         "-8",
         "+2"
-      ]
-    },
-    {
-      "position": "T22",
-      "name": "Matthew Jordan",
-      "country": "England",
-      "totalDisplay": "-11",
-      "totalValue": -11.0,
-      "rounds": [
-        "-3",
-        "-7",
-        "-4",
-        "+3"
       ]
     },
     {
@@ -653,7 +653,20 @@
       ]
     },
     {
-      "position": "T50",
+      "position": "T42",
+      "name": "Oliver Lindell",
+      "country": "Finland",
+      "totalDisplay": "-8",
+      "totalValue": -8.0,
+      "rounds": [
+        "-2",
+        "-5",
+        "-2",
+        "+1"
+      ]
+    },
+    {
+      "position": "T51",
       "name": "Nick Voke",
       "country": "New Zealand",
       "totalDisplay": "-7",
@@ -666,7 +679,7 @@
       ]
     },
     {
-      "position": "T50",
+      "position": "T51",
       "name": "Marcus Kinhult",
       "country": "Sweden",
       "totalDisplay": "-7",
@@ -679,7 +692,7 @@
       ]
     },
     {
-      "position": "T50",
+      "position": "T51",
       "name": "Jack Senior",
       "country": "England",
       "totalDisplay": "-7",
@@ -692,7 +705,7 @@
       ]
     },
     {
-      "position": "T50",
+      "position": "T51",
       "name": "David Puig",
       "country": "Spain",
       "totalDisplay": "-7",
@@ -705,7 +718,7 @@
       ]
     },
     {
-      "position": "T54",
+      "position": "T55",
       "name": "Todd Clements",
       "country": "England",
       "totalDisplay": "-6",
@@ -718,7 +731,7 @@
       ]
     },
     {
-      "position": "T54",
+      "position": "T55",
       "name": "Daniel Cronje",
       "country": "South Africa",
       "totalDisplay": "-6",
@@ -731,7 +744,7 @@
       ]
     },
     {
-      "position": "T54",
+      "position": "T55",
       "name": "Francesco Molinari",
       "country": "Italy",
       "totalDisplay": "-6",
@@ -744,7 +757,7 @@
       ]
     },
     {
-      "position": "T54",
+      "position": "T55",
       "name": "Declan O'Donovan",
       "country": "Australia",
       "totalDisplay": "-6",
@@ -757,7 +770,7 @@
       ]
     },
     {
-      "position": "T54",
+      "position": "T55",
       "name": "Daniel van Tonder",
       "country": "South Africa",
       "totalDisplay": "-6",
@@ -770,20 +783,7 @@
       ]
     },
     {
-      "position": "T54",
-      "name": "Oliver Lindell",
-      "country": "Finland",
-      "totalDisplay": "-6",
-      "totalValue": -6.0,
-      "rounds": [
-        "-2",
-        "-5",
-        "-2",
-        "+3"
-      ]
-    },
-    {
-      "position": "T54",
+      "position": "T55",
       "name": "Daniel Brown",
       "country": "England",
       "totalDisplay": "-6",
