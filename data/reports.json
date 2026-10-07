@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T00:36:07+00:00",
+  "generatedAt": "2026-10-07T11:59:05+00:00",
   "tournaments": [
     {
       "id": "live-baycurrent-classic",
@@ -12,18 +12,18 @@
       "yards": 0,
       "statusDetail": "Thu, October 7th at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-10-07T00:36:13+00:00",
-          "headline": "Hossler jagar PGA-comeback – Horschel och Jaeger stora hot i Baycurrent Classic",
+          "generatedAt": "2026-10-07T11:59:11+00:00",
+          "headline": "Hossler och McCarthy jagar PGA-poäng på Baycurrent Classic",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "**Baycurrent Classic - Fältanalys**\n\nPGA Tours klassiska höststurné lockar ett blandad fält där flera hungriga namn från kortare turneringar jagar ranking-poäng. Beau Hossler och Ben Kohles leder seedningen tillsammans med Keith Mitchell och Michael Kim, samtliga spelare som visat konsistens på touren denna säsong. Kristoffer Ventura representerar Europas intresse och är värd uppmärksamhet som en av få etablerade namn i detta relativt jämnt fält. Den stora frågan handlar mindre om enstaka favoriter än om vilken spelare som hittar rytm tidigast – detta är en tävling där form och banakännedom väger tungt."
+              "b": "Baycurrent Classic lockar ett starkt fält på PGA Tour med flera namn som söker sin väg tillbaka till toppen – Billy Horschel och Jordan Spieth är rutinerade vinnare som behöver bekräfta sin form. Kristoffer Ventura från Norge är en spelare att följa, medan den japanska duon Ren Yonezawa och Keita Nakajima representerar den växande kvaliteten från Asien på touren. Beau Hossler, Ben Kohles och Keith Mitchell utgör ett tåg av hungriga amerikaner som jagar sin första eller nästa seger, och i ett fält utan dominanta favoriter kan denna turnering mycket väl avgöras av vem som hittar den bästa driven-och-putter-matchningen under helgen."
             },
             {
               "icon": "flag.fill",
@@ -116,12 +116,118 @@
             {
               "id": "auto-preview-w8",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Min Woo Lee",
+              "sel": "Sungjae Im",
               "svs": 23.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Min Woo Lee är en av SS:s top-8 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Sungjae Im är en av SS:s top-8 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-10-07T11:59:15+00:00",
+          "headline": "Inför torsdag (R1): Xander Schauffele, Collin Morikawa, Wyndham Clark toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "9.00  Xander Schauffele\n13.00  Collin Morikawa\n15.00  Wyndham Clark\n19.00  Doug Ghim\n19.00  Hideki Matsuyama\n21.00  Justin Thomas"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Xander Schauffele",
+              "svs": 9.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Xander Schauffele är en av SS:s top-1 favoriter pre-tournament (odds 9.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Collin Morikawa",
+              "svs": 13.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Collin Morikawa är en av SS:s top-2 favoriter pre-tournament (odds 13.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Wyndham Clark",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Wyndham Clark är en av SS:s top-3 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Hideki Matsuyama",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Hideki Matsuyama är en av SS:s top-4 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Doug Ghim",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Doug Ghim är en av SS:s top-5 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Justin Thomas",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Justin Thomas är en av SS:s top-6 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Michael Thorbjornsen",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Michael Thorbjornsen är en av SS:s top-7 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Sungjae Im",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Sungjae Im är en av SS:s top-8 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             }
           ]
         }
@@ -998,8 +1104,8 @@
               "win": {
                 "prob": 0.0158,
                 "fairOdds": 63.29,
-                "realSSOdds": 26.0,
-                "edgePct": -0.5892,
+                "realSSOdds": 23.0,
+                "edgePct": -0.6366,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1848,10 +1954,10 @@
               "win": {
                 "prob": 0.0097,
                 "fairOdds": 103.09,
-                "realSSOdds": 151.0,
-                "edgePct": 0.4647,
-                "kellyFraction": 0.0008,
-                "recommendedStakePct": 0.08,
+                "realSSOdds": 126.0,
+                "edgePct": 0.2222,
+                "kellyFraction": 0.0004,
+                "recommendedStakePct": 0.04,
                 "confidence": "Spelvärt"
               },
               "top5": {
@@ -2658,13 +2764,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-07T00:36:21+00:00",
-          "headline": "Smotherman stormade till seger på -26 – Svensson missade topp tio",
+          "generatedAt": "2026-10-07T11:59:18+00:00",
+          "headline": "Smotherman dominerar Bank of Utah – vinner på -26 före Ghim på -24",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Austin Smotherman dominerade Bank of Utah Championship med en slutresultat på -26, två slag före Doug Ghim som slutade på -24. Smotherman behöll kontrollen under slutspurten och levererade det konstanta spel som krävdes för att hålla sig framme på en track där flera spelare fick höga poäng — sju golfare endte på -20 eller bättre. Jämfört med Smothermans precision såg jagarna, särskilt Ghim, inte kunna prestera tillräckligt starkt under de avgörande leden för att hota ledningen."
+              "b": "Austin Smotherman dominerade Bank of Utah Championship med en två slag bred ledning på -26, vilket vittnar om konsekvent spel under helgen. Jagarna Doug Ghim (-24) och David Ford samt Trace Crowe (båda -23) lyckades aldrig få in näckspark i en tävling där det amerikanska golfet på nytt visade sin bredd. Jesper Svensson placerade sig utanför resultatskrivningen, men turneringen präglades av att Smothermans stabila prestation gjorde jakten effektivt avslutad redan innan finalronden blev helt avgörande."
             },
             {
               "icon": "list.number",
@@ -2794,13 +2900,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-07T00:36:24+00:00",
-          "headline": "Smotherman dominerar Utah – vinner med sex slag före Ghim",
+          "generatedAt": "2026-10-07T11:59:21+00:00",
+          "headline": "Smotherman dominerar Utah – åtta slag före närmaste jägare",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Austin Smotherman dominerade Bank of Utah Championship med överlägsen slutresultat på -26, två slag före Doug Ghim som slutade på -24. Smothermans konsistenta spel över hela veckan gjorde honom omöjlig att nå för en jämnare tätt packat chaserfält där tre amerikaner delade tredjeplats på -23. Jesper Svensson lyckades inte ta sig in i topp 15 men fanns med i turneringen som en av få svenska representanter på PGA Tour denna säsong."
+              "b": "Austin Smotherman dominerade Bank of Utah Championship med två slag försprång över Doug Ghim, en marginal som räckte för hans första PGA Tour-seger. Smothermans -26 byggdes på konsekvent spel och fektsäker slutfas, medan Ghim aldrig lyckades få momentum för ett allvarligt angrepp på ledningen. Bland chaserna hade David Ford och Trace Crowe realistiska chanser på tredje plats genom att förbli under -23, men Smotherman höll kontrollen från start till målgång. Jesper Svensson representerade Sverige iStartfältet men hamnade utanför topplaceringarna."
             },
             {
               "icon": "list.number",
@@ -2930,13 +3036,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-07T00:36:26+00:00",
-          "headline": "Smotherman dominerar Utah – åtta slag före Ghim på -26",
+          "generatedAt": "2026-10-07T11:59:24+00:00",
+          "headline": "Smotherman stormade till seger – Svensson missade topp tio på Utah",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Austin Smotherman dominerade Bank of Utah Championship med en två slag bred ledning på -26, en målsättning som försvagade konkurrensen betydligt. Doug Ghim följde på andraplats två slag bakom, medan David Ford och Trace Crowe delade tredje plats på -23. Jesper Svensson, Sveriges representative i turneringen, nådde inte topp 20 och missade därmed att konkurrera i elitgruppen där amerikanarna helt dominerade podiet."
+              "b": "Austin Smotherman tog Bank of Utah Championship med två slag före Doug Ghim efter att ha avslutsat på imponerande -26. Smotherman höll sig framme genom hela turneringen och levererade en konsekvent prestation som Ghim och trippeln David Ford, Trace Crowe samt Ben James och Kevin Streelman på -22 respektive -23 inte kunde hota allvarligt. Jesper Svensson fanns inte bland de femton bästa på slutresultatet, vilket innebar en besvikelse för den svenska representationen i Utah."
             },
             {
               "icon": "list.number",
@@ -3066,13 +3172,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-07T00:36:29+00:00",
-          "headline": "Smotherman dominerar på -26 medan Svensson missade topp tio",
+          "generatedAt": "2026-10-07T11:59:27+00:00",
+          "headline": "Smotherman dominerar Bank of Utah – vinner med -26 före Ghim",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Austin Smotherman dominerade Bank of Utah Championship med två slag försprång före närmaste förföljare Doug Ghim, en överraskande stark prestation på en bana som belönade konstant spel. Tredjeplaceringen delades mellan David Ford och Trace Crowe på 23 under par, medan en större grupp jämfört tätt på 19-22 under par. Jesper Svensson fanns inte representerad i topplaceringar, vilket tyder på att svensken inte lyckades få fotfäste i en tävling där de amerikanska spelarna helt dominerade resultatlistan."
+              "b": "Austin Smotherman dominerade Bank of Utah Championship från start till mål och segrade överbevisande med 26 slag under par, två slag före Doug Ghim på delad andraplats. Amerikanaren visade en konsekvent prestation genom hela veckan utan att någon challenger kunnat helt närma sig honom under slutrundan. David Ford och Trace Crowe följde på delad tredjeplats två slag bakom Ghim, medan svenska Jesper Svensson inte nådde topp tjugo och därmed stannade utan poäng från denna etappe på PGA Tours utvecklingsserie."
             },
             {
               "icon": "list.number",
@@ -3213,7 +3319,38 @@
       "statusDetail": "Thu, October 14th at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-10-07T11:59:30+00:00",
+          "headline": "Patty Tavatanakit jagar sitt andra LPGA-seger i Shanghai-dragningen",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# Förhandsanalys: Buick LPGA Shanghai\n\nBuick LPGA Shanghai samlar världens bästa kvinnliga golfspelare på en av världens viktigaste golfmarknader, och tävlingen lockar därmed topp-20-spelarna från LPGA Tour. Utan svenska representanter är det amerikanskt och asiatiskt dominerade fält i fokus, där lokalt förankrade stjärnor kan dra nytta av hemmaplan-fördelar. Det kommer att bli intressant att följa hur de spelarnas anpassning till banan fungerar och vilka amerikanska toppnamn som kan ta sig över mållinjen i ett omgivat pressande från asiater. Startfältet presenterar en klassisk LPGA-konstellation där erfarenhet och form sätter de stora skillnaderna."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 15 October 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-lotte-championship",
@@ -3231,13 +3368,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-07T00:36:33+00:00",
-          "headline": "Thitikul dominerar Hawaii – Stark delar sjätte plats på -15",
+          "generatedAt": "2026-10-07T11:59:34+00:00",
+          "headline": "Thitikul krossar fältet – Stark delar sjätte plats på -15",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jeeno Thitikul från Thailand dominerade LOTTE Championship med tre slag försprång ned till tvåan Ina Yoon från Sydkorea. Thitikuls slutresultat på -21 bygger på konsekvent spel över hela turneringen och motsäger inte hennes status som en av världens hetaste spelarinnor just nu. Maja Stark levererade en solid prestationen på -15, vilket placerar henne delat femte och visar att svenskan håller sig i världselitens närhet, även om det inte räckte för att blanda sig i det skärpaste striden denna gång."
+              "b": "Jeeno Thitikul från Thailand vann LOTTE Championship med imponerande -21, tre slag före Ina Yoon som slutade på -18. Maja Stark levererade en solid insats för Sverige och delade sjätteplats tillsammans med Michelle Zhang på -15, vilket vittnar om konsekvent spel under turneringen. Thitikuls seger var byggd på stabilt golfspel och överväldigande kontroll genom de slutande rundorna, vilket gjorde det omöjligt för chaserespelarna att hämta upp försprånget."
             },
             {
               "icon": "list.number",
@@ -3367,13 +3504,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-07T00:36:36+00:00",
-          "headline": "Thitikul dominerar Hawaii – Stark dela-femma för Sverige",
+          "generatedAt": "2026-10-07T11:59:37+00:00",
+          "headline": "Thitikul spökar på Hawaii – Stark på delad femteplats",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jeeno Thitikul från Thailand dominerade LOTTE Championship och vann med tre slag före sydkoreanska Ina Yoon. Thitikuls -21 var ett solitt resultat på en course som krävde precision, och försprånget reflekterar hennes konsistens genom hela veckan. Svenska Maja Stark slutade delad sjätte på -15, vilket var en anständig insats i ett starkt internationellt fält dominerat av asiatiska spelare. Med flera chasers inom tre slag av ledningen hade Thitikul behållit kontrollen när det räknades som mest."
+              "b": "Jeeno Thitikul från Thailand dominerade LOTTE Championship och tog segern med imponerande -21, tre slag före syrakusanaren Ina Yoon. Miyu Yamashita från Japan rundade av toppen på -17. Maja Stark levererade en solid prestationen och slutade delad sjätte på -15, vilket placerar henne bland toppresultaten för svenska golfare i LPGA denna säsong och visar att hon håller sig i högsta konkurrensklass på världsscenen."
             },
             {
               "icon": "list.number",
@@ -3503,13 +3640,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-07T00:36:39+00:00",
-          "headline": "Thitikul vinner LOTTE Championship – Stark delad sjätte på -15",
+          "generatedAt": "2026-10-07T11:59:39+00:00",
+          "headline": "Thitikul dominerar Hawaii – Stark delar sjätte plats på -15",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jeeno Thitikul dominerade LOTTE Championship med tre slag före tvåan Ina Yoon, vilket återspeglar en konsekvent stark prestationsförmåga genom hela tävlingen. Maja Stark placerade sig starkt på delad sjätte plats med -15, endast sex slag bakom vinnaren, och visade därmed att hon är konkurrenskraftig på högsta LPGA-nivå. Asiatet och sydkoreanska spelare tog upp majoriteten av topplaceringarna, vilket förstärker regionens inverkan på tävlingen. Stark kan byggga vidare på denna solida insats inför kommande omgångar på touren."
+              "b": "Jeeno Thitikul från Thailand dominerade LOTTE Championship och vann slutligen med en tre slag bred marginal på -21, vilket visar solid kontroll över Hawaii Kai golfbanan under hela veckan. Ina Yoon från Sydkorea följde på andraplatsen med -18, medan Miyu Yamashita från Japan slutade på tredje plats på -17. Maja Stark levererade en solid prestation och placerade sig delad femte på -15, vilket indikerar att den svenska golfern håller sig i världsklassform innan slutspurten på säsongen."
             },
             {
               "icon": "list.number",
@@ -3639,13 +3776,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-07T00:36:43+00:00",
-          "headline": "Thitikul triumferar med -21 – Stark stark på delad femteplats",
+          "generatedAt": "2026-10-07T11:59:42+00:00",
+          "headline": "Thitikul triumferar i Hawaii – Stark delar sjätte plats på -15",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jeeno Thitikul från Thailand dominerade LOTTE Championship och vann med tre slag före sydkoreanska Ina Yoon, som slutade på -18. Svenska Maja Stark levererade en solid prestation och placerade sig delad femte på -15, vilket visar stabilitet från hennes sida trots ett starkt asiatiskt fält. Turneringen präglades av tätt spel i mitten av leaderboarden där flera spelare låg inom fyra slag av ledningen, men Thitikuls konsistens gjorde skillnaden ned mot målgången."
+              "b": "Jeeno Thitikul från Thailand dominerade LOTTE Championship med en slutsiffra på -21, tre slag före andra placeringen som ägdes av sydkoreanen Ina Yoon på -18. Thitikuls margin var betydande och reflekterar en stark och konsekvent prestation under veckan. Maja Stark slutade på en delad femteplats tillsammans med Kinas Michelle Zhang på -15, vilket markerar ett solid resultat för svenska spelaren i Hawaii. Ungdomstalangarnas starka framträdande, särskilt från Asien, präglade turneringen där flera sydkoreanska och japanska spelare placerade sig högt upp på leaderboardet."
             },
             {
               "icon": "list.number",
@@ -3785,18 +3922,18 @@
       "yards": 0,
       "statusDetail": "Thu, October 7th at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-10-07T00:36:47+00:00",
-          "headline": "Söderberg jagar spanskt guld på hemmaplan – DP World Tour sluts in i Madrid",
+          "generatedAt": "2026-10-07T11:59:46+00:00",
+          "headline": "Söderberg jagar hemmavinst när Open de España bjuder på spanska favoriter",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Open de España lockas denna vecka av ett starkt spanskt försvar med Garcia, Cabrera Bello, Puig och Vidal högst upp på listan – hemmaplan brukar räknas. Sebastian Söderberg inleder som högst rankad svensk och kommer från en solid höst på DP World Tour, medan Ludvig Åberg och Jens Dantorp får chansen att visa form på ett högnivåfält där englänningen Ross Fisher och italienaren Francesco Molinari utgör ytterligare starka namn. Banan är ännu okänd vilket gör det värt att följa vilket setup som väljs – på spansk hemmaplan tenderar längderna att gynna vissa spelstil."
+              "b": "Open de España lockar ett starkt fält från DP World Tour med flera spanjorer hemma på hemmaplan, anförda av Sebastian Garcia och Rafa Cabrera Bello som båda söker att utnyttja hemmafördelen. Sebastian Söderberg är högst rankad svensk istarfältet och hamnar topp-20 på fältlistan, vilket pekar på en stark insats från honom senaste tiden. Ludvig Åberg och Jens Dantorp kompletterar det svenska intresset i vad som verkar bli en påtagligt europaorienterad turnering med italienaren Francesco Molinari och engelsmännen Ross Fisher och Daniel Gavins som klassiska namn att följa. Det blir intressant att se hur Söderberg hävdar sig mot både hemmalagen och övriga europiska toppnamn i en turnering där bortafördelen för spanjorerna kan väga tungt."
             },
             {
               "icon": "flag.fill",
@@ -3884,22 +4021,133 @@
             {
               "id": "auto-preview-w7",
               "cat": "🤖 Outright (förhand)",
+              "sel": "Daniel Hillier",
+              "svs": 26.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Daniel Hillier är en av SS:s top-7 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
               "sel": "Tyrrell Hatton",
               "svs": 29.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Tyrrell Hatton är en av SS:s top-7 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Tyrrell Hatton är en av SS:s top-8 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-10-07T11:59:50+00:00",
+          "headline": "Inför torsdag (R1): Ludvig Åberg, Shane Lowry, Eugenio Chacarra toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "8.00  Ludvig Åberg\n15.00  Shane Lowry\n19.00  Eugenio Chacarra\n21.00  Alex Noren\n21.00  Patrick Reed\n23.00  David Puig"
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "3 svenska kvar i fältet.\n\n—  Sebastian Söderberg  E\n—  Ludvig Åberg  E\n—  Jens Dantorp  E"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ludvig Åberg",
+              "svs": 8.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Ludvig Åberg är en av SS:s top-1 favoriter pre-tournament (odds 8.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Shane Lowry",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Shane Lowry är en av SS:s top-2 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Eugenio Chacarra",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Eugenio Chacarra är en av SS:s top-3 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Patrick Reed",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Patrick Reed är en av SS:s top-4 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Alex Noren",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Alex Noren är en av SS:s top-5 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "David Puig",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "David Puig är en av SS:s top-6 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Daniel Hillier",
+              "svs": 26.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Daniel Hillier är en av SS:s top-7 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w8",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Angel Ayora",
+              "sel": "Tyrrell Hatton",
               "svs": 29.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Angel Ayora är en av SS:s top-8 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Tyrrell Hatton är en av SS:s top-8 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             }
           ]
         }
@@ -4509,8 +4757,8 @@
               "win": {
                 "prob": 0.0163,
                 "fairOdds": 61.35,
-                "realSSOdds": 34.0,
-                "edgePct": -0.4458,
+                "realSSOdds": 26.0,
+                "edgePct": -0.5762,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -4518,8 +4766,8 @@
               "top5": {
                 "prob": 0.0839,
                 "fairOdds": 11.92,
-                "realSSOdds": 9.0,
-                "edgePct": -0.2449,
+                "realSSOdds": 7.0,
+                "edgePct": -0.4127,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -4527,8 +4775,8 @@
               "top10": {
                 "prob": 0.1616,
                 "fairOdds": 6.19,
-                "realSSOdds": 5.0,
-                "edgePct": -0.192,
+                "realSSOdds": 4.0,
+                "edgePct": -0.3536,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -4536,8 +4784,8 @@
               "top20": {
                 "prob": 0.301,
                 "fairOdds": 3.32,
-                "realSSOdds": 2.88,
-                "edgePct": -0.1331,
+                "realSSOdds": 2.5,
+                "edgePct": -0.2475,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -6517,13 +6765,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-07T00:36:54+00:00",
-          "headline": "Meronk rundar alla på St Andrews – Noren missar topplaceringen",
+          "generatedAt": "2026-10-07T11:59:54+00:00",
+          "headline": "Meronk dominerar Dunhill – Noren och svenska truppen långt efter",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Adrian Meronk dominerade Alfred Dunhill Links Championship och vann överlegset två slag före dansken Niklas Nørgaard och sydafrikanen Casey Jarvis på -20. Meronks konsistens över turneringen avgjorde på banan där ScottishLinks-golf belönade noggrannhet och mental styrka snarare än längdkraft. Från svenska sidan nådde ingen tävlingens topp 15, vilket indikerar att förutsättningarna för DP World Tours traditionella öppningsturné varit krävande för det svenska laget denna gång."
+              "b": "Adrian Meronk dominerar slutresultatet med tjugo slag under par, två slag före dansken Niklas Nørgaard och sydafrikanen Casey Jarvis som delar andraplats. Meronks konsistens genom turneringen särskiljer honom från jakterna, medan Fleetwood och MacIntyre på delad fjärdeplats aldrig kunde ta helt in på ledaren trots solida finalsöndag. Svenska representationen nådde inte topp femtio, med Alex Noren som bäst placerad bland de fem starterna — en indikation på att den brittiska grässturnering krävde annat än det som svenska spelare kunna leverera denna vecka."
             },
             {
               "icon": "list.number",
@@ -6653,13 +6901,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-07T00:36:57+00:00",
-          "headline": "Meronk dominerar Dunhill – Noren utanför topp tio",
+          "generatedAt": "2026-10-07T11:59:57+00:00",
+          "headline": "Meronk dominerar Dunhill – Sveriges bäste landar långt efter topptrioen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Adrian Meronk dominerade Alfred Dunhill Links Championship med två slag före förföljarna Niklas Nørgaard och Casey Jarvis, som båda slutade på -18. Polacken skapade ett övertygande försprång genom konsekvent spel över alla tre rundor, medan Fleetwood och Stewart höll sig inom räckhål på -17. Bland svenskarna noterades ingen topplacering — Alex Noren, Joakim Lagergren och resterande representanter från Sverige lyckades inte bryta sig in i toppskiktet denna vecka på Dunhills traditionella lag- och matchplaytävling."
+              "b": "Adrian Meronk från Polen dominerade Alfred Dunhill Links Championship med två slagars marginal och slutade på imponerande -20, ett resultat som byggdes på consistent spel över alla fyra rundor. Danskarna gjorde ett starkt visning med Niklas Nørgaard på delad andraplats tillsammans med sydafrikanen Casey Jarvis båda på -18, medan flera brittiska spelare som Tommy Fleetwood och Robert MacIntyre följde på -17 respektive -16. Svenska startfältet lyckades inte få någon representant i topp 15, vilket tyder på att nivån var utmanande för de svenska spelarna denna vecka."
             },
             {
               "icon": "list.number",
@@ -6789,13 +7037,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-07T00:37:01+00:00",
-          "headline": "Meronk dominerar Dunhill Links – ingen svensk i toppen när Polen tar segern på -20",
+          "generatedAt": "2026-10-07T12:00:00+00:00",
+          "headline": "Meronk crusar till Alfred Dunhill-seger på -20 – Noren utan resultat",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Adrian Meronk dominerade Alfred Dunhill Links Championship med två slag marginal fram till mållinjen, där polacken etablerade sig som den överlägset bästa spelaren över 72 hål. Niklas Nørgaard och Casey Jarvis följde tätt på två slag bakom, medan Tommy Fleetwood och Michael Stewart på tre slag tillbaka utgjorde ett tjockt fält av skotska och engelska spelare som aldrig helt lyckades prestera på Meronks nivå. Svenska svenskar hade ingen framskjuten placering — Lagergren, Noren och övriga landsmän sattes på betryggande avstånd från toppen och lämnar Dumfries utan märkbara tur-resultat från denna turnering."
+              "b": "Adrian Meronk dominerade Alfred Dunhill Links Championship med en överlägsen finalscore på 20 under par, två slag före danskarna Niklas Nørgaard och Casey Jarvis. Meronks konsistens och stabila spel på de klassiska skotska banorna räckte för att hålla ett hårt pressande fält i schack. Av de svenska deltagarna nådde ingen topp 20-placeringen, vilket tyder på att nivån på DP World Tour fortsatt är skarp och konkurrensutsatt även för etablerade namn som Alex Noren och Joakim Lagergren."
             },
             {
               "icon": "list.number",
@@ -6925,13 +7173,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-07T00:37:04+00:00",
-          "headline": "Meronk dominerar Dunhill – ingen svensk i toppen när Polen tar segern på -20",
+          "generatedAt": "2026-10-07T12:00:03+00:00",
+          "headline": "Meronk solär på -20 när svenska golfens stort namn sjunker",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Adrian Meronk dominerade Alfred Dunhill Links Championship med två slaggar försprång före danskens Niklas Nørgaard och sydafrikanen Casey Jarvis, båda på -18. Meronks konsistens under turneringen övervägde främst på St Andrews, Carnoustie och Kingsbarns, där han levererade steady golf utan större misstag. De svenska starterna fick en besvärlig vecka — ingen av Mikael Lindberg, Sebastian Söderberg, Alex Noren, Joakim Lagergren eller Hugo Townsend nådde topp-20-placeringen, vilket indikerar att tävlingsförhållandena krävde större pressmöten än vad svenskarna kunde prestera denna gång."
+              "b": "Adrian Meronk dominerade Alfred Dunhill Links Championship med två slaggers marginal före tätt pressade Niklas Nørgaard och Casey Jarvis på -18. Polacken skapade ett övertygande försprång genom att hålla en konsekvent höga standard över fyra rundor på de skotska kustkurserna. I jagandet följde Fleetwood och Michael Stewart på -17, medan Brooks Koepka på -16 aldrig kunde närma sig ledningen trots att amerikanen levererade stabil golf. Bland svenskarna slutade Alex Noren som bäst, men förblev långt från medaljplatser i ett slag där en stark nordisk närvaro – med Nørgaard i toppen – markerade Baltikums styrka på DP World Tour."
             },
             {
               "icon": "list.number",
@@ -7072,7 +7320,38 @@
       "statusDetail": "Thu, October 14th at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-10-07T12:00:07+00:00",
+          "headline": "Öppet slag om turens poäng i Indien – Rory och co vill bryta torkan",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# DP World India Championship – Förhandsanalys\n\nDP World India Championship på DP World Tour lockar till sig en stark internationell spetsgrupp med flera rankade namn i täten. Rory McIlroy och Jon Rahm utgör två av höstens mest formstarka spelare och båda kommer med höga målsättningar in i tävlingen. Med tanke på att turneringen spelas på indisk mark är det värt att notera vilka spelare som tidigare har gjort starka resultat i liknande klimatiska förhållanden – uthållighet och adaptabilitet blir nyckelord. Svenskt perspektiv saknas denna gång i toppsegmenten, men europeierna får här möjlighet att stärka sina DP World Tour-poäng inför säsongsslut."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 15 October 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-liv-golf-michigan-stroke-play",
