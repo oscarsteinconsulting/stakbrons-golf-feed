@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T00:14:48+00:00",
+  "generatedAt": "2026-10-14T10:35:15+00:00",
   "tournaments": [
     {
       "id": "live-butterfield-bermuda-championship",
@@ -13,7 +13,38 @@
       "statusDetail": "Thu, October 21st at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-10-14T10:35:19+00:00",
+          "headline": "Bermuda väntar på nästa överraskning – Port Royals tuffaste test lockar PGA Tours hungrande utmanare",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# Förhandsanalys: Butterfield Bermuda Championship\n\nButterfield Bermuda Championship presenterar ett intressant PGA Tour-fält där flera spelare söker återhämtning efter svagare perioder. Rory McIlroy och Collin Morikawa tillhör de högsta seedade namnen och bör räknas som favoriter, men turneringen karaktäriseras ofta av öppet spel där rankingfavoriter inte alltid dominerar. Utan svenska deltagare från de högre placeringarna i världsrankningen är uppmärksamheten riktad mot hur bermudisk vind och grästyp kommer påverka strokespelet – faktorer som historiskt gjort denna tävling oförutsägbar."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 22 October 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-baycurrent-classic",
@@ -31,13 +62,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-14T00:14:55+00:00",
-          "headline": "Brennan tvingar bort Mitchell och Bridgeman – vinner Baycurrent Classic på -16",
+          "generatedAt": "2026-10-14T10:35:24+00:00",
+          "headline": "Brennan dominerar Baycurrent – Mitchell och Bridgeman jagar på -15",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Michael Brennan tog segern på Baycurrent Classic efter en stark slutrunda på -16, ett slag före Keith Mitchell och Jacob Bridgeman som delade andraplats. Brennan höll fokus på den avslutande dagen medan jagarna Mitchell och Bridgeman inte kunde helt stänga gapet, trots att de båda spelade solid golf. Xander Schauffele och Brian Harman var återigen närvarande i toppen tillsammans med flera andra etablerade namn, men kunde aldrig komma tillräckligt nära för att sätta press på Brennan i slutskedet."
+              "b": "Michael Brennan dominerade Baycurrent Classic med en seger på sexton under par, vilket gav honom ett slag försprång före Keith Mitchell och Jacob Bridgeman på femton under par. Det var en solid prestation från alla tre på toppen, men Brennans konsistens genom hela turneringen skilde honom från jaktfältet. Xander Schauffele, Brian Harman och övriga jämnare konkurrenter på tretton under par saknade det sista steget när det gällde att hämta in ledaren under avslutande rundor."
             },
             {
               "icon": "list.number",
@@ -162,13 +193,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-14T00:14:58+00:00",
-          "headline": "Brennan soloar hem på -16 – Mitchell och Bridgeman två slag bakom på Baycurrent Classic",
+          "generatedAt": "2026-10-14T10:35:27+00:00",
+          "headline": "Brennan knäcker koden på -16 – Mitchell och Bridgeman jagade men kom två slag kort",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Michael Brennan levererade en dominant prestations och vann Baycurrent Classic med 16 under par, en stroke före Keith Mitchell och Jacob Bridgeman som både slutade på 15 under. Brennan höll kontrollen genom finalen och visade soliditet både från fairway och på grönt, vilket räckte för att hålla undan ett spätt fält av chasers. Xander Schauffele och Brian Harman var de mest framskjutna bland efterföljarna på 13 under par, men kunde inte hitta tillräckligt bränsle för att skapa ett riktigt tryck på ledaren under avslutande varv."
+              "b": "Michael Brennan distanserade konkurrenterna på Baycurrent Classic genom att hålla ledningen från start till målgång med slutresultatet -16, en stroke före Keith Mitchell och Jacob Bridgeman som båda slutade på -15. Brennans stabilitet under de fyra rundorna säkerställde segern utan att någon av chaserna lyckades montera ett verkligt comeback på finaldagen. Efterföljande placeringar var splittrade mellan flera spelare på -13, inklusive etablerade namn som Xander Schauffele, Brian Harman och Stephan Jaeger, vilket indikerar på ett starkt fält där endast små marginaler skilde framgång från placering längre ned på leaderboarden."
             },
             {
               "icon": "list.number",
@@ -293,13 +324,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-14T00:15:01+00:00",
-          "headline": "Brennan stoppade Mitchell och Bridgeman på -16 i Baycurrent Classic",
+          "generatedAt": "2026-10-14T10:35:31+00:00",
+          "headline": "Brennan dominerar Baycurrent Classic – seglat ifrån Mitchell och Bridgeman på -16",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Michael Brennan skiljde sig från konkurrensen på Baycurrent Classic genom att hålla ett slag före Keith Mitchell och Jacob Bridgeman, vilka slutade tillsammans på -15. En stor förföljarklubb på -13 anfördes av Xander Schauffele, Brian Harman och Jordan Smith, men Brennan lyckades hålla sin ledning intakt över de avslutande varven. Därmed tar amerikanaren sin andra PGA Tour-titel och bekräftar en växande form som kan förväntas ge honom ytterligare möjligheter under säsongen."
+              "b": "Michael Brennan tog säsongens första seger på PGA Tour genom att hålla ett slag före duon Keith Mitchell och Jacob Bridgeman på -16. Brennan byggde sin ledning genom en konsekvent prestations helgen, medan Mitchell och Bridgeman höll sig inom räckhål men inte kunde hitta det avgörande birdie-ruset på slutet. Xander Schauffele och Brian Harman slutade fyra respektive fem, fyra slag bakom vinnaren, och representerar några av turens större namn bland jaktfältet. Brennans seger markerar en öppning av säsongen där ingen favorit dominerade helt, utan tävlingen avgjordes av steady golf och stabila prestationer runt green."
             },
             {
               "icon": "list.number",
@@ -424,13 +455,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-14T00:15:05+00:00",
-          "headline": "Brennan stansar Baycurrent Classic – Mitchell och Bridgeman strax bakom på -15",
+          "generatedAt": "2026-10-14T10:35:34+00:00",
+          "headline": "Brennan triumferar på Baycurrent – Mitchell och Bridgeman en slag efter",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Michael Brennan tog Baycurrent Classic efter en stark slutrunda och släppte Keith Mitchell och Jacob Bridgeman på ett slag då båda två slutade på -15. Brennan höll sig framför en stor jagande grupp – Schauffele, Harman, Gerard, Smith och Jaeger alla på -13 – men kunde hålla fokus när det räknades som mest. Det var en tuff vecka för de stora namn som inte levererade; Spieth, Homa och andra etablerade spelare tappade mark och kunde bara nå ett par slag bättre än de närmaste jägarnas slutscorer."
+              "b": "Michael Brennan löste sitt första PGA Tour-seger genom att hålla ett slag före Keith Mitchell och Jacob Bridgeman på -16, -15 respektive -15. Brennans slutspurt på finalrundan gav honom kommandot när övriga toppkandidater, inklusive Xander Schauffele och Brian Harman på delnot -13, missade avgörande puttar på backninean. I jaktfältet samlades åtminstone fyra amerikaner och en handfull internationella spelare inom tre slag av ledningen, vilket indikerar att Brennans prestation byggde på konsekvent spel snarare än dominans."
             },
             {
               "icon": "list.number",
@@ -565,18 +596,18 @@
       "yards": 0,
       "statusDetail": "Thu, October 14th at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-10-14T00:15:09+00:00",
-          "headline": "Linn Grant jagar LPGA-seger i Shanghai – Grant möter världseliten på hemmaplan för asiater",
+          "generatedAt": "2026-10-14T10:35:38+00:00",
+          "headline": "Linn Grant jagar asiatseger i Shanghai – bland världselitans bästa",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Buick LPGA Shanghai drar till sig ett starkt internationellt fält där asiateiska spelare får hemmaplansfördel – särskilt värt att följa är kinesiskan Liqi Zeng och japanskan Minami Katsu som båda återfinns högt upp på rankingen. Linn Grant gör comeback i LPGA efter en tid bort och får en intressant möjlighet att visa aktuell form på en bana som ofta passar de europeiska spelarna väl. Minjee Lee och systern Amy Yang tillsammans med den starka sydkoreanska delegationen – ledda av Amy Yang, Jenny Shin och Jin Hee Im – kommer att vara de hetaste favoriterna på grund av både skicklighet och vana vid banans förhållanden. Det blir intressant att se hur Grant tacklar konkurrensen i ett fält där erfarenhet från asiatiska tourné-förhållanden ofta väger tungt."
+              "b": "Buick LPGA Shanghai blir ett intressant världsturneringsmöte då flera asiater får hemmabanefördel, särskilt värda att notera är Liqi Zeng och Ningyao Xu från värdlandet Kina. Linn Grant återkommer till LPGA-schemat och får möta en elite där australiensiska Minjee Lee och thailändskan Ariya Jutanugarn utgör toppseedning tillsammans med flera formar irländska Leona Maguire. Det gäller för Grant att hitta rytm igen efter en tung period, och en stark asiatisk representation gör det extra utmanade att bryta igenom på sådan bana. Tävlingen blir en profileringsfråga för arrangören Buick och en litmustest för hur väl Grant återfinner sin form från förra året."
             },
             {
               "icon": "flag.fill",
@@ -597,6 +628,117 @@
               "icon": "wave.3.right",
               "h": "Auto-genererat",
               "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Miyu Yamashita",
+              "svs": 5.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Miyu Yamashita är en av SS:s top-1 favoriter pre-tournament (odds 5.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Jeeno Thitikul",
+              "svs": 5.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Jeeno Thitikul är en av SS:s top-2 favoriter pre-tournament (odds 5.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ruoning Yin",
+              "svs": 9.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Ruoning Yin är en av SS:s top-3 favoriter pre-tournament (odds 9.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Sei Young Kim",
+              "svs": 13.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Sei Young Kim är en av SS:s top-4 favoriter pre-tournament (odds 13.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "A Lim Kim",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "A Lim Kim är en av SS:s top-5 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Auston Kim",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Auston Kim är en av SS:s top-6 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Lauren Coughlin",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Lauren Coughlin är en av SS:s top-7 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Jin Hee Im",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Jin Hee Im är en av SS:s top-8 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-10-14T10:35:42+00:00",
+          "headline": "Inför torsdag (R1): Jeeno Thitikul, Miyu Yamashita, Ruoning Yin toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "5.00  Jeeno Thitikul\n5.00  Miyu Yamashita\n9.00  Ruoning Yin\n13.00  Sei Young Kim\n19.00  A Lim Kim\n19.00  Hye Jin Choi"
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "1 svensk kvar i fältet.\n\n—  Linn Grant  E"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
             }
           ],
           "top5": [],
@@ -1781,7 +1923,7 @@
           {
             "name": "Grace Kim",
             "mu": -0.9,
-            "muSource": "rank 36",
+            "muSource": "rank 37",
             "completedScore": 0,
             "markets": {
               "win": {
@@ -2016,7 +2158,7 @@
           {
             "name": "Erika Hara",
             "mu": -0.9,
-            "muSource": "rank 35",
+            "muSource": "rank 36",
             "completedScore": 0,
             "markets": {
               "win": {
@@ -2110,7 +2252,7 @@
           {
             "name": "Carlota Ciganda",
             "mu": -0.9,
-            "muSource": "rank 32",
+            "muSource": "rank 33",
             "completedScore": 0,
             "markets": {
               "win": {
@@ -2157,7 +2299,7 @@
           {
             "name": "Youmin Hwang",
             "mu": -0.9,
-            "muSource": "rank 38",
+            "muSource": "rank 39",
             "completedScore": 0,
             "markets": {
               "win": {
@@ -2298,7 +2440,7 @@
           {
             "name": "Narin An",
             "mu": -0.9,
-            "muSource": "rank 37",
+            "muSource": "rank 38",
             "completedScore": 0,
             "markets": {
               "win": {
@@ -2392,7 +2534,7 @@
           {
             "name": "Chanettee Wannasaen",
             "mu": -0.9,
-            "muSource": "rank 34",
+            "muSource": "rank 35",
             "completedScore": 0,
             "markets": {
               "win": {
@@ -2533,14 +2675,14 @@
           {
             "name": "Andrea Lee",
             "mu": -0.9,
-            "muSource": "rank 39",
+            "muSource": "rank 32",
             "completedScore": 0,
             "markets": {
               "win": {
                 "prob": 0.0077,
                 "fairOdds": 129.87,
-                "realSSOdds": 91.0,
-                "edgePct": -0.2993,
+                "realSSOdds": 81.0,
+                "edgePct": -0.3763,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2548,8 +2690,8 @@
               "top5": {
                 "prob": 0.0498,
                 "fairOdds": 20.08,
-                "realSSOdds": 15.0,
-                "edgePct": -0.253,
+                "realSSOdds": 13.0,
+                "edgePct": -0.3526,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2557,8 +2699,8 @@
               "top10": {
                 "prob": 0.1119,
                 "fairOdds": 8.94,
-                "realSSOdds": 7.0,
-                "edgePct": -0.2167,
+                "realSSOdds": 6.0,
+                "edgePct": -0.3286,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -3068,7 +3210,38 @@
       "statusDetail": "Thu, October 21st at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-10-14T10:35:44+00:00",
+          "headline": "Jag kan inte skriva rubriken utan att se fältlistan. Du skrev \"Första 15 i fältlistan från ESPN:\" men ingen lista följde. Kan du dela fältlistan så skriver jag en kraftfull rubrik?",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# BMW Ladies Championship – Förhandsanalys\n\nVärldselitens bästa damer möts i BMW Ladies Championship, en av LPGA-touren mest prestisefyllda tävlingar. Fältet domineras av redan etablerade toppnamn som Nelly Korda och Patty Tavatanakit, vilka återigen kommer att vara favoriter att ta hem titeln. Utan svenska representanter är fokus på hur formkurvan ser ut för de absoluta toppspelarna inför säsongens avslutande majorserie – en tävling som ofta fungerar som viktigt förberedande inför höstens största turneringar."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 22 October 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-dp-world-india-championship",
@@ -3081,18 +3254,18 @@
       "yards": 0,
       "statusDetail": "Thu, October 14th at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-10-14T00:15:17+00:00",
-          "headline": "Hemmafördelning för Ahlawat när DP World Tour landar i Indien",
+          "generatedAt": "2026-10-14T10:35:48+00:00",
+          "headline": "Campillo och Bryant jagar DP World-guldet i Indien",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "DP World India Championship lockar ett starkt fält på DP World Tour med Jorge Campillo och Luke Donald som två av favoriterna att följa. Det indiska innehållet är påtagligt med hemmaväxta namn som Veer Ahlawat och Saptak Talwar som kan dra nytta av hemmaplan-faktorn, medan engelsmännen utgör en stor kontingent med bland andra Nathan Kimsey och Andy Sullivan. Det blir intressant att se hur Campillos senaste form håller upp på vad som tycks vara en utmanande bana, och huruvida de lokala spelarna lyckas omvandla hemmafördelarna till konkreta resultat."
+              "b": "DP World India Championship bjuder på ett DP World Tour-event med starkt inhemsk representation genom Veer Ahlawat, Angad Cheema och Saptak Talwar, vilket kan ge dessa spelare hemmaplansfördel på en ännu okänd bana. Jorge Campillo kommer som favorit efter stabila resultat på touren, men Scott Jamieson och Grant Forrest utgör klassiska skotska outsiders som ofta blomstrar på hemmaplan-liknande förhållanden. Luke Donald och Shane Lowry tillhör de mest erfarna namnen och bör räknas in som steady performers, medan Tom McKibbin från Nordirland representerar en intressant utvecklingsspelare att följa. Utan vetskap om banans karaktär är det värt att notera att hemmafördelens betydelse kan bli avgörande – följ särskilt hur de indiska spelarna presterar i praktiken."
             },
             {
               "icon": "flag.fill",
@@ -3136,11 +3309,117 @@
               "id": "auto-preview-w3",
               "cat": "🤖 Outright (förhand)",
               "sel": "Shane Lowry",
-              "svs": 15.0,
+              "svs": 13.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Shane Lowry är en av SS:s top-3 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Shane Lowry är en av SS:s top-3 favoriter pre-tournament (odds 13.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Robert MacIntyre",
+              "svs": 17.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Robert MacIntyre är en av SS:s top-4 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Aaron Rai",
+              "svs": 17.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Aaron Rai är en av SS:s top-5 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Min Woo Lee",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Min Woo Lee är en av SS:s top-6 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Eugenio Chacarra",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Eugenio Chacarra är en av SS:s top-7 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Jacob Skov Olesen",
+              "svs": 26.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Jacob Skov Olesen är en av SS:s top-8 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-10-14T10:35:52+00:00",
+          "headline": "Inför torsdag (R1): Rory McIlroy, Tommy Fleetwood, Shane Lowry toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "9.00  Rory McIlroy\n9.50  Tommy Fleetwood\n13.00  Shane Lowry\n17.00  Aaron Rai\n17.00  Robert MacIntyre\n19.00  Eugenio Chacarra"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Rory McIlroy",
+              "svs": 9.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Rory McIlroy är en av SS:s top-1 favoriter pre-tournament (odds 9.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Tommy Fleetwood",
+              "svs": 9.5,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Tommy Fleetwood är en av SS:s top-2 favoriter pre-tournament (odds 9.50). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Shane Lowry",
+              "svs": 13.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Shane Lowry är en av SS:s top-3 favoriter pre-tournament (odds 13.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w4",
@@ -3641,8 +3920,8 @@
               "win": {
                 "prob": 0.0334,
                 "fairOdds": 29.94,
-                "realSSOdds": 15.0,
-                "edgePct": -0.499,
+                "realSSOdds": 13.0,
+                "edgePct": -0.5658,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -5826,13 +6105,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-14T00:15:25+00:00",
-          "headline": "Forrest triumferar i Madrid – Åberg slutar stark på -10",
+          "generatedAt": "2026-10-14T10:35:56+00:00",
+          "headline": "Forrest kammade Madrid – Åberg tvåa på -10 trots stark spansk motstånd",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Grant Forrest tog hem Open de España med ett slag före spanjoren Eugenio Chacarra och fransman Victor Perez, som båda slutade på -13. Skotten lyckades hålla ett tight leaderboard på avstånd genom stabila rundor på slutsträckan. Svenska Ludvig Åberg slutade på delad sjunde plats, två slag bakom vinnaren, och visar stark form innan kommande höjdpunkter på touren."
+              "b": "Grant Forrest segrade med två slag framför Eugenio Chacarra och Victor Perez, som delade andraplats på -13. Skotten var tätt i toppen och Perez hade en realistisk chans på sista hålet men missade birdiemöjligheten. Ludvig Åberg slutade starkt på delad sjundeplats på -10 och uppvisade stabil golf genom hela veckan, medan Joakim Lagergren hamnade på -9 på elfte plats. För Åberg var det en solid insats i Spanien, men två slag tillräckligt långt bakom för att kunna skriva om ett segrarstycke."
             },
             {
               "icon": "list.number",
@@ -5962,13 +6241,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-14T00:15:27+00:00",
-          "headline": "Forrest kammade hem Madrid – Åberg knappas på sjunde plats",
+          "generatedAt": "2026-10-14T10:35:59+00:00",
+          "headline": "Forrest kammade hem Open de España – Åberg femma på -10",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Grant Forrest säkrade segern på Open de España med totalt fjorton under par, ett slag före spanjoren Eugenio Chacarra och fransmännen Victor Perez som delade andraplatsen. Ludvig Åberg slutade stark på delad sjunde plats tio under par, medan Joakim Lagergren hamnade på elfte plats med nio under par – båda svenska representanter presterade solidt på ett DP World Tour-arrangemang som lockade topp-namn från världstouren. Forrest höll fokus under slutrundan för att hålla undan en pressande spanjorsk hemmagrupp, medan flera engelsmän höll sig i närheten av ledningen genom hela turneringen. Med återstoden av säsongen framför sig blir det intressant att se om Åberg kan bygga vidare på resultaten efter sin senaste tid på PGA Tour."
+              "b": "Grant Forrest tog segern på Open de España med fjorton slag under par, ett slag före spanjoren Eugenio Chacarra och fransmannen Victor Perez. Ludvig Åberg var bäste svensk genom att slutföra på delad sjunde plats med tio slag under par, medan Joakim Lagergren slutade på elfte plats två slag bakom Åberg. Forrest höll en stabil avslutning för att värja sitt försprång, medan Åberg och övriga jaktande inte lyckades prestera tillräckligt för att hota ledningen under finaldagen."
             },
             {
               "icon": "list.number",
@@ -6098,13 +6377,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-14T00:15:32+00:00",
-          "headline": "Forrest stänger Madrid på -14, Åberg femma två slag bakom",
+          "generatedAt": "2026-10-14T10:36:02+00:00",
+          "headline": "Forrest stärker sig hemma – Åberg tvåa på sju slag bakom",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Grant Forrest från Skottland tog överlägsen seger på Open de España med fjorton under par, en slagseger före spanjoren Eugenio Chacarra och fransmännen Victor Perez som båda slutade på tretton under. Ludvig Åberg slutade stark på delad sjunde plats med tio under par, vilket visar fortsatt stabilt spel från svensken, medan Joakim Lagergren följde på elfte plats med nio under. Forestis framspelning från tee till green var avgörande på ett spår som krävde precision hela veckan."
+              "b": "Grant Forrest från Skottland vann Open de España med fjorton under par, ett slag före det spanska duon Eugenio Chacarra och Victor Perez som slutade på tretton under. Ludvig Åberg presterade väl för Sverige och slutade på en delad sjundeplats med tio under par, medan Joakim Lagergren följde på elfte plats med nio under. Forrest höll kontrollen genom finalen och visade stabilitet på ett spanskt gräs som belönade noggrannhet framför längd."
             },
             {
               "icon": "list.number",
@@ -6234,13 +6513,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-14T00:15:35+00:00",
-          "headline": "Forrest solär i Madrid – Åberg tvåa bland svenskarna på -10",
+          "generatedAt": "2026-10-14T10:36:05+00:00",
+          "headline": "Forrest stoppar spanjorerna – Åberg femte svensk på planen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Grant Forrest från Skottland vann Open de España med en slutresultat på -14, ett slag före spanjoren Eugenio Chacarra och fransmanen Victor Perez som båda slutade på -13. Ludvig Åberg presenterade en solid prestation för Sverige genom att slutföra på delad sjunde plats med -10, medan landsmannen Joakim Lagergren fick nöja sig med elfte plats på -9. Forestest konsekvent spel under turneringen, där han undvek större misstag på den utmanande madrilenkursen, räckte för en övertygande seger i tävlingen."
+              "b": "Grant Forrest tog segern på Open de España genom att hålla ett slag före det spanska duon Eugenio Chacarra och Victor Perez, som delades andraplats på -13. Ludvig Åberg slutade stark på delad sjundeplats med -10, medan Joakim Lagergren följde på elfte plats med -9 — båda svenskarna presterade solidt men kunde aldrig hota Forrests ledning under slutspurten. Övriga svenska representanter Noren, Lemke och Lindberg lyckades inte nå de översta 15 placeringarna på denna spanska turné där hemmafördelningen märktes tydligt bland toppfavoriterna."
             },
             {
               "icon": "list.number",
@@ -6381,7 +6660,38 @@
       "statusDetail": "Thu, October 21st at 12:00 AM EDT",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-10-14T10:36:09+00:00",
+          "headline": "Genesis Championship: Rahm jagar comeback på DP World Tour",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Jag kan inte skriva denna förhandsanalys utan att ha tillgång till fältlistan från ESPN. Du har angivit att den första toppen 20 ska inkluderas, men listan saknas i ditt meddelande. Kan du dela fältlistan så kan jag leverera en saklig förhandsanalys fokuserad på DP World Tour, spelarprestationer och banans utmaningar?"
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 22 October 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-liv-golf-michigan-stroke-play",
