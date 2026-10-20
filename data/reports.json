@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:16:33+00:00",
+  "generatedAt": "2026-10-20T00:13:48+00:00",
   "tournaments": [
     {
       "id": "live-butterfield-bermuda-championship",
@@ -17,13 +17,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-10-19T22:16:37+00:00",
-          "headline": "Båda behövs inte när jag saknar väsentlig information. Jag kan inte skriva en tillräckligt konkret rubrik utan att veta vilken bana som används eller ha namn på spelarna i topplistan.\n\nKan du tillhandahålla:\n- Banan där tävlingen spelas\n- Namn på",
+          "generatedAt": "2026-10-20T00:13:51+00:00",
+          "headline": "Bermuda-klassiken lockar eliten – Rory och Scottie jagar höststokkens största pris",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# Butterfield Bermuda Championship – Förhandsanalys\n\nButterfield Bermuda Championship bjuder på en intressant blandning av etablerade PGA Tour-spelare och hungrigt uppåtsträvande talanger som söker sin första seger eller en vändning i form. Utan svenska namn i den högre delen av seeding fokuseras blicken på hur toppseedade amerikaner och europeer hanterar Bermudas särskilda gräsbaneförhållanden – en klassisk test för precision snarare än drivlängd. Ett namn värt att följa blir hur någon av de rutinerade spelarna som behöver resultat använder denna smaller-field-turnering för att skapa momentum inför slutet av säsongen. Bermudas väderleksförståelse och mental styrka blir sannolikt avgörande faktorer när fältet är tätt och prestandanivåerna höga."
+              "b": "# Butterfield Bermuda Championship\n\nPGA Tour gör återkomst på Port Royal Golf Club i Bermuda, en klassisk bana som premiär 1931 och där svåra vindförhållanden brukar spela en avgörande roll. Fältet är tunt på världstoppen utan någon svensk startande – istället blir det intressant att följa hur européer och långslaget amerikaner presterar på denna kustnära layout. Att notera är att flere spelare använder turneringen som direktbiljett till nästa veckas Florida-swing, vilket kan påverka fokus och energinivå under helgen."
             },
             {
               "icon": "flag.fill",
@@ -2562,545 +2562,6 @@
       }
     },
     {
-      "id": "live-baycurrent-classic",
-      "name": "Baycurrent Classic",
-      "rawName": "Baycurrent Classic",
-      "tour": "PGA Tour",
-      "course": "—",
-      "startDate": "2026-10-08T04:00Z",
-      "par": 71,
-      "yards": 0,
-      "statusDetail": "Final",
-      "status": "final",
-      "currentRound": 4,
-      "reports": {
-        "torsdag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-10-19T22:16:46+00:00",
-          "headline": "Brennan slutspelar ensam: -16 håller undan Mitchell och Bridgeman på Baycurrent Classic",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Michael Brennan tog en suverän seger på Baycurrent Classic genom att hålla ett slag före Keith Mitchell och Jacob Bridgeman, som delade andraplats på -15. Brennan visade stabilitet genom hela veckan och höll undan presset från en tätt samla jakttrupp där flera etablerade namn som Xander Schauffele och Brian Harman slutade på delade fjärdeplats, fyra slag bakom vinnaren. Prestationen bekräftar Brennans utveckling på PGA Tour och ger honom viktiga poäng inför fortsatta seriespel."
-            },
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R1)",
-              "b": "—  Michael Brennan  -16\n—  Keith Mitchell  -15\n—  Jacob Bridgeman  -15\n—  Xander Schauffele  -13\n—  Brian Harman  -13\n—  Ryan Gerard  -13\n—  Jordan Smith  -13\n—  Stephan Jaeger  -13\n—  Ren Yonezawa  -12\n—  Min Woo Lee  -12\n\nKälla: ESPN."
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 3 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r1-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Michael Brennan",
-              "svs": 8.0,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Michael Brennan leder fältet på -16 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r1-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Jacob Bridgeman",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Jacob Bridgeman ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r1-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Keith Mitchell",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Keith Mitchell (-15) sitter i topp-skiktet ett slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r1-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Xander Schauffele",
-              "svs": 3.1,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Xander Schauffele (-13) sitter i topp-skiktet 3 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r1-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Ryan Gerard",
-              "svs": 2.4,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Ryan Gerard (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
-            },
-            {
-              "id": "auto-r1-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Stephan Jaeger",
-              "svs": 2.4,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Stephan Jaeger (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
-            },
-            {
-              "id": "auto-r1-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Max Homa",
-              "svs": 2.0,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Max Homa (-11) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r1-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Ben Kohles",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Ben Kohles (-10) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r1-low",
-              "cat": "🤖 Lägsta runda R2",
-              "sel": "Zach Bauchou",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Zach Bauchou (-12) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r1-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Michael Brennan",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Michael Brennan är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "fredag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-10-19T22:16:49+00:00",
-          "headline": "Brennan rundar Mitchells och Bridgemans utmaning – vinner Baycurrent på -16",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Michael Brennan tog sitt första PGA Tour-seger på Baycurrent Classic efter en stark slutrunda som gav honom en slag försprång före Keith Mitchell och Jacob Bridgeman på -15. Brennans framgång byggde på konsekvent spel från fairway och ett pålitligt kortkort, medan Mitchell och Bridgeman aldrig helt kunde överbrygga gapet trots att de höll sig inom en golfbollslängd under större delen av dagen. I chasers-gruppen på -13 samlades flera etablerade namn som Xander Schauffele och Brian Harman, vilka inte lyckades prestera tillräckligt för att kämpa om segern men ändå säkrade sig solida placeringspunkter inför fortsättningen."
-            },
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R2)",
-              "b": "—  Michael Brennan  -16\n—  Keith Mitchell  -15\n—  Jacob Bridgeman  -15\n—  Xander Schauffele  -13\n—  Brian Harman  -13\n—  Ryan Gerard  -13\n—  Jordan Smith  -13\n—  Stephan Jaeger  -13\n—  Ren Yonezawa  -12\n—  Min Woo Lee  -12\n\nKälla: ESPN."
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 3 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r2-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Michael Brennan",
-              "svs": 5.0,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Michael Brennan leder fältet på -16 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r2-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Jacob Bridgeman",
-              "svs": 7.5,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Jacob Bridgeman ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r2-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Keith Mitchell",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Keith Mitchell (-15) sitter i topp-skiktet ett slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r2-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Xander Schauffele",
-              "svs": 3.1,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Xander Schauffele (-13) sitter i topp-skiktet 3 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r2-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Ryan Gerard",
-              "svs": 2.4,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Ryan Gerard (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
-            },
-            {
-              "id": "auto-r2-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Stephan Jaeger",
-              "svs": 2.4,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Stephan Jaeger (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
-            },
-            {
-              "id": "auto-r2-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Max Homa",
-              "svs": 2.0,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Max Homa (-11) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r2-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Ben Kohles",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Ben Kohles (-10) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r2-low",
-              "cat": "🤖 Lägsta runda R3",
-              "sel": "Zach Bauchou",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Zach Bauchou (-12) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r2-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Michael Brennan",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Michael Brennan är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "lordag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-10-19T22:16:53+00:00",
-          "headline": "Brennan stänger på -16 och vinner Baycurrent Classic före Mitchell och Bridgeman",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Michael Brennan tog sin första PGA Tour-seger genom att hålla ett slag före Keith Mitchell och Jacob Bridgeman på -16. Brennan lyckades bevara ett stabilt slutspel när Mitchell och Bridgeman stannade på -15, trots att båda två hade goda förutsättningar att hota segern. En större jaktgrupp med fyra spelare på -13, anförda av etablerade namn som Xander Schauffele, Brian Harman och Jordan Smith, kom till kort och hann aldrig ifatt ledningen under de sista rundorna. Brennans konsistens över 72 hål räckte för att stå emot ett ganska jämnt fält utan några större dominanter."
-            },
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R3)",
-              "b": "—  Michael Brennan  -16\n—  Keith Mitchell  -15\n—  Jacob Bridgeman  -15\n—  Xander Schauffele  -13\n—  Brian Harman  -13\n—  Ryan Gerard  -13\n—  Jordan Smith  -13\n—  Stephan Jaeger  -13\n—  Ren Yonezawa  -12\n—  Min Woo Lee  -12\n\nKälla: ESPN."
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 3 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r3-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Michael Brennan",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Michael Brennan leder fältet på -16 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r3-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Jacob Bridgeman",
-              "svs": 4.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Jacob Bridgeman ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r3-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Keith Mitchell",
-              "svs": 1.9,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Keith Mitchell (-15) sitter i topp-skiktet ett slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r3-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Xander Schauffele",
-              "svs": 2.3,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Xander Schauffele (-13) sitter i topp-skiktet 3 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r3-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Ryan Gerard",
-              "svs": 1.7,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Ryan Gerard (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
-            },
-            {
-              "id": "auto-r3-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Stephan Jaeger",
-              "svs": 1.7,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Stephan Jaeger (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
-            },
-            {
-              "id": "auto-r3-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Max Homa",
-              "svs": 1.45,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Max Homa (-11) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r3-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Ben Kohles",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Ben Kohles (-10) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r3-low",
-              "cat": "🤖 Lägsta runda R4",
-              "sel": "Zach Bauchou",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Zach Bauchou (-12) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r3-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Michael Brennan",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Michael Brennan är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "sondag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-10-19T22:16:56+00:00",
-          "headline": "Brennan triumferar i Baycurrent Classic – Mitchell och Bridgeman följer på -15",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Michael Brennan tog sitt första PGA Tour-segrar med en stroke före Mitchell och Bridgeman, båda på -15, efter att ha navigerat helgen med konsekvent spel och minimal feltolerans. Schauffele, Harman och Gerard följde på -13 tillsammans med engelske Jordan Smith och tyske Jaeger, vilket vittnar om ett relativt öppet leaderboard fram till fjärde plats. Brennans marginal var snäv nog för att efterföljarna till sista dagen hade reell chans, men hans formspel höll i målrakan. Segern markerar ett genombrott för amerikanen, som nu etablerar sig i touren efter år av utveckling på alternativa turer."
-            },
-            {
-              "icon": "list.number",
-              "h": "Slutresultat",
-              "b": "—  Michael Brennan  -16\n—  Keith Mitchell  -15\n—  Jacob Bridgeman  -15\n—  Xander Schauffele  -13\n—  Brian Harman  -13\n—  Ryan Gerard  -13\n—  Jordan Smith  -13\n—  Stephan Jaeger  -13\n—  Ren Yonezawa  -12\n—  Min Woo Lee  -12\n\nKälla: ESPN."
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 3 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r4-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Michael Brennan",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Michael Brennan leder fältet på -16 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r4-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Jacob Bridgeman",
-              "svs": 4.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Jacob Bridgeman ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r4-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Keith Mitchell",
-              "svs": 1.9,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Keith Mitchell (-15) sitter i topp-skiktet ett slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r4-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Xander Schauffele",
-              "svs": 2.3,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Xander Schauffele (-13) sitter i topp-skiktet 3 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r4-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Ryan Gerard",
-              "svs": 1.7,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Ryan Gerard (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
-            },
-            {
-              "id": "auto-r4-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Stephan Jaeger",
-              "svs": 1.7,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Stephan Jaeger (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
-            },
-            {
-              "id": "auto-r4-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Max Homa",
-              "svs": 1.45,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Max Homa (-11) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r4-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Ben Kohles",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Ben Kohles (-10) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r4-low",
-              "cat": "🤖 Lägsta runda R5",
-              "sel": "Zach Bauchou",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Zach Bauchou (-12) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r4-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Michael Brennan",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Michael Brennan är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        }
-      }
-    },
-    {
       "id": "live-vidantaworld-mexico-open",
       "name": "VidantaWorld Mexico Open",
       "rawName": "VidantaWorld Mexico Open",
@@ -3130,13 +2591,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-19T22:17:00+00:00",
-          "headline": "Yin dikterar Shanghai – Choi på -10 jagar en slag bakom",
+          "generatedAt": "2026-10-20T00:13:59+00:00",
+          "headline": "Yin dominerar Shanghai – Choi närmast på -10",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ruoning Yin dominerade Buick LPGA Shanghai med elva slag under par, en övertyg­ande seger före sydkoreanska Hye-Jin Choi som slutade på minus tio. Yins konsistens genom hela veckan gjorde att hennes försprång växte snarare än minskade under slutrundan, medan jagten på andraplats blev ett tätrace mellan de asiatiska spelarna. Linn Grant nådde inte topp tjugo i ett fält där hemmabanefördelen för de asiatiska deltagarna var påtaglig, med Asien representerat på fem av de första åtta placeringarna."
+              "b": "Ruoning Yin från Kina tog sitt första LPGA-seger genom att hålla ett shot före sydkoreanskan Hye-Jin Choi, som slutade på elva slag under par. Yin behöll kontrollen över turneringen under slutspurten och visade effektivitet både från tee och på grönerna. Svenska Linn Grant återfinns inte på leaderboarden topp 15, vilket indikerar att hon inte nådde en topplacering denna vecka i Shanghai."
             },
             {
               "icon": "list.number",
@@ -3266,13 +2727,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-19T22:17:04+00:00",
-          "headline": "Yin dominerar Shanghai – Choi jagad på -10",
+          "generatedAt": "2026-10-20T00:14:02+00:00",
+          "headline": "Yin dominerar Shanghai – Choi två slag efter på -10",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ruoning Yin dominerade Buick LPGA Shanghai med elva slag under par och återvann sitt hem-majortornament före sydkoreanska Hye-Jin Choi på tio slag under par. Yins konstanta spel över fyra rundor bevisade överlägsen kontroll på ett kort Shanghai International Golf Club, där presisionen från tee belönades mer än drivlängden. Turnering präglades av asiatisk dominans i toppen med endast två amerikanska spelare, Jennifer Kupcho och Alison Lee, bland de femton bästa, medan Linn Grant stannade långt under toppen utan nämnvärd påverkan på slutresultatet."
+              "b": "Ruoning Yin tog Buick LPGA Shanghai före söderkoreanskan Hye-Jin Choi på elva respektive tio under par, vilket vittnar om en stark asiatisk dominans på Shanghai International Golf Club. Yin byggde sitt försprång genom konsekvent spel över fyra rundor medan Choi aldrig lyckades ta sig förbi den kinesiska favoriten. Linn Grant slutade långt från topstriden och saknas helt från resultatlistan, vilket indikerar en kämpig helg för svenskan på en bana som krävde precision och lokal kunskap."
             },
             {
               "icon": "list.number",
@@ -3402,13 +2863,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-19T22:17:07+00:00",
-          "headline": "Yin krossade i Shanghai – Grant utanför topp 12",
+          "generatedAt": "2026-10-20T00:14:05+00:00",
+          "headline": "Yin dominerar Shanghai – Choi närmare på -10",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ruoning Yin dominerade Buick LPGA Shanghai och säkrade segern med elva slag under par, en stroke före sydkoreanska Hye-Jin Choi. Asiensiska spelare dominerade leaderboarden helt – av topp femton fanns endast två amerikanska namn representerade, vilket understriker hemmaplansfördelen och regionen styrka inom damgolfen. Linn Grant fanns inte bland toppresterande och har nu huvudfokus på de kommande LPGA-turnering innan säsongens slutspel."
+              "b": "Ruoning Yin dominerade Buick LPGA Shanghai och säkrade segern på elva under par, ett slag före sörkoreanen Hye-Jin Choi som slutade på tio under. Yins konsistens genom hela veckan gjorde att ingen av challengers kunde bygga tillräckligt stark slutrunda för att hota hennes ledning. Amy Yang och Rio Takeda på åtta respektive sju under avslutar podiet, medan turneringen bekräftade återigen asiaten starka dominans på denna bana med sex av topp femton placeringar från regionen."
             },
             {
               "icon": "list.number",
@@ -3538,13 +2999,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-19T22:17:11+00:00",
-          "headline": "Yin dominerar Shanghai – Choi näst på tio slag",
+          "generatedAt": "2026-10-20T00:14:08+00:00",
+          "headline": "Yin vinner Shanghai på -11 före koreanska trion – Grant miste chansen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ruoning Yin dominerade Buick LPGA Shanghai och tog sitt första LPGA-seger med elva slag under par, en skarp prestation på hemmaplan som höll Hye-Jin Choi på två slag avstånd. Asiaten Yins konsistens under hela veckan skapade ett försvar som andra aldrig kom nära, med Choi som den bästa jagare men utan tillräcklig framfart för att skapa drama på slutrundorna. Linn Grant fanns inte representerad i de högre placeringarna, vilket avslutar hennes insats i Shanghai utan större framgångar i detta starkt asiatiskt dominerat LPGA-event."
+              "b": "Ruoning Yin dominerade Buick LPGA Shanghai med seger på elva under par, en stroke före sydkoreanska Hye-Jin Choi som slutade på tio under. Yin visade stabilitet genom hela veckan och höll undan ett starkt asiatiskt forföljarfält där flera spelare från regionen gjorde sig påminda i toppen. Linn Grant slutade utanför topplaceringarna och kunde inte konkurrera med den höga nivå som krävdes för att nå poängen i Shanghai."
             },
             {
               "icon": "list.number",
@@ -3689,13 +3150,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-10-19T22:17:14+00:00",
-          "headline": "BMW Ladies Championship: Patty Tavatanakit jagar sitt andra LPGA-guld",
+          "generatedAt": "2026-10-20T00:14:12+00:00",
+          "headline": "Patrizias och Sabalenkas duel på BMW Ladies – vem tar hem LPGA-guldet?",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# BMW Ladies Championship – Förhandsanalys\n\nBMW Ladies Championship på LPGA Tour lockar återigen världens bästa kvinnliga golfspelare. I ett starkt fält domineras titelkandidaterna av etablerade namn som Patty Tavatanakit, Nelly Korda och Brooke Henderson, vilka alla söker sin nästa seger på touren. Det blir intressant att följa hur formkurvan ser ut för de störrenamnen in i slutspielen på LPGA Tour, särskilt med tanke på att flera spelare kommer från tunga turnering tidigare denna höst. Utan svenska representanter i elitfältet är fokus helt på den internationella konkurrensvändningen, där precision från tee och stabilitet runt greenen kommer avgöra vilka som presterar bäst denna vecka."
+              "b": "BMW Ladies Championship är en klassisk LPGA-stop som lockar världens bästa golfspelare, och även denna gång presenteras ett starkt internationellt fält. Nelly Korda och Patty Tavatanakit är två spelare att notera - båda har visat fin form denna säsong och kan snart ta ett steg framåt i rankingen. Akeyla Hosoki och Minjee Lee är andra namn som prestera stabilt och representerar både yngre talang och etablerad erfarenhet. Med tanke på LPGA-seriens fokus på konsistens kan här räknas med tävlingar där favoriter presterar enligt förväntningarna."
             },
             {
               "icon": "flag.fill",
@@ -6119,13 +5580,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-19T22:17:20+00:00",
-          "headline": "Chacarra vinner på -21 – Söderberg misse toppen",
+          "generatedAt": "2026-10-20T00:14:18+00:00",
+          "headline": "Chacarra dominerar India – Söderberg utanför topp 20 i Delhi",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Eugenio Chacarra tog överlägsen seger i DP World India Championship med slutresultatet -21, två slag före Daniel Hillier från Nya Zeeland. Chacarra höll kontrollen genom turneringen och saknade aldrig tydliga utmanare – bara Hillier kom något så när nära på slutsträckan. Spanjören visade solid golf från tee till green utan några dramtiska inslag, medan flera jämnstarka spelare som Meronk, Hidalgo och Fleetwood fick nöja sig med platser långt efter ledaren. Sebastian Söderberg fanns inte representerad i topp-15, vilket betyder att svensken inte lyckades utmana toppskiktet denna vecka på DP World Tour."
+              "b": "Eugenio Chacarra dominerade DP World India Championship med två slag före nyzeeländaren Daniel Hillier på -21 respektive -19. Spanjoren höll ett stadigt grepp om turneringen genom slutet efter att ha byggt ett komfortabelt försprång under veckan. Flertalet spelare samlades i mittfältet omkring -13, anförda av engelske Tommy Fleetwood och södafrikanske JC Ritchie, men ingen lyckades överbrygga klyftan till ledaren. Sebastian Söderberg representerade Sverige men hamnade utanför topp 15 på leaderboarden."
             },
             {
               "icon": "list.number",
@@ -6255,13 +5716,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-19T22:17:24+00:00",
-          "headline": "Chacarra storsegrar med -21 när Söderberg missar top-10",
+          "generatedAt": "2026-10-20T00:14:21+00:00",
+          "headline": "Chacarra världsklass i Indien – Söderberg miste topptio",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Eugenio Chacarra från Spanien vann DP World India Championship med två slag före New Zealands Daniel Hillier efter en stark avslutande runda på -21. Chacarra dominerade slutspurten och höllUniformen stabil när konkurrenterna bland annat Adrian Meronk och Angel Hidalgo tappade positioner de sista dagarna. Sverige representerades av Sebastian Söderberg, som inte nådde topp 20-noteringen och därmed missade en placering bland favoriterna. Segern bekräftar Chacarras utveckling på DP World Tour och markerar ett betydande skalp för den spanske spelaren."
+              "b": "Eugenio Chacarra från Spanien dominerade DP World India Championship och vann överlägset med två slag före nyzeeländaren Daniel Hillier. Chacarras -21 avslöjade en konsekvent prestationsförmåga genom hela veckan, medan Hillier tillsammans med Polen-representanten Adrian Meronk och spanjoren Angel Hidalgo strävade efter att minska gapet utan att lyckas. Sebastian Söderberg noterades inte i topp 15 och kunde därmed inte hota topplaceringarna i sin debut på detta slag i DP World Tour-serien."
             },
             {
               "icon": "list.number",
@@ -6391,13 +5852,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-19T22:17:27+00:00",
-          "headline": "Chacarra dominerar India Championship – Söderberg strax utanför topp tio",
+          "generatedAt": "2026-10-20T00:14:24+00:00",
+          "headline": "Chacarra stänger in India Championship – Söderberg långt från striden",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Eugenio Chacarra från Spanien tog en dominant seger med -21, två slag före nyzeeländaren Daniel Hillier. Chacarras konsistenta spel under turneringen gjorde skillnaden på en bana där erfarenheten inom DP World Tour tydligt märktes. Flera namn från turens senare grupper, däribland Fleetwood och Meronk, försökte hala in sig men kom för långt efter. Sebastian Söderberg finns inte representerad i topplistan, vilket tydligast visar gapet mellan Spaniens styrka i denna utgåva och det svenska bidraget."
+              "b": "Eugenio Chacarra från Spanien dominerade DP World India Championship och vann två slag före nyzeeländaren Daniel Hillier på -21 respektive -19. Chacarra höll kontrollen genom turneringen och levererade en konsekvent prestationsnivå som övriga utmanare aldrig lyckades matcha. Svenska Sebastian Söderberg kom inte in i topp 15, vilket innebar begränsade poäng för DP World Tour-ranking. Spanska och brittiska spelare var väl representerade bland topplacerade, med flera namn som redan etablerat sig högt på touren."
             },
             {
               "icon": "list.number",
@@ -6527,13 +5988,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-19T22:17:31+00:00",
-          "headline": "Chacarra krossade konkurrenterna – vann India Championship med sju slags marginal",
+          "generatedAt": "2026-10-20T00:14:27+00:00",
+          "headline": "Chacarra dominerar India Championship – Söderberg missar topplaceringen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Eugenio Chacarra dominerade DP World India Championship med en två slag lång marginal till förföljaren Daniel Hillier, vilket vittnar om stabil spel under hela veckan. Meronk och Hidalgo delade tredje plats på –15, medan det var tätt inom topp-10 med flera spelare samlade mellan –13 och –12. Sebastian Söderberg fanns inte representerad i toppskiktet, vilket tyder på att den svenska golfens insats i New Delhi blev begränsad denna gång. Chacarras seger förstärker hans position på DP World Tour efter ett månadslångt arbete att hitta rätt form."
+              "b": "Eugenio Chacarra från Spanien vann DP World India Championship med två slag marginal efter en stark avslutning på -21. New Zealändaren Daniel Hillier låg under större delen av turneringen men kunde inte hålla täten på slutspurten. Meronk och Hidalgo delade tredjeplats på -15, medan Fleetwood, Ritchie och Luiten slutade på samma poängställning som italienaren De Leo. Sebastian Söderberg fanns inte i topp 15 men turnerades slutligen med ett placering utanför poängplaceringarna."
             },
             {
               "icon": "list.number",
@@ -6663,565 +6124,6 @@
       }
     },
     {
-      "id": "live-open-de-españa",
-      "name": "Open de España",
-      "rawName": "Open de España pres. by Madrid",
-      "tour": "DP World Tour",
-      "course": "—",
-      "startDate": "2026-10-08T04:00Z",
-      "par": 71,
-      "yards": 0,
-      "statusDetail": "Final",
-      "status": "final",
-      "currentRound": 4,
-      "reports": {
-        "torsdag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-10-19T22:17:35+00:00",
-          "headline": "Forrest tar Madrid – Åberg stark sexa på -10",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Grant Forrest från Skottland vann Open de España med fjorton slag under par, två slag före spanjoren Eugenio Chacarra och fransmanen Victor Perez. Ludvig Åberg presterade solidt och slutade delad sjunde på tio slag under par, medan Joakim Lagergren hamnade på elfte plats sex slag bakom vinnaren. Förests konsekvent spel på banan gjorde skillnaden i en tätt sammantrasslad tävling där bara två slag skilde förstaplatsen från femteplats."
-            },
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R1)",
-              "b": "—  Grant Forrest  -14\n—  Eugenio Chacarra  -13\n—  Victor Perez  -13\n—  Jacob Skov Olesen  -12\n—  Daniel Brown  -11\n—  Joe Dean  -11\n—  Ludvig Åberg  -10\n—  Adrian Otaegui  -10\n—  Oliver Lindell  -10\n—  Joel Girrbach  -10\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "5 svenska kvar i fältet.\n\n—  Ludvig Åberg  -10  (i röda siffror)\n—  Joakim Lagergren  -9  (i röda siffror)\n—  Niklas Lemke  -7  (i röda siffror)\n—  Mikael Lindberg  -4  (i röda siffror)\n—  Alex Noren  +1"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r1-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Grant Forrest",
-              "svs": 8.0,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Grant Forrest leder fältet på -14 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r1-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Victor Perez",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Victor Perez ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r1-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Eugenio Chacarra",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Eugenio Chacarra (-13) sitter i topp-skiktet ett slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r1-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Jacob Skov Olesen",
-              "svs": 2.8,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Jacob Skov Olesen (-12) sitter i topp-skiktet 2 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r1-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Joe Dean",
-              "svs": 2.4,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Joe Dean (-11) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
-            },
-            {
-              "id": "auto-r1-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Adrian Otaegui",
-              "svs": 2.6,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Adrian Otaegui (-10) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
-            },
-            {
-              "id": "auto-r1-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Stefano Mazzoli",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Stefano Mazzoli (-8) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r1-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Sean Crocker",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Sean Crocker (-8) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r1-low",
-              "cat": "🤖 Lägsta runda R2",
-              "sel": "Martin Couvra",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Martin Couvra (-9) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r1-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Grant Forrest",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Grant Forrest är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "fredag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-10-19T22:17:38+00:00",
-          "headline": "Forrest solovinst i Madrid – Åberg stabil på plats sju",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Grant Forrest avslutade Open de España med ett slag försprång framför spanjören Eugenio Chacarra och fransmannen Victor Perez, som båda slutade på -13. Skotten levererade stabilt golf genom hela veckan och höll täten från ledningen in på målsnöret. Ludvig Åberg presenterade sig väl på -10 och slutade på sjunde plats, vilket avslutar hans insats på Madrid med ett solidt resultat, medan Joakim Lagergren följde upp med -9 och delade elfte plats."
-            },
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R2)",
-              "b": "—  Grant Forrest  -14\n—  Eugenio Chacarra  -13\n—  Victor Perez  -13\n—  Jacob Skov Olesen  -12\n—  Daniel Brown  -11\n—  Joe Dean  -11\n—  Ludvig Åberg  -10\n—  Adrian Otaegui  -10\n—  Oliver Lindell  -10\n—  Joel Girrbach  -10\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "5 svenska kvar i fältet.\n\n—  Ludvig Åberg  -10  (i röda siffror)\n—  Joakim Lagergren  -9  (i röda siffror)\n—  Niklas Lemke  -7  (i röda siffror)\n—  Mikael Lindberg  -4  (i röda siffror)\n—  Alex Noren  +1"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r2-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Grant Forrest",
-              "svs": 5.0,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Grant Forrest leder fältet på -14 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r2-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Victor Perez",
-              "svs": 7.5,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Victor Perez ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r2-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Eugenio Chacarra",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Eugenio Chacarra (-13) sitter i topp-skiktet ett slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r2-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Jacob Skov Olesen",
-              "svs": 2.8,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Jacob Skov Olesen (-12) sitter i topp-skiktet 2 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r2-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Joe Dean",
-              "svs": 2.4,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Joe Dean (-11) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
-            },
-            {
-              "id": "auto-r2-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Adrian Otaegui",
-              "svs": 2.6,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Adrian Otaegui (-10) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
-            },
-            {
-              "id": "auto-r2-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Stefano Mazzoli",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Stefano Mazzoli (-8) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r2-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Sean Crocker",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Sean Crocker (-8) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r2-low",
-              "cat": "🤖 Lägsta runda R3",
-              "sel": "Martin Couvra",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Martin Couvra (-9) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r2-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Grant Forrest",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Grant Forrest är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "lordag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-10-19T22:17:41+00:00",
-          "headline": "Forrest knäcker Open de España – Åberg sexa på -10",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Grant Forrest från Skottland tog segern med 14 slag under par efter en stabil avslutning, medan spanjorerna Eugenio Chacarra och fransmanen Victor Perez pressade på men hamnade ett slag bakom. Ludvig Åberg representerade Sverige bäst på delad sjundeplats med 10 slag under par, och visade återigen stabilitet på DP World Tour, medan Joakim Lagergren slutade på delad elfteplats. Tävlingen präglades av att flera spelare samlades i topp med -10 eller bättre, vilket indikerar ett relativt jämnt fält där marginalen mellan seger och mittpacked var liten."
-            },
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R3)",
-              "b": "—  Grant Forrest  -14\n—  Eugenio Chacarra  -13\n—  Victor Perez  -13\n—  Jacob Skov Olesen  -12\n—  Daniel Brown  -11\n—  Joe Dean  -11\n—  Ludvig Åberg  -10\n—  Adrian Otaegui  -10\n—  Oliver Lindell  -10\n—  Joel Girrbach  -10\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "5 svenska kvar i fältet.\n\n—  Ludvig Åberg  -10  (i röda siffror)\n—  Joakim Lagergren  -9  (i röda siffror)\n—  Niklas Lemke  -7  (i röda siffror)\n—  Mikael Lindberg  -4  (i röda siffror)\n—  Alex Noren  +1"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r3-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Grant Forrest",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Grant Forrest leder fältet på -14 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r3-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Victor Perez",
-              "svs": 4.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Victor Perez ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r3-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Eugenio Chacarra",
-              "svs": 1.9,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Eugenio Chacarra (-13) sitter i topp-skiktet ett slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r3-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Jacob Skov Olesen",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Jacob Skov Olesen (-12) sitter i topp-skiktet 2 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r3-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Joe Dean",
-              "svs": 1.7,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Joe Dean (-11) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
-            },
-            {
-              "id": "auto-r3-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Adrian Otaegui",
-              "svs": 1.8,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Adrian Otaegui (-10) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
-            },
-            {
-              "id": "auto-r3-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Stefano Mazzoli",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Stefano Mazzoli (-8) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r3-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Sean Crocker",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Sean Crocker (-8) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r3-low",
-              "cat": "🤖 Lägsta runda R4",
-              "sel": "Martin Couvra",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Martin Couvra (-9) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r3-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Grant Forrest",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Grant Forrest är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "sondag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-10-19T22:17:44+00:00",
-          "headline": "Forrest triumferar på -14 medan Åberg slutar stark på -10 i Madrid",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Grant Forrest från Skottland tog hem segern på Open de España efter en stark slutrunda, där han distanserade konkurrenterna med fjorton slag under par. Spanjören Eugenio Chacarra och fransmannen Victor Perez delade andraplats på tretton slag under par, men kunde inte hota Forrests komfortabla ledning. Ludvig Åberg återfinns på en sjundeplats på tio slag under par och var således bäste svensk i fältet, medan Joakim Lagergren slutade på elfte plats med nio slag under par."
-            },
-            {
-              "icon": "list.number",
-              "h": "Slutresultat",
-              "b": "—  Grant Forrest  -14\n—  Eugenio Chacarra  -13\n—  Victor Perez  -13\n—  Jacob Skov Olesen  -12\n—  Daniel Brown  -11\n—  Joe Dean  -11\n—  Ludvig Åberg  -10\n—  Adrian Otaegui  -10\n—  Oliver Lindell  -10\n—  Joel Girrbach  -10\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "5 svenska kvar i fältet.\n\n—  Ludvig Åberg  -10  (i röda siffror)\n—  Joakim Lagergren  -9  (i röda siffror)\n—  Niklas Lemke  -7  (i röda siffror)\n—  Mikael Lindberg  -4  (i röda siffror)\n—  Alex Noren  +1"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 4 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r4-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Grant Forrest",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Grant Forrest leder fältet på -14 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r4-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Victor Perez",
-              "svs": 4.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Victor Perez ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r4-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Eugenio Chacarra",
-              "svs": 1.9,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Eugenio Chacarra (-13) sitter i topp-skiktet ett slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r4-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Jacob Skov Olesen",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Jacob Skov Olesen (-12) sitter i topp-skiktet 2 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r4-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Joe Dean",
-              "svs": 1.7,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Joe Dean (-11) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
-            },
-            {
-              "id": "auto-r4-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Adrian Otaegui",
-              "svs": 1.8,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Adrian Otaegui (-10) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
-            },
-            {
-              "id": "auto-r4-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Stefano Mazzoli",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Stefano Mazzoli (-8) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r4-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Sean Crocker",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Sean Crocker (-8) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r4-low",
-              "cat": "🤖 Lägsta runda R5",
-              "sel": "Martin Couvra",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Martin Couvra (-9) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r4-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Grant Forrest",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Grant Forrest är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        }
-      }
-    },
-    {
       "id": "live-genesis-championship",
       "name": "Genesis Championship",
       "rawName": "Genesis Championship",
@@ -7237,13 +6139,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-10-19T22:17:47+00:00",
-          "headline": "Jag kan inte skriva en rubrik utan att veta vilken bana Genesis Championship spelas på. Kan du ge mig det information?",
+          "generatedAt": "2026-10-20T00:14:31+00:00",
+          "headline": "Genesis Championship lockar världseliten – Scheffler siktar på nytt triumfhat",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "# Genesis Championship - Förhandsanalys\n\nGenesis Championship på DP World Tour samlar världselitens bästa golfspelare i en av säsongens mest prestigefyllda tävlingar. Utan svenska namn i toppen av fältlistan fokuseras blickarna på världsettan Rory McIlroy och andra etablerade namn som Collin Morikawa och Viktor Hovland, som kommer att slåss om en betydande prispott. Banans specifika utmaningar blir avgörande – fokusera på vilka spelare som visat stabilitet över flera rundor denna säsong snarare än kortsiktig form. Räntan på denna tävling ligger i hur favoriterna navigerar pressade matchspelssituationer och vilka outsiders som lyckas utnyttja en svag länk i det ordinarie fältet."
+              "b": "# Genesis Championship – Förhandsanalys\n\nGenesis Championship på DP World Tour lockar återigen världens bästa spelare till en premiär som går för sina 60 år. Utan svenska representanter i toppen av fältlistan blir fokus på de etablerade namn som Rory McIlroy, Jon Rahm och Scottie Scheffler – alla jaktande på att sätta tonen inför säsongens viktigaste veckor. Banan kräver precision från första slag, och form före jul blir avgörande; flera spelare kommer här direkt från julledighet, vilket kan skapa intressanta odds på både favoriter och outsiders. Håll särskilt koll på vilka som visar mest konsistens genom rond ett och två, då vädret traditionellt spelar en stor roll för slutresultatet."
             },
             {
               "icon": "flag.fill",
