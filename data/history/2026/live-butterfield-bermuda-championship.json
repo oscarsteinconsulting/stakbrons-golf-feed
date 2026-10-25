@@ -7,12 +7,12 @@
   "par": 71,
   "yards": 0,
   "startDate": "2026-10-22T04:00Z",
-  "snapshotAt": "2026-10-25T18:22:03+00:00",
+  "snapshotAt": "2026-10-25T20:45:03+00:00",
   "headlines": {
-    "torsdag": "Smotherman slutseger i Bermuda efter dramatisk stridighet med Power",
-    "fredag": "Smotherman och Power delar segern i Bermuda – Svensson missade topp 10",
-    "lordag": "Smotherman och Power delar segern på Bermuda – Svensson missar topp 10",
-    "sondag": "Smotherman och Power delar segern – Svensson långt efter i Bermuda"
+    "torsdag": "Smotherman stoppar Power i playoff – Svensson släpper taget i Bermuda",
+    "fredag": "Smotherman och Power delarSegern – Svensson långt från Bermuda-premien",
+    "lordag": "Smotherman och Power delar triumfen – Svensson landar utanför topp 20",
+    "sondag": "Smotherman och Power delar segern – Svensson långt bakom i Bermuda"
   },
   "finalLeaderboard": [
     {
@@ -160,19 +160,6 @@
     },
     {
       "position": "T11",
-      "name": "Isaiah Salinda",
-      "country": "USA",
-      "totalDisplay": "-12",
-      "totalValue": -12.0,
-      "rounds": [
-        "-2",
-        "-6",
-        "-4",
-        "-"
-      ]
-    },
-    {
-      "position": "T11",
       "name": "Cam Davis",
       "country": "Australia",
       "totalDisplay": "-12",
@@ -180,6 +167,19 @@
       "rounds": [
         "-1",
         "-7",
+        "-4",
+        "-"
+      ]
+    },
+    {
+      "position": "T11",
+      "name": "Isaiah Salinda",
+      "country": "USA",
+      "totalDisplay": "-12",
+      "totalValue": -12.0,
+      "rounds": [
+        "-2",
+        "-6",
         "-4",
         "-"
       ]
@@ -199,19 +199,6 @@
     },
     {
       "position": "T15",
-      "name": "Denny McCarthy",
-      "country": "USA",
-      "totalDisplay": "-11",
-      "totalValue": -11.0,
-      "rounds": [
-        "-4",
-        "-7",
-        "E",
-        "-"
-      ]
-    },
-    {
-      "position": "T15",
       "name": "David Skinns",
       "country": "England",
       "totalDisplay": "-11",
@@ -219,6 +206,19 @@
       "rounds": [
         "-3",
         "-8",
+        "E",
+        "-"
+      ]
+    },
+    {
+      "position": "T15",
+      "name": "Denny McCarthy",
+      "country": "USA",
+      "totalDisplay": "-11",
+      "totalValue": -11.0,
+      "rounds": [
+        "-4",
+        "-7",
         "E",
         "-"
       ]
@@ -251,19 +251,6 @@
     },
     {
       "position": "T17",
-      "name": "Brice Garnett",
-      "country": "USA",
-      "totalDisplay": "-10",
-      "totalValue": -10.0,
-      "rounds": [
-        "-6",
-        "-1",
-        "-3",
-        "-"
-      ]
-    },
-    {
-      "position": "T17",
       "name": "Adam Hadwin",
       "country": "Canada",
       "totalDisplay": "-10",
@@ -284,6 +271,19 @@
       "rounds": [
         "-4",
         "-3",
+        "-3",
+        "-"
+      ]
+    },
+    {
+      "position": "T17",
+      "name": "Brice Garnett",
+      "country": "USA",
+      "totalDisplay": "-10",
+      "totalValue": -10.0,
+      "rounds": [
+        "-6",
+        "-1",
         "-3",
         "-"
       ]
@@ -329,19 +329,6 @@
     },
     {
       "position": "T25",
-      "name": "Peter Malnati",
-      "country": "USA",
-      "totalDisplay": "-9",
-      "totalValue": -9.0,
-      "rounds": [
-        "-1",
-        "-5",
-        "-3",
-        "-"
-      ]
-    },
-    {
-      "position": "T25",
       "name": "David Ford",
       "country": "USA",
       "totalDisplay": "-9",
@@ -355,13 +342,26 @@
     },
     {
       "position": "T25",
-      "name": "Martin Laird",
-      "country": "Scotland",
+      "name": "Peter Malnati",
+      "country": "USA",
       "totalDisplay": "-9",
       "totalValue": -9.0,
       "rounds": [
-        "-4",
+        "-1",
+        "-5",
         "-3",
+        "-"
+      ]
+    },
+    {
+      "position": "T25",
+      "name": "A.J. Ewart",
+      "country": "Canada",
+      "totalDisplay": "-9",
+      "totalValue": -9.0,
+      "rounds": [
+        "-1",
+        "-6",
         "-2",
         "-"
       ]
@@ -381,13 +381,13 @@
     },
     {
       "position": "T25",
-      "name": "A.J. Ewart",
-      "country": "Canada",
+      "name": "Martin Laird",
+      "country": "Scotland",
       "totalDisplay": "-9",
       "totalValue": -9.0,
       "rounds": [
-        "-1",
-        "-6",
+        "-4",
+        "-3",
         "-2",
         "-"
       ]
@@ -407,19 +407,6 @@
     },
     {
       "position": "T25",
-      "name": "Mackenzie Hughes",
-      "country": "Canada",
-      "totalDisplay": "-9",
-      "totalValue": -9.0,
-      "rounds": [
-        "-7",
-        "-2",
-        "E",
-        "-"
-      ]
-    },
-    {
-      "position": "T25",
       "name": "Jesper Svensson",
       "country": "Sweden",
       "totalDisplay": "-9",
@@ -427,6 +414,19 @@
       "rounds": [
         "-2",
         "-7",
+        "E",
+        "-"
+      ]
+    },
+    {
+      "position": "T25",
+      "name": "Mackenzie Hughes",
+      "country": "Canada",
+      "totalDisplay": "-9",
+      "totalValue": -9.0,
+      "rounds": [
+        "-7",
+        "-2",
         "E",
         "-"
       ]
@@ -459,19 +459,6 @@
     },
     {
       "position": "T34",
-      "name": "Ben Martin",
-      "country": "USA",
-      "totalDisplay": "-8",
-      "totalValue": -8.0,
-      "rounds": [
-        "-5",
-        "-1",
-        "-2",
-        "-"
-      ]
-    },
-    {
-      "position": "T34",
       "name": "Zecheng Dou",
       "country": "China",
       "totalDisplay": "-8",
@@ -479,6 +466,19 @@
       "rounds": [
         "-4",
         "-2",
+        "-2",
+        "-"
+      ]
+    },
+    {
+      "position": "T34",
+      "name": "Ben Martin",
+      "country": "USA",
+      "totalDisplay": "-8",
+      "totalValue": -8.0,
+      "rounds": [
+        "-5",
+        "-1",
         "-2",
         "-"
       ]
@@ -537,19 +537,6 @@
     },
     {
       "position": "T34",
-      "name": "Trace Crowe",
-      "country": "USA",
-      "totalDisplay": "-8",
-      "totalValue": -8.0,
-      "rounds": [
-        "-5",
-        "-4",
-        "+1",
-        "-"
-      ]
-    },
-    {
-      "position": "T34",
       "name": "Mark Hubbard",
       "country": "USA",
       "totalDisplay": "-8",
@@ -557,6 +544,19 @@
       "rounds": [
         "-4",
         "-5",
+        "+1",
+        "-"
+      ]
+    },
+    {
+      "position": "T34",
+      "name": "Trace Crowe",
+      "country": "USA",
+      "totalDisplay": "-8",
+      "totalValue": -8.0,
+      "rounds": [
+        "-5",
+        "-4",
         "+1",
         "-"
       ]
@@ -589,19 +589,6 @@
     },
     {
       "position": "T44",
-      "name": "Joel Dahmen",
-      "country": "USA",
-      "totalDisplay": "-7",
-      "totalValue": -7.0,
-      "rounds": [
-        "-6",
-        "E",
-        "-1",
-        "-"
-      ]
-    },
-    {
-      "position": "T44",
       "name": "Max McGreevy",
       "country": "USA",
       "totalDisplay": "-7",
@@ -628,14 +615,14 @@
     },
     {
       "position": "T44",
-      "name": "Willie Mack III",
+      "name": "Joel Dahmen",
       "country": "USA",
       "totalDisplay": "-7",
       "totalValue": -7.0,
       "rounds": [
-        "-3",
-        "-5",
-        "+1",
+        "-6",
+        "E",
+        "-1",
         "-"
       ]
     },
@@ -648,6 +635,19 @@
       "rounds": [
         "-2",
         "-6",
+        "+1",
+        "-"
+      ]
+    },
+    {
+      "position": "T44",
+      "name": "Willie Mack III",
+      "country": "USA",
+      "totalDisplay": "-7",
+      "totalValue": -7.0,
+      "rounds": [
+        "-3",
+        "-5",
         "+1",
         "-"
       ]
@@ -680,19 +680,6 @@
     },
     {
       "position": "T52",
-      "name": "Robert Streb",
-      "country": "USA",
-      "totalDisplay": "-6",
-      "totalValue": -6.0,
-      "rounds": [
-        "-2",
-        "-4",
-        "E",
-        "-"
-      ]
-    },
-    {
-      "position": "T52",
       "name": "Rico Hoey",
       "country": "Philippines",
       "totalDisplay": "-6",
@@ -706,13 +693,13 @@
     },
     {
       "position": "T52",
-      "name": "Davis Riley",
+      "name": "Robert Streb",
       "country": "USA",
       "totalDisplay": "-6",
       "totalValue": -6.0,
       "rounds": [
-        "-6",
-        "E",
+        "-2",
+        "-4",
         "E",
         "-"
       ]
@@ -726,6 +713,19 @@
       "rounds": [
         "-5",
         "-1",
+        "E",
+        "-"
+      ]
+    },
+    {
+      "position": "T52",
+      "name": "Davis Riley",
+      "country": "USA",
+      "totalDisplay": "-6",
+      "totalValue": -6.0,
+      "rounds": [
+        "-6",
+        "E",
         "E",
         "-"
       ]
@@ -957,13 +957,13 @@
     },
     {
       "position": "T75",
-      "name": "Henrik Norlander",
-      "country": "Sweden",
+      "name": "Brendon Todd",
+      "country": "USA",
       "totalDisplay": "-3",
       "totalValue": -3.0,
       "rounds": [
-        "-3",
-        "-2",
+        "-1",
+        "-4",
         "+2",
         "-"
       ]
@@ -983,13 +983,13 @@
     },
     {
       "position": "T75",
-      "name": "Brendon Todd",
-      "country": "USA",
+      "name": "Henrik Norlander",
+      "country": "Sweden",
       "totalDisplay": "-3",
       "totalValue": -3.0,
       "rounds": [
-        "-1",
-        "-4",
+        "-3",
+        "-2",
         "+2",
         "-"
       ]
