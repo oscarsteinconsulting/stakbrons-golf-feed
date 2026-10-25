@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:44:47+00:00",
+  "generatedAt": "2026-10-25T23:09:24+00:00",
   "tournaments": [
     {
       "id": "live-butterfield-bermuda-championship",
@@ -10,20 +10,66 @@
       "startDate": "2026-10-22T04:00Z",
       "par": 71,
       "yards": 0,
-      "statusDetail": "Round 4 - Suspended",
-      "status": "final",
+      "statusDetail": "Round 3 - Suspended",
+      "status": "live",
       "currentRound": 4,
       "reports": {
-        "torsdag": {
-          "kind": "daily",
+        "onsdag": {
+          "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-10-25T20:44:49+00:00",
-          "headline": "Smotherman stoppar Power i playoff – Svensson släpper taget i Bermuda",
+          "generatedAt": "2026-10-25T23:09:27+00:00",
+          "headline": "Jesper Svensson jagar PGA Tour-poäng på Bermuda mot Smotherman och Power",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Austin Smotherman och Séamus Power delade segern på -16, två slag före Moore och Silverman, i ett klassiskt slutspurt där amerikanern Smotherman hävdade sig på finalen. Canadiensinvånaren Corey Conners och amerikanen Tom Hoge följde tätt på en delad femteplats tillsammans med fyra andra spelare, vilket vittnar om ett relativt jämnt fält där flera aktörer höll sig inom tre slag från ledningen. Jesper Svensson representerade Sverige i detta PGA Tour-event men noterades inte bland toppskiktet, vilket föll ut på ett par mycket målmedvetna veckor från Smotherman och den uthålliga irländaren Power som båda levererade konsekvent golf under hela veckan."
+              "b": "Butterfield Bermuda Championship lockar ett starkt PGA Tour-fält till ön med flera rankade spelare som söker höstform före säsongsavslut. Kanadensarna Corey Conners och Adam Hadwin representerar den mest erfarna delen av startfältet, medan amerikaner som Tom Hoge och Chris Kirk är konstanta prestörer på denna nivå. Jesper Svensson får en chans på en traditionellt tight layout där precision från tee och runt green blir avgörande – värt att notera hur han hanterar bermudagrässet och eventuell vind från Atlanten. Följ särskilt Conners form, som återigen visar sig som en pålitlig spelare på mindre turneringar."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 22 October 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "120 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskar i fältet",
+              "b": "1 svensk kvar i fältet.\n\n—  Jesper Svensson  -9  (i röda siffror)"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Austin Smotherman",
+              "svs": 1.91,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Austin Smotherman är en av SS:s top-1 favoriter pre-tournament (odds 1.91). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-10-25T23:09:31+00:00",
+          "headline": "Smotherman gräver sig in i ledningen – Svensson långt från topps dramaturgi",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "Austin Smotherman och Séamus Power delar ledningen efter första omgången med imponerande -16, två slag före Moore och Silverman. Amerikanen Smotherman har hittat excellenta förhållanden på Bermuda greens, medan Power visar stabilitet från en stabil golfswing. Med sex spelare på -13 är fältet tätt packerat bakom ledartrioen, vilket förespeglar en öppen turnering där flera namn kan ta över under fredagens andra rond. Jesper Svensson finns ännu inte representerad i topp 15 och har därför ett arbete före sig för att komma tillbaka i spelet."
             },
             {
               "icon": "list.number",
@@ -153,13 +199,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:44:53+00:00",
-          "headline": "Smotherman och Power delarSegern – Svensson långt från Bermuda-premien",
+          "generatedAt": "2026-10-25T23:09:34+00:00",
+          "headline": "Smotherman och Power delar ledningen på Bermuda – Svensson jagar från längre bak",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Austin Smotherman och Séamus Power delade segern på 16 under par efter en tight avslutning på Bermuda, där två amerikaner och en irländare kämpade om titeln till slutet. Därpå följde en grupp om tre spelare på 14 under par – Taylor Moore, Ben Silverman och Corey Conners – som inte lyckades hålla takten med ledarna. Jesper Svensson slutade utanför topp 20 och hamnade långt från medaljplaceringarna på Bermudagräsmatorna."
+              "b": "Austin Smotherman och Séamus Power delar ledningen på 16 under par efter två omgångar, där båda drar ifrån en tätt samlad jagande grupp — Moore, Silverman och Conners ligger tre slag bakom på 14 under. Smotherman har visat konsekvent spel genom båda rundorna, medan Power behållit sitt momentum från öppningsdagen. En femtiomannastark grupp på 13 under eller bättre, anförd av Kim, Hoge och Kirk, skapar potentiella framrusningar under de återstående två dagarna, men Smotherman och Power måste anses som favoriter då gapet är väl använt för en kortare bana. Jesper Svensson återfinns inte i Top 15, men bör följas noga inför fredagsrundan för att se om svensken kan ta sig in i striden."
             },
             {
               "icon": "list.number",
@@ -289,13 +335,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:44:56+00:00",
-          "headline": "Smotherman och Power delar triumfen – Svensson landar utanför topp 20",
+          "generatedAt": "2026-10-25T23:09:39+00:00",
+          "headline": "Smotherman och Power delar ledningen – Svensson långt från toppen i Bermuda",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Austin Smotherman och Séamus Power delade segern på 16 under par efter en tight avslutning på Bermudas greener, där makten fördelades mellan amerikanska och irlandska spelare. Tre slag bakom följde Taylor Moore, Ben Silverman och Corey Conners på 14 under par, vilket illustrerar hur tätt fältet var under slutrundan. Jesper Svensson lyckades inte sätta sitt namn bland toppresultaten i denna omgång, och segern går till två spelare som levererade konsekvent golf under hela veckan."
+              "b": "Amerikanen Austin Smotherman och irländaren Séamus Power delar ledningen på -16 efter tre rundor, två slag före Moore, Silverman och Conners. Smotherman har levererat konsekvent golf under hela veckan medan Power tagit sig upp i täten genom stark spel på backsidan. Chasergruppen på -13 och -14 är tätt packad med flera spelare inom räckhål inför finalrundan, där stabiliteten snarare än dramtiska scorekort troligt kommer avgöra. Jesper Svensson finns inte representerad i topp 15, vilket begränsar svenska intressen i slutspurten på Bermuda."
             },
             {
               "icon": "list.number",
@@ -425,17 +471,17 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:44:59+00:00",
-          "headline": "Smotherman och Power delar segern – Svensson långt bakom i Bermuda",
+          "generatedAt": "2026-10-25T23:09:42+00:00",
+          "headline": "Smotherman och Power delar ledningen – Svensson långt efter i Bermuda",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Austin Smotherman och Séamus Power delade segern på 16 under par efter en tight avslutning på Bermuda, där två slag skiljde vinnarna från Taylor Moore och Ben Silverman på delad tredjeplats. Smotherman höll ett stabilt spel genom helgen utan några spektakulära utslag, medan Power från Irland levererade konsekvent golf på en bana som krävde precision framför allt på greenerna. Jesper Svensson representerade Sverige i fältet men placerade sig långt från toppen, vilket reflekterar den höga nivån bland de amerikanska och kanadensiska spelarna som dominerade leaderboarden."
+              "b": "Austin Smotherman och Séamus Power delar ledningen på 16 under par efter tretton hål, två slag före Moore, Silverman och Conners. Smotherman har visat stabilt spel genom hela veckan medan Power kom ikapp starkt under rundorna och pressar hårt in mot slutet. Fem spelare ligger två slag bakom med två hål återstående, vilket öppnar för ett tätt finalen, men Smothermans erfarenhet och Powers momentum gör dem till huvudfavoriterna när slagspelet avslutas."
             },
             {
               "icon": "list.number",
-              "h": "Slutresultat",
+              "h": "Leaderboard live (R4)",
               "b": "—  Austin Smotherman  -16\n—  Séamus Power  -16\n—  Taylor Moore  -14\n—  Ben Silverman  -14\n—  Corey Conners  -14\n—  Chan Kim  -13\n—  Tom Hoge  -13\n—  Chris Kirk  -13\n—  Danny Walker  -13\n—  Chandler Blanchet  -13\n\nKälla: ESPN."
             },
             {
@@ -558,6 +604,1543 @@
             }
           ]
         }
+      },
+      "edge": {
+        "modelVersion": "0.7.0",
+        "simulations": 10000,
+        "remainingRounds": 1,
+        "completedRounds": 3,
+        "roundStarted": true,
+        "sigmaPerRound": 2.8,
+        "assumedSSVig": 0.1,
+        "fieldSize": 120,
+        "hasRealOdds": true,
+        "independentRanking": true,
+        "rankingSource": "OWGR/DG",
+        "picks": [
+          {
+            "name": "Austin Smotherman",
+            "mu": -1.46,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -16,
+            "markets": {
+              "win": {
+                "prob": 0.344,
+                "fairOdds": 2.91,
+                "realSSOdds": 1.91,
+                "edgePct": -0.343,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
+              },
+              "top5": {
+                "prob": 0.7766,
+                "fairOdds": 1.29,
+                "estimatedSSOdds": 1.16,
+                "confidence": "Stark"
+              },
+              "top10": {
+                "prob": 0.9257,
+                "fairOdds": 1.08,
+                "estimatedSSOdds": 0.97,
+                "confidence": "Stark"
+              },
+              "top20": {
+                "prob": 0.9896,
+                "fairOdds": 1.01,
+                "estimatedSSOdds": 0.91,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Séamus Power",
+            "mu": 0.54,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -16,
+            "markets": {
+              "win": {
+                "prob": 0.1253,
+                "fairOdds": 7.98,
+                "estimatedSSOdds": 7.18,
+                "confidence": "Stark"
+              },
+              "top5": {
+                "prob": 0.5154,
+                "fairOdds": 1.94,
+                "estimatedSSOdds": 1.75,
+                "confidence": "Stark"
+              },
+              "top10": {
+                "prob": 0.7696,
+                "fairOdds": 1.3,
+                "estimatedSSOdds": 1.17,
+                "confidence": "Stark"
+              },
+              "top20": {
+                "prob": 0.9426,
+                "fairOdds": 1.06,
+                "estimatedSSOdds": 0.95,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Corey Conners",
+            "mu": -1.35,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -14,
+            "markets": {
+              "win": {
+                "prob": 0.1085,
+                "fairOdds": 9.22,
+                "estimatedSSOdds": 8.3,
+                "confidence": "Stark"
+              },
+              "top5": {
+                "prob": 0.4972,
+                "fairOdds": 2.01,
+                "estimatedSSOdds": 1.81,
+                "confidence": "Stark"
+              },
+              "top10": {
+                "prob": 0.7625,
+                "fairOdds": 1.31,
+                "estimatedSSOdds": 1.18,
+                "confidence": "Stark"
+              },
+              "top20": {
+                "prob": 0.9447,
+                "fairOdds": 1.06,
+                "estimatedSSOdds": 0.95,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Taylor Moore",
+            "mu": -0.77,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -14,
+            "markets": {
+              "win": {
+                "prob": 0.0806,
+                "fairOdds": 12.41,
+                "estimatedSSOdds": 11.17,
+                "confidence": "Lutar"
+              },
+              "top5": {
+                "prob": 0.4188,
+                "fairOdds": 2.39,
+                "estimatedSSOdds": 2.15,
+                "confidence": "Stark"
+              },
+              "top10": {
+                "prob": 0.6886,
+                "fairOdds": 1.45,
+                "estimatedSSOdds": 1.3,
+                "confidence": "Stark"
+              },
+              "top20": {
+                "prob": 0.912,
+                "fairOdds": 1.1,
+                "estimatedSSOdds": 0.99,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Ben Silverman",
+            "mu": -0.54,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -14,
+            "markets": {
+              "win": {
+                "prob": 0.068,
+                "fairOdds": 14.71,
+                "estimatedSSOdds": 13.24,
+                "confidence": "Lutar"
+              },
+              "top5": {
+                "prob": 0.3885,
+                "fairOdds": 2.57,
+                "estimatedSSOdds": 2.31,
+                "confidence": "Stark"
+              },
+              "top10": {
+                "prob": 0.6534,
+                "fairOdds": 1.53,
+                "estimatedSSOdds": 1.38,
+                "confidence": "Stark"
+              },
+              "top20": {
+                "prob": 0.8963,
+                "fairOdds": 1.12,
+                "estimatedSSOdds": 1.01,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Chris Kirk",
+            "mu": -0.98,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -13,
+            "markets": {
+              "win": {
+                "prob": 0.0471,
+                "fairOdds": 21.23,
+                "estimatedSSOdds": 19.11,
+                "confidence": "Jämn"
+              },
+              "top5": {
+                "prob": 0.3011,
+                "fairOdds": 3.32,
+                "estimatedSSOdds": 2.99,
+                "confidence": "Stark"
+              },
+              "top10": {
+                "prob": 0.5786,
+                "fairOdds": 1.73,
+                "estimatedSSOdds": 1.56,
+                "confidence": "Stark"
+              },
+              "top20": {
+                "prob": 0.8567,
+                "fairOdds": 1.17,
+                "estimatedSSOdds": 1.05,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Chandler Blanchet",
+            "mu": -0.89,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -13,
+            "markets": {
+              "win": {
+                "prob": 0.0467,
+                "fairOdds": 21.41,
+                "estimatedSSOdds": 19.27,
+                "confidence": "Jämn"
+              },
+              "top5": {
+                "prob": 0.3022,
+                "fairOdds": 3.31,
+                "estimatedSSOdds": 2.98,
+                "confidence": "Stark"
+              },
+              "top10": {
+                "prob": 0.5627,
+                "fairOdds": 1.78,
+                "estimatedSSOdds": 1.6,
+                "confidence": "Stark"
+              },
+              "top20": {
+                "prob": 0.8475,
+                "fairOdds": 1.18,
+                "estimatedSSOdds": 1.06,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Tom Hoge",
+            "mu": -0.81,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -13,
+            "markets": {
+              "win": {
+                "prob": 0.0461,
+                "fairOdds": 21.69,
+                "estimatedSSOdds": 19.52,
+                "confidence": "Jämn"
+              },
+              "top5": {
+                "prob": 0.2865,
+                "fairOdds": 3.49,
+                "estimatedSSOdds": 3.14,
+                "confidence": "Stark"
+              },
+              "top10": {
+                "prob": 0.5509,
+                "fairOdds": 1.82,
+                "estimatedSSOdds": 1.64,
+                "confidence": "Stark"
+              },
+              "top20": {
+                "prob": 0.8466,
+                "fairOdds": 1.18,
+                "estimatedSSOdds": 1.06,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Danny Walker",
+            "mu": -0.36,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -13,
+            "markets": {
+              "win": {
+                "prob": 0.0348,
+                "fairOdds": 28.74,
+                "estimatedSSOdds": 25.87,
+                "confidence": "Jämn"
+              },
+              "top5": {
+                "prob": 0.2354,
+                "fairOdds": 4.25,
+                "estimatedSSOdds": 3.83,
+                "confidence": "Stark"
+              },
+              "top10": {
+                "prob": 0.4918,
+                "fairOdds": 2.03,
+                "estimatedSSOdds": 1.83,
+                "confidence": "Stark"
+              },
+              "top20": {
+                "prob": 0.8023,
+                "fairOdds": 1.25,
+                "estimatedSSOdds": 1.12,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Chan Kim",
+            "mu": -0.41,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -13,
+            "markets": {
+              "win": {
+                "prob": 0.0312,
+                "fairOdds": 32.05,
+                "estimatedSSOdds": 28.84,
+                "confidence": "Jämn"
+              },
+              "top5": {
+                "prob": 0.2392,
+                "fairOdds": 4.18,
+                "estimatedSSOdds": 3.76,
+                "confidence": "Stark"
+              },
+              "top10": {
+                "prob": 0.4941,
+                "fairOdds": 2.02,
+                "estimatedSSOdds": 1.82,
+                "confidence": "Stark"
+              },
+              "top20": {
+                "prob": 0.8022,
+                "fairOdds": 1.25,
+                "estimatedSSOdds": 1.12,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Luke Clanton",
+            "mu": -0.38,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -12,
+            "markets": {
+              "win": {
+                "prob": 0.0133,
+                "fairOdds": 75.19,
+                "estimatedSSOdds": 67.67,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.1418,
+                "fairOdds": 7.05,
+                "estimatedSSOdds": 6.34,
+                "confidence": "Lutar"
+              },
+              "top10": {
+                "prob": 0.3531,
+                "fairOdds": 2.83,
+                "estimatedSSOdds": 2.55,
+                "confidence": "Lutar"
+              },
+              "top20": {
+                "prob": 0.699,
+                "fairOdds": 1.43,
+                "estimatedSSOdds": 1.29,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Isaiah Salinda",
+            "mu": -0.09,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -12,
+            "markets": {
+              "win": {
+                "prob": 0.0096,
+                "fairOdds": 104.17,
+                "estimatedSSOdds": 93.75,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.1179,
+                "fairOdds": 8.48,
+                "estimatedSSOdds": 7.63,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.3187,
+                "fairOdds": 3.14,
+                "estimatedSSOdds": 2.83,
+                "confidence": "Lutar"
+              },
+              "top20": {
+                "prob": 0.6601,
+                "fairOdds": 1.51,
+                "estimatedSSOdds": 1.36,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Denny McCarthy",
+            "mu": -0.83,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -11,
+            "markets": {
+              "win": {
+                "prob": 0.0093,
+                "fairOdds": 107.53,
+                "estimatedSSOdds": 96.78,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.1035,
+                "fairOdds": 9.66,
+                "estimatedSSOdds": 8.69,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.2845,
+                "fairOdds": 3.51,
+                "estimatedSSOdds": 3.16,
+                "confidence": "Lutar"
+              },
+              "top20": {
+                "prob": 0.6237,
+                "fairOdds": 1.6,
+                "estimatedSSOdds": 1.44,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Greyson Sigg",
+            "mu": 0.11,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -12,
+            "markets": {
+              "win": {
+                "prob": 0.0075,
+                "fairOdds": 133.33,
+                "estimatedSSOdds": 120.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.106,
+                "fairOdds": 9.43,
+                "estimatedSSOdds": 8.49,
+                "confidence": "Jämn"
+              },
+              "top10": {
+                "prob": 0.291,
+                "fairOdds": 3.44,
+                "estimatedSSOdds": 3.1,
+                "confidence": "Lutar"
+              },
+              "top20": {
+                "prob": 0.636,
+                "fairOdds": 1.57,
+                "estimatedSSOdds": 1.41,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Ben Kohles",
+            "mu": -0.83,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -10,
+            "markets": {
+              "win": {
+                "prob": 0.004,
+                "fairOdds": 250.0,
+                "estimatedSSOdds": 225.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0533,
+                "fairOdds": 18.76,
+                "estimatedSSOdds": 16.88,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.1765,
+                "fairOdds": 5.67,
+                "estimatedSSOdds": 5.1,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.4844,
+                "fairOdds": 2.06,
+                "estimatedSSOdds": 1.85,
+                "confidence": "Lutar"
+              }
+            }
+          },
+          {
+            "name": "Cam Davis",
+            "mu": 0.85,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -12,
+            "markets": {
+              "win": {
+                "prob": 0.0039,
+                "fairOdds": 256.41,
+                "estimatedSSOdds": 230.77,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0691,
+                "fairOdds": 14.47,
+                "estimatedSSOdds": 13.02,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.2081,
+                "fairOdds": 4.81,
+                "estimatedSSOdds": 4.33,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.5288,
+                "fairOdds": 1.89,
+                "estimatedSSOdds": 1.7,
+                "confidence": "Lutar"
+              }
+            }
+          },
+          {
+            "name": "David Skinns",
+            "mu": -0.27,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -11,
+            "markets": {
+              "win": {
+                "prob": 0.0036,
+                "fairOdds": 277.78,
+                "estimatedSSOdds": 250.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0696,
+                "fairOdds": 14.37,
+                "estimatedSSOdds": 12.93,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.2219,
+                "fairOdds": 4.51,
+                "estimatedSSOdds": 4.06,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.5545,
+                "fairOdds": 1.8,
+                "estimatedSSOdds": 1.62,
+                "confidence": "Stark"
+              }
+            }
+          },
+          {
+            "name": "Adrien Dumont de Chassart",
+            "mu": -0.37,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -10,
+            "markets": {
+              "win": {
+                "prob": 0.0019,
+                "fairOdds": 526.32,
+                "estimatedSSOdds": 473.69,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0375,
+                "fairOdds": 26.67,
+                "estimatedSSOdds": 24.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.1386,
+                "fairOdds": 7.22,
+                "estimatedSSOdds": 6.5,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.4101,
+                "fairOdds": 2.44,
+                "estimatedSSOdds": 2.2,
+                "confidence": "Lutar"
+              }
+            }
+          },
+          {
+            "name": "Eric Cole",
+            "mu": -0.83,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -9,
+            "markets": {
+              "win": {
+                "prob": 0.0018,
+                "fairOdds": 555.56,
+                "estimatedSSOdds": 500.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.027,
+                "fairOdds": 37.04,
+                "estimatedSSOdds": 33.34,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.1033,
+                "fairOdds": 9.68,
+                "estimatedSSOdds": 8.71,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.3427,
+                "fairOdds": 2.92,
+                "estimatedSSOdds": 2.63,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Adam Hadwin",
+            "mu": -0.09,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -10,
+            "markets": {
+              "win": {
+                "prob": 0.0014,
+                "fairOdds": 714.29,
+                "estimatedSSOdds": 642.86,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0316,
+                "fairOdds": 31.65,
+                "estimatedSSOdds": 28.48,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.1195,
+                "fairOdds": 8.37,
+                "estimatedSSOdds": 7.53,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.3746,
+                "fairOdds": 2.67,
+                "estimatedSSOdds": 2.4,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Zac Blair",
+            "mu": -0.55,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -9,
+            "markets": {
+              "win": {
+                "prob": 0.0013,
+                "fairOdds": 769.23,
+                "estimatedSSOdds": 692.31,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0208,
+                "fairOdds": 48.08,
+                "estimatedSSOdds": 43.27,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0804,
+                "fairOdds": 12.44,
+                "estimatedSSOdds": 11.2,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.3094,
+                "fairOdds": 3.23,
+                "estimatedSSOdds": 2.91,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Dylan Wu",
+            "mu": 0.08,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -10,
+            "markets": {
+              "win": {
+                "prob": 0.0011,
+                "fairOdds": 909.09,
+                "estimatedSSOdds": 818.18,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0248,
+                "fairOdds": 40.32,
+                "estimatedSSOdds": 36.29,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.1049,
+                "fairOdds": 9.53,
+                "estimatedSSOdds": 8.58,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.3547,
+                "fairOdds": 2.82,
+                "estimatedSSOdds": 2.54,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Kihei Akina",
+            "mu": 1.0,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -10,
+            "markets": {
+              "win": {
+                "prob": 0.0009,
+                "fairOdds": 1111.11,
+                "estimatedSSOdds": 1000.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.013,
+                "fairOdds": 76.92,
+                "estimatedSSOdds": 69.23,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0568,
+                "fairOdds": 17.61,
+                "estimatedSSOdds": 15.85,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.2448,
+                "fairOdds": 4.08,
+                "estimatedSSOdds": 3.67,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Mackenzie Hughes",
+            "mu": -0.42,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -9,
+            "markets": {
+              "win": {
+                "prob": 0.0009,
+                "fairOdds": 1111.11,
+                "estimatedSSOdds": 1000.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0215,
+                "fairOdds": 46.51,
+                "estimatedSSOdds": 41.86,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0802,
+                "fairOdds": 12.47,
+                "estimatedSSOdds": 11.22,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.2912,
+                "fairOdds": 3.43,
+                "estimatedSSOdds": 3.09,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Brice Garnett",
+            "mu": -0.18,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -10,
+            "markets": {
+              "win": {
+                "prob": 0.0008,
+                "fairOdds": 1250.0,
+                "estimatedSSOdds": 1125.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0298,
+                "fairOdds": 33.56,
+                "estimatedSSOdds": 30.2,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.1212,
+                "fairOdds": 8.25,
+                "estimatedSSOdds": 7.42,
+                "confidence": "Jämn"
+              },
+              "top20": {
+                "prob": 0.3905,
+                "fairOdds": 2.56,
+                "estimatedSSOdds": 2.3,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Rudy Sautron",
+            "mu": 1.0,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -10,
+            "markets": {
+              "win": {
+                "prob": 0.0007,
+                "fairOdds": 1428.57,
+                "estimatedSSOdds": 1285.71,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0122,
+                "fairOdds": 81.97,
+                "estimatedSSOdds": 73.77,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0585,
+                "fairOdds": 17.09,
+                "estimatedSSOdds": 15.38,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.2394,
+                "fairOdds": 4.18,
+                "estimatedSSOdds": 3.76,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "A.J. Ewart",
+            "mu": -0.38,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -9,
+            "markets": {
+              "win": {
+                "prob": 0.0007,
+                "fairOdds": 1428.57,
+                "estimatedSSOdds": 1285.71,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0176,
+                "fairOdds": 56.82,
+                "estimatedSSOdds": 51.14,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0723,
+                "fairOdds": 13.83,
+                "estimatedSSOdds": 12.45,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.2838,
+                "fairOdds": 3.52,
+                "estimatedSSOdds": 3.17,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "David Ford",
+            "mu": -0.27,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -9,
+            "markets": {
+              "win": {
+                "prob": 0.0006,
+                "fairOdds": 1666.67,
+                "estimatedSSOdds": 1500.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0154,
+                "fairOdds": 64.94,
+                "estimatedSSOdds": 58.45,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0675,
+                "fairOdds": 14.81,
+                "estimatedSSOdds": 13.33,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.2724,
+                "fairOdds": 3.67,
+                "estimatedSSOdds": 3.3,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Peter Malnati",
+            "mu": 0.32,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -9,
+            "markets": {
+              "win": {
+                "prob": 0.0006,
+                "fairOdds": 1666.67,
+                "estimatedSSOdds": 1500.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.011,
+                "fairOdds": 90.91,
+                "estimatedSSOdds": 81.82,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.05,
+                "fairOdds": 20.0,
+                "estimatedSSOdds": 18.0,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.2018,
+                "fairOdds": 4.96,
+                "estimatedSSOdds": 4.46,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Lucas Glover",
+            "mu": -0.52,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -8,
+            "markets": {
+              "win": {
+                "prob": 0.0006,
+                "fairOdds": 1666.67,
+                "estimatedSSOdds": 1500.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0065,
+                "fairOdds": 153.85,
+                "estimatedSSOdds": 138.47,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0397,
+                "fairOdds": 25.19,
+                "estimatedSSOdds": 22.67,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.195,
+                "fairOdds": 5.13,
+                "estimatedSSOdds": 4.62,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "S.Y. Noh",
+            "mu": 1.0,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -10,
+            "markets": {
+              "win": {
+                "prob": 0.0005,
+                "fairOdds": 2000.0,
+                "estimatedSSOdds": 1800.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.012,
+                "fairOdds": 83.33,
+                "estimatedSSOdds": 75.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0589,
+                "fairOdds": 16.98,
+                "estimatedSSOdds": 15.28,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.2423,
+                "fairOdds": 4.13,
+                "estimatedSSOdds": 3.72,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Jesper Svensson",
+            "mu": -0.34,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -9,
+            "markets": {
+              "win": {
+                "prob": 0.0005,
+                "fairOdds": 2000.0,
+                "estimatedSSOdds": 1800.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0181,
+                "fairOdds": 55.25,
+                "estimatedSSOdds": 49.73,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.078,
+                "fairOdds": 12.82,
+                "estimatedSSOdds": 11.54,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.2911,
+                "fairOdds": 3.44,
+                "estimatedSSOdds": 3.1,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Hayden Springer",
+            "mu": -0.07,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -8,
+            "markets": {
+              "win": {
+                "prob": 0.0005,
+                "fairOdds": 2000.0,
+                "estimatedSSOdds": 1800.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0051,
+                "fairOdds": 196.08,
+                "estimatedSSOdds": 176.47,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0263,
+                "fairOdds": 38.02,
+                "estimatedSSOdds": 34.22,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1486,
+                "fairOdds": 6.73,
+                "estimatedSSOdds": 6.06,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Nick Dunlap",
+            "mu": 0.24,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -9,
+            "markets": {
+              "win": {
+                "prob": 0.0003,
+                "fairOdds": 3333.33,
+                "estimatedSSOdds": 3000.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.01,
+                "fairOdds": 100.0,
+                "estimatedSSOdds": 90.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0478,
+                "fairOdds": 20.92,
+                "estimatedSSOdds": 18.83,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.2177,
+                "fairOdds": 4.59,
+                "estimatedSSOdds": 4.13,
+                "confidence": "Jämn"
+              }
+            }
+          },
+          {
+            "name": "Martin Laird",
+            "mu": 1.08,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -9,
+            "markets": {
+              "win": {
+                "prob": 0.0003,
+                "fairOdds": 3333.33,
+                "estimatedSSOdds": 3000.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0045,
+                "fairOdds": 222.22,
+                "estimatedSSOdds": 200.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0254,
+                "fairOdds": 39.37,
+                "estimatedSSOdds": 35.43,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1429,
+                "fairOdds": 7.0,
+                "estimatedSSOdds": 6.3,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Neal Shipley",
+            "mu": -0.41,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -8,
+            "markets": {
+              "win": {
+                "prob": 0.0002,
+                "fairOdds": 5000.0,
+                "estimatedSSOdds": 4500.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0072,
+                "fairOdds": 138.89,
+                "estimatedSSOdds": 125.0,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.035,
+                "fairOdds": 28.57,
+                "estimatedSSOdds": 25.71,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1816,
+                "fairOdds": 5.51,
+                "estimatedSSOdds": 4.96,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Kristoffer Ventura",
+            "mu": -0.28,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -8,
+            "markets": {
+              "win": {
+                "prob": 0.0002,
+                "fairOdds": 5000.0,
+                "estimatedSSOdds": 4500.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0077,
+                "fairOdds": 129.87,
+                "estimatedSSOdds": 116.88,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.035,
+                "fairOdds": 28.57,
+                "estimatedSSOdds": 25.71,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1687,
+                "fairOdds": 5.93,
+                "estimatedSSOdds": 5.34,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Davis Thompson",
+            "mu": -0.52,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -8,
+            "markets": {
+              "win": {
+                "prob": 0.0001,
+                "fairOdds": 10000.0,
+                "estimatedSSOdds": 9000.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0068,
+                "fairOdds": 147.06,
+                "estimatedSSOdds": 132.35,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0368,
+                "fairOdds": 27.17,
+                "estimatedSSOdds": 24.45,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1833,
+                "fairOdds": 5.46,
+                "estimatedSSOdds": 4.91,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Ben Martin",
+            "mu": 0.37,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -8,
+            "markets": {
+              "win": {
+                "prob": 0.0001,
+                "fairOdds": 10000.0,
+                "estimatedSSOdds": 9000.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0029,
+                "fairOdds": 344.83,
+                "estimatedSSOdds": 310.35,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0183,
+                "fairOdds": 54.64,
+                "estimatedSSOdds": 49.18,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.116,
+                "fairOdds": 8.62,
+                "estimatedSSOdds": 7.76,
+                "confidence": "Svag"
+              }
+            }
+          },
+          {
+            "name": "Mark Hubbard",
+            "mu": -0.37,
+            "muSource": "3r form 23% + baseline",
+            "completedScore": -8,
+            "markets": {
+              "win": {
+                "prob": 0.0001,
+                "fairOdds": 10000.0,
+                "estimatedSSOdds": 9000.0,
+                "confidence": "Svag"
+              },
+              "top5": {
+                "prob": 0.0077,
+                "fairOdds": 129.87,
+                "estimatedSSOdds": 116.88,
+                "confidence": "Svag"
+              },
+              "top10": {
+                "prob": 0.0391,
+                "fairOdds": 25.58,
+                "estimatedSSOdds": 23.02,
+                "confidence": "Svag"
+              },
+              "top20": {
+                "prob": 0.1754,
+                "fairOdds": 5.7,
+                "estimatedSSOdds": 5.13,
+                "confidence": "Svag"
+              }
+            }
+          }
+        ],
+        "topByMarket": {
+          "win": [
+            {
+              "name": "Austin Smotherman",
+              "prob": 0.344,
+              "fairOdds": 2.91,
+              "confidence": "Övervärderad",
+              "realSSOdds": 1.91,
+              "edgePct": -0.343,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
+            },
+            {
+              "name": "Séamus Power",
+              "prob": 0.1253,
+              "fairOdds": 7.98,
+              "confidence": "Stark",
+              "estimatedSSOdds": 7.18
+            },
+            {
+              "name": "Corey Conners",
+              "prob": 0.1085,
+              "fairOdds": 9.22,
+              "confidence": "Stark",
+              "estimatedSSOdds": 8.3
+            },
+            {
+              "name": "Taylor Moore",
+              "prob": 0.0806,
+              "fairOdds": 12.41,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 11.17
+            },
+            {
+              "name": "Ben Silverman",
+              "prob": 0.068,
+              "fairOdds": 14.71,
+              "confidence": "Lutar",
+              "estimatedSSOdds": 13.24
+            },
+            {
+              "name": "Chris Kirk",
+              "prob": 0.0471,
+              "fairOdds": 21.23,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 19.11
+            },
+            {
+              "name": "Chandler Blanchet",
+              "prob": 0.0467,
+              "fairOdds": 21.41,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 19.27
+            },
+            {
+              "name": "Tom Hoge",
+              "prob": 0.0461,
+              "fairOdds": 21.69,
+              "confidence": "Jämn",
+              "estimatedSSOdds": 19.52
+            }
+          ],
+          "top5": [
+            {
+              "name": "Austin Smotherman",
+              "prob": 0.7766,
+              "fairOdds": 1.29,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.16
+            },
+            {
+              "name": "Séamus Power",
+              "prob": 0.5154,
+              "fairOdds": 1.94,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.75
+            },
+            {
+              "name": "Corey Conners",
+              "prob": 0.4972,
+              "fairOdds": 2.01,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.81
+            },
+            {
+              "name": "Taylor Moore",
+              "prob": 0.4188,
+              "fairOdds": 2.39,
+              "confidence": "Stark",
+              "estimatedSSOdds": 2.15
+            },
+            {
+              "name": "Ben Silverman",
+              "prob": 0.3885,
+              "fairOdds": 2.57,
+              "confidence": "Stark",
+              "estimatedSSOdds": 2.31
+            },
+            {
+              "name": "Chandler Blanchet",
+              "prob": 0.3022,
+              "fairOdds": 3.31,
+              "confidence": "Stark",
+              "estimatedSSOdds": 2.98
+            },
+            {
+              "name": "Chris Kirk",
+              "prob": 0.3011,
+              "fairOdds": 3.32,
+              "confidence": "Stark",
+              "estimatedSSOdds": 2.99
+            },
+            {
+              "name": "Tom Hoge",
+              "prob": 0.2865,
+              "fairOdds": 3.49,
+              "confidence": "Stark",
+              "estimatedSSOdds": 3.14
+            }
+          ],
+          "top10": [
+            {
+              "name": "Austin Smotherman",
+              "prob": 0.9257,
+              "fairOdds": 1.08,
+              "confidence": "Stark",
+              "estimatedSSOdds": 0.97
+            },
+            {
+              "name": "Séamus Power",
+              "prob": 0.7696,
+              "fairOdds": 1.3,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.17
+            },
+            {
+              "name": "Corey Conners",
+              "prob": 0.7625,
+              "fairOdds": 1.31,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.18
+            },
+            {
+              "name": "Taylor Moore",
+              "prob": 0.6886,
+              "fairOdds": 1.45,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.3
+            },
+            {
+              "name": "Ben Silverman",
+              "prob": 0.6534,
+              "fairOdds": 1.53,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.38
+            },
+            {
+              "name": "Chris Kirk",
+              "prob": 0.5786,
+              "fairOdds": 1.73,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.56
+            },
+            {
+              "name": "Chandler Blanchet",
+              "prob": 0.5627,
+              "fairOdds": 1.78,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.6
+            },
+            {
+              "name": "Tom Hoge",
+              "prob": 0.5509,
+              "fairOdds": 1.82,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.64
+            }
+          ],
+          "top20": [
+            {
+              "name": "Austin Smotherman",
+              "prob": 0.9896,
+              "fairOdds": 1.01,
+              "confidence": "Stark",
+              "estimatedSSOdds": 0.91
+            },
+            {
+              "name": "Corey Conners",
+              "prob": 0.9447,
+              "fairOdds": 1.06,
+              "confidence": "Stark",
+              "estimatedSSOdds": 0.95
+            },
+            {
+              "name": "Séamus Power",
+              "prob": 0.9426,
+              "fairOdds": 1.06,
+              "confidence": "Stark",
+              "estimatedSSOdds": 0.95
+            },
+            {
+              "name": "Taylor Moore",
+              "prob": 0.912,
+              "fairOdds": 1.1,
+              "confidence": "Stark",
+              "estimatedSSOdds": 0.99
+            },
+            {
+              "name": "Ben Silverman",
+              "prob": 0.8963,
+              "fairOdds": 1.12,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.01
+            },
+            {
+              "name": "Chris Kirk",
+              "prob": 0.8567,
+              "fairOdds": 1.17,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.05
+            },
+            {
+              "name": "Chandler Blanchet",
+              "prob": 0.8475,
+              "fairOdds": 1.18,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.06
+            },
+            {
+              "name": "Tom Hoge",
+              "prob": 0.8466,
+              "fairOdds": 1.18,
+              "confidence": "Stark",
+              "estimatedSSOdds": 1.06
+            }
+          ],
+          "cut": []
+        },
+        "topEdges": []
       }
     },
     {
@@ -576,13 +2159,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:03+00:00",
-          "headline": "Scottie Scheffler jagar sitt femte segern på sju veckor i Mexiko",
+          "generatedAt": "2026-10-25T23:09:48+00:00",
+          "headline": "Jag kan inte skriva rubriken utan att se fältlistan. Du skrev \"Första 15 i fältlistan från ESPN:\" men ingen lista följer. Kan du skicka fältets topspelare så skriver jag en kraftfull rubrik?",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "VidantaWorld Mexico Open lockar återigen eliten till mexikansk golfmark, och med Rory McIlroy, Jon Rahm och Scottie Scheffler på startlistan väntar en högklassig turnering. Rahm får särskild uppmärksamhet som hemmahjälte och återkommer efter paus, medan McIlroy söker stabilitet efter en ojämn säsong. Svenska fans får nöja sig med att följa utvecklingen utan representanter i toppen av fältlistan, men fokus bör ligga på hur de etablerade superstjärnorna hanterar förhållandena och vem som lyckas med sitt form-läge bäst under tre tävlingsdagar."
+              "b": "# VidantaWorld Mexico Open – Förhandsanalys\n\nPGA Tours Mexico Open lockar återigen världselitens topp när golfarnas säsong närmar sig sitt klimax. Utan svenskar i startelvan är fokus helt på hur favoriterna navigerar det mexikanska gräset – Rory McIlroy, Jon Rahm och Scottie Scheffler är väl värd att följa, särskilt med tanke på formkurvorna inför de kommande majoren. Banan kommer bli helt avgörande; det är värt att notera hur de senaste veckors väder påverkat greenen och huruvida det skapar fördelar för långa slag eller precisionsslag med kortare klubbor."
             },
             {
               "icon": "flag.fill",
@@ -635,13 +2218,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:08+00:00",
-          "headline": "Yoshida dominerar BMW-mästerskapet – Stark miste topplaceringen",
+          "generatedAt": "2026-10-25T23:09:52+00:00",
+          "headline": "Yoshida dominerar BMW Ladies – Stark missade topptio",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Yuri Yoshida från Japan tog hem BMW Ladies Championship på -17, en stroke före de sydkoreanska spelarna Hye-Jin Choi och Haeran Ryu. Yoshidas konsistenta spel på avslutande hål gjorde skillnaden i ett starkt fält där flera asiatiska tävlande dominerade resultatlistan. Maja Stark representerade Sverige i fältet men placerade sig utanför topplaceringarna, medan Yoshidas seger stärker Japans ställning inom damgolfen när flera av landets spelare regelbundet presterar på LPGA-touren."
+              "b": "Yuri Yoshida från Japan tog hem BMW Ladies Championship efter en stark avslutning på 17 under par, ett slag före Hye-Jin Choi och Haeran Ryu från Sydkorea. Domineringen från asiatiska spelare var påtaglig i toppen — fyra av de fem bästa placeringarna gick till sydkoreanska eller japanska golfare, vilket återspeglar regionen's fortsatta styrka i damgolfen. Maja Stark lyckades inte nå topp 20 denna gång, men Yoshidas totala prestanda på -17 räckte för att säkra segern framför ett hårt pressande förföljande från den starka sydkoreanska gruppen."
             },
             {
               "icon": "list.number",
@@ -771,13 +2354,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:11+00:00",
-          "headline": "Yoshida dominerar BMW Ladies – Stark missar topplaceringen",
+          "generatedAt": "2026-10-25T23:09:56+00:00",
+          "headline": "Yoshida triumferar på -17 – Stark missar topplaceringen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Yuri Yoshida från Japan vann BMW Ladies Championship med 17 slag under par, ett slag före en tätt paketerad förföljning anläd av sydkoreanskan Hye-Jin Choi och Haeran Ryu båda på minus 16. Det sydkoreanska golfet dominerade resultatlistan med sex spelarinnor i topp 15, vilket understriker landets fortsatta styrka inom damgolfen. Maja Stark lyckades inte ta sig in i de närmaste placeringarna och blir inte noterad bland topplaceringarna denna gång."
+              "b": "Yuri Yoshida från Japan tog segern med 17 under par, två slag före sydkoreanska Hye-Jin Choi och Haeran Ryu som delade andraplats. Yoshidas segermargin var minimal på en starkt fylld leaderboard där flera spelare pressade från tätpositionen under slutet av tävlingen, med Minsol Kim och Hyo Joo Kim endast tre slag från ledningen. Maja Stark representerade Sverige i fältet men placerade sig utanför topplaceringarna på denna LPGA-tävling dominerad av asiatiska spelare."
             },
             {
               "icon": "list.number",
@@ -907,13 +2490,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:14+00:00",
-          "headline": "Yoshida slutsegrar på -17 – Stark saknar topplaceringen i München",
+          "generatedAt": "2026-10-25T23:09:59+00:00",
+          "headline": "Yoshida dominerar BMW Ladies – Stark missade topplaceringen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Yuri Yoshida från Japan tog BMW Ladies Championship med sin slutscore på 17 under par, ett slag före sydkoreanska Hye-Jin Choi och Haeran Ryu som delade andraplats. Yoshidas seger bygger på konsekvent spel under hela veckan, då hon höll sig i täten redan från start och aldrig släppte greppet om ledningen. Toploggorna dominerades av asiatiska spelare med fyra sydkoreaner bland de fem bästa, vilket återspeglar LPGA-turneringens alltmer internationella karaktär. Maja Stark placerade sig utanför topp 15 men lyckades hålla sig i poänglistan för att säkra värdefulla ranking-poäng inför fortsättningen."
+              "b": "Yuri Yoshida från Japan löste av sig från tätt förföljda och vann BMW Ladies Championship med slutresultatet -17, en slag före Hye-Jin Choi och Haeran Ryu från Sydkorea som delade andraplats på -16. Yoshida höll undan en stark slutspurt där flera sydkoreanska spelare pressade hårt under slutrundorna, men den japanska spelaren visade stabilitet på de kritiska hålen. Svenska Maja Stark nådde inte topptio, men fick värdefull LPGA-erfarenhet i ett fält där asiatiska spelare dominerade tävlingbilden helt."
             },
             {
               "icon": "list.number",
@@ -1043,13 +2626,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:18+00:00",
-          "headline": "Yoshida dominerar BMW Ladies – Stark utanför topp tolv",
+          "generatedAt": "2026-10-25T23:10:02+00:00",
+          "headline": "Yoshida stanglar sitt första LPGA-seger – Stark utanför topp tolv",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Yuri Yoshida från Japan löste uppgiften med -17 och vann BMW Ladies Championship före två sydkoreanska utmanare på -16. Det var en dominerande prestationsframvisning från Yoshida, som höll sig framför ett relativt jämnt fält där flera spelare från Östasien gjorde sig påminda. Maja Stark missade topp 15 och kunde inte matcha toppkonkurrenternas resultat i denna LPGA-tävling som präglades av stark asiatisk närvaro."
+              "b": "Yuri Yoshida från Japan tog segern med 17 slag under par, före ett tätt fält med två sydkoreanska spelare på 16 under par. Choi och Ryu låg bara ett slag bakom vinnaren, vilket tydliggör att tävlingen avgjordes på marginaler under slutrundan. Svenska Maja Stark nådde inte topp 20 i detta starkt besatta LPGA-fält där sydkoreanska spelare dominerade leaderboarden med fyra namn bland tio bästa."
             },
             {
               "icon": "list.number",
@@ -1194,13 +2777,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:21+00:00",
-          "headline": "Yin dominerar Shanghai – Choi ett slag bakom på -10",
+          "generatedAt": "2026-10-25T23:10:05+00:00",
+          "headline": "Yin dominerar Shanghai – Grant missar topp tio för Sverige",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ruoning Yin från Kina dominerade Buick LPGA Shanghai och säkrade segern på elva slag under par, med Hye-Jin Choi från Sydkorea på andra plats, ett slag bakom. Asiatiska spelare tog befälet genom hela turneringen och kontrollerade leaderboarden — topp 15 dominerades av kinesiska, sydkoreanska och japanska golfspelare. Linn Grant slutade utanför topp 15 och kunde inte konkurrera i detta starkt besatta fält på hemmaplan för många av favoriterna."
+              "b": "Ruoning Yin dominerade Buick LPGA Shanghai med en seger på elva slag under par, ett slag före sydkoreanskan Hye-Jin Choi som slutade på minus tio. Yins styrka låg i en konsekvent rond genomgång av banan, medan Choi aldrig lyckades ta in det försprång hemmaförfattningen etablerade tidigt i turneringen. Svenskan Linn Grant återfinns inte bland de femton främsta, vilket innebär att hon hamnade på en lägre placering på leaderboard."
             },
             {
               "icon": "list.number",
@@ -1330,13 +2913,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:24+00:00",
-          "headline": "Yin dominerar Shanghai – Choi förlorar två slag på vägen",
+          "generatedAt": "2026-10-25T23:10:08+00:00",
+          "headline": "Yin dominerar Shanghai – Choi på -10 griper efter guldet",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ruoning Yin dominerade Buick LPGA Shanghai genom att avsluta på elva under par, en stroke före sydkoreanskan Hye-Jin Choi. Yin byggde sitt försprång genom konsekvent spel på både long game och green och höll sig framme under turneringens slutfas. Chastävlingarna uppvisade varierad prestation med Amy Yang på åtta under par och Rio Takeda på sju under, vilket indikerar att återigen var det asiatiska spelarna som kontrollerade resultaten i Shanghai. Linn Grant representerade Sverige men hamnade långt från topplaceringen, vilket reflekterar skillnaden i form mellan världselitens toppspelare och övriga fältet."
+              "b": "Ruoning Yin tog hem Buick LPGA Shanghai med elva slag under par, en seger som bekräftade hennes dominans genom turneringen. Sydkoreanskan Hye-Jin Choi slutade närmast på tio slag under par, ett slag före Amy Yang på samma nationalitet, vilket visar Asiens överordning i denna etapp av LPGA-touren. Svenska Linn Grant nådde inte topp femtio och hamnade långt från medaljstriden, där årets resultat tydligt vittnar om att asiатiska spelare fortsatt sätter standarden på hemmaplan."
             },
             {
               "icon": "list.number",
@@ -1466,13 +3049,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:28+00:00",
-          "headline": "Yin dominerar Shanghai – Grant missar topptio i Buick LPGA",
+          "generatedAt": "2026-10-25T23:10:11+00:00",
+          "headline": "Yin dominerar Shanghai – Choi förlorar slutstriden med ett slag",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ruoning Yin från Kina dominerade Buick LPGA Shanghai genom att avsluta på -11, en stroke före sydkoreanskan Hye-Jin Choi som slutade på -10. Yins konsistens genom turneringen räckte för att hålla kommandot från start till målgång, med Amy Yang från Sydkorea på delad tredjeplats tillsammans med Rio Takeda från Japan på -8 respektive -7. Linn Grant lyckades inte bryta sig in i den övre delen av resultatlistan på denna Asia-turnering där östasiatiska spelare helt dominerade topplaceringarna."
+              "b": "Ruoning Yin dominerade Shanghai och tog sitt andra LPGA-segern på hemmaplan med elva slag under par, en full slag före sydkoreanskan Hye-Jin Choi. Yin byggde sin seger genom konsekvent spel under hela veckan och höll sig framme under slutrundan trots starkt motstånd från asiaterska spelare som Amy Yang och Rio Takeda. Med tanke på styrkan hos de asiatiska spelarna – fyra av topp sex kommer från Asien – bekräftar resultatet hur kraftfull denna region är på världsscenen för närvarande."
             },
             {
               "icon": "list.number",
@@ -1602,13 +3185,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:31+00:00",
-          "headline": "Yin dominerar Shanghai – Choi närmar sig på nio slag",
+          "generatedAt": "2026-10-25T23:10:14+00:00",
+          "headline": "Yin solarväg i Shanghai – Choi två slag bakom på -10",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Ruoning Yin dominerade Buick LPGA Shanghai med en slutsiffra på -11, ett slag före sydkoreanska Hye-Jin Choi. Yins konsistens genom turneringen visade sig avgörande då hon höll ledarposition under större delen av slutrundan. Asiaten tog viktiga poäng hemåt med en effektiv körspelsprestration som fick motståndarna att aldrig riktigt hota på allvar. Linn Grant slutförde tävlingen långt ned på leaderboarden, utan att lyckas konkurrera på den nivå som krävdes mot dagens världsklass."
+              "b": "Ruoning Yin dominerade Buick LPGA Shanghai med elva slag under par och en seger före sydkoreanska Hye-Jin Choi på tio slag under. Yins konsistenta spel genom turneringen på hemmaplan gjorde skillnaden mot ett tätt förföljartält där tre sydkoreaner placerade sig i topp sex. Linn Grant slutade långt från topplaceringarna och hade ingen påverkan på slutresultatet i det asiendominerade fältet."
             },
             {
               "icon": "list.number",
@@ -1753,13 +3336,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:34+00:00",
-          "headline": "Patty Tavatanakit jagar andra LPGA-titel på Maybank Championship",
+          "generatedAt": "2026-10-25T23:10:17+00:00",
+          "headline": "Patty Tavatanakit jagar sitt andra LPGA-guld på Maybank Championship",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Maybank Championship lockar återigen världens bästa spelarinnor till Malaysia för en LPGA-tävling med högt odds-värde. Utan svenska representanter är fokus på världstoppen, där vi följer hur Patty Tavatanakit och övriga toppseeded presterar på en bana som ofta belönar konsekvent spel och approach-precision. Med tanke på att detta är en av höstens sista större tävlingar innan slutspelet hårdnar, är form och momentum precis vad man ska leta efter bland favoriterna."
+              "b": "# Maybank Championship – förhandsanalys\n\nMaybank Championship presenterar en intressant LPGA-fin hösten då världens främsta spelarinna samlas i Malaysia. Tävlingen erbjuder viktiga rankingpoäng strax innan säsongens avslutande majörer, vilket gör detta till ett kvalificerande tillfälle för spelarna att förbättra sina positioner. Utan svenska namn i startfältet fokuseras intresset på hur toppspelarnas form держ sig upp under höstens täta turnéringsschema, samt vilka outsiders som lyckas ta tillvara på något av världsrankingens finaste."
             },
             {
               "icon": "flag.fill",
@@ -1812,13 +3395,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:38+00:00",
-          "headline": "Katsuragawa världsklass – två slag före franskt tvåtrio på Genesis Championship",
+          "generatedAt": "2026-10-25T23:10:21+00:00",
+          "headline": "Katsuragawa seger i Genesis Championship – två slag före franskt duopol",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Yuto Katsuragawa från Japan vann Genesis Championship med två slag före fransmannen Frederic LaCroix och Martin Couvra efter att ha levererat en stark avslutande prestation på -13. Bakom ledartrioen fanns ett stort fält av konkurrerande spelare på -10, anförda av Ryan Fox och Si Woo Kim, vilket vittnar om en jämn och hårt omstridd turnering. Svenska spelare i fält – Niklas Lemke och Marcus Kinhult – lyckades inte brottas sig in i närområdet av ledningen, något som återspeglar det höga konkurrensnivå som rådet på DP World Tour denna säsong."
+              "b": "Yuto Katsuragawa från Japan dominerade Genesis Championship överlägset och vann med två slag framför fransmannen Frederic LaCroix och landsmannen Martin Couvra, som delte andraplats på -11. Katsuragawas konsistenta spel genom hela veckan, där han aldrig tappade kontrollen på scorekorten, räckte långt före ett tätt jaktfält där sex spelare slutade på -10. De svenska deltagarna Marcus Kinhult och Niklas Lemke hann inte in i topp 20 och påverkade därmed inte toppsituationen i ett påtagligt tätt DP World Tour-arrangemang."
             },
             {
               "icon": "list.number",
@@ -1948,13 +3531,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:41+00:00",
-          "headline": "Katsuragawa solosiegrare – fransosarna knappast bakom på Genesis Championship",
+          "generatedAt": "2026-10-25T23:10:24+00:00",
+          "headline": "Katsuragawa solokung på Genesis – sex franska och sydkoreanska jägare två slag bakom",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Yuto Katsuragawa tog Genesis Championship efter stark slutrunda med två slagsledning på -13, fyra slag före fransmannen Frederic LaCroix och Martin Couvra som delade andraplats. Katsuragawa höll sin form genom helgen och vann före ett starkt fält dominerat av europeiska och asiatiska spelare. De svenska förhoppningarna Niklas Lemke och Marcus Kinhult kom inte in i topp 15, vilket indikerar att tävlingens höga skårnivå krävde konsekvent spel från början till slut."
+              "b": "Yuto Katsuragawa från Japan segrar på Genesis Championship med två slag före franskt följeslagskap – både Frederic LaCroix och Martin Couvra slutade på -11. Katsuragawas tvåslagsöverskuld berodde på ett stabilt spel genom alla fyra rundor medan flera utmanare, inklusive ett starkt italienskt och spanskt inslag, inte kunde leverera den avslutande dragningen. Svenska startuppställningen Niklas Lemke och Marcus Kinhult lyckades inte göra något större avtryck på det europeiska touren denna gång, medan Fox, Kim och flera andra från Asien-Stillahavsregionen visade att de är konkurrenskraftiga på denna nivå."
             },
             {
               "icon": "list.number",
@@ -2084,13 +3667,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:44+00:00",
-          "headline": "Katsuragawa seger i Genesis – Kinhult och Lemke missade topplaceringen",
+          "generatedAt": "2026-10-25T23:10:28+00:00",
+          "headline": "Katsuragawa dominerar Genesis Championship – två slag före franskt duokrati",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Yuto Katsuragawa tog överraskande segern i Genesis Championship med två slagars marginal på -13, en stark prestation från japanen som höll undan ett tätt fält. Fransmännen dominerade topplaceringarna med LaCroix och Couvra på delad andraplats på -11, medan ett flertal etablerade namn som Fox, Kim och Rozner hamnade fyra slag bakom vinnaren. Marcus Kinhult och Niklas Lemke fanns representerade istarteldet men nådde inte topplaceringarna i en tävling som krävde konsekvent spel under fyra rundor."
+              "b": "Japanen Yuto Katsuragawa försvara sig framgångsrikt med ett två slag brett försprång över fransmannen Frederic LaCroix och landsmannen Martin Couvra på minus elva. Katsuragawas två-slagsöversköt berodde på konsekvent spel genom hela veckan, medan en stor förföljningsgrupp på minus tio slag – anförda av italienaren Filippo Celli och spanjoren Jorge Campillo – aldrig kunde närma sig nog för att hota segern. Ingen av de två svenska deltagarna Marcus Kinhult och Niklas Lemke lyckades etablera sig i topp femtio på leaderboardet under Genesis Championship på DP World Tour."
             },
             {
               "icon": "list.number",
@@ -2220,13 +3803,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:47+00:00",
-          "headline": "Katsuragawa solodominerar Genesis Championship – fransk tvåkamp om andraplats",
+          "generatedAt": "2026-10-25T23:10:32+00:00",
+          "headline": "Katsuragawa solosiegrare på Genesis – två slag före franskarna",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Yuto Katsuragawa från Japan vann Genesis Championship med två slag före fransmannen Frederic LaCroix och landsmannen Martin Couvra. Japanens två slag marginal på -13 räckte för en säker triumf på en bana där flera spelare kämpade sig fram till två slag under par. Svenskarna Niklas Lemke och Marcus Kinhult hittade inte rätt detta veckoslut — varken någon återfinns bland topplaceringarna — medan franskt motstånd återigen visade sig starkt med tre spelare inom topp fem."
+              "b": "Japanen Yuto Katsuragawa vann Genesis Championship med två slagars marginal efter en avslutande rond på 13 under par, vilket räckte före fransmännen Frederic LaCroix och Martin Couvra som delade andraplats på elva under. Flera spelare pressade tätt bakom ledaren under slutspurten, men Katsuragawa höll sin fördel genom stabilt spel över alla fyra rundor. Varken Niklas Lemke eller Marcus Kinhult nådde topp-20-placeringen på DP World Tour-evenemanget."
             },
             {
               "icon": "list.number",
@@ -2371,13 +3954,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:51+00:00",
+          "generatedAt": "2026-10-25T23:10:35+00:00",
           "headline": "Chacarra dominerar India Championship – Söderberg utan topplacering",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Spanjoren Eugenio Chacarra dominerade DP World India Championship med två slag före nyzeeländaren Daniel Hillier på -21 respektive -19, vilket markerar ett brett prestationsgap på slutdagen. Fleetwood, Luiten och Ritchie slutade två slag bakom Hillier, vilket indikerar ett tätpackat mittfält där flera etablerade spelare kämpade för att haka på vinnaren. Sebastian Söderberg nådde inte topp 20 i startfältet utan slutade långt från toppstriden."
+              "b": "Eugenio Chacarra dominerade India Championship med två slag före nyzeeländaren Daniel Hillier och säkrade segern på imponerande -21. Spanjoren höll ett stadigt grepp under finalrundorna och demonstrerade konsekvent spel på en utmanande bana. Gruppen bakom toppduon var spreerad – Meronk och Hidalgo delade tredjeplats på -15, medan en större skara högklassiga spelare kämpade på -13 och -12. Sebastian Söderberg lyckades inte nå topplaceringen, vilket avslutar en DP World Tour-event där Chacarras prestation på gräsmattan i Indien blev överraskande överlägsen konkurrenterna."
             },
             {
               "icon": "list.number",
@@ -2507,13 +4090,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:54+00:00",
-          "headline": "Chacarra slutseger på -21 när Söderberg miste topplaceringen",
+          "generatedAt": "2026-10-25T23:10:38+00:00",
+          "headline": "Chacarra dominerar India – Söderberg långt från toppen på slutresultat",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Eugenio Chacarra avslutade DP World India Championship med två slagars seger, två slag före New Zealänders Daniel Hillier som slutade på -19. Spanjoren höll ett stabilt spel genom hela veckan och lyckades bygga ett tillräckligt stort försprång för att hantera slutspurten. Adrian Meronk och Angel Hidalgo delade tredjeplats på -15, medan Tommy Fleetwood och flera andra etablerade namn hamnade längre bort. Sebastian Söderberg representerade Sverige men fanns inte i topp 15 när turneringen avslutades."
+              "b": "Eugenio Chacarra avslutade DP World India Championship med två slagos ledning över nyzeeländaren Daniel Hillier, vilket räckte för seger på imponerande -21. Chacarra behöll kontrollen genom finalrundorna och visade stabil spel på en bana som belönade precision. En större spricka uppstod sedan till tredjeplaceringen, där Adrian Meronk och Angel Hidalgo delade på -15, vilket tyder på att Chacarra's vinnarcirklar redan var etablerad efter tredje rundan. Sebastian Söderberg var inte representerad i topp 15-positionen vid tävlingens slut."
             },
             {
               "icon": "list.number",
@@ -2643,13 +4226,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:45:57+00:00",
-          "headline": "Chacarra dominerar India – två slag före Hillier på slutresultatet",
+          "generatedAt": "2026-10-25T23:10:42+00:00",
+          "headline": "Chacarra skär ut sig på -21 – Söderberg långt bakom i Indien",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Eugenio Chacarra från Spanien vann tävlingen med två slag före Nya Zelands Daniel Hillier, efter att ha uppvisat solid golf genom hela turneringen på Indian Course. Chacarra höll fokus då konkurrenterna aldrig fick något riktigt grepp om ledningen, och två slag bakåm slutade Polen Adrian Meronk tillsammans med Spaniens Angel Hidalgo. Sebastian Söderberg representerade Sverige istartelvan men kom inte in i topplaceringar, vilket avslutar turneringen på DP World Tour med ett tydligt spanskt dominans i de främsta placeringarna."
+              "b": "Eugenio Chacarra dominerade DP World India Championship med två slag före silvermedaljören Daniel Hillier från Nya Zeeland. Spanjoren höll kontrollen genom hela veckan och levererade en slutresultat på -21 som blev för starkt för konkurrenterna. Bakom de två ledande fanns ett tätpackat fält med flera spelare på -15 eller bättre, där bland andra engelsmannen Tommy Fleetwood och sydafrikanen JC Ritchie pressade på men aldrig hotade vinnaren på allvar. Sebastian Söderberg fick ingen framträdande roll i slutställningen, vilket avslutar tävlingen med Chacarras övertygande seger."
             },
             {
               "icon": "list.number",
@@ -2779,13 +4362,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-25T20:46:00+00:00",
-          "headline": "Chacarra dominerar India Championship – Söderberg inte i topp",
+          "generatedAt": "2026-10-25T23:10:45+00:00",
+          "headline": "Chacarra dominerar India Championship – Söderberg missar topp tio",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Eugenio Chacarra dominerade DP World India Championship med två slagars marginal över nyzeeländaren Daniel Hillier, vilket reflekterar en konsekvent stark prestationsnivå under hela veckan snarare än en sluttspurt. Chacarra höll kontrollen från ledningen genom att kombinera exakt drivarspel och solid kortkortsspel, medan Hillier kämpade för att minska avståndet. Flertalet spelares slutposition runt fyrtioslagsnivån indikerar att banan bjöd motstånd, men Chacarra klarade de utmaningarna bättre än konkurrenterna, vilket säkrar honom en säker seger på en stark DP World Tour-turnering."
+              "b": "Eugenio Chacarra dominerade DP World India Championship med en slutresultat på -21, två slag före New Zealändaren Daniel Hillier. Spanjoren höll sig framme genom konsekvent spel och levererade när det räknades, medan närmare tio spelare kämpade om pallplaceringar på mellan -15 och -10. Sebastian Söderberg återfinns inte i topp 15, vilket indikerar att svensken inte nådde topp-20-placeringen denna gång på en bana där normeringen gjorde det svårt för fältet att gå långt under par."
             },
             {
               "icon": "list.number",
