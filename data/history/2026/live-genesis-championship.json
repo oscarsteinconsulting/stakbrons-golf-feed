@@ -7,12 +7,12 @@
   "par": 71,
   "yards": 0,
   "startDate": "2026-10-22T04:00Z",
-  "snapshotAt": "2026-10-25T11:17:04+00:00",
+  "snapshotAt": "2026-10-25T16:00:54+00:00",
   "headlines": {
-    "torsdag": "Katsuragawa vinner Genesis Championship – Lemke och Kinhult utan topplacering",
-    "fredag": "Katsuragawa vinner Genesis Championship – Kinhult och Lemke missar topp 10",
-    "lordag": "Katsuragawa dominerar Genesis Championship – Kinhult och Lemke utan genomslag",
-    "sondag": "Katsuragawa löser Genesis Championship – Kinhult och Lemke utan plats i topp"
+    "torsdag": "Katsuragawa stoltserar med Genesis-segern – två slag före franskt dubbelmotstånd",
+    "fredag": "Katsuragawa soloklar i Genesis Championship – två slag före franskt dubbelmotstånd",
+    "lordag": "Katsuragawa solobriljör på -13 – två slag före franska duon på Genesis Championship",
+    "sondag": "Katsuragawa solokung efter Genesis Championship – Lemke och Kinhult utan topp 10-finish"
   },
   "finalLeaderboard": [
     {
@@ -29,20 +29,72 @@
       ]
     },
     {
-      "position": "2",
-      "name": "Casey Jarvis",
-      "country": "South Africa",
+      "position": "T2",
+      "name": "Frederic LaCroix",
+      "country": "France",
       "totalDisplay": "-11",
       "totalValue": -11.0,
       "rounds": [
-        "-6",
         "-4",
-        "-1",
-        "+1"
+        "-2",
+        "-2",
+        "-3"
       ]
     },
     {
-      "position": "T3",
+      "position": "T2",
+      "name": "Martin Couvra",
+      "country": "France",
+      "totalDisplay": "-11",
+      "totalValue": -11.0,
+      "rounds": [
+        "-2",
+        "-5",
+        "-2",
+        "-2"
+      ]
+    },
+    {
+      "position": "T4",
+      "name": "Filippo Celli",
+      "country": "Italy",
+      "totalDisplay": "-10",
+      "totalValue": -10.0,
+      "rounds": [
+        "-2",
+        "-5",
+        "E",
+        "-3"
+      ]
+    },
+    {
+      "position": "T4",
+      "name": "Jorge Campillo",
+      "country": "Spain",
+      "totalDisplay": "-10",
+      "totalValue": -10.0,
+      "rounds": [
+        "+2",
+        "-6",
+        "-5",
+        "-1"
+      ]
+    },
+    {
+      "position": "T4",
+      "name": "Ryan Fox",
+      "country": "New Zealand",
+      "totalDisplay": "-10",
+      "totalValue": -10.0,
+      "rounds": [
+        "-3",
+        "-4",
+        "-2",
+        "-1"
+      ]
+    },
+    {
+      "position": "T4",
       "name": "Si Woo Kim",
       "country": "South Korea",
       "totalDisplay": "-10",
@@ -55,7 +107,7 @@
       ]
     },
     {
-      "position": "T3",
+      "position": "T4",
       "name": "Sanghun Shin",
       "country": "South Korea",
       "totalDisplay": "-10",
@@ -68,7 +120,7 @@
       ]
     },
     {
-      "position": "T3",
+      "position": "T4",
       "name": "Antoine Rozner",
       "country": "France",
       "totalDisplay": "-10",
@@ -81,59 +133,72 @@
       ]
     },
     {
-      "position": "T6",
-      "name": "Martin Couvra",
-      "country": "France",
-      "totalDisplay": "-9",
-      "totalValue": -9.0,
+      "position": "T4",
+      "name": "Casey Jarvis",
+      "country": "South Africa",
+      "totalDisplay": "-10",
+      "totalValue": -10.0,
       "rounds": [
-        "-2",
-        "-5",
-        "-2",
-        "-2"
-      ]
-    },
-    {
-      "position": "T6",
-      "name": "Jorge Campillo",
-      "country": "Spain",
-      "totalDisplay": "-9",
-      "totalValue": -9.0,
-      "rounds": [
-        "+2",
         "-6",
-        "-5",
-        "-1"
+        "-4",
+        "-1",
+        "+1"
       ]
     },
     {
-      "position": "T6",
-      "name": "Ryan Fox",
+      "position": "T11",
+      "name": "Daniel Hillier",
       "country": "New Zealand",
       "totalDisplay": "-9",
       "totalValue": -9.0,
       "rounds": [
+        "+1",
         "-3",
-        "-4",
         "-2",
-        "-1"
+        "-5"
       ]
     },
     {
-      "position": "T9",
-      "name": "Frederic LaCroix",
-      "country": "France",
-      "totalDisplay": "-8",
-      "totalValue": -8.0,
+      "position": "T11",
+      "name": "Shubhankar Sharma",
+      "country": "India",
+      "totalDisplay": "-9",
+      "totalValue": -9.0,
       "rounds": [
+        "+1",
+        "-3",
         "-4",
-        "-2",
-        "-2",
         "-3"
       ]
     },
     {
-      "position": "T9",
+      "position": "T13",
+      "name": "Nacho Elvira",
+      "country": "Spain",
+      "totalDisplay": "-8",
+      "totalValue": -8.0,
+      "rounds": [
+        "E",
+        "E",
+        "-3",
+        "-5"
+      ]
+    },
+    {
+      "position": "T13",
+      "name": "Yongjun Bae",
+      "country": "South Korea",
+      "totalDisplay": "-8",
+      "totalValue": -8.0,
+      "rounds": [
+        "+1",
+        "-6",
+        "E",
+        "-3"
+      ]
+    },
+    {
+      "position": "T13",
       "name": "Johannes Veerman",
       "country": "USA",
       "totalDisplay": "-8",
@@ -146,76 +211,50 @@
       ]
     },
     {
-      "position": "T9",
-      "name": "Dan Bradbury",
-      "country": "England",
-      "totalDisplay": "-8",
-      "totalValue": -8.0,
+      "position": "T16",
+      "name": "Niklas Lemke",
+      "country": "Sweden",
+      "totalDisplay": "-7",
+      "totalValue": -7.0,
       "rounds": [
-        "-3",
-        "E",
-        "-5",
-        "+2"
-      ]
-    },
-    {
-      "position": "T9",
-      "name": "Rikuya Hoshino",
-      "country": "Japan",
-      "totalDisplay": "-8",
-      "totalValue": -8.0,
-      "rounds": [
-        "-1",
         "-4",
-        "-3",
-        "+2"
+        "+2",
+        "-1",
+        "-4"
       ]
     },
     {
-      "position": "T13",
-      "name": "Filippo Celli",
-      "country": "Italy",
+      "position": "T16",
+      "name": "Sanghee Lee",
+      "country": "South Korea",
+      "totalDisplay": "-7",
+      "totalValue": -7.0,
+      "rounds": [
+        "+1",
+        "-4",
+        "E",
+        "-4"
+      ]
+    },
+    {
+      "position": "T16",
+      "name": "Sam Bairstow",
+      "country": "England",
       "totalDisplay": "-7",
       "totalValue": -7.0,
       "rounds": [
         "-2",
-        "-5",
         "E",
-        "-3"
-      ]
-    },
-    {
-      "position": "T13",
-      "name": "Gregorio De Leo",
-      "country": "Italy",
-      "totalDisplay": "-7",
-      "totalValue": -7.0,
-      "rounds": [
-        "E",
-        "E",
-        "-7",
-        "+1"
-      ]
-    },
-    {
-      "position": "T15",
-      "name": "Shubhankar Sharma",
-      "country": "India",
-      "totalDisplay": "-6",
-      "totalValue": -6.0,
-      "rounds": [
-        "+1",
         "-3",
-        "-4",
-        "-3"
+        "-2"
       ]
     },
     {
-      "position": "T15",
+      "position": "T16",
       "name": "Thomas Detry",
       "country": "Belgium",
-      "totalDisplay": "-6",
-      "totalValue": -6.0,
+      "totalDisplay": "-7",
+      "totalValue": -7.0,
       "rounds": [
         "-1",
         "E",
@@ -224,11 +263,11 @@
       ]
     },
     {
-      "position": "T15",
+      "position": "T16",
       "name": "Alejandro Del Rey",
       "country": "Spain",
-      "totalDisplay": "-6",
-      "totalValue": -6.0,
+      "totalDisplay": "-7",
+      "totalValue": -7.0,
       "rounds": [
         "E",
         "-3",
@@ -237,7 +276,85 @@
       ]
     },
     {
-      "position": "T15",
+      "position": "T21",
+      "name": "Richard Sterne",
+      "country": "South Africa",
+      "totalDisplay": "-6",
+      "totalValue": -6.0,
+      "rounds": [
+        "-1",
+        "+1",
+        "-1",
+        "-5"
+      ]
+    },
+    {
+      "position": "T21",
+      "name": "Scott Jamieson",
+      "country": "Scotland",
+      "totalDisplay": "-6",
+      "totalValue": -6.0,
+      "rounds": [
+        "+1",
+        "-2",
+        "-1",
+        "-4"
+      ]
+    },
+    {
+      "position": "T21",
+      "name": "Junghun Park",
+      "country": "South Korea",
+      "totalDisplay": "-6",
+      "totalValue": -6.0,
+      "rounds": [
+        "+1",
+        "E",
+        "-4",
+        "-3"
+      ]
+    },
+    {
+      "position": "T21",
+      "name": "Ashun Wu",
+      "country": "China",
+      "totalDisplay": "-6",
+      "totalValue": -6.0,
+      "rounds": [
+        "E",
+        "E",
+        "-3",
+        "-3"
+      ]
+    },
+    {
+      "position": "T21",
+      "name": "Eugenio Chacarra",
+      "country": "Spain",
+      "totalDisplay": "-6",
+      "totalValue": -6.0,
+      "rounds": [
+        "+1",
+        "-5",
+        "+1",
+        "-3"
+      ]
+    },
+    {
+      "position": "T21",
+      "name": "Jacob Skov Olesen",
+      "country": "Denmark",
+      "totalDisplay": "-6",
+      "totalValue": -6.0,
+      "rounds": [
+        "+2",
+        "-3",
+        "-3",
+        "-2"
+      ]
+    },
+    {
+      "position": "T21",
       "name": "Ilhwan Park",
       "country": "South Korea",
       "totalDisplay": "-6",
@@ -250,33 +367,72 @@
       ]
     },
     {
-      "position": "T19",
-      "name": "Yongjun Bae",
-      "country": "South Korea",
-      "totalDisplay": "-5",
-      "totalValue": -5.0,
+      "position": "T21",
+      "name": "Gregorio De Leo",
+      "country": "Italy",
+      "totalDisplay": "-6",
+      "totalValue": -6.0,
       "rounds": [
-        "+1",
-        "-6",
         "E",
-        "-3"
+        "E",
+        "-7",
+        "+1"
       ]
     },
     {
-      "position": "T19",
-      "name": "Sam Bairstow",
+      "position": "T21",
+      "name": "Dan Bradbury",
       "country": "England",
+      "totalDisplay": "-6",
+      "totalValue": -6.0,
+      "rounds": [
+        "-3",
+        "E",
+        "-5",
+        "+2"
+      ]
+    },
+    {
+      "position": "T21",
+      "name": "Rikuya Hoshino",
+      "country": "Japan",
+      "totalDisplay": "-6",
+      "totalValue": -6.0,
+      "rounds": [
+        "-1",
+        "-4",
+        "-3",
+        "+2"
+      ]
+    },
+    {
+      "position": "T31",
+      "name": "Ivan Cantero",
+      "country": "Spain",
       "totalDisplay": "-5",
       "totalValue": -5.0,
       "rounds": [
-        "-2",
-        "E",
-        "-3",
+        "+2",
+        "-1",
+        "-4",
         "-2"
       ]
     },
     {
-      "position": "T19",
+      "position": "T31",
+      "name": "Ugo Coussaud",
+      "country": "France",
+      "totalDisplay": "-5",
+      "totalValue": -5.0,
+      "rounds": [
+        "E",
+        "-2",
+        "-2",
+        "-1"
+      ]
+    },
+    {
+      "position": "T31",
       "name": "Eunshin Park",
       "country": "South Korea",
       "totalDisplay": "-5",
@@ -289,206 +445,76 @@
       ]
     },
     {
-      "position": "T19",
-      "name": "Doyeob Mun",
-      "country": "South Korea",
-      "totalDisplay": "-5",
-      "totalValue": -5.0,
+      "position": "T34",
+      "name": "Maximilian Steinlechner",
+      "country": "Austria",
+      "totalDisplay": "-4",
+      "totalValue": -4.0,
       "rounds": [
-        "E",
-        "-4",
         "-1",
-        "+1"
+        "+2",
+        "+1",
+        "-6"
       ]
     },
     {
-      "position": "T19",
-      "name": "Jack Senior",
-      "country": "England",
-      "totalDisplay": "-5",
-      "totalValue": -5.0,
+      "position": "T34",
+      "name": "Sean Crocker",
+      "country": "USA",
+      "totalDisplay": "-4",
+      "totalValue": -4.0,
       "rounds": [
+        "+1",
+        "E",
         "-2",
-        "E",
-        "-3",
-        "+2"
+        "-3"
       ]
     },
     {
-      "position": "T19",
-      "name": "Adrian Otaegui",
-      "country": "United Arab Emirates",
-      "totalDisplay": "-5",
-      "totalValue": -5.0,
-      "rounds": [
-        "-1",
-        "-3",
-        "-1",
-        "+6"
-      ]
-    },
-    {
-      "position": "T25",
-      "name": "Daniel Hillier",
+      "position": "T34",
+      "name": "Kazuma Kobori",
       "country": "New Zealand",
       "totalDisplay": "-4",
       "totalValue": -4.0,
       "rounds": [
         "+1",
-        "-3",
-        "-2",
-        "-5"
-      ]
-    },
-    {
-      "position": "T25",
-      "name": "Jacob Skov Olesen",
-      "country": "Denmark",
-      "totalDisplay": "-4",
-      "totalValue": -4.0,
-      "rounds": [
-        "+2",
-        "-3",
-        "-3",
-        "-2"
-      ]
-    },
-    {
-      "position": "T25",
-      "name": "Ugo Coussaud",
-      "country": "France",
-      "totalDisplay": "-4",
-      "totalValue": -4.0,
-      "rounds": [
-        "E",
-        "-2",
-        "-2",
-        "-1"
-      ]
-    },
-    {
-      "position": "T25",
-      "name": "Robin Williams",
-      "country": "South Africa",
-      "totalDisplay": "-4",
-      "totalValue": -4.0,
-      "rounds": [
-        "-2",
-        "+2",
-        "-4",
-        "+1"
-      ]
-    },
-    {
-      "position": "T25",
-      "name": "Ryggs Johnston",
-      "country": "USA",
-      "totalDisplay": "-4",
-      "totalValue": -4.0,
-      "rounds": [
-        "-3",
-        "+2",
-        "-3",
-        "+1"
-      ]
-    },
-    {
-      "position": "T30",
-      "name": "Nacho Elvira",
-      "country": "Spain",
-      "totalDisplay": "-3",
-      "totalValue": -3.0,
-      "rounds": [
-        "E",
-        "E",
-        "-3",
-        "-5"
-      ]
-    },
-    {
-      "position": "T30",
-      "name": "Niklas Lemke",
-      "country": "Sweden",
-      "totalDisplay": "-3",
-      "totalValue": -3.0,
-      "rounds": [
-        "-4",
-        "+2",
         "-1",
-        "-4"
-      ]
-    },
-    {
-      "position": "T30",
-      "name": "Sanghee Lee",
-      "country": "South Korea",
-      "totalDisplay": "-3",
-      "totalValue": -3.0,
-      "rounds": [
-        "+1",
-        "-4",
-        "E",
-        "-4"
-      ]
-    },
-    {
-      "position": "T30",
-      "name": "Junghun Park",
-      "country": "South Korea",
-      "totalDisplay": "-3",
-      "totalValue": -3.0,
-      "rounds": [
-        "+1",
-        "E",
-        "-4",
+        "-1",
         "-3"
       ]
     },
     {
-      "position": "T30",
-      "name": "Ashun Wu",
+      "position": "T34",
+      "name": "Wenyi Ding",
       "country": "China",
-      "totalDisplay": "-3",
-      "totalValue": -3.0,
+      "totalDisplay": "-4",
+      "totalValue": -4.0,
       "rounds": [
-        "E",
-        "E",
-        "-3",
-        "-3"
-      ]
-    },
-    {
-      "position": "T30",
-      "name": "Eugenio Chacarra",
-      "country": "Spain",
-      "totalDisplay": "-3",
-      "totalValue": -3.0,
-      "rounds": [
-        "+1",
-        "-5",
-        "+1",
-        "-3"
-      ]
-    },
-    {
-      "position": "T30",
-      "name": "Ivan Cantero",
-      "country": "Spain",
-      "totalDisplay": "-3",
-      "totalValue": -3.0,
-      "rounds": [
-        "+2",
-        "-1",
+        "+3",
         "-4",
+        "-1",
         "-2"
       ]
     },
     {
-      "position": "T30",
+      "position": "T34",
+      "name": "Jaewoong Eom",
+      "country": "South Korea",
+      "totalDisplay": "-4",
+      "totalValue": -4.0,
+      "rounds": [
+        "-1",
+        "-2",
+        "+1",
+        "-2"
+      ]
+    },
+    {
+      "position": "T34",
       "name": "Angel Hidalgo",
       "country": "Spain",
-      "totalDisplay": "-3",
-      "totalValue": -3.0,
+      "totalDisplay": "-4",
+      "totalValue": -4.0,
       "rounds": [
         "E",
         "-2",
@@ -497,11 +523,11 @@
       ]
     },
     {
-      "position": "T30",
+      "position": "T34",
       "name": "Marcus Kinhult",
       "country": "Sweden",
-      "totalDisplay": "-3",
-      "totalValue": -3.0,
+      "totalDisplay": "-4",
+      "totalValue": -4.0,
       "rounds": [
         "-3",
         "-2",
@@ -510,98 +536,98 @@
       ]
     },
     {
-      "position": "T30",
-      "name": "Yubin Jang",
+      "position": "T34",
+      "name": "Doyeob Mun",
       "country": "South Korea",
-      "totalDisplay": "-3",
-      "totalValue": -3.0,
+      "totalDisplay": "-4",
+      "totalValue": -4.0,
       "rounds": [
-        "+1",
-        "-3",
+        "E",
+        "-4",
         "-1",
         "+1"
       ]
     },
     {
-      "position": "T30",
-      "name": "Francesco Laporta",
-      "country": "Italy",
+      "position": "T42",
+      "name": "Robin Williams",
+      "country": "South Africa",
       "totalDisplay": "-3",
       "totalValue": -3.0,
       "rounds": [
-        "-1",
+        "-2",
+        "+2",
+        "-4",
+        "+1"
+      ]
+    },
+    {
+      "position": "T42",
+      "name": "Ryggs Johnston",
+      "country": "USA",
+      "totalDisplay": "-3",
+      "totalValue": -3.0,
+      "rounds": [
+        "-3",
+        "+2",
+        "-3",
+        "+1"
+      ]
+    },
+    {
+      "position": "T42",
+      "name": "Jack Senior",
+      "country": "England",
+      "totalDisplay": "-3",
+      "totalValue": -3.0,
+      "rounds": [
         "-2",
         "E",
-        "+1"
-      ]
-    },
-    {
-      "position": "T30",
-      "name": "Daihan Lee",
-      "country": "South Korea",
-      "totalDisplay": "-3",
-      "totalValue": -3.0,
-      "rounds": [
-        "-2",
-        "-4",
-        "+3",
+        "-3",
         "+2"
       ]
     },
     {
-      "position": "T30",
-      "name": "Sangyeop Lee",
-      "country": "South Korea",
-      "totalDisplay": "-3",
-      "totalValue": -3.0,
+      "position": "T45",
+      "name": "Matteo Manassero",
+      "country": "Italy",
+      "totalDisplay": "-2",
+      "totalValue": -2.0,
       "rounds": [
-        "-2",
-        "-1",
+        "+1",
         "E",
-        "+7"
+        "E",
+        "-3"
       ]
     },
     {
-      "position": "T43",
-      "name": "Scott Jamieson",
-      "country": "Scotland",
+      "position": "T45",
+      "name": "James Morrison",
+      "country": "England",
       "totalDisplay": "-2",
       "totalValue": -2.0,
       "rounds": [
         "+1",
-        "-2",
-        "-1",
-        "-4"
-      ]
-    },
-    {
-      "position": "T43",
-      "name": "Wenyi Ding",
-      "country": "China",
-      "totalDisplay": "-2",
-      "totalValue": -2.0,
-      "rounds": [
-        "+3",
-        "-4",
-        "-1",
+        "-3",
+        "+2",
         "-2"
       ]
     },
     {
-      "position": "T43",
-      "name": "Jaewoong Eom",
-      "country": "South Korea",
+      "position": "T45",
+      "name": "Quim Vidal",
+      "country": "Spain",
       "totalDisplay": "-2",
       "totalValue": -2.0,
       "rounds": [
         "-1",
-        "-2",
+        "-1",
         "+1",
-        "-2"
+        "-1"
       ]
     },
     {
-      "position": "T43",
+      "position": "T45",
       "name": "Darius Van Driel",
       "country": "Netherlands",
       "totalDisplay": "-2",
@@ -614,85 +640,33 @@
       ]
     },
     {
-      "position": "T43",
-      "name": "Joel Girrbach",
-      "country": "Switzerland",
+      "position": "T45",
+      "name": "Yubin Jang",
+      "country": "South Korea",
       "totalDisplay": "-2",
       "totalValue": -2.0,
       "rounds": [
-        "E",
         "+1",
         "-3",
-        "+2"
+        "-1",
+        "+1"
       ]
     },
     {
-      "position": "T43",
-      "name": "Renato Paratore",
+      "position": "T45",
+      "name": "Francesco Laporta",
       "country": "Italy",
       "totalDisplay": "-2",
       "totalValue": -2.0,
       "rounds": [
-        "E",
-        "E",
+        "-1",
         "-2",
-        "+2"
-      ]
-    },
-    {
-      "position": "T49",
-      "name": "Richard Sterne",
-      "country": "South Africa",
-      "totalDisplay": "-1",
-      "totalValue": -1.0,
-      "rounds": [
-        "-1",
-        "+1",
-        "-1",
-        "-5"
-      ]
-    },
-    {
-      "position": "T49",
-      "name": "Sean Crocker",
-      "country": "USA",
-      "totalDisplay": "-1",
-      "totalValue": -1.0,
-      "rounds": [
-        "+1",
         "E",
-        "-2",
-        "-3"
+        "+1"
       ]
     },
     {
-      "position": "T49",
-      "name": "Kazuma Kobori",
-      "country": "New Zealand",
-      "totalDisplay": "-1",
-      "totalValue": -1.0,
-      "rounds": [
-        "+1",
-        "-1",
-        "-1",
-        "-3"
-      ]
-    },
-    {
-      "position": "T49",
-      "name": "Quim Vidal",
-      "country": "Spain",
-      "totalDisplay": "-1",
-      "totalValue": -1.0,
-      "rounds": [
-        "-1",
-        "-1",
-        "+1",
-        "-1"
-      ]
-    },
-    {
-      "position": "T49",
+      "position": "T51",
       "name": "Kota Kaneko",
       "country": "Japan",
       "totalDisplay": "-1",
@@ -705,7 +679,7 @@
       ]
     },
     {
-      "position": "T49",
+      "position": "T51",
       "name": "Oihan Guillamoundeguy",
       "country": "France",
       "totalDisplay": "-1",
@@ -718,72 +692,20 @@
       ]
     },
     {
-      "position": "T49",
-      "name": "Sungjae Im",
+      "position": "T51",
+      "name": "Daihan Lee",
       "country": "South Korea",
       "totalDisplay": "-1",
       "totalValue": -1.0,
       "rounds": [
-        "E",
-        "+1",
         "-2",
-        "+1"
-      ]
-    },
-    {
-      "position": "T49",
-      "name": "Wooyoung Cho",
-      "country": "South Korea",
-      "totalDisplay": "-1",
-      "totalValue": -1.0,
-      "rounds": [
-        "E",
-        "-1",
-        "E",
+        "-4",
+        "+3",
         "+2"
       ]
     },
     {
-      "position": "T57",
-      "name": "Matteo Manassero",
-      "country": "Italy",
-      "totalDisplay": "+1",
-      "totalValue": 1.0,
-      "rounds": [
-        "+1",
-        "E",
-        "E",
-        "-3"
-      ]
-    },
-    {
-      "position": "T57",
-      "name": "Nathan Kimsey",
-      "country": "England",
-      "totalDisplay": "+1",
-      "totalValue": 1.0,
-      "rounds": [
-        "+4",
-        "-3",
-        "E",
-        "-1"
-      ]
-    },
-    {
-      "position": "T57",
-      "name": "Brandon Robinson Thompson",
-      "country": "England",
-      "totalDisplay": "+1",
-      "totalValue": 1.0,
-      "rounds": [
-        "E",
-        "-2",
-        "+3",
-        "-1"
-      ]
-    },
-    {
-      "position": "T57",
+      "position": "T54",
       "name": "Yurav Premlall",
       "country": "South Africa",
       "totalDisplay": "+1",
@@ -796,33 +718,46 @@
       ]
     },
     {
-      "position": "T57",
-      "name": "Daniel Rodrigues",
-      "country": "Portugal",
+      "position": "T54",
+      "name": "Andreas Halvorsen",
+      "country": "Norway",
       "totalDisplay": "+1",
       "totalValue": 1.0,
       "rounds": [
-        "+2",
-        "-4",
-        "+3",
-        "+3"
+        "E",
+        "+1",
+        "-1",
+        "+1"
       ]
     },
     {
-      "position": "T62",
-      "name": "Maximilian Steinlechner",
-      "country": "Austria",
-      "totalDisplay": "+2",
-      "totalValue": 2.0,
+      "position": "T54",
+      "name": "Wooyoung Cho",
+      "country": "South Korea",
+      "totalDisplay": "+1",
+      "totalValue": 1.0,
+      "rounds": [
+        "E",
+        "-1",
+        "E",
+        "+2"
+      ]
+    },
+    {
+      "position": "T54",
+      "name": "Adrian Otaegui",
+      "country": "United Arab Emirates",
+      "totalDisplay": "+1",
+      "totalValue": 1.0,
       "rounds": [
         "-1",
-        "+2",
-        "+1",
-        "-6"
+        "-3",
+        "-1",
+        "+6"
       ]
     },
     {
-      "position": "T62",
+      "position": "T58",
       "name": "Chanmin Jung",
       "country": "South Korea",
       "totalDisplay": "+2",
@@ -833,7 +768,7 @@
       ]
     },
     {
-      "position": "T62",
+      "position": "T58",
       "name": "David Law",
       "country": "Scotland",
       "totalDisplay": "+2",
@@ -844,7 +779,7 @@
       ]
     },
     {
-      "position": "T62",
+      "position": "T58",
       "name": "Jeunghun Wang",
       "country": "South Korea",
       "totalDisplay": "+2",
@@ -855,7 +790,7 @@
       ]
     },
     {
-      "position": "T62",
+      "position": "T58",
       "name": "Euan Walker",
       "country": "Scotland",
       "totalDisplay": "+2",
@@ -866,7 +801,7 @@
       ]
     },
     {
-      "position": "T62",
+      "position": "T58",
       "name": "Angel Ayora",
       "country": "Spain",
       "totalDisplay": "+2",
@@ -877,7 +812,7 @@
       ]
     },
     {
-      "position": "T62",
+      "position": "T58",
       "name": "Yanhan Zhou",
       "country": "China",
       "totalDisplay": "+2",
@@ -888,7 +823,7 @@
       ]
     },
     {
-      "position": "T62",
+      "position": "T58",
       "name": "Brandon Kewalramani",
       "country": "USA",
       "totalDisplay": "+2",
@@ -899,7 +834,7 @@
       ]
     },
     {
-      "position": "T62",
+      "position": "T58",
       "name": "Woohyun Kim",
       "country": "South Korea",
       "totalDisplay": "+2",
@@ -910,7 +845,7 @@
       ]
     },
     {
-      "position": "T62",
+      "position": "T58",
       "name": "Seungbin Choi",
       "country": "South Korea",
       "totalDisplay": "+2",
@@ -921,20 +856,20 @@
       ]
     },
     {
-      "position": "T72",
-      "name": "Soomin Lee",
+      "position": "T67",
+      "name": "Jaehyun Jung",
       "country": "South Korea",
       "totalDisplay": "+3",
       "totalValue": 3.0,
       "rounds": [
         "E",
-        "-1",
-        "+4",
-        "+5"
+        "E",
+        "+7",
+        "-4"
       ]
     },
     {
-      "position": "T72",
+      "position": "T67",
       "name": "Dylan Naidoo",
       "country": "South Africa",
       "totalDisplay": "+3",
@@ -945,7 +880,7 @@
       ]
     },
     {
-      "position": "T72",
+      "position": "T67",
       "name": "Nicolai von Dellingshausen",
       "country": "Germany",
       "totalDisplay": "+3",
@@ -956,7 +891,7 @@
       ]
     },
     {
-      "position": "T72",
+      "position": "T67",
       "name": "Ricardo Gouveia",
       "country": "Portugal",
       "totalDisplay": "+3",
@@ -967,7 +902,7 @@
       ]
     },
     {
-      "position": "T72",
+      "position": "T67",
       "name": "Inhoi Hur",
       "country": "South Korea",
       "totalDisplay": "+3",
@@ -978,7 +913,7 @@
       ]
     },
     {
-      "position": "T72",
+      "position": "T67",
       "name": "Stefano Mazzoli",
       "country": "Italy",
       "totalDisplay": "+3",
@@ -989,7 +924,7 @@
       ]
     },
     {
-      "position": "T72",
+      "position": "T67",
       "name": "Junghwan Lee",
       "country": "South Korea",
       "totalDisplay": "+3",
@@ -1000,7 +935,7 @@
       ]
     },
     {
-      "position": "T72",
+      "position": "T67",
       "name": "Chanwoo Kim",
       "country": "South Korea",
       "totalDisplay": "+3",
@@ -1011,7 +946,7 @@
       ]
     },
     {
-      "position": "T72",
+      "position": "T67",
       "name": "Mikael Lindberg",
       "country": "Sweden",
       "totalDisplay": "+3",
@@ -1019,6 +954,69 @@
       "rounds": [
         "-4",
         "+7"
+      ]
+    },
+    {
+      "position": "T76",
+      "name": "Rocco Repetto Taylor",
+      "country": "Spain",
+      "totalDisplay": "+4",
+      "totalValue": 4.0,
+      "rounds": [
+        "E",
+        "+1",
+        "+6",
+        "-3"
+      ]
+    },
+    {
+      "position": "T76",
+      "name": "K.H. Lee",
+      "country": "South Korea",
+      "totalDisplay": "+4",
+      "totalValue": 4.0,
+      "rounds": [
+        "+3",
+        "-2",
+        "+3",
+        "E"
+      ]
+    },
+    {
+      "position": "T76",
+      "name": "Daniel Rodrigues",
+      "country": "Portugal",
+      "totalDisplay": "+4",
+      "totalValue": 4.0,
+      "rounds": [
+        "+2",
+        "-4",
+        "+3",
+        "+3"
+      ]
+    },
+    {
+      "position": "T76",
+      "name": "Sangyeop Lee",
+      "country": "South Korea",
+      "totalDisplay": "+4",
+      "totalValue": 4.0,
+      "rounds": [
+        "-2",
+        "-1",
+        "E",
+        "+7"
+      ]
+    },
+    {
+      "position": "T76",
+      "name": "Taehoon Ok",
+      "country": "South Korea",
+      "totalDisplay": "+4",
+      "totalValue": 4.0,
+      "rounds": [
+        "+5",
+        "-1"
       ]
     }
   ]
