@@ -7,16 +7,16 @@
   "par": 71,
   "yards": 0,
   "startDate": "2026-10-22T04:00Z",
-  "snapshotAt": "2026-10-25T20:45:03+00:00",
+  "snapshotAt": "2026-10-26T12:50:00+00:00",
   "headlines": {
-    "torsdag": "Smotherman stoppar Power i playoff – Svensson släpper taget i Bermuda",
-    "fredag": "Smotherman och Power delarSegern – Svensson långt från Bermuda-premien",
-    "lordag": "Smotherman och Power delar triumfen – Svensson landar utanför topp 20",
-    "sondag": "Smotherman och Power delar segern – Svensson långt bakom i Bermuda"
+    "torsdag": "Smotherman vinner Bermuda-drömmen på 16 slag under par",
+    "fredag": "Smotherman-triumf i Bermuda – Svensson miste topplaceringen",
+    "lordag": "Smotherman vinner Bermuda – Svensson utan topplacering",
+    "sondag": "Smotherman solär på Bermuda – Svensson miste topplaceringen"
   },
   "finalLeaderboard": [
     {
-      "position": "T1",
+      "position": "1",
       "name": "Austin Smotherman",
       "country": "USA",
       "totalDisplay": "-16",
@@ -25,19 +25,21 @@
         "-6",
         "-5",
         "-5",
+        "E",
         "-"
       ]
     },
     {
-      "position": "T1",
+      "position": "2",
       "name": "Séamus Power",
       "country": "Ireland",
-      "totalDisplay": "-16",
-      "totalValue": -16.0,
+      "totalDisplay": "-15",
+      "totalValue": -15.0,
       "rounds": [
         "-5",
         "-7",
         "-4",
+        "+1",
         "-"
       ]
     },
