@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T00:25:30+00:00",
+  "generatedAt": "2026-10-28T11:37:23+00:00",
   "tournaments": [
     {
       "id": "live-vidantaworld-mexico-open",
@@ -12,18 +12,18 @@
       "yards": 0,
       "statusDetail": "Thu, October 28th at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-10-28T00:25:36+00:00",
-          "headline": "Kizzire jagar PGA Tour-triumf i Mexico – amerikanska stjärnorna samlas i Vidanta",
+          "generatedAt": "2026-10-28T11:37:29+00:00",
+          "headline": "Kizzire jagar första PGA-segern på mexikansk gräsmatta",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "VidantaWorld Mexico Open på PGA Tour drar igång utan svenska deltagare, men erbjuder ett starkt internationellt startfält anlett av amerikanska namn som Patton Kizzire och David Lipsky tillsammans med sydafrikanska tungviktarna Erik van Rooyen och Christiaan Bezuidenhout. Tony Finau och Max Homa tillhör fältets mer rutinerade spelare och kan räknas bland favoriterna, medan colombianen Camilo Villegas fortsatt söker återhämtning efter sin tidigare framgångar. Viktigt att hålla koll på hur banaspelet passar de topprangerade golfarna, särskilt hur amerikanska middlefält-spelarna hanterar möjliga höga green-läsningar i mexikansk höjd."
+              "b": "VidantaWorld Mexico Open lockas av ett fält dominerat av amerikaner, men med intressanta namn som Erik van Rooyen och Christiaan Bezuidenhout som kan störa ordningen. Patton Kizzire toppar startelvan och kommer från stabil form, medan etablerade spelare som Tony Finau och Max Homa utgör ett stabilt mittskikt. En viktig notering är att Emiliano Grillo och Camilo Villegas representerar en högre hemmaplansfördel än vanligt på PGA Tour. Utan närmare information om banans karaktär är det svårt att peka på en favorit, men följ hur de södra amerikanerna och de som spelar regelbundet i Mexiko hanterar terrängen."
             },
             {
               "icon": "flag.fill",
@@ -39,6 +39,112 @@
               "icon": "wave.3.right",
               "h": "Auto-genererat",
               "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Wyndham Clark",
+              "svs": 12.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Wyndham Clark är en av SS:s top-1 favoriter pre-tournament (odds 12.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ben James",
+              "svs": 17.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Ben James är en av SS:s top-2 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Doug Ghim",
+              "svs": 17.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Doug Ghim är en av SS:s top-3 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Tom Kim",
+              "svs": 17.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Tom Kim är en av SS:s top-4 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Corey Conners",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Corey Conners är en av SS:s top-5 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ben Griffin",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ben Griffin är en av SS:s top-6 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Marco Penge",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Marco Penge är en av SS:s top-7 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Johnny Keefer",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Johnny Keefer är en av SS:s top-8 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-10-28T11:37:32+00:00",
+          "headline": "Inför torsdag (R1): Wyndham Clark, Ben James, Doug Ghim toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "12.00  Wyndham Clark\n17.00  Ben James\n17.00  Doug Ghim\n17.00  Tom Kim\n21.00  Corey Conners\n23.00  Ben Griffin"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
             }
           ],
           "top5": [],
@@ -413,11 +519,11 @@
               "win": {
                 "prob": 0.0252,
                 "fairOdds": 39.68,
-                "realSSOdds": 46.0,
-                "edgePct": 0.1592,
-                "kellyFraction": 0.0009,
-                "recommendedStakePct": 0.09,
-                "confidence": "Spelvärt"
+                "realSSOdds": 41.0,
+                "edgePct": 0.0332,
+                "kellyFraction": 0.0002,
+                "recommendedStakePct": 0.02,
+                "confidence": "Neutral"
               },
               "top5": {
                 "prob": 0.1143,
@@ -2244,11 +2350,11 @@
               "name": "Jordan Smith",
               "prob": 0.0252,
               "fairOdds": 39.68,
-              "confidence": "Spelvärt",
-              "realSSOdds": 46.0,
-              "edgePct": 0.1592,
-              "kellyFraction": 0.0009,
-              "recommendedStakePct": 0.09
+              "confidence": "Neutral",
+              "realSSOdds": 41.0,
+              "edgePct": 0.0332,
+              "kellyFraction": 0.0002,
+              "recommendedStakePct": 0.02
             },
             {
               "name": "Harry Hall",
@@ -2727,13 +2833,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-28T00:25:45+00:00",
-          "headline": "Smotherman solär i Bermuda – Power på -15 jagar på andra plats",
+          "generatedAt": "2026-10-28T11:37:37+00:00",
+          "headline": "Smotherman vinner Bermuda – Svensson saknas i topplistan",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Austin Smotherman tog hem Butterfield Bermuda Championship efter en dominant slutspurt på -16, två slag före irländaren Séamus Power som avslutade på -15. En tätt packad förföljaregrupp med tre spelare på -14 visar att tävlingen var konkurrensmässigt utmanande under hela helgen, där konsistens från tee till green blev avgörande för Smothermans seger. Jesper Svensson lyckades inte ta sig in i topp 20 på hemmaplan för att konkurrera om de största poängen, vilket illustrerar den höga spelarnivån på PGA Tours mindre turneringar."
+              "b": "Austin Smotherman tog överraskande segern på Butterfield Bermuda Championship med 16 under par, två slag före irländaren Séamus Power som slutade på 15 under. Smotherman höll fokus genom finalen och visade konsekvent spel när det räknades mest, medan Power aldrig kunde ta steget från jagare till ledare. Mehrslaget mellan vinnare och tvåa återspeglar ett relativt öppet fält där fem spelare delade tredje plats på 14 under par, vilket tyder på att turneringen aldrig blev en skrämshooting för någon spelare. Jesper Svensson kom inte med bland de femton bästa resultatplaceringarna."
             },
             {
               "icon": "list.number",
@@ -2863,13 +2969,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-28T00:25:48+00:00",
-          "headline": "Smotherman solklar i Bermuda – Svensson missar topplaceringen",
+          "generatedAt": "2026-10-28T11:37:41+00:00",
+          "headline": "Smotherman triumferar på Bermuda – Svensson slutar långt bakom vinnaren",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Austin Smotherman tog segern på Butterfield Bermuda Championship med sexton slag under par, ett slag före iren Séamus Power. Smotherman höll ett stabilt spel under turneringen och avancerade framför ett tätt fält där fyra spelare delade tredje plats på fjorton slag under par. Jesper Svensson slutade utanför topp femtio och kunde inte konkurrera med ledande grupps konsekvent höga niveau på greenen."
+              "b": "Austin Smotherman dominerade Butterfield Bermuda Championship med en slutnotering på -16, en stroke före irländaren Séamus Power som slutade på -15. Två kanadensare, Ben Silverman och Corey Conners, tillsammans med amerikanen Taylor Moore delade tredjeplats på -14, vilket visar på ett tätt fält där flera spelare pressade vinnaren under slutrundan. Jesper Svensson nådde inte topplaceringen denna gång och lämnade Bermuda utan att bryta sig in i den täta toppen."
             },
             {
               "icon": "list.number",
@@ -2999,13 +3105,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-28T00:25:51+00:00",
-          "headline": "Smotherman toppar Bermuda – Svensson återvänder till tävlan",
+          "generatedAt": "2026-10-28T11:37:44+00:00",
+          "headline": "Smotherman soloar i Bermuda – Svensson miste topplaceringen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Austin Smotherman tog segern vid Butterfield Bermuda Championship på sexton under par, en slag före irländaren Séamus Power som slutade på femton under. Smotherman höll ett stadigt tempo genom finalen och visade en solid kort spel när det behövdes mest. Det råde ingen större dramatik i toppen då de tre tvåorna Taylor Moore, Ben Silverman och Corey Conners alla slutade fyra slag efter vinnaren. Jesper Svensson lyckades inte bryta sig in i topptippan på denna PGA Tour-tävling på bermudagräset."
+              "b": "Austin Smotherman vann Butterfield Bermuda Championship med ett slag före irländaren Séamus Power, båda på tvåsiffriga underpar där Smotherman tog sitt andra PGA Tour-seger genom konsekvent spel under turneringen. Tätt bakom följde ett amerikanskt dominerat fält med Taylor Moore, Ben Silverman och Corey Conners samtliga på -14, en tätt paket som visar på relativt jämn konkurrens i toppen. Jesper Svensson lyckades inte bryta sig in i topp 20-listan utan hamnade längre ned på resultatlistan, vilket innebär att han hade svårt att matchas mot weltoppenturan denna vecka på Bermuda."
             },
             {
               "icon": "list.number",
@@ -3135,13 +3241,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-28T00:25:54+00:00",
-          "headline": "Smotherman solosiegrare på Bermuda – Power strax bakom på -15",
+          "generatedAt": "2026-10-28T11:37:47+00:00",
+          "headline": "Smotherman lugn vinnare i Bermuda – Svensson långt bak",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Austin Smotherman behöll kontrollen under Butterfield Bermuda Championship och vann med sexton slag under par, en stroke före irländske Séamus Power som slutade på femton under. En trio amerikaner – Taylor Moore, Ben Silverman och kanadensaren Corey Conners – delade tredjeplats på fjorton under par, vilket visar på en relativt spridd topp utan någon dominativ prestation. Jesper Svensson slutade utanför resultatlistan och kunde inte konkurrera i den högsta divisionen denna helg."
+              "b": "Austin Smotherman tog hem Butterfield Bermuda Championship efter en solid prestation på sexton under par, ett slag före Séamus Power från Irland. Bakom toppduon fanns ett tätt fält med fem spelare på tretton under par, anförda av Chan Kim, Tom Hoge och Chris Kirk, vilket illustrerar hur jämn tävlingen var framför allt på hemvägen. Jesper Svensson lyckades inte ta sig in i topp femton och hamnade längre ner på resultatlistan, en mindre framgång för svensken på denna PGA Tour-tävling."
             },
             {
               "icon": "list.number",
@@ -3282,7 +3388,38 @@
       "statusDetail": "Thu, November 4th at 12:00 AM EST",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-10-28T11:37:51+00:00",
+          "headline": "Jag kan tyvärr inte se fältlistan från ESPN i din meddelande. För att skriva en kraftfull och konkret rubrik behöver jag veta vilka spelare som är i fältet för World Wide Technology Championship.\n\nKan du dela fältlistan eller de främsta favoriterna så skriver jag dir",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# World Wide Technology Championship – PGA Tour\n\nRory McIlroy återvänder för att anfalla efter en svagare säsong, medan Scottie Scheffler fortsätter sitt dominanta år med fokus på slutspelspunkter. Jason Day och Tony Finau är traditionella starka spelare på denna PGA Tour-tävling, men det är värt att notera formkurvan hos både Hideki Matsuyama och Collin Morikawa som närmar sig höstens slutspel med varierande resultat. Utan svenska namn i toppen av fältlistan blir detta en klassisk amerikansk elitduell där rundorna kring par och straffslag under press blir avgörande – ett perfekt tillfälle att folja hur toppnamnen hanterar pressionen innan de avslutande majortävlingarna."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 05 November 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-maybank-championship",
@@ -3295,18 +3432,18 @@
       "yards": 0,
       "statusDetail": "Thu, October 28th at 12:00 AM EDT",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-10-28T00:25:58+00:00",
-          "headline": "Stark och Grant jagat av Liu-tvålingar på Maybank Championship",
+          "generatedAt": "2026-10-28T11:37:55+00:00",
+          "headline": "Stark och Grant jagar asiatisk dominans i Maybank Championship",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Maybank Championship lockar världselitens bästa på LPGA Tour, med kinesiska spelare som Yu Liu och systerparet Yan och Mary Liu högt rankade inför starten. Svenska Maja Stark och Linn Grant får möjlighet att mäta sig mot ett starkt internationellt fält dominerat av asiatiska talanger, där sydkoreanska spelare som Narin An och Youmin Hwang utgör extra konkurrens hemma på hemkontinenten. Intressant att följa är hur de svenska spelarnas formkurva utvecklas i denna prestigetävling, samtidigt som Yu Lius målchans efter tidigare framgångar är värd att notera."
+              "b": "Maybank Championship lockar ett internationellt elitfält med stark representation från Asien, där Yu Liu från Kina toppsedan tillsammans med flera andra världstopp. Svenska Maja Stark och Linn Grant får möjlighet att mäta sig mot en stark konkurrens på hemmaplan för många av motståndarna, vilket kan påverka spelarnas mentalitet under veckan. Det blir intressant att se hur de svenska spelarna tar sig an den asiatiska dominansen i fältet, särskilt med tanke på att banan troligtvis gunnar de lokalt baserade spelarna med sitt klimat och gräsbeskaffenhet."
             },
             {
               "icon": "flag.fill",
@@ -3327,6 +3464,117 @@
               "icon": "wave.3.right",
               "h": "Auto-genererat",
               "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Miyu Yamashita",
+              "svs": 6.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Miyu Yamashita är en av SS:s top-1 favoriter pre-tournament (odds 6.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Haeran Ryu",
+              "svs": 6.5,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Haeran Ryu är en av SS:s top-2 favoriter pre-tournament (odds 6.50). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ruoning Yin",
+              "svs": 6.5,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Ruoning Yin är en av SS:s top-3 favoriter pre-tournament (odds 6.50). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Aki Iwai",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Aki Iwai är en av SS:s top-4 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Charley Hull",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Charley Hull är en av SS:s top-5 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "A Lim Kim",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "A Lim Kim är en av SS:s top-6 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Lottie Woad",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Lottie Woad är en av SS:s top-7 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Jin Hee Im",
+              "svs": 26.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Jin Hee Im är en av SS:s top-8 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-10-28T11:37:59+00:00",
+          "headline": "Inför torsdag (R1): Miyu Yamashita, Haeran Ryu, Ruoning Yin toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "6.00  Miyu Yamashita\n6.50  Haeran Ryu\n6.50  Ruoning Yin\n11.00  Hye Jin Choi\n15.00  Aki Iwai\n15.00  Charley Hull"
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "2 svenska kvar i fältet.\n\n—  Maja Stark  E\n—  Linn Grant  E"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
             }
           ],
           "top5": [],
@@ -5802,13 +6050,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-28T00:26:03+00:00",
-          "headline": "Yoshida rundar Choi och Ryu – Stark när efter LPGA-final i München",
+          "generatedAt": "2026-10-28T11:38:01+00:00",
+          "headline": "Yoshida triumferar på -17 – Stark hamnade utanför topplaceringen på BMW Ladies Championship",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Yuri Yoshida från Japan tog segern med -17 efter att ha håller sig framme genom hela helgen, medan två sydkoreanska tävlande, Hye-Jin Choi och Haeran Ryu, pressade hårt på -16 men fick inte helt ikapp. Fyra av topp fem löper från Sydkorea, vilket återigen visar landsdelens dominans på LPGA-touren, med flera tight packade på -15 respektive -14. Svenska Maja Stark slutade utanför topp 15 och hade inte möjlighet att utmana eliten i denna omgång."
+              "b": "Yuri Yoshida från Japan tog sig förbi ett starkt sydkoreanskt fält och avslutade på -17, ett slag före Hye-Jin Choi och Haeran Ryu. Det var en dominant prestation från Yoshida som höll sitt lugn när flera spelare från samma nation tryckade på under slutrundan. Maja Stark placerade sig utanför topp 20 och slutade en bra bit från ledningen, vilket reflekterar ett tuffare fältsammansättning än på många andra europeiska LPGA-turneringar."
             },
             {
               "icon": "list.number",
@@ -5938,13 +6186,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-28T00:26:07+00:00",
-          "headline": "Yoshida stänger BMW-serien – svenskan Stark struntar långt bakom japanen",
+          "generatedAt": "2026-10-28T11:38:04+00:00",
+          "headline": "Yoshida solo till seger i BMW Ladies – Stark missade topp 10",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Yuri Yoshida från Japan säkrade segern med -17 efter att ha håller ett slag före den sydkoreanska duon Hye-Jin Choi och Haeran Ryu på -16. Leaderboarden dominerades av asiaters spelare, främst från Sydkorea, vilket reflekterar den regionen ökat fotfäste på LPGA-touren. Maja Stark fanns inte representerad bland de femton bästa placeringarna och slutade därmed utanför de topplaceringar som krävs för att attrahera odds-uppmärksamhet på Stakbrons plattform. Yoshida:s slutgiltiga marginal på ett slag till de närmaste förföljarna gjordes sig gällande på en bana där precision från tee var avgörande."
+              "b": "Yuri Yoshida från Japan tog hem BMW Ladies Championship med -17, ett slag före det tätt packade förföljarkullisset anförda av sydkoreanerna Hye-Jin Choi och Haeran Ryu på -16. Yoshidas seger bygger på konsekvent spel genom hela veckan, medan flera sydkoreanska spelare pressade hårt i slutet men inte räckte fram. Sverige representerades av Maja Stark, som inte nådde topp 20 i ett fält dominerat av asiatiska spelare som tillsammans tog elva av de femton främsta placeringarna."
             },
             {
               "icon": "list.number",
@@ -6074,13 +6322,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-28T00:26:11+00:00",
-          "headline": "Yoshida dominerar BMW-mästerskapet – Stark missar topptio",
+          "generatedAt": "2026-10-28T11:38:07+00:00",
+          "headline": "Yoshida stänger BMW Ladies på -17 – Stark miste topplaceringen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Yuri Yoshida från Japan tog hem BMW Ladies Championship med ett slag före två sydkoreanska utmanare, Hye-Jin Choi och Haeran Ryu, som båda slutade på -16. Yoshidas försvarsspel under slutrundan gjorde skillnaden när flera jämnstarka konkurrenter från Sydkorea pressade hårt – Minsol Kim och Hyo Joo Kim slutade på -15 respektive -15, bara två slag från vinsten. Maj Stark representerade Sverige i fält men landade långt från toppen."
+              "b": "Yuri Yoshida från Japan tog hem BMW Ladies Championship på sexton under par, ett slag före två sydkoreanska utmanare i Hye-Jin Choi och Haeran Ryu. Yoshida höll ett starkt tempo genom slutet och hade tillräcklig marginal för att kontrollera målgången. Det sydkoreanska golfet dominerade återigen topplaceringen med fyra spelare bland de fem bästa, vilket understryker landets fortsatta styrka på LPGA. Maja Stark från Sverige hamnade utanför resultatet denna gång, men tävlingen visar återigen att asiatiska spelare sätter standarden på högsta nivå inom damgolfen."
             },
             {
               "icon": "list.number",
@@ -6210,13 +6458,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-28T00:26:14+00:00",
-          "headline": "Yoshida dominerar i München – Stark missar topplaceringen",
+          "generatedAt": "2026-10-28T11:38:11+00:00",
+          "headline": "Yoshida dominerar BMW Ladies – Stark utanför topp 12",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Yuri Yoshida från Japan vann BMW Ladies Championship med 17 slag under par, ett slag före sydkoreanskt tvåmannalag bestående av Hye-Jin Choi och Haeran Ryu. Det var en överlägsen prestation av Yoshida som höll huvudet kallt när flera konkurrenter pressade på under slutspurten. Starkt asiatisk dominans präglad tävlingen med sex sydkoreanska spelare inom topp 15, medan svenska Maja Stark inte uppnådde en topp-20-placering och därmed inte hamnade på resultatlistan."
+              "b": "Yuri Yoshida från Japan vann BMW Ladies Championship med en slutscore på -17, två slag före det starka sydkoreanska duon Hye-Jin Choi och Haeran Ryu. Sydkorea dominerade topplaceringarna med fem spelare inom topp 15, vilket återspeglar landets fortsatta styrka inom damgolfen. Maja Stark fanns inte representerad i topp 15 och missade därmed möjligheten att skriva högre upp på resultatlistan."
             },
             {
               "icon": "list.number",
@@ -6357,7 +6605,38 @@
       "statusDetail": "Thu, November 4th at 12:00 AM EST",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-10-28T11:38:14+00:00",
+          "headline": "Patty Tavatanakit jagar sin första LPGA-seger sedan majorn – Japan Classic blir nyckeln",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# Förhandsanalys: TOTO Japan Classic (LPGA)\n\nLPGA vänder söderut när eliten samlas till Japan för TOTO Japan Classic, en klassisk höstturne som lockar världens bästa spelarinnor. Natsuko Kondo och andra hemmaförsvarare kan räkna på hemmaplan-fördelar, men fokus ligger på de internationella toppnamnen som söker form inför avslutningen av säsongen. Utan svenska representanter i toppen av fältlistan är det värt att notera vilka amerikanska och australiensiska stjärnor som använder denna turne som förberedelse – stabiliteten från tee blir ofta avgörande på japanska banor med exakt greenkeeping och få margin för felslag."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 05 November 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-abu-dhabi-aldar-championship",
@@ -6371,7 +6650,38 @@
       "statusDetail": "Thu, November 4th at 12:00 AM EST",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-10-28T11:38:18+00:00",
+          "headline": "Rory jagar Abu Dhabi-comeback – McIlroy vill krossa nyttårskrisen på DP World Tour",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# Abu Dhabi Aldar Championship – Förhandsanalys\n\nVärldseliten samlas på DP World Tours traditionella säsongöppning i Abu Dhabi, där Rory McIlroy och Jon Rahm återigen väntas slåss om titeln. Detta är mätpunkten före The Masters och en första indikator på form före majoren – särskilt intressant blir det att se hur senast skadad spelar in för favoriterna. Med begränsad svensk representation är fokus på hur de två toppspelarnas setup utvecklas under torsdagen och fredagen, då de klassiska Abu Dhabi-förhållandena kräver precis slagavstämpning och mentalt bollande för att hålla tävlingen öppen långt in på helgen."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 05 November 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-genesis-championship",
@@ -6389,13 +6699,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-28T00:26:17+00:00",
-          "headline": "Katsuragawa rundar bort franskt gulddubbel på Genesis Championship",
+          "generatedAt": "2026-10-28T11:38:22+00:00",
+          "headline": "Katsuragawa springer ifrån franskt dubbelbett på Genesis Championship",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Yuto Katsuragawa från Japan säkrade segern på Genesis Championship med två slag före fransmannen Frederic LaCroix och Martin Couvra på -13 respektive -11. En bred grupp av fem spelare delade tredjeplats på -10, anförda av italienaren Filippo Celli och spanjoren Jorge Campillo, vilket illustrerar ett tätt slut på DP World Tour-tävlingen. Svenska representanter Niklas Lemke och Marcus Kinhult lyckades inte ta sig in i topplaceringarna, och Katsuragawas konstanta spel under de avslutande omgångarna gjorde slutligen skillnaden i en turnering där skickligheten i rough och korta spelet blev avgörande."
+              "b": "Japanen Yuto Katsuragawa vann Genesis Championship med två slag före fransmannen Frederic LaCroix och lagkamraten Martin Couvra, som slutade på delad andraplats. Katsuragavas två slagars marginal byggdes på konsekvent spel snarare än någon dramatisk avslutande sprint, medan franskt motspel på slutsträckan inte räckte för att nå förbi ledaren. Ingen svensk representant från Stakbrons fält nådde de förväntade placeringarna – varken Niklas Lemke eller Marcus Kinhult påverkade toppstriden nämnvärt under veckoslutet."
             },
             {
               "icon": "list.number",
@@ -6525,13 +6835,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-28T00:26:20+00:00",
-          "headline": "Katsuragawa solokung när tio män jagar på -10",
+          "generatedAt": "2026-10-28T11:38:25+00:00",
+          "headline": "Katsuragawa solär på Genesis – två slag före franskt trippelkrig",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Yuto Katsuragawa från Japan tog segern med två slag ledning efter en starkt avslutad turnering på 13 under par. Französmannen Frédéric LaCroix och Martin Couvra delade andraplats på 11 under, följda av ett brett fält av jämnstarka spelare två slag bakom. Svenska representanterna Niklas Lemke och Marcus Kinhult nådde inte topp 20 denna gång, vilket speglar nivåskillnaden i ett starkt DP World Tour-fält där flera etablerade namn dominerade och gjorde det svårt för de svenska spelarna att konkurrera om de högsta placeringarna."
+              "b": "Yuto Katsuragawa från Japan dominerade Genesis Championship och säkrade segern två slag före fransmannen Frederic LaCroix och Martin Couvra, som delade andraplats på -11. Katsuragawa höll sin ledning genom hela turnering tack vare konsekvent spel och en två slags buffert in på finalrundan. En stor grupp på -10 kämpade om tredjeplats, anförd av Ryan Fox, Si Woo Kim och Antoine Rozner, men ingen lyckades närma sig Katsuragawas marginaler. Svenska startfältet fick ingen representant bland de bästa placeringarna, då varken Niklas Lemke eller Marcus Kinhult nådde toppskiktet i denna DP World Tour-event."
             },
             {
               "icon": "list.number",
@@ -6661,13 +6971,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-28T00:26:23+00:00",
-          "headline": "Katsuragawa solokung på Genesis – Lemke och Kinhult utan toppsådan",
+          "generatedAt": "2026-10-28T11:38:29+00:00",
+          "headline": "Katsuragawa trollar Genesis Championship – två slag före franskt uppror",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Japanen Yuto Katsuragawa vann Genesis Championship med två slag marginal efter en konsekvent prestations på 13 under par, medan fransmannen Frederic LaCroix och Martin Couvra delade andra plats på 11 under. Italienaren Filippo Celli och spanjoren Jorge Campillo låg tre slag bakom tillsammans med flera andra och utgjorde huvudgruppen av jagare. Ingen svensk tog sig till topp 20, då Niklas Lemke och Marcus Kinhult lämnade tävlingen utan att påverka slutresultatet märkbart."
+              "b": "Yuto Katsuragawa dominerade Genesis Championship med två slag före fransmannen Frederic LaCroix och Martin Couvra på -13 respektive -11. Japanen håll ledningen stabil under slutomgångarna genom konsekventa prestationer medan konkurrenterna, inklusive en stor grupp spelare på -10, inte kunde närma sig. Det fanns en kraftfull inhomtning bland svenska representanter, men varken Niklas Lemke eller Marcus Kinhult lyckades ta sig in i topp-20, vilket innebär begränsade poäng för DP World Tour-racet från denna deltävling."
             },
             {
               "icon": "list.number",
@@ -6797,13 +7107,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-10-28T00:26:27+00:00",
-          "headline": "Katsuragawa vinner Genesis Championship – två slag före franskt dubbelmakt",
+          "generatedAt": "2026-10-28T11:38:32+00:00",
+          "headline": "Katsuragawa solosiegrare – två slag före franskt kaos på Genesis Championship",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Yuto Katsuragawa vann Genesis Championship med två slag marginal efter en konsekvent helg på -13. Fransmannen Frederic LaCroix och Martin Couvra delade andra platsen på -11, medan en stor grupp på -10 — inklusive italienaren Filippo Celli, spanjoren Jorge Campillo och nyzeeländaren Ryan Fox — inte lyckades pressa vinnaren på finalrundorna. Svenska representanter Niklas Lemke och Marcus Kinhult nådde inte topp 20 och missar därmed att påverka slutresultatet i något betydande mått."
+              "b": "Japanen Yuto Katsuragawa tog Genesis Championship efter en stark avslutning på tretton slag under par, två slag före fransmannen Frederic LaCroix och Martin Couvra som delade andraplats. En tät grupp av sex spelare följde på tio slag under par, anlett av italienaren Filippo Celli och spanjoren Jorge Campillo, vilket tydliggör att fältet var väl balanserat genom turneringen. Svenska Marcus Kinhult och Niklas Lemke nådde inte top 20-placeringen, vilket fortsätter ett mönster av begränsad framgång för heimspelarna på denna DP World Tour-nivå."
             },
             {
               "icon": "list.number",
