@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T23:13:28+00:00",
+  "generatedAt": "2026-11-04T01:13:28+00:00",
   "tournaments": [
     {
       "id": "live-world-wide-technology-championship",
@@ -17,13 +17,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-03T23:13:32+00:00",
-          "headline": "Nyholm jagar stjärnor när PGA Tours mittfält slåss på Mayakoba",
+          "generatedAt": "2026-11-04T01:13:33+00:00",
+          "headline": "Nyholm jagar middelfältet när PGA Tours amerikaner möts i Mexico City",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "World Wide Technology Championship lockas av ett starkt amerikanskt uppbud med flera PGA Tour-etablerade namn som Joel Dahmen och Kevin Streelman, medan fransmännen Matthieu Pavon bör räknas bland favoriterna. Pontus Nyholm får en viktig chans att visa sig bland högre konkurrens på Amerikaanse tour, och hans spel kommer att vara intressant att följa för svenskar som håller koll på landsmannen. Övergripande domineras fältet av amerikanska spelare, vilket är typiskt för denna del av PGA Tour-säsongen, och det blir därmed avgörande vem som lyckas hålla fokus genom alla 72 hål på vad som verkar vara en starkt bemannad turnering."
+              "b": "World Wide Technology Championship samlar ett påfallande amerikanskt dominerat fält där Matthieu Pavon är den högst rankade spelaren bland toppnamnen – fransmännen söker återhämtning efter en svagare period. Pontus Nyholm är svenskens chanser att slå sig fram här begränsade med tanke på det tuffa konkurrenskampen, men ett mindre PGA Tour-fält kan erbjuda möjligheter för tidigare omplacerade spelare. Håll särskilt koll på Joel Dahmen och Peter Malnati som båda har gjort solida insatser på tour den senaste tiden. Banan och dess specifika krav blir avgörande – utan den informationen är det svårt att identifiera vilka spelsätt som belönas bäst i denna omgång."
             },
             {
               "icon": "flag.fill",
@@ -2732,565 +2732,6 @@
       }
     },
     {
-      "id": "live-butterfield-bermuda-championship",
-      "name": "Butterfield Bermuda Championship",
-      "rawName": "Butterfield Bermuda Championship",
-      "tour": "PGA Tour",
-      "course": "—",
-      "startDate": "2026-10-22T04:00Z",
-      "par": 71,
-      "yards": 0,
-      "statusDetail": "Final",
-      "status": "final",
-      "currentRound": 4,
-      "reports": {
-        "torsdag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-11-03T23:13:41+00:00",
-          "headline": "Smotherman på -16 segerrik i Bermuda – Svensson missar topp tio",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Austin Smotherman dominerade Butterfield Bermuda Championship med en slutsiffra på -16, ett slag före irländaren Séamus Power. Smotherman höll huvudet kallt under finala omgångarna och lyckades hålla distansen till en hopsamlad jagande grupp där Taylor Moore, Ben Silverman och Corey Conners alla slutade på -14. Chan Kim, Tom Hoge och Chris Kirk utgjorde ytterligare ett tätt fält på -13, vilket visar på en jämn tävling där marginalen mellan seger och placeringar längre ner på listan var minimal. Jesper Svensson fanns inte representerad bland de sexton bästa placeringarna."
-            },
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R1)",
-              "b": "—  Austin Smotherman  -16\n—  Séamus Power  -15\n—  Taylor Moore  -14\n—  Ben Silverman  -14\n—  Corey Conners  -14\n—  Chan Kim  -13\n—  Tom Hoge  -13\n—  Chris Kirk  -13\n—  Danny Walker  -13\n—  Chandler Blanchet  -13\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "1 svensk kvar i fältet.\n\n—  Jesper Svensson  -9  (i röda siffror)"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 3 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r1-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Austin Smotherman",
-              "svs": 8.0,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Austin Smotherman leder fältet på -16 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r1-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Taylor Moore",
-              "svs": 16.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Taylor Moore ligger 2 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r1-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Séamus Power",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Séamus Power (-15) sitter i topp-skiktet ett slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r1-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Ben Silverman",
-              "svs": 2.8,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Ben Silverman (-14) sitter i topp-skiktet 2 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r1-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Chan Kim",
-              "svs": 2.4,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Chan Kim (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
-            },
-            {
-              "id": "auto-r1-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Chris Kirk",
-              "svs": 2.4,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Chris Kirk (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
-            },
-            {
-              "id": "auto-r1-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "David Skinns",
-              "svs": 2.0,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "David Skinns (-11) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r1-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Adam Hadwin",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Adam Hadwin (-10) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r1-low",
-              "cat": "🤖 Lägsta runda R2",
-              "sel": "Cam Davis",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Cam Davis (-12) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r1-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Austin Smotherman",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Austin Smotherman är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "fredag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-11-03T23:13:44+00:00",
-          "headline": "Smotherman segrare i Bermuda – Svensson missade topp 10",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Austin Smotherman tog en överlägsen seger på Butterfield Bermuda Championship med sexton slag under par, en skugga före iren Séamus Power som slutade på femton under. Smotherman drog iväg från konkurrenterna under slutrundan och visar en konsekvent högt nivå som placerar honom långt framför ett fält där amerikaner dominerar topp tio. Jesper Svensson fanns inte representerad i topp femton, vilket indikerar att svensken inte nådde de övre skikten denna vecka på PGA Tour."
-            },
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R2)",
-              "b": "—  Austin Smotherman  -16\n—  Séamus Power  -15\n—  Taylor Moore  -14\n—  Ben Silverman  -14\n—  Corey Conners  -14\n—  Chan Kim  -13\n—  Tom Hoge  -13\n—  Chris Kirk  -13\n—  Danny Walker  -13\n—  Chandler Blanchet  -13\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "1 svensk kvar i fältet.\n\n—  Jesper Svensson  -9  (i röda siffror)"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 3 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r2-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Austin Smotherman",
-              "svs": 5.0,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Austin Smotherman leder fältet på -16 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r2-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Taylor Moore",
-              "svs": 10.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Taylor Moore ligger 2 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r2-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Séamus Power",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Séamus Power (-15) sitter i topp-skiktet ett slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r2-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Ben Silverman",
-              "svs": 2.8,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Ben Silverman (-14) sitter i topp-skiktet 2 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r2-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Chan Kim",
-              "svs": 2.4,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Chan Kim (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
-            },
-            {
-              "id": "auto-r2-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Chris Kirk",
-              "svs": 2.4,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Chris Kirk (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
-            },
-            {
-              "id": "auto-r2-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "David Skinns",
-              "svs": 2.0,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "David Skinns (-11) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r2-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Adam Hadwin",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Adam Hadwin (-10) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r2-low",
-              "cat": "🤖 Lägsta runda R3",
-              "sel": "Cam Davis",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Cam Davis (-12) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r2-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Austin Smotherman",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Austin Smotherman är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "lordag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-11-03T23:13:47+00:00",
-          "headline": "Smotherman triumferar på Bermuda – amerikanen tar segern på -16",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Austin Smotherman dominerade Butterfield Bermuda Championship genom att hålla sin -16-ledning genom slutrundan, där främst irländske Séamus Power på -15 hotade utan att lyckas ikapp. Det närmare förföljandet präglades av en bred spridning bland fyra spelare på -14, vilket illustrerar hur omöjligt det var att bryta Smothermans grepp om turneringen. Jesper Svensson lyckades inte placera sig bland resultaten från denna vinnartävling som påminde om vikten av stabilitet över hela söndagen."
-            },
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R3)",
-              "b": "—  Austin Smotherman  -16\n—  Séamus Power  -15\n—  Taylor Moore  -14\n—  Ben Silverman  -14\n—  Corey Conners  -14\n—  Chan Kim  -13\n—  Tom Hoge  -13\n—  Chris Kirk  -13\n—  Danny Walker  -13\n—  Chandler Blanchet  -13\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "1 svensk kvar i fältet.\n\n—  Jesper Svensson  -9  (i röda siffror)"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 3 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r3-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Austin Smotherman",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Austin Smotherman leder fältet på -16 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r3-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Taylor Moore",
-              "svs": 5.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Taylor Moore ligger 2 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r3-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Séamus Power",
-              "svs": 1.9,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Séamus Power (-15) sitter i topp-skiktet ett slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r3-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Ben Silverman",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Ben Silverman (-14) sitter i topp-skiktet 2 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r3-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Chan Kim",
-              "svs": 1.7,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Chan Kim (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
-            },
-            {
-              "id": "auto-r3-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Chris Kirk",
-              "svs": 1.7,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Chris Kirk (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
-            },
-            {
-              "id": "auto-r3-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "David Skinns",
-              "svs": 1.45,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "David Skinns (-11) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r3-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Adam Hadwin",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Adam Hadwin (-10) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r3-low",
-              "cat": "🤖 Lägsta runda R4",
-              "sel": "Cam Davis",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Cam Davis (-12) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r3-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Austin Smotherman",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Austin Smotherman är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "sondag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-11-03T23:13:50+00:00",
-          "headline": "Smotherman soloflyger i Bermuda – Svensson utan topplacering",
-          "insights": [
-            {
-              "icon": "newspaper",
-              "h": "Reportage",
-              "b": "Austin Smotherman tog överlägsen seger på Butterfield Bermuda Championship efter att ha pressat slutresultatet till -16, två slag före Séamus Power. Smotherman behöll kontrollen genom slutet på ett sätt som få av de övriga toppkandidaterna kunde matcha — tredje platsen Taylor Moore, Ben Silverman och Corey Conners slutade alla på -14 efter att ha saknat konsistensen på de avgörande hålen. Jesper Svensson fanns representerad i fältet men hamnade långt från topptävlingen, vilket säger något om nivån på detta arrangemang där amerikanska spelare dominerade tävlingen helt."
-            },
-            {
-              "icon": "list.number",
-              "h": "Slutresultat",
-              "b": "—  Austin Smotherman  -16\n—  Séamus Power  -15\n—  Taylor Moore  -14\n—  Ben Silverman  -14\n—  Corey Conners  -14\n—  Chan Kim  -13\n—  Tom Hoge  -13\n—  Chris Kirk  -13\n—  Danny Walker  -13\n—  Chandler Blanchet  -13\n\nKälla: ESPN."
-            },
-            {
-              "icon": "flag.fill",
-              "h": "🇸🇪 Svenskkollen",
-              "b": "1 svensk kvar i fältet.\n\n—  Jesper Svensson  -9  (i röda siffror)"
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 3 slag från ledaren. 5 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r4-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Austin Smotherman",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Austin Smotherman leder fältet på -16 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r4-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Taylor Moore",
-              "svs": 4.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Taylor Moore ligger 2 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r4-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Séamus Power",
-              "svs": 1.9,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Séamus Power (-15) sitter i topp-skiktet ett slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r4-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Ben Silverman",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Ben Silverman (-14) sitter i topp-skiktet 2 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r4-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Chan Kim",
-              "svs": 1.7,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Chan Kim (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
-            },
-            {
-              "id": "auto-r4-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Chris Kirk",
-              "svs": 1.7,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Chris Kirk (-13) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
-            },
-            {
-              "id": "auto-r4-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "David Skinns",
-              "svs": 1.45,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "David Skinns (-11) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r4-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Adam Hadwin",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Adam Hadwin (-10) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r4-low",
-              "cat": "🤖 Lägsta runda R5",
-              "sel": "Cam Davis",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Cam Davis (-12) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r4-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Austin Smotherman",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Austin Smotherman är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        }
-      }
-    },
-    {
       "id": "live-vidantaworld-mexico-open",
       "name": "VidantaWorld Mexico Open",
       "rawName": "VidantaWorld Mexico Open",
@@ -3306,13 +2747,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-03T23:13:53+00:00",
-          "headline": "Novak körde ifrån konkurrenterna – vann med fem slag före Ventura och Fisk",
+          "generatedAt": "2026-11-04T01:13:40+00:00",
+          "headline": "Novak dominerar Mexico Open – fem slag före Ventura och Fisk",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Andrew Novak dominerade VidantaWorld Mexico Open med fem slag försprång på -25, en marginal som signalerar robust spel under hela veckan. Norska Kristoffer Ventura och amerikanen Steven Fisk delade andraplats på -20, men hade redan för stort arbete framför sig när finalrundan närmade sig sitt slut. Jesper Svensson nådde inte topp 20-noteringen, vilket innebär att svenska representationen uteblev från den mest framskjutna delen av leaderboarden i detta Mexico City-arrangemang."
+              "b": "Andrew Novak dominerade VidantaWorld Mexico Open med fem slag försprång ner till andraplaceringen, där norske Kristoffer Ventura och amerikanske Steven Fisk delas tredjedelen på -20. Novals femton under par under hela turneringen vittnar om konsekvent spel över alla fyra rundorna, medan jakten på honom aldrig materialiserades från jaktkavalkaden bakom. Jesper Svensson fanns inte representerad i topp 15, vilket indikerar att svenska intresset denna vecka hamnade utanför de absoluta topp-placeringarna på denna PGA Tour-etapp i Mexico."
             },
             {
               "icon": "list.number",
@@ -3442,13 +2883,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-03T23:13:56+00:00",
-          "headline": "Novak rundar alla på Mexico Open – fem slag före tvåan Ventura",
+          "generatedAt": "2026-11-04T01:13:43+00:00",
+          "headline": "Novak dominerar Mexico – fem slag före Ventura och Fisk",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Andrew Novak dominerade VidantaWorld Mexico Open med en imponerande slutnotering på -25, fem slag före norske Kristoffer Ventura och amerikanen Steven Fisk på andra plats. Novals konstanta spel under hela veckan gjorde att konkurrenterna aldrig kom tillräckligt nära för att hota segern, trots att en stor grupp amerikaner och några internationella spelare försökte hålla tempo under slutomgångarna. Jesper Svensson lyckades inte etablera sig i toppen och slutade långt från podiet, vilket var en besvikelse för den svenska representationen i Mexico."
+              "b": "Andrew Novak dominerade VidantaWorld Mexico Open med fem slag före förstaförföljare Kristoffer Ventura och Steven Fisk, vilket vittnar om en konsekvent prestationsöverlevering från amerikanaren över fyra rundor. Ventura och Fisk delade andraplats på -20, medan ett större fält av spelare på -18 och däromkring tydde på att villkoren möjliggjorde låga scorer utan att helt sprida resultaten. Jesper Svensson fanns inte representerad i topplistan, vilket indikerar att den svenska golfens presence på denna PGA Tour-segling var begränsad denna vecka."
             },
             {
               "icon": "list.number",
@@ -3578,13 +3019,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-03T23:13:59+00:00",
-          "headline": "Novak dominerade Mexico Open – fem slag före Ventura och Fisk",
+          "generatedAt": "2026-11-04T01:13:47+00:00",
+          "headline": "Novak dominerar Mexico Open – fem slag före Ventura och Fisk",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Andrew Novak dominerade VidantaWorld Mexico Open med en slutställning på minus 25, vilket gav honom ett komfortabelt försprång på fem slag före norske Kristoffer Ventura och amerikanen Steven Fisk. Novaks konsistens under hela turneringen, särskilt på de slutgiltiga rundorna, var avgörande för segern i en tävling där många konkurrenter klustrade sig mellan minus 16 och minus 20. Jesper Svensson lyckades inte ta sig in i topp 15 och slutade längre ned på resultatlistan, vilket reflekterar den höga nivån på denna PGA Tour-tävling."
+              "b": "Andrew Novak dominerade VidantaWorld Mexico Open med fem slag marginal ned till tvåan, en övertygande prestation som understryker en konsekvent högt nivå genom turneringen. Kristoffer Ventura från Norge delade andraplats med amerikanaren Steven Fisk på -20, där båda två utmanade Novak utan att lyckas helt minska klyftan på slutrakan. Det blev ingen toppnotering för Jesper Svensson denna vecka, men turneringen visade igen hur svårt det är att matcha världstoppen på PGA Tour när formen inte är fullständig."
             },
             {
               "icon": "list.number",
@@ -3714,13 +3155,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-03T23:14:02+00:00",
-          "headline": "Novak dominerar Mexico Open – fem slag före förföljarna",
+          "generatedAt": "2026-11-04T01:13:50+00:00",
+          "headline": "Novak dominerar Mexico – fem slag före Ventura och Fisk",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Andrew Novak dominerade VidantaWorld Mexico Open med överlägsen utgång på 25 under par, fem slag före norske Kristoffer Ventura och amerikanske Steven Fisk på delad andraplats. Novals konsistens genom hela veckan skiljde honom från tätt packat jagande fält där fem spelare delade femtonde plats på 18 under par. Jesper Svensson noterades inte i topp 15, vilket indikerar att svenskens resultat inte räckte till för att utmana de främsta placeringar i en tävling som präglades av stark amerikansk dominans längre ned på leaderboarden."
+              "b": "Andrew Novak dominerade VidantaWorld Mexico Open helt och hållet och vann med fem slag före norske Kristoffer Ventura och amerikanen Steven Fisk på -20. Novals konsistens under hela veckan – han låg aldrig långt från leaderboardets topp – skiljde honom från ett större förföljarfält där flera spelare kämpade för att hitta det avgörande momentum på baksidan. Jesper Svensson fanns representerad i startelvan men lyckades inte dra sig in i topplaceringarna i detta starkt besatta amerikanskt dominerat fält."
             },
             {
               "icon": "list.number",
@@ -3879,13 +3320,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-03T23:14:06+00:00",
-          "headline": "Japanska hemmafördelar i fokus – Takano och Masada jagar LPGA-triumf i TOTO Japan Classic",
+          "generatedAt": "2026-11-04T01:13:54+00:00",
+          "headline": "Takano och japansk hemmaplan: LPGA återvänder till Japan Classic",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "TOTO Japan Classic på LPGA lockar ett starkt hemmaförsvar med åtta japanska spelare i top 20, där världstouren återvänder till sitt östasiatiska högborg. Ariya Jutanugarn från Thailand är en av favoriterna tillsammans med amerikanskorna Lindy Duncan och Alexa Pano, men hemmaklubben får ett betydande bidrag av Megumi Kido och Yuka Yasuda som båda visat stark form under säsongen. Med en helt okänd bana blir lokalkännedomen ett potentiellt stort kort för de japanska spelarna, vilket gör det värt att notera hur de globala toppnamnen hanterar terrängen. Tävlingen skärskådar vilka gäster som kan navigera sig förbi hemmafördelarna och ta hem segern."
+              "b": "TOTO Japan Classic lockar ett starkt LPGA-fält dominerat av japansk hemmapower – inte mindre än nio spelarinna från värden finns i topp-20, vilket historiskt sett brukar vara avgörande på hemmaplan. Ariya Jutanugarn från Thailand är en av få internationella toppnamn som kan brottas med heimafördelningen, medan amerikanska Lindy Duncan och Alexa Pano representerar den västerländska konkurrensen. Det återstår att se vilken bana som sätts upp, men det är värt att notera att många av de japanska spelarna är mindre etablerade på världstouren – detta kan både vara ett tecken på att värden rustar sitt eget lag och att vinnarmöjligheterna kan komma från överraskande håll."
             },
             {
               "icon": "flag.fill",
@@ -6376,13 +5817,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-03T23:14:12+00:00",
-          "headline": "Yamashita dominerar Maybank – Grant och Stark glömda långt bak",
+          "generatedAt": "2026-11-04T01:13:59+00:00",
+          "headline": "Yamashita dominerar Maybank – Linn Grant och Maja Stark utanför topp tolv",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Miyu Yamashita dominerade Maybank Championship och vann med två slag före Yan Liu efter en konsekvent prestationsresa på -22. Yamashita höll kontrollen under hela veckan, medan Liu från Kina presenterade solid spel för att säkra andraplats. Bakom ledartrioen fanns en stor jagande grupp med flera spelare på -13 eller bättre, vilket vittnar om en hårt omstridd tävling. Linn Grant och Maja Stark representerade Sverige i startelden men lyckades inte ta sig in i toppen på leaderboarden."
+              "b": "Miyu Yamashita dominerade Maybank Championship genom att avsluta på imponerande minus 22, två slag före Yan Liu. Yamashitas konsistenta spel gav henne kommandot från början och hon höll undan ett spänt förföljande där flera spelare kämpade om placeringar runt minus 13. Linn Grant och Maja Stark representerade Sverige men kunde inte ta sig in bland de bästa resultaten denna vecka."
             },
             {
               "icon": "list.number",
@@ -6512,13 +5953,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-03T23:14:15+00:00",
-          "headline": "Yamashita dominerar Maybank – Grant och Stark utan topplaceringen",
+          "generatedAt": "2026-11-04T01:14:01+00:00",
+          "headline": "Yamashita dominerar Maybank – Grant och Stark utanför topp 12",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Miyu Yamashita vann Maybank Championship med två slag före Yan Liu, som höll sig stabil på -20 under slutspelet. Yamashitas två slagars marginal till trean Marisa Tojai och Pauline Roussin-Bouchard visar på en konsekvent prestation genom hela veckan snarare än dramatik på avslutande nio hål. Svenska startuppställningen levererade inte toppresultat – varken Linn Grant eller Maja Stark når in i topp 20, vilket avslutar ett fokuserat träningsblock för båda inför kommande turneringar på LPGA-touren."
+              "b": "Miyu Yamashita dominerade Maybank Championship och vann med -22, två slag före kinesiskan Yan Liu som slutade på -20. Yamashitas överlägsenhet byggde på konsekvent spel genom alla fyra rundor, medan Liu höll ett starkt tempo men kunde inte helt stänga gapet på slutsträckan. Svenska Linn Grant och Maja Stark placerade sig utanför topp 15, vilket reflekterar en tuff turnering på ett kursmässigt utmanande setup där endast två golfare lyckades nå under -20."
             },
             {
               "icon": "list.number",
@@ -6648,13 +6089,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-03T23:14:18+00:00",
-          "headline": "Yamashita dominerar Maybank – Linn Grant och Maja Stark utanför topp 12",
+          "generatedAt": "2026-11-04T01:14:04+00:00",
+          "headline": "Yamashita dominerar Maybank Championship – Grant och Stark utan topplacering",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Miyu Yamashita dominerade Maybank Championship med en slutsiffra på -22, två slag före kinesiskan Yan Liu som slutade på -20. Yamashitas konsistenta spel under turneringen gjorde det omöjligt för förföljarna att hämta in, medan thaländskan Marisa Tojai och fransyskan Pauline Roussin-Bouchard delade tredjeplats på -19. Svenska deltagarna Linn Grant och Maja Stark återfanns inte bland de femton bästa placeringarna efter en turnering som präglades av starka asiatiska och europeiska prestationer."
+              "b": "Miyu Yamashita dominerade Maybank Championship och vann med två slaggers marginal före kinesiskan Yan Liu, vars -20 räckte till andraplats. Yamashitas -22 byggdes på konsekvent spel utan större svackor, vilket skiljer seg från huvudkonkurrenterna som inte kunde hämta in försprånget under finalsträckan. Thaländskan Marisa Tojai och fransmännen Pauline Roussin-Bouchard slutade delad trea på -19, men återstoden av topp 15 låg redan flera slag bortslaget. Svenska kortegen gjorde ingen större påverkan på resultatet — varken Linn Grant eller Maja Stark lyckades etablera sig bland toppskiktet."
             },
             {
               "icon": "list.number",
@@ -6784,13 +6225,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-03T23:14:21+00:00",
-          "headline": "Yamashita dominerar Maybank Championship – Grant och Stark utan topplacering",
+          "generatedAt": "2026-11-04T01:14:08+00:00",
+          "headline": "Yamashita dominerar Maybank Championship på -22 – Grant och Stark utan topplaceringen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Miyu Yamashita dominerade Maybank Championship genom att slutligen vinna två slag före Yan Liu, med en imponerande slutscore på 22 under par. Japanskan styrde turneringen från förargården framåt med konsekvent spel, medan Yan Liu från Kina höll sig nära men aldrig hotade serieledningen. Det tätt packade fältet bakom de två främsta – med Tojai, Roussin-Bouchard och flera andra inom tre slag – visar att turneringen bjöd på jämn konkurrens främst bland etablerade namn från Asien och Europa. Svenska representanterna Linn Grant och Maja Stark nådde inte topp 20 denna gång."
+              "b": "Miyu Yamashita dominerade Maybank Championship med en imponerande två slagars marginal på 22 under par, vilket säger mycket om kvaliteten på hennes spel över fyra omgångar. Yan Liu från Kina ligger tvåa på 20 under par, medan ett stort förföljande leddes av Marisa Tojai och Pauline Roussin-Bouchard på 19 under. Svenska startörer Linn Grant och Maja Stark kom inte in i topp 15, vilket visar att slutspelskampen om världsranking och LPGA-poäng fortsätter att bli allt hårdare konkurrerad."
             },
             {
               "icon": "list.number",
@@ -6949,13 +6390,13 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-03T23:14:25+00:00",
-          "headline": "Lagergren jagar poäng i Abu Dhabi – Molinari och italienarna hotar",
+          "generatedAt": "2026-11-04T01:14:12+00:00",
+          "headline": "Lagergren jagar sitt andra DP World Tour-skalp i Abu Dhabi",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Abu Dhabi Aldar Championship lockar ett starkt europiskt fält där italienarna är överrepresenterade – Molinari, Migliozzi och Mazzoli är alla med. Joakim Lagergren tar plats redan bland de tio bästa namnen och verkar vara i fokus för arrangörerna, medan Mikael Lindberg kommer att ha ett hårdare uppdrag längre ned i fältlistan. Observera att Van Driels och Premlalls form på senaste tiden bör följas noga, liksom om Molinari återfunnit sitt spel efter tiden på LIV."
+              "b": "Abu Dhabi Aldar Championship lockar återigen ett starkt europeiskt fält med Francesco Molinari och Antoine Rozner bland favoriter, medan italienska spelare utgör en påfallande stor andel av de tjugo främsta seedade. Joakim Lagergren är Sveriges främsta representant och återfinns redan på elfte plats i fältlistan, vilket talar för en återställning från hans säsong då han söker konstanta resultater på DP World Tour. Mikael Lindberg blir intressant att följa för sitt läge i ranking och utveckling framöver, medan Van Driels och Gumbergs placeringar indikerar att målgruppen är yngre etablerade namn snarare än gamla stormakter på tävlingen."
             },
             {
               "icon": "flag.fill",
