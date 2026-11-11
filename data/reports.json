@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T01:11:24+00:00",
+  "generatedAt": "2026-11-11T12:56:19+00:00",
   "tournaments": [
     {
       "id": "live-austin-championship",
@@ -12,18 +12,18 @@
       "yards": 0,
       "statusDetail": "Thu, November 11th at 12:00 AM EST",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-11T01:11:28+00:00",
-          "headline": "Svensson jagar PGA-poäng i Austin – Pan och Van Rooyen stjärnorna",
+          "generatedAt": "2026-11-11T12:56:24+00:00",
+          "headline": "Svensson jagar Austin-premien medan Pan och van Rooyen slåss om PGA-poängen",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Austin Championship presenteras av Compliance Solutions på PGA Tour där C.T. Pan toppar startlistan framför Erik van Rooyen och en stark amerikansk delegering. Jesper Svensson är enda svenska representanten i ett fält som domineras av amerikaner, men med intressanta namn som fransmannen Matthieu Pavon och danskarna Rasmus Højgaard som potentiella utmanare. Banan är ännu ej fastställd vilket gör det svårare att bedöma spelarnas förutsättningar, men prestationen de senaste veckorna bör väga tungt för en PGA Tour-tävling på detta stadium av säsongen. Max Homa och Andrew Putnam är rutinerade namn som alltid måste räknas med i amerikanerdominerande fält."
+              "b": "Austin Championship lockas till av ett starkt internationellt fält där C.T. Pan och Erik van Rooyen framstår som favoritnamnen, medan fransmannen Matthieu Pavon och danske Rasmus Højgaard erbjuder intressanta alternativ på oddsen. Jesper Svensson får möjligheten att mäta sig mot ett etablerat PGA Tour-fält, vilket blir avgörande för hans fortsatta utveckling på högsta nivå. Noterbart är att tävlingen samlar flera amerikanska spelare på väg uppåt – Phillips, Meissner och Garnett – vilka kan komma att överraska om de hittar sin form på banan."
             },
             {
               "icon": "flag.fill",
@@ -91,42 +91,153 @@
             {
               "id": "auto-preview-w5",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Andrew Novak",
-              "svs": 31.0,
+              "sel": "Pierceson Coody",
+              "svs": 29.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Andrew Novak är en av SS:s top-5 favoriter pre-tournament (odds 31.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Pierceson Coody är en av SS:s top-5 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Andrew Novak",
+              "svs": 31.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Andrew Novak är en av SS:s top-6 favoriter pre-tournament (odds 31.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
               "cat": "🤖 Outright (förhand)",
               "sel": "Zach Bauchou",
               "svs": 31.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Zach Bauchou är en av SS:s top-6 favoriter pre-tournament (odds 31.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Zach Bauchou är en av SS:s top-7 favoriter pre-tournament (odds 31.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
-              "id": "auto-preview-w7",
+              "id": "auto-preview-w8",
               "cat": "🤖 Outright (förhand)",
               "sel": "Brian Harman",
               "svs": 31.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Brian Harman är en av SS:s top-7 favoriter pre-tournament (odds 31.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Brian Harman är en av SS:s top-8 favoriter pre-tournament (odds 31.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-11-11T12:56:27+00:00",
+          "headline": "Inför torsdag (R1): Doug Ghim, Jackson Koivun, Blades Brown toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
             },
             {
-              "id": "auto-preview-w8",
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "13.00  Doug Ghim\n15.00  Jackson Koivun\n17.00  Blades Brown\n26.00  Jordan Smith\n29.00  Pierceson Coody\n31.00  Andrew Novak"
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "1 svensk kvar i fältet.\n\n—  Jesper Svensson  E"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Chris Kirk",
+              "sel": "Doug Ghim",
+              "svs": 13.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Doug Ghim är en av SS:s top-1 favoriter pre-tournament (odds 13.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Jackson Koivun",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Jackson Koivun är en av SS:s top-2 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Blades Brown",
+              "svs": 17.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Blades Brown är en av SS:s top-3 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Jordan Smith",
+              "svs": 26.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Jordan Smith är en av SS:s top-4 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Pierceson Coody",
+              "svs": 29.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Pierceson Coody är en av SS:s top-5 favoriter pre-tournament (odds 29.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Andrew Novak",
               "svs": 31.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Chris Kirk är en av SS:s top-8 favoriter pre-tournament (odds 31.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Andrew Novak är en av SS:s top-6 favoriter pre-tournament (odds 31.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Zach Bauchou",
+              "svs": 31.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Zach Bauchou är en av SS:s top-7 favoriter pre-tournament (odds 31.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Brian Harman",
+              "svs": 31.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Brian Harman är en av SS:s top-8 favoriter pre-tournament (odds 31.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             }
           ]
         }
@@ -418,8 +529,8 @@
               "win": {
                 "prob": 0.0273,
                 "fairOdds": 36.63,
-                "realSSOdds": 36.0,
-                "edgePct": -0.0172,
+                "realSSOdds": 29.0,
+                "edgePct": -0.2083,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2256,8 +2367,8 @@
               "prob": 0.0273,
               "fairOdds": 36.63,
               "confidence": "Övervärderad",
-              "realSSOdds": 36.0,
-              "edgePct": -0.0172,
+              "realSSOdds": 29.0,
+              "edgePct": -0.2083,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
             },
@@ -2738,13 +2849,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-11T01:11:36+00:00",
-          "headline": "Brown dominerar på -25, James närmar sig på -24 – Svensson utanför top 12",
+          "generatedAt": "2026-11-11T12:56:31+00:00",
+          "headline": "Brown dominerar i Mexiko – James ett slag bakom på -24",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Blades Brown segrade med sju slag över Ben James efter en dominant prestation på -25, vilket markerar ett omfattande försprång för wereldklassstandard. Brown höll kontrollen genom hela veckan medan James inte kunde hitta tillräckligt med momentum för att hota segerchansen. Flertalet spelare klustrade runt -18 till -17, vilket visar på en öppen mittenfält där ingen följeslagare kunde bryta iväg för att utmana tvåan. Jesper Svensson placerade sig utanför topplaceringar men samlade värdefull PGA Tour-erfarenhet inför kommande tävlingar."
+              "b": "Blades Brown tog segern på World Wide Technology Championship med slutresultatet -25, en stroke före Ben James som slutade på -24. Brown dominerade hela veckan och behöll sitt försprång framgent, medan James höll sig konsekvent i jakt utan att kunna reducera skillnaden tillräckligt. Resten av fältet spreds ut från Michael Kim på -22 och framåt, vilket tyder på att Brown:s prestation var närmast fellfri under turneringen. Jesper Svensson blev inte rankad bland de femton bästa och hade således ingen påverkan på slutresultatet."
             },
             {
               "icon": "list.number",
@@ -2874,13 +2985,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-11T01:11:39+00:00",
-          "headline": "Brown dominerar – James förlorar två slag på finaledagen",
+          "generatedAt": "2026-11-11T12:56:34+00:00",
+          "headline": "Blades Brown dominerar på -25 – Brown tar World Wide Technology Championship före James på -24",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Blades Brown tog World Wide Technology Championship före Ben James efter en slutspurt som resulterade i 25 under par – en seger som förstärktes av James tvåslagsledning på vägen in. Trefemtedelen av topptio slöt sig hårt runt 18 under par, där Jordan Smith, Séamus Power och Keith Mitchell delade tredje plats tillsammans med tre amerikaner. Jesper Svensson återfanns längre ned på resultatlistan och kunde inte stå sig mot den överlägset amerikanska dominansen på denna PGA Tour-deltävling."
+              "b": "Blades Brown dominerade World Wide Technology Championship med slutresultatet -25, en stroke före Ben James som avslutade på -24. Browns konsistenta spel under turneringen räckte till överlägsen seger, medan James aldrig riktigt kunde prestera den rundor som krävdes för att hota ledningen. Michael Kim slutade tredje på -22, följd av en stark japansk prestation från Kensei Hirata på -21. Jesper Svensson återfinns inte bland de femton bästa placeringarna och kunde därmed inte leverera toppresultat på denna PGA Tour-etapp."
             },
             {
               "icon": "list.number",
@@ -3010,13 +3121,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-11T01:11:42+00:00",
-          "headline": "Brown dominerar med 25 slag under par – James tvåa på nio slag efter",
+          "generatedAt": "2026-11-11T12:56:37+00:00",
+          "headline": "Brown dominerar World Wide Technology – James nio slag efter på -24",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Blades Brown dominerade World Wide Technology Championship och åkte hem segern på 25 under par, två slag före Ben James som slutade sexa på -24. Brown's avslutande rundor visade konsekvent bollkontroll och ett pussnära slag som förhindrade någon från konkurrenterna att komma tillbaka in i matchen. Strax bakom toppduon fanns en större grupp på -18 till -22, där Michael Kim på -22 var närmast men aldrig kunde hota Brown's ledning. Jesper Svensson slutade långt från toppen utan att lyckas etablera sig bland topscorers denna vecka."
+              "b": "Blades Brown dominerade World Wide Technology Championship med en slutsiffra på -25, en stroke före Ben James. Browns konsistens genom turneringen gjorde skillnaden mot ett starkt amerikanskt startfält där flera spelare pressade hårt de sista rundorna. Michael Kim följde på -22 och slutade som bästa icke-vinnare bland de amerikanska spelarna, medan den internationella utmaningen representerades av Japans Kensei Hirata på -21. Jesper Svensson lyckades inte ta sig in i topp 15 och hamnade längre ned på resultatlistan i en turnering som främst präglades av djup amerikansk dominans."
             },
             {
               "icon": "list.number",
@@ -3146,13 +3257,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-11T01:11:46+00:00",
-          "headline": "Brown dominerar med -25 – James förlorar slag på nästa plats",
+          "generatedAt": "2026-11-11T12:56:40+00:00",
+          "headline": "Brown dominerar World Wide Technology Championship – James bara ett slag bakom på -24",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Blades Brown dominerade World Wide Technology Championship och säkrade segern med 25 under par, en strokers marginal före Ben James som slutade på -24. Brown behöll kontrollen genom slutskedet och visade steady golf när konkurrenterna inte lyckades leverera ett genombrott på finalrundorna. Bakom de två ledande återstod ett tätt fält med Michael Kim på -22 som närmaste förföljare, medan en stor grupp aktörer på -18 till -17 under par demonstrerade den tuffaste konkurrensen på PGA Tour denna säsong – något som gör det svårt för en spelare att bryta iväg betydligt från fältet på denna bana."
+              "b": "Blades Brown avslutade World Wide Technology Championship med ett övertygande svar på leaderboarden, ett slag före Ben James på -25 respektive -24. Browns stabilitet över hela veckan skiljde sig från konkurrenterna, medan James försökte minska gapet under slutomgångarna utan att helt lyckas. Bakom toppduon bildades en bred jagande grupp anförd av Michael Kim på -22, där flera spelare på -18 och -19 visar att slutet av fältet var väl organiserat. Jesper Svensson lyckades inte ta sig in bland topp 15, men slutet av PGA Tours höga nivå under högsäsongen fortsätter att ställa krav på konsistens och precisionsslag i avslutande omgångar."
             },
             {
               "icon": "list.number",
@@ -3293,7 +3404,38 @@
       "statusDetail": "Thu, November 18th at 12:00 AM EST",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-11-11T12:56:44+00:00",
+          "headline": "Jag kan inte se fältlistan som du hänvisar till. För att skriva en träffsäker rubrik behöver jag veta vilka topp-15-spelare som är med i The RSM Classic. Kan du dela fältlistan?",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "The RSM Classic lockas åter igen till Georgia för en traditionsenrik avslutning på PGA Tours reguljära säsong, där fältet fylls av spelare som jagar både ranking-poäng och ekonomisk vinst inför nästa års större mål. Tävlingen kännetecknas ofta av hårt kamp på relativt hålla banor, vilket premierar precision och mentalt fokus – här gäller det att hålla concentrationen när många redan blickar framåt. Utan svenska namn i fälttoppen denna gång handlar det istället om att följa vilka etablerade namn som söker form före höstens avslutande turnéer, och vilka hungrigt uppkomande spelare som kan överraska på hem-hemmaplan."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 19 November 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-annika-driven-by-gainbridge-at-pelican",
@@ -3306,18 +3448,18 @@
       "yards": 0,
       "statusDetail": "Thu, November 11th at 12:00 AM EST",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-11T01:11:50+00:00",
-          "headline": "Strom jagas av världseliten på Pelican – svenskan outsider i ANNIKA-strid",
+          "generatedAt": "2026-11-11T12:56:48+00:00",
+          "headline": "Linnea Strom jagar Annika-arvet – tätt toppsex väntar på Pelican",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "**The ANNIKA driven by Gainbridge at Pelican – Förhandsanalys**\n\nLinnea Ström toppar den svenska delegationen på nionde plats i fältlistan och kommer in som en av favoriterna efter stabil form under hösten. Ingrid Lindblad och Frida Kinhult har möjligheten att utmana, men det är främst Ströms prestationsgrad som gör Sverige intressant att följa. I det större perspektivet domineras startfältet av etablerade LPGA-namn med Brianna Do, Lilia Vu och Nelly Kord i täten, medan ännu oupptäckta talanger som Lauren Walsh från Irland och Chiara Tamburlini från Schweiz utgör spännande underdog-kandidater. Fokus bör ligga på hur de svenska spelarna hanterar det starka internationella fältet och huruvida något av toppnamnen kommer att ta steget från favorit till faktisk vinnare."
+              "b": "The ANNIKA driven by Gainbridge lockar ett starkt internationellt fält till Pelican, med världsetta Lilia Vu och majorsägerska Ashleigh Buhai bland favoriterna. Linnea Ström intar en stark seed på nionde plats och är den högst rankade svenskan, medan Ingrid Lindblad och Frida Kinhult får chansen att visa framfötterna i ett fält där form och konsistens blir avgörande på vad som verkar vara en utmanande bana. Nelly Kord återkommer efter skador och kan potentiellt bli en dark horse, men fokus ligger på hur de svenska namnen hanterar förväntningarna och pressionen i ett tävlande som fortsätter presentera högklassig LPGA-golf."
             },
             {
               "icon": "flag.fill",
@@ -3338,6 +3480,117 @@
               "icon": "wave.3.right",
               "h": "Auto-genererat",
               "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Nelly Korda",
+              "svs": 6.5,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Nelly Korda är en av SS:s top-1 favoriter pre-tournament (odds 6.50). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Haeran Ryu",
+              "svs": 8.5,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Haeran Ryu är en av SS:s top-2 favoriter pre-tournament (odds 8.50). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Aki Iwai",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Aki Iwai är en av SS:s top-3 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Charley Hull",
+              "svs": 17.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Charley Hull är en av SS:s top-4 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "A Lim Kim",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "A Lim Kim är en av SS:s top-5 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ina Yoon",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Ina Yoon är en av SS:s top-6 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Sei Young Kim",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Sei Young Kim är en av SS:s top-7 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Lauren Coughlin",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Lauren Coughlin är en av SS:s top-8 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-11-11T12:56:51+00:00",
+          "headline": "Inför torsdag (R1): Nelly Korda, Haeran Ryu, Aki Iwai toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "6.50  Nelly Korda\n8.50  Haeran Ryu\n15.00  Aki Iwai\n15.00  Hye Jin Choi\n17.00  Charley Hull\n21.00  A Lim Kim"
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "3 svenska kvar i fältet.\n\n—  Linnea Strom  E\n—  Ingrid Lindblad  E\n—  Frida Kinhult  E"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
             }
           ],
           "top5": [],
@@ -4569,7 +4822,7 @@
           {
             "name": "Mimi Rhodes",
             "mu": -0.9,
-            "muSource": "rank 34",
+            "muSource": "rank 35",
             "completedScore": 0,
             "markets": {
               "win": {
@@ -4851,14 +5104,14 @@
           {
             "name": "Patty Tavatanakit",
             "mu": -0.9,
-            "muSource": "rank 35",
+            "muSource": "rank 34",
             "completedScore": 0,
             "markets": {
               "win": {
                 "prob": 0.008,
                 "fairOdds": 125.0,
-                "realSSOdds": 81.0,
-                "edgePct": -0.352,
+                "realSSOdds": 71.0,
+                "edgePct": -0.432,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -4866,8 +5119,8 @@
               "top5": {
                 "prob": 0.0476,
                 "fairOdds": 21.01,
-                "realSSOdds": 13.0,
-                "edgePct": -0.3812,
+                "realSSOdds": 12.0,
+                "edgePct": -0.4288,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -4875,8 +5128,8 @@
               "top10": {
                 "prob": 0.1032,
                 "fairOdds": 9.69,
-                "realSSOdds": 6.5,
-                "edgePct": -0.3292,
+                "realSSOdds": 6.0,
+                "edgePct": -0.3808,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -5813,13 +6066,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-11T01:11:56+00:00",
-          "headline": "Sakuma dominerar TOTO Japan Classic – fyra slag före närmaste konkurrent",
+          "generatedAt": "2026-11-11T12:56:54+00:00",
+          "headline": "Sakuma dominerar Japan Classic – fyra slag före närmaste konkurrenter",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Shuri Sakuma vann TOTO Japan Classic med övertygande -20 och fyra slag före närmaste förföljare Aki Iwai. Hemmafördelningen var påtaglig med sex japanska spelare i topp tio, där Sakuma höll kontrollen under finalrundorna genom konsistent spel och stabil puttning. Iwai och Erika Hara på delad tredje plats pressade utan att kunna överbrygga gapet, vilket understryker att Sakumas vinstmarginal var faktisk snarare än resultat av kollaps bland konkurrenterna."
+              "b": "Shuri Sakuma dominerade TOTO Japan Classic med ett slutresultat på -20, fyra slag före näraste förföljare Aki Iwai. Japanska spelare tog upp nio av femton platserna på leaderboarden, vilket speglar den lokala fördelen och ett starkt japanskt golfutbud på LPGA-touren. Sakumas överlägsenhet från tee till green gjorde det omöjligt för konkurrenterna att hota hennes seger, medan ett stort fält med spelare på -11 och -12 visar på jämn konkurrens om placeringarna bakom vinnaren."
             },
             {
               "icon": "list.number",
@@ -5944,13 +6197,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-11T01:11:59+00:00",
-          "headline": "Sakuma dominerar Japan Classic med fyra slag före närmaste konkurrent",
+          "generatedAt": "2026-11-11T12:56:57+00:00",
+          "headline": "Sakuma dominerar Japan Classic – fyra slag före närmaste konkurrenter",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Shuri Sakuma dominerade TOTO Japan Classic med fyra slag försprång över främsta förföljare Aki Iwai, som slutade på -16. Den japanska spelaren tog kontroll tidigt och höll distansen genom stabila rundor utan större svackor. Bakom tvåan bildades en splittrad jagarkår där sex golfare delade tredje-nionde plats mellan -13 och -15, vilket tyder på att den öppna gräsbanans förutsättningar premieerade konsistens framför dramtiska rundor. Sakumas seger på hemmaplan förstärker hennes position på LPGA-touren efter en stark säsongsslut."
+              "b": "Shuri Sakuma dominerade TOTO Japan Classic med fyra slag före närmaste konkurrenter och slutade på imponerande -20. Sakuma höll sig framme under större delen av turneringen och byggde tillräcklig marginal för att hantera slutspurten utan större påfrestning. Aki Iwai och Erika Hara pressade på slutet men kunde aldrig riktigt hota segern, medan ett stort lag av japanska och asiatiska spelare kämpade om tredje- till femteplatserna på -13 till -15. Turneringen bekräftade återigen den japanska golfelitens styrka på hemmaplan, särskilt med fem spelare från Japan i topp femton."
             },
             {
               "icon": "list.number",
@@ -6075,13 +6328,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-11T01:12:03+00:00",
-          "headline": "Sakuma dominerar Japan Classic – fyra slag före närmaste konkurrenter",
+          "generatedAt": "2026-11-11T12:57:00+00:00",
+          "headline": "Sakuma dominerar Japan Classic – fyra slag före närmaste förföljare",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Shuri Sakuma dominerade TOTO Japan Classic med en fyra slag stor ledning på -20, vilket vittnar om ett konsekvent spel genom hela veckan. Aki Iwai slutade på andraplats med -16, följd av en närsamlad grupp på tre till fem slag bakom där Erika Hara och Yuna Araki jämte thailändskan Arpichaya Yubol kämpade om de övriga topplaceringar. Turnering präglades av stark japansk representation i leaderboard, med sex japanska namn i topp 15, vilket reflekterar hemmaplansfördelen och den höga niváin på det lokala golfslutet."
+              "b": "Shuri Sakuma tog en komfortabel seger i TOTO Japan Classic med -20, fyra slag före Aki Iwai på andraplats. Det japanska dominerandet var påtagligt—nio av femton ledande spelaren var från värdlandet, vilket speglar både hemmafördelens betydelse och styrkan i den lokala spelarbasen. Iwai och Erika Hara på tredjeplats (-15) representerade närmaste utmaning, men kunde inte minska Sakumas försprång över slutspurten."
             },
             {
               "icon": "list.number",
@@ -6206,13 +6459,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-11T01:12:06+00:00",
-          "headline": "Sakuma styr Japan Classic – fyra slag före närmaste konkurrent",
+          "generatedAt": "2026-11-11T12:57:03+00:00",
+          "headline": "Sakuma dominerar TOTO Japan Classic – fyra slag före närmaste konkurrens",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Shuri Sakuma dominerade TOTO Japan Classic med överlägsen seger på 20 under par, fyra slag före näraste förföljare Aki Iwai. Japanska spelare tog ett starkt grepp om turneringen med sex representanter i topp 15, vilket reflekterar högt hemmaförtroende och väl anpassade förhållanden. Iwai, Hara och Araki bildade en tight förföljaregrupp på 16-14 under par, men ingen lyckades matcha Sakumas konsistens över fyra rundor. Turneringen bekräftade återigen den japanska damgolfens styrka på hemmaplan, där Sakuma:s prestationsökning från säsongen tidigare nu materialiserade sig i ett klart solomonument."
+              "b": "Shuri Sakuma dominerade TOTO Japan Classic och vann överlägset fyra slag före närmaste förföljare Aki Iwai. Sakumas -20 visar en konsekvent prestation genom hela turneringen, då hon höll ett fast grepp om ledningen och inte tillät något av de övriga spelarna närmare än ett par slag på slutomgångarna. Iwai och Erika Hara försökte prestera ett uppsving men kunde aldrig närma sig Sakuma tillräckligt, medan resten av toppen delades upp mellan en brokig skara med många japanska spelare samt några starka finalister från omkringliggande länder."
             },
             {
               "icon": "list.number",
@@ -6348,7 +6601,38 @@
       "statusDetail": "Thu, November 18th at 12:00 AM EST",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-11-11T12:57:06+00:00",
+          "headline": "Världseliten kämpar om miljonsterlingar – vem tar CME-kronan?",
+          "insights": [
+            {
+              "icon": "newspaper",
+              "h": "Reportage",
+              "b": "# CME Group Tour Championship – Förhandsanalys\n\nCME Group Tour Championship avslutar LPGA-säsongen och lockar världens bästa spelerskor i en stark final. Nelly Korda och Patty Tavatanakit står ut som favoritnamn med stark form under hösten, men även Allisen Corpuz och Lexi Thompson är potentiella utmanare med flera segrar på meritlistan. Utan svenska representanter blir fokus på hur toppspelarnas konsistens håller när presset är som högst – serien är även avgörande för försäsongstävlingar nästa år. Värt att följa är vilka spelare som kan leverera under slutspelsmomentet och hur vädret påverkar banan, då detta ofta avgör mellan medaljer."
+            },
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 19 November 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-dp-world-tour-championship",
@@ -6361,18 +6645,18 @@
       "yards": 0,
       "statusDetail": "Thu, November 11th at 12:00 AM EST",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-11T01:12:09+00:00",
-          "headline": "Lindberg jagad av Luiten och Wallace på DP World Tours slutspel",
+          "generatedAt": "2026-11-11T12:57:10+00:00",
+          "headline": "Lindberg jagar historien när DP World Tours bästa samlas till mästerskap",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "DP World Tour Championship lockar återigen Europas elite när säsongen kulminerar, med niederländaren Joost Luiten som toppseedat namn tillsammans med franska Victor Perez och engelske Matt Wallace. Mikael Lindberg representerar svenska färger i ett starkt internationellt fält där både etablerade namn som Adam Scott och hungrigt uppstigande spelare som Ewen Ferguson söker att avsluta året med en prestigefull seger. Intressant att notera är den starka danska representationen genom Jeff Winther och Niklas Nørgaard, samt att Scott – Australiens största golfprofil – måste väl väga in sin form på hemmaplan mot det hårdnackade europeiska motståndet. Vad som blir avgörande är hur väl spelarna hanterar pressuren i sesongens finaltouring, där marginalerana mellan första och tjugonde plats historiskt sett har varit minimala."
+              "b": "DP World Tour Championship lockar återigen ett starkt europeiskt fält anlett av nederländaren Joost Luiten och fransmannen Victor Perez i spetsen. Mikael Lindberg får möjlighet att sluta säsongen mot eliten på touren, och det blir intressant att följa hur svensken presterar mot ett fält dominerat av etablerade namn från Västeuropa och några farliga outsiders som japanerna Kota Kaneko och Yuto Katsuragawa. Balansera mellan form in i säsongsfinal och banakunskap blir avgörande faktorer – det är värd uppmärksamhet hur de främre seedade spelarna hanterar trycket när platserna på nästkommande säsongs högsta turneringar står på spel."
             },
             {
               "icon": "flag.fill",
@@ -6393,6 +6677,117 @@
               "icon": "wave.3.right",
               "h": "Auto-genererat",
               "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Rory McIlroy",
+              "svs": 4.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Rory McIlroy är en av SS:s top-1 favoriter pre-tournament (odds 4.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Jon Rahm",
+              "svs": 7.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Jon Rahm är en av SS:s top-2 favoriter pre-tournament (odds 7.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Tommy Fleetwood",
+              "svs": 9.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Tommy Fleetwood är en av SS:s top-3 favoriter pre-tournament (odds 9.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Adam Scott",
+              "svs": 13.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Adam Scott är en av SS:s top-4 favoriter pre-tournament (odds 13.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Tyrrell Hatton",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Tyrrell Hatton är en av SS:s top-5 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Eugenio Chacarra",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Eugenio Chacarra är en av SS:s top-6 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Matt Wallace",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Matt Wallace är en av SS:s top-7 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Aaron Rai",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Aaron Rai är en av SS:s top-8 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-11-11T12:57:14+00:00",
+          "headline": "Inför torsdag (R1): Rory McIlroy, Jon Rahm, Tommy Fleetwood toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "4.00  Rory McIlroy\n7.00  Jon Rahm\n9.00  Tommy Fleetwood\n13.00  Adam Scott\n15.00  Eugenio Chacarra\n15.00  Tyrrell Hatton"
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "1 svensk kvar i fältet.\n\n—  Mikael Lindberg  E"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
             }
           ],
           "top5": [],
@@ -8102,17 +8497,17 @@
               "win": {
                 "prob": 0.0083,
                 "fairOdds": 120.48,
-                "realSSOdds": 126.0,
-                "edgePct": 0.0458,
-                "kellyFraction": 0.0001,
-                "recommendedStakePct": 0.01,
-                "confidence": "Neutral"
+                "realSSOdds": 91.0,
+                "edgePct": -0.2447,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0583,
                 "fairOdds": 17.15,
-                "realSSOdds": 15.0,
-                "edgePct": -0.1255,
+                "realSSOdds": 13.0,
+                "edgePct": -0.2421,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -8120,8 +8515,8 @@
               "top10": {
                 "prob": 0.1368,
                 "fairOdds": 7.31,
-                "realSSOdds": 6.5,
-                "edgePct": -0.1108,
+                "realSSOdds": 5.5,
+                "edgePct": -0.2476,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -8129,8 +8524,8 @@
               "top20": {
                 "prob": 0.3301,
                 "fairOdds": 3.03,
-                "realSSOdds": 2.75,
-                "edgePct": -0.0922,
+                "realSSOdds": 2.7,
+                "edgePct": -0.1087,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -9012,13 +9407,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-11T01:12:15+00:00",
-          "headline": "Rahm dominerar Abu Dhabi – två slag före Hatton på -23",
+          "generatedAt": "2026-11-11T12:57:15+00:00",
+          "headline": "Rahm dominerar Abu Dhabi – två slag före Hatton",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jon Rahm dominerade Abu Dhabi Aldar Championship med överlägen finalresultat på -23, två slag före engelske Tyrrell Hatton som slutade på -21. Rory McIlroy placerade sig på tredje plats två slag efter Hatton, medan italienaren Francesco Laporta följde på fjärde plats två slag bakom nordiren. Svenskarnas insatser räckte inte för topplaceringar — varken Mikael Lindberg eller Joakim Lagergren nådde slutligen topptio på slutpodiet efter fyra rundor på Al Marjan Island Course."
+              "b": "Jon Rahm dominerade Abu Dhabi Aldar Championship genom att avsluta på -23, två slag före Tyrrell Hatton som en ensam tvåa på -21. Rahm höll kontrollen genom hela slutet och visade varför han tillhör eliten på DP World Tour. Rory McIlroy slutade på -19 på tredje plats tillsammans med ett starkt fält där italienaren Francesco Laporta (-17) och spanjoren David Puig (-16) representerade dagens utmanare. Svenska startfältet lyckades inte prestera på toppnivå; varken Mikael Lindberg eller Joakim Lagergren nådde resultat som placerade dem bland de 15 bästa."
             },
             {
               "icon": "list.number",
@@ -9148,13 +9543,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-11T01:12:17+00:00",
-          "headline": "Rahm rundar Abu Dhabi med två slag före Hatton – Lindberg och Lagergren utan topplacering",
+          "generatedAt": "2026-11-11T12:57:18+00:00",
+          "headline": "Rahm dominerar Abu Dhabi – två slag före Hatton",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jon Rahm dominerade Abu Dhabi Aldar Championship med imponerande −23 och höll Tyrrell Hatton på två slag avstånd trots engelsmannen starka −21-avslutning. McIlroy placerade sig på tredje plats på −19, medan italien Francesco Laporta och tre spanjorer—Ayora, Puig och medvinnaren Rahm—kämpade om positioner på kort avstånd nedanför. Svenska Mikael Lindberg och Joakim Lagergren nådde inte topp 20-placeringen, men tävlingen är nu avslutad med Rahms överlägna seger efter en förmögen veckans spel på Yas Links."
+              "b": "Jon Rahm dominerade Abu Dhabi Aldar Championship med två slag marginal till Tyrrell Hatton, som slutade på -21, medan nordiren Rory McIlroy följde på tredjeplats två slag bakom Hatton. Spanjoren byggde sitt försprång genom stabilt spel under hela veckan och visade varför han tillhör världseliten, medan en grupp på tre spelare – italienaren Francesco Laporta, spanjorerna Angel Ayora och David Puig samt österrikaren Bernd Wiesberger – kämpade om övriga podiepositioner på -16 till -17. Svenska representanterna Mikael Lindberg och Joakim Lagergren lyckades inte tränga sig in i topplaceringarna på denna DP World Tour-tävling."
             },
             {
               "icon": "list.number",
@@ -9284,13 +9679,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-11T01:12:21+00:00",
-          "headline": "Rahm dominerar Abu Dhabi – två slag före Hatton på -23",
+          "generatedAt": "2026-11-11T12:57:22+00:00",
+          "headline": "Rahm dominerar Abu Dhabi – två slag före Hatton",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jon Rahm dominerade Abu Dhabi Aldar Championship med en slutscore på -23, två slag före engelsmannen Tyrrell Hatton som slutade på -21. Rahms konsistenta spel under veckan säkerställde en övertygande seger innan någon jaktgrupp kunde hota hans ledning. Rory McIlroy slutade på tredje plats med -19, medan italienaren Francesco Laporta på -17 ledde jakten på podium tillsammans med ett flertal tätplacerade spelare mellan -16 och -13. Svenska starterna nådde inte topp 20-placeringen, då varken Mikael Lindberg eller Joakim Lagergren lyckades pressas upp bland ledande namn i det starka fältet."
+              "b": "Jon Rahm dominerade Abu Dhabi Aldar Championship med överlägsen marginal på -23, två slag före engelsmannen Tyrrell Hatton som slutade på -21. McIlroy på -19 var tredje kraft men aldrig hotfull för segern, medan italienaren Francesco Laporta på -17 ledde jaktgruppen av fyra spelare två slag bakom. Rahm:s stabilitet under hela veckan gjorde honom omöjlig att hålla jämna steg med, och de svenska representanterna Mikael Lindberg och Joakim Lagergren nådde inte topplaceringarna denna gång."
             },
             {
               "icon": "list.number",
@@ -9420,13 +9815,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-11T01:12:24+00:00",
-          "headline": "Rahm dominerar Abu Dhabi – Hatton två slag bakom på -21",
+          "generatedAt": "2026-11-11T12:57:25+00:00",
+          "headline": "Rahm dominerar Abu Dhabi – vinner med två slag före Hatton",
           "insights": [
             {
               "icon": "newspaper",
               "h": "Reportage",
-              "b": "Jon Rahm dominerade Abu Dhabi Aldar Championship med övertygande -23, två slag före Tyrrell Hatton som slutade på -21, och återigen visade den spanske världsstjärnan sin klasskillnad på gräsbanan. McIlroy följde på -19 medan italienske Laporta och spanjorerna Ayora och Puig kämpade om de övriga topplaceringar på -16 till -17. Svenska Mikael Lindberg och Joakim Lagergren nådde inte topplaceringarna i ett starkt internationellt startfält på DP World Tour."
+              "b": "Jon Rahm dominerade Abu Dhabi Aldar Championship med ett slutresultat på -23, två slag före Tyrrell Hatton som slutade på -21, medan Rory McIlroy på -19 kompletterade topptrioen. Spanjoren höll ett stadigt tempo genom turneringen och klarade att hålla försprånget under slutspurten, vilket tillsammans med flera andra högrankerads svaga avslutande rundor säkerställde hans seger. Svenska spelare från startelvan – Mikael Lindberg och Joakim Lagergren – missade att placera sig i topp 15, vilket speglar att deras form inte räckte för att konkurrera med eliten på denna etapp av DP World Tour-säsongen."
             },
             {
               "icon": "list.number",
