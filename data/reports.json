@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T02:50:03+00:00",
+  "generatedAt": "2026-11-18T14:32:09+00:00",
   "tournaments": [
     {
       "id": "live-rsm-classic",
@@ -12,12 +12,12 @@
       "yards": 0,
       "statusDetail": "Thu, November 18th at 12:00 AM EST",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-18T02:50:09+00:00",
+          "generatedAt": "2026-11-18T14:32:11+00:00",
           "headline": "Inför RSM Classic: fältet samlas på veckans bana",
           "insights": [
             {
@@ -51,32 +51,138 @@
             {
               "id": "auto-preview-w2",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Michael Brennan",
+              "sel": "Doug Ghim",
               "svs": 19.0,
               "mkt": 0,
               "units": 1.0,
               "conf": 3,
-              "rat": "Michael Brennan är en av SS:s top-2 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Doug Ghim är en av SS:s top-2 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Michael Brennan",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Michael Brennan är en av SS:s top-3 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
               "cat": "🤖 Outright (förhand)",
               "sel": "Jackson Koivun",
               "svs": 21.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Jackson Koivun är en av SS:s top-3 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Jackson Koivun är en av SS:s top-4 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
-              "id": "auto-preview-w4",
+              "id": "auto-preview-w5",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Doug Ghim",
+              "sel": "Blades Brown",
               "svs": 21.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Doug Ghim är en av SS:s top-4 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Blades Brown är en av SS:s top-5 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Keith Mitchell",
+              "svs": 26.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Keith Mitchell är en av SS:s top-6 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Brian Harman",
+              "svs": 26.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Brian Harman är en av SS:s top-7 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Michael Thorbjornsen",
+              "svs": 26.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Michael Thorbjornsen är en av SS:s top-8 favoriter pre-tournament (odds 26.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-11-18T14:32:12+00:00",
+          "headline": "Inför torsdag (R1): Ben James, Doug Ghim, Michael Brennan toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "17.00  Ben James\n19.00  Doug Ghim\n19.00  Michael Brennan\n21.00  Blades Brown\n21.00  Jackson Koivun\n26.00  Brian Harman"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ben James",
+              "svs": 17.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Ben James är en av SS:s top-1 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Doug Ghim",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Doug Ghim är en av SS:s top-2 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Michael Brennan",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Michael Brennan är en av SS:s top-3 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Jackson Koivun",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Jackson Koivun är en av SS:s top-4 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w5",
@@ -1494,8 +1600,8 @@
               "win": {
                 "prob": 0.0126,
                 "fairOdds": 79.37,
-                "realSSOdds": 21.0,
-                "edgePct": -0.7354,
+                "realSSOdds": 19.0,
+                "edgePct": -0.7606,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2737,7 +2843,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-18T02:50:13+00:00",
+          "generatedAt": "2026-11-18T14:32:15+00:00",
           "headline": "R1 utfall: Chad Ramey leder -20 — Ben Kohles jagar 2 slag bakom",
           "insights": [
             {
@@ -2863,7 +2969,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-18T02:50:14+00:00",
+          "generatedAt": "2026-11-18T14:32:16+00:00",
           "headline": "R2 utfall: Chad Ramey leder -20 — Ben Kohles jagar 2 slag bakom",
           "insights": [
             {
@@ -2989,7 +3095,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-18T02:50:14+00:00",
+          "generatedAt": "2026-11-18T14:32:16+00:00",
           "headline": "R3 utfall: Chad Ramey leder -20 — Ben Kohles jagar 2 slag bakom",
           "insights": [
             {
@@ -3115,7 +3221,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-18T02:50:14+00:00",
+          "generatedAt": "2026-11-18T14:32:16+00:00",
           "headline": "Slutresultat: Chad Ramey vann på -20 — vinst med 2 slag över Ben Kohles",
           "insights": [
             {
@@ -3251,12 +3357,12 @@
       "yards": 0,
       "statusDetail": "Thu, November 18th at 12:00 AM EST",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-18T02:50:16+00:00",
+          "generatedAt": "2026-11-18T14:32:17+00:00",
           "headline": "Inför CME Group Tour Championship: fältet samlas på veckans bana",
           "insights": [
             {
@@ -3278,6 +3384,117 @@
               "icon": "wave.3.right",
               "h": "Auto-genererat",
               "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Haeran Ryu",
+              "svs": 8.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Haeran Ryu är en av SS:s top-1 favoriter pre-tournament (odds 8.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Nelly Korda",
+              "svs": 8.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Nelly Korda är en av SS:s top-2 favoriter pre-tournament (odds 8.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Jeeno Thitikul",
+              "svs": 8.5,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Jeeno Thitikul är en av SS:s top-3 favoriter pre-tournament (odds 8.50). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Miyu Yamashita",
+              "svs": 8.5,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Miyu Yamashita är en av SS:s top-4 favoriter pre-tournament (odds 8.50). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Ruoning Yin",
+              "svs": 13.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Ruoning Yin är en av SS:s top-5 favoriter pre-tournament (odds 13.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Aki Iwai",
+              "svs": 15.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Aki Iwai är en av SS:s top-6 favoriter pre-tournament (odds 15.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Nasa Hataoka",
+              "svs": 17.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Nasa Hataoka är en av SS:s top-7 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Charley Hull",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Charley Hull är en av SS:s top-8 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-11-18T14:32:17+00:00",
+          "headline": "Inför torsdag (R1): Haeran Ryu, Nelly Korda, Jeeno Thitikul toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "8.00  Haeran Ryu\n8.00  Nelly Korda\n8.50  Jeeno Thitikul\n8.50  Miyu Yamashita\n13.00  Ruoning Yin\n15.00  Aki Iwai"
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "1 svensk kvar i fältet.\n\n—  Maja Stark  E"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
             }
           ],
           "top5": [],
@@ -3646,8 +3863,8 @@
               "top5": {
                 "prob": 0.2029,
                 "fairOdds": 4.93,
-                "realSSOdds": 2.8,
-                "edgePct": -0.4319,
+                "realSSOdds": 2.75,
+                "edgePct": -0.442,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -3655,8 +3872,8 @@
               "top10": {
                 "prob": 0.3581,
                 "fairOdds": 2.79,
-                "realSSOdds": 1.75,
-                "edgePct": -0.3733,
+                "realSSOdds": 1.73,
+                "edgePct": -0.3805,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -3664,8 +3881,8 @@
               "top20": {
                 "prob": 0.5973,
                 "fairOdds": 1.67,
-                "realSSOdds": 1.3,
-                "edgePct": -0.2235,
+                "realSSOdds": 1.29,
+                "edgePct": -0.2295,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -5538,8 +5755,8 @@
               "prob": 0.2029,
               "fairOdds": 4.93,
               "confidence": "Övervärderad",
-              "realSSOdds": 2.8,
-              "edgePct": -0.4319,
+              "realSSOdds": 2.75,
+              "edgePct": -0.442,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
             }
@@ -5620,8 +5837,8 @@
               "prob": 0.3581,
               "fairOdds": 2.79,
               "confidence": "Övervärderad",
-              "realSSOdds": 1.75,
-              "edgePct": -0.3733,
+              "realSSOdds": 1.73,
+              "edgePct": -0.3805,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
             }
@@ -5672,8 +5889,8 @@
               "prob": 0.5973,
               "fairOdds": 1.67,
               "confidence": "Övervärderad",
-              "realSSOdds": 1.3,
-              "edgePct": -0.2235,
+              "realSSOdds": 1.29,
+              "edgePct": -0.2295,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
             },
@@ -5897,7 +6114,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-18T02:50:17+00:00",
+          "generatedAt": "2026-11-18T14:32:18+00:00",
           "headline": "R1 utfall: Lindy Duncan leder -16 — Hye-Jin Choi jagar 2 slag bakom",
           "insights": [
             {
@@ -6028,7 +6245,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-18T02:50:17+00:00",
+          "generatedAt": "2026-11-18T14:32:19+00:00",
           "headline": "R2 utfall: Lindy Duncan leder -16 — Hye-Jin Choi jagar 2 slag bakom",
           "insights": [
             {
@@ -6159,7 +6376,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-18T02:50:18+00:00",
+          "generatedAt": "2026-11-18T14:32:19+00:00",
           "headline": "R3 utfall: Lindy Duncan leder -16 — Hye-Jin Choi jagar 2 slag bakom",
           "insights": [
             {
@@ -6290,7 +6507,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-18T02:50:18+00:00",
+          "generatedAt": "2026-11-18T14:32:19+00:00",
           "headline": "Slutresultat: Lindy Duncan vann på -16 — vinst med 2 slag över Hye-Jin Choi",
           "insights": [
             {
@@ -6432,7 +6649,33 @@
       "statusDetail": "Thu, November 25th at 12:00 AM EST",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-11-18T14:32:20+00:00",
+          "headline": "Inför BMW Australian PGA Championship: fältet samlas på veckans bana",
+          "insights": [
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 26 November 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-dp-world-tour-championship",
@@ -6450,7 +6693,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-18T02:50:19+00:00",
+          "generatedAt": "2026-11-18T14:32:20+00:00",
           "headline": "R1 utfall: Tyrrell Hatton leder -15 — Rory McIlroy jagar 5 slag bakom",
           "insights": [
             {
@@ -6581,7 +6824,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-18T02:50:19+00:00",
+          "generatedAt": "2026-11-18T14:32:20+00:00",
           "headline": "R2 utfall: Tyrrell Hatton leder -15 — Rory McIlroy jagar 5 slag bakom",
           "insights": [
             {
@@ -6712,7 +6955,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-18T02:50:20+00:00",
+          "generatedAt": "2026-11-18T14:32:20+00:00",
           "headline": "R3 utfall: Tyrrell Hatton leder -15 — Rory McIlroy jagar 5 slag bakom",
           "insights": [
             {
@@ -6843,7 +7086,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-18T02:50:20+00:00",
+          "generatedAt": "2026-11-18T14:32:21+00:00",
           "headline": "Slutresultat: Tyrrell Hatton vann på -15 — vinst med 5 slag över Rory McIlroy",
           "insights": [
             {
