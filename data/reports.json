@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T04:04:44+00:00",
+  "generatedAt": "2026-11-25T16:01:35+00:00",
   "tournaments": [
     {
       "id": "live-hero-world-challenge",
@@ -13,7 +13,33 @@
       "statusDetail": "Thu, December 2nd at 12:00 AM EST",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-11-25T16:01:39+00:00",
+          "headline": "Inför Hero World Challenge: fältet samlas på veckans bana",
+          "insights": [
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 03 December 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-rsm-classic",
@@ -31,7 +57,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-25T04:04:47+00:00",
+          "generatedAt": "2026-11-25T16:01:41+00:00",
           "headline": "R1 utfall: Marco Penge leder -17 — Michael Thorbjornsen jagar ett slag bakom",
           "insights": [
             {
@@ -162,7 +188,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-25T04:04:47+00:00",
+          "generatedAt": "2026-11-25T16:01:41+00:00",
           "headline": "R2 utfall: Marco Penge leder -17 — Michael Thorbjornsen jagar ett slag bakom",
           "insights": [
             {
@@ -293,7 +319,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-25T04:04:47+00:00",
+          "generatedAt": "2026-11-25T16:01:41+00:00",
           "headline": "R3 utfall: Marco Penge leder -17 — Michael Thorbjornsen jagar ett slag bakom",
           "insights": [
             {
@@ -424,7 +450,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-25T04:04:47+00:00",
+          "generatedAt": "2026-11-25T16:01:42+00:00",
           "headline": "Slutresultat: Marco Penge vann på -17 — vinst med ett slag över Michael Thorbjornsen",
           "insights": [
             {
@@ -570,7 +596,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-25T04:04:47+00:00",
+          "generatedAt": "2026-11-25T16:01:42+00:00",
           "headline": "R1 utfall: Jeeno Thitikul leder -24 — Aki Iwai jagar 2 slag bakom",
           "insights": [
             {
@@ -701,7 +727,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-25T04:04:47+00:00",
+          "generatedAt": "2026-11-25T16:01:43+00:00",
           "headline": "R2 utfall: Jeeno Thitikul leder -24 — Aki Iwai jagar 2 slag bakom",
           "insights": [
             {
@@ -832,7 +858,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-25T04:04:47+00:00",
+          "generatedAt": "2026-11-25T16:01:43+00:00",
           "headline": "R3 utfall: Jeeno Thitikul leder -24 — Aki Iwai jagar 2 slag bakom",
           "insights": [
             {
@@ -963,7 +989,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-25T04:04:47+00:00",
+          "generatedAt": "2026-11-25T16:01:43+00:00",
           "headline": "Slutresultat: Jeeno Thitikul vann på -24 — vinst med 2 slag över Aki Iwai",
           "insights": [
             {
@@ -1104,12 +1130,12 @@
       "yards": 0,
       "statusDetail": "Thu, November 25th at 12:00 AM EST",
       "status": "upcoming",
-      "currentRound": 0,
+      "currentRound": 1,
       "reports": {
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-25T04:04:48+00:00",
+          "generatedAt": "2026-11-25T16:01:44+00:00",
           "headline": "Inför BMW Australian PGA Championship: fältet samlas på veckans bana",
           "insights": [
             {
@@ -1188,32 +1214,143 @@
             {
               "id": "auto-preview-w6",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Marc Leishman",
-              "svs": 19.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Marc Leishman är en av SS:s top-6 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
-            },
-            {
-              "id": "auto-preview-w7",
-              "cat": "🤖 Outright (förhand)",
               "sel": "Alex Noren",
               "svs": 21.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Alex Noren är en av SS:s top-7 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Alex Noren är en av SS:s top-6 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
-              "id": "auto-preview-w8",
+              "id": "auto-preview-w7",
               "cat": "🤖 Outright (förhand)",
               "sel": "David Puig",
               "svs": 21.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "David Puig är en av SS:s top-8 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "David Puig är en av SS:s top-7 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Tom McKibbin",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Tom McKibbin är en av SS:s top-8 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            }
+          ]
+        },
+        "torsdag": {
+          "kind": "daily",
+          "locked": false,
+          "generatedAt": "2026-11-25T16:01:44+00:00",
+          "headline": "Inför torsdag (R1): Adam Scott, Min Woo Lee, Daniel Hillier toppar oddsen — lägg spelen innan utslag",
+          "insights": [
+            {
+              "icon": "clock",
+              "h": "Innan utslag",
+              "b": "Rundan teear av senare idag. Oddsen nedan är Svenska Spels förhandspriser (via Kambi) — lägg dina spel nu, rapporten fylls på med live leaderboard när rundan startar."
+            },
+            {
+              "icon": "star.fill",
+              "h": "Svenska Spels favoriter (vinnare)",
+              "b": "9.00  Adam Scott\n10.00  Min Woo Lee\n13.00  Daniel Hillier\n13.00  Lucas Herbert\n19.00  Corey Conners\n21.00  Alex Noren"
+            },
+            {
+              "icon": "flag.fill",
+              "h": "🇸🇪 Svenskkollen",
+              "b": "3 svenska kvar i fältet.\n\n—  Alex Noren  E\n—  Sebastian Söderberg  E\n—  Adam Wallin  E"
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Pre-round-rapport — genereras på morgonen innan rundan teear av så att du hinner lägga spel. Se Edge-sektionen för modellens picks mot Svenska Spels riktiga odds. Verifiera alltid linjen hos SS."
+            }
+          ],
+          "top5": [],
+          "bets": [
+            {
+              "id": "auto-preview-w1",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Adam Scott",
+              "svs": 9.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Adam Scott är en av SS:s top-1 favoriter pre-tournament (odds 9.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w2",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Min Woo Lee",
+              "svs": 10.0,
+              "mkt": 0,
+              "units": 1.0,
+              "conf": 3,
+              "rat": "Min Woo Lee är en av SS:s top-2 favoriter pre-tournament (odds 10.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w3",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Lucas Herbert",
+              "svs": 13.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Lucas Herbert är en av SS:s top-3 favoriter pre-tournament (odds 13.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w4",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Daniel Hillier",
+              "svs": 13.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Daniel Hillier är en av SS:s top-4 favoriter pre-tournament (odds 13.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w5",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Corey Conners",
+              "svs": 19.0,
+              "mkt": 0,
+              "units": 0.7,
+              "conf": 2,
+              "rat": "Corey Conners är en av SS:s top-5 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w6",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Alex Noren",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Alex Noren är en av SS:s top-6 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w7",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "David Puig",
+              "svs": 21.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "David Puig är en av SS:s top-7 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+            },
+            {
+              "id": "auto-preview-w8",
+              "cat": "🤖 Outright (förhand)",
+              "sel": "Tom McKibbin",
+              "svs": 23.0,
+              "mkt": 0,
+              "units": 0.5,
+              "conf": 2,
+              "rat": "Tom McKibbin är en av SS:s top-8 favoriter pre-tournament (odds 23.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             }
           ]
         }
@@ -1823,8 +1960,8 @@
               "win": {
                 "prob": 0.0203,
                 "fairOdds": 49.26,
-                "realSSOdds": 41.0,
-                "edgePct": -0.1677,
+                "realSSOdds": 36.0,
+                "edgePct": -0.2692,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1914,10 +2051,10 @@
               "win": {
                 "prob": 0.0156,
                 "fairOdds": 64.1,
-                "realSSOdds": 81.0,
-                "edgePct": 0.2636,
-                "kellyFraction": 0.0008,
-                "recommendedStakePct": 0.08,
+                "realSSOdds": 126.0,
+                "edgePct": 0.9656,
+                "kellyFraction": 0.0019,
+                "recommendedStakePct": 0.19,
                 "confidence": "Spelvärt"
               },
               "top5": {
@@ -2167,8 +2304,8 @@
               "win": {
                 "prob": 0.0129,
                 "fairOdds": 77.52,
-                "realSSOdds": 34.0,
-                "edgePct": -0.5614,
+                "realSSOdds": 41.0,
+                "edgePct": -0.4711,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2473,11 +2610,11 @@
               "win": {
                 "prob": 0.0101,
                 "fairOdds": 99.01,
-                "realSSOdds": 101.0,
-                "edgePct": 0.0201,
-                "kellyFraction": 0.0001,
-                "recommendedStakePct": 0.01,
-                "confidence": "Chansning"
+                "realSSOdds": 81.0,
+                "edgePct": -0.1819,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0576,
@@ -2573,8 +2710,8 @@
               "win": {
                 "prob": 0.0096,
                 "fairOdds": 104.17,
-                "realSSOdds": 41.0,
-                "edgePct": -0.6064,
+                "realSSOdds": 51.0,
+                "edgePct": -0.5104,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2932,8 +3069,8 @@
               "win": {
                 "prob": 0.0078,
                 "fairOdds": 128.21,
-                "realSSOdds": 19.0,
-                "edgePct": -0.8518,
+                "realSSOdds": 23.0,
+                "edgePct": -0.8206,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -3191,8 +3328,8 @@
               "win": {
                 "prob": 0.0069,
                 "fairOdds": 144.93,
-                "realSSOdds": 126.0,
-                "edgePct": -0.1306,
+                "realSSOdds": 101.0,
+                "edgePct": -0.3031,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -3200,8 +3337,8 @@
               "top5": {
                 "prob": 0.0425,
                 "fairOdds": 23.53,
-                "realSSOdds": 21.0,
-                "edgePct": -0.1075,
+                "realSSOdds": 17.0,
+                "edgePct": -0.2775,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -3209,20 +3346,20 @@
               "top10": {
                 "prob": 0.0945,
                 "fairOdds": 10.58,
-                "realSSOdds": 11.0,
-                "edgePct": 0.0395,
-                "kellyFraction": 0.001,
-                "recommendedStakePct": 0.1,
-                "confidence": "Neutral"
+                "realSSOdds": 9.0,
+                "edgePct": -0.1495,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top20": {
                 "prob": 0.2066,
                 "fairOdds": 4.84,
-                "realSSOdds": 5.0,
-                "edgePct": 0.033,
-                "kellyFraction": 0.0021,
-                "recommendedStakePct": 0.21,
-                "confidence": "Neutral"
+                "realSSOdds": 4.75,
+                "edgePct": -0.0186,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "cut": {
                 "prob": 0.5592,
@@ -3821,7 +3958,33 @@
       "statusDetail": "Thu, December 2nd at 12:00 AM EST",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-11-25T16:01:47+00:00",
+          "headline": "Inför Capital.com Australian Open: fältet samlas på veckans bana",
+          "insights": [
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 03 December 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-nedbank-golf-challenge",
@@ -3835,7 +3998,33 @@
       "statusDetail": "Thu, December 2nd at 12:00 AM EST",
       "status": "upcoming",
       "currentRound": 0,
-      "reports": {}
+      "reports": {
+        "onsdag": {
+          "kind": "preview",
+          "locked": false,
+          "generatedAt": "2026-11-25T16:01:47+00:00",
+          "headline": "Inför Nedbank Golf Challenge: fältet samlas på veckans bana",
+          "insights": [
+            {
+              "icon": "flag.fill",
+              "h": "Banan & schemat",
+              "b": "Bana: —\nStarttid runda 1: Thursday 03 December 2026"
+            },
+            {
+              "icon": "person.3.fill",
+              "h": "Fältöversikt",
+              "b": "0 spelare anmälda. Första utslag kl ~13:00 svensk tid på torsdag. Fullständig fältlista hämtas live från ESPN."
+            },
+            {
+              "icon": "wave.3.right",
+              "h": "Auto-genererat",
+              "b": "Förhandsrapport genereras automatiskt så fort en tävling är inom en vecka från start. Rubrik och reportage skrivs av Claude. Spelen baseras på fältöversikt — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
+            }
+          ],
+          "top5": [],
+          "bets": []
+        }
+      }
     },
     {
       "id": "live-liv-golf-michigan-stroke-play",
