@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:51:31+00:00",
+  "generatedAt": "2026-11-25T02:18:32+00:00",
   "tournaments": [
     {
       "id": "live-hero-world-challenge",
@@ -14,525 +14,6 @@
       "status": "upcoming",
       "currentRound": 0,
       "reports": {}
-    },
-    {
-      "id": "live-austin-championship",
-      "name": "Austin Championship",
-      "rawName": "Austin Championship pres. by Compliance Solutions",
-      "tour": "PGA Tour",
-      "course": "—",
-      "startDate": "2026-11-12T05:00Z",
-      "par": 71,
-      "yards": 0,
-      "statusDetail": "Final",
-      "status": "final",
-      "currentRound": 4,
-      "reports": {
-        "torsdag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-11-24T23:51:34+00:00",
-          "headline": "R1 utfall: Chad Ramey leder -20 — Ben Kohles jagar 2 slag bakom",
-          "insights": [
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R1)",
-              "b": "—  Chad Ramey  -20\n—  Ben Kohles  -18\n—  Trace Crowe  -17\n—  Hayden Springer  -16\n—  Blades Brown  -16\n—  Erik van Rooyen  -16\n—  Jordan Smith  -15\n—  Austin Smotherman  -15\n—  Sami Välimäki  -15\n—  Joel Dahmen  -14\n\nKälla: ESPN."
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 6 slag från ledaren. 2 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r1-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Chad Ramey",
-              "svs": 8.0,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Chad Ramey leder fältet på -20 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r1-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Trace Crowe",
-              "svs": 20.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Trace Crowe ligger 3 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r1-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Ben Kohles",
-              "svs": 2.8,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Ben Kohles (-18) sitter i topp-skiktet 2 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r1-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Hayden Springer",
-              "svs": 3.4,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Hayden Springer (-16) sitter i topp-skiktet 4 slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r1-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Erik van Rooyen",
-              "svs": 2.6,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Erik van Rooyen (-16) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
-            },
-            {
-              "id": "auto-r1-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Austin Smotherman",
-              "svs": 2.8,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Austin Smotherman (-15) ligger inom topp-10 just nu. Stark position att hålla över återstående 4 runda(or)."
-            },
-            {
-              "id": "auto-r1-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Will Gordon",
-              "svs": 2.2,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Will Gordon (-13) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r1-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Zac Blair",
-              "svs": 2.3,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Zac Blair (-12) på topp-20-gränsen. Med 4 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r1-low",
-              "cat": "🤖 Lägsta runda R2",
-              "sel": "Kristoffer Ventura",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Kristoffer Ventura (-14) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r1-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Chad Ramey",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Chad Ramey är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "fredag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-11-24T23:51:35+00:00",
-          "headline": "R2 utfall: Chad Ramey leder -20 — Ben Kohles jagar 2 slag bakom",
-          "insights": [
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R2)",
-              "b": "—  Chad Ramey  -20\n—  Ben Kohles  -18\n—  Trace Crowe  -17\n—  Hayden Springer  -16\n—  Blades Brown  -16\n—  Erik van Rooyen  -16\n—  Jordan Smith  -15\n—  Austin Smotherman  -15\n—  Sami Välimäki  -15\n—  Joel Dahmen  -14\n\nKälla: ESPN."
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 6 slag från ledaren. 2 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r2-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Chad Ramey",
-              "svs": 5.0,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Chad Ramey leder fältet på -20 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r2-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Trace Crowe",
-              "svs": 12.5,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Trace Crowe ligger 3 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r2-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Ben Kohles",
-              "svs": 2.8,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Ben Kohles (-18) sitter i topp-skiktet 2 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r2-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Hayden Springer",
-              "svs": 3.4,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 3,
-              "rat": "Hayden Springer (-16) sitter i topp-skiktet 4 slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r2-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Erik van Rooyen",
-              "svs": 2.6,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Erik van Rooyen (-16) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
-            },
-            {
-              "id": "auto-r2-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Austin Smotherman",
-              "svs": 2.8,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Austin Smotherman (-15) ligger inom topp-10 just nu. Stark position att hålla över återstående 3 runda(or)."
-            },
-            {
-              "id": "auto-r2-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Will Gordon",
-              "svs": 2.2,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Will Gordon (-13) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r2-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Zac Blair",
-              "svs": 2.3,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Zac Blair (-12) på topp-20-gränsen. Med 3 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r2-low",
-              "cat": "🤖 Lägsta runda R3",
-              "sel": "Kristoffer Ventura",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Kristoffer Ventura (-14) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r2-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Chad Ramey",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Chad Ramey är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "lordag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-11-24T23:51:35+00:00",
-          "headline": "R3 utfall: Chad Ramey leder -20 — Ben Kohles jagar 2 slag bakom",
-          "insights": [
-            {
-              "icon": "list.number",
-              "h": "Leaderboard live (R3)",
-              "b": "—  Chad Ramey  -20\n—  Ben Kohles  -18\n—  Trace Crowe  -17\n—  Hayden Springer  -16\n—  Blades Brown  -16\n—  Erik van Rooyen  -16\n—  Jordan Smith  -15\n—  Austin Smotherman  -15\n—  Sami Välimäki  -15\n—  Joel Dahmen  -14\n\nKälla: ESPN."
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 6 slag från ledaren. 2 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r3-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Chad Ramey",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Chad Ramey leder fältet på -20 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r3-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Trace Crowe",
-              "svs": 6.25,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Trace Crowe ligger 3 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r3-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Ben Kohles",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Ben Kohles (-18) sitter i topp-skiktet 2 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r3-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Hayden Springer",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Hayden Springer (-16) sitter i topp-skiktet 4 slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r3-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Erik van Rooyen",
-              "svs": 1.8,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Erik van Rooyen (-16) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
-            },
-            {
-              "id": "auto-r3-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Austin Smotherman",
-              "svs": 1.9,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Austin Smotherman (-15) ligger inom topp-10 just nu. Stark position att hålla över återstående 2 runda(or)."
-            },
-            {
-              "id": "auto-r3-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Will Gordon",
-              "svs": 1.55,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Will Gordon (-13) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r3-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Zac Blair",
-              "svs": 1.6,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Zac Blair (-12) på topp-20-gränsen. Med 2 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r3-low",
-              "cat": "🤖 Lägsta runda R4",
-              "sel": "Kristoffer Ventura",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Kristoffer Ventura (-14) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r3-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Chad Ramey",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Chad Ramey är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        },
-        "sondag": {
-          "kind": "daily",
-          "locked": false,
-          "generatedAt": "2026-11-24T23:51:35+00:00",
-          "headline": "Slutresultat: Chad Ramey vann på -20 — vinst med 2 slag över Ben Kohles",
-          "insights": [
-            {
-              "icon": "list.number",
-              "h": "Slutresultat",
-              "b": "—  Chad Ramey  -20\n—  Ben Kohles  -18\n—  Trace Crowe  -17\n—  Hayden Springer  -16\n—  Blades Brown  -16\n—  Erik van Rooyen  -16\n—  Jordan Smith  -15\n—  Austin Smotherman  -15\n—  Sami Välimäki  -15\n—  Joel Dahmen  -14\n\nKälla: ESPN."
-            },
-            {
-              "icon": "scope",
-              "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 6 slag från ledaren. 2 spelare inom 3 slag — vinnar-poolen är smal."
-            },
-            {
-              "icon": "wave.3.right",
-              "h": "Auto-genererat",
-              "b": "Den här rapporten genereras automatiskt varje morgon kl 08:00 svensk tid från ESPN-leaderboarden via en publik feed på GitHub. Reportage och rubrik skrivs av Claude. Spelen baseras på spelarpositioner och en enkel implicit-sannolikhetsmodell — odds är indikativa och måste verifieras mot Svenska Spel innan spel."
-            }
-          ],
-          "top5": [],
-          "bets": [
-            {
-              "id": "auto-r4-w1",
-              "cat": "🤖 Vinnare (uppdaterad)",
-              "sel": "Chad Ramey",
-              "svs": 1.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Chad Ramey leder fältet på -20 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
-            },
-            {
-              "id": "auto-r4-w2",
-              "cat": "🤖 Vinnare (värde)",
-              "sel": "Trace Crowe",
-              "svs": 4.0,
-              "mkt": 0,
-              "units": 0.75,
-              "conf": 2,
-              "rat": "Trace Crowe ligger 3 slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
-            },
-            {
-              "id": "auto-r4-t5-1",
-              "cat": "🤖 Topp 5",
-              "sel": "Ben Kohles",
-              "svs": 2.1,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Ben Kohles (-18) sitter i topp-skiktet 2 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r4-t5-3",
-              "cat": "🤖 Topp 5",
-              "sel": "Hayden Springer",
-              "svs": 2.5,
-              "mkt": 0,
-              "units": 1.5,
-              "conf": 4,
-              "rat": "Hayden Springer (-16) sitter i topp-skiktet 4 slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
-            },
-            {
-              "id": "auto-r4-t10-5",
-              "cat": "🤖 Topp 10",
-              "sel": "Erik van Rooyen",
-              "svs": 1.8,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Erik van Rooyen (-16) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
-            },
-            {
-              "id": "auto-r4-t10-7",
-              "cat": "🤖 Topp 10",
-              "sel": "Austin Smotherman",
-              "svs": 1.9,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Austin Smotherman (-15) ligger inom topp-10 just nu. Stark position att hålla över återstående 1 runda(or)."
-            },
-            {
-              "id": "auto-r4-t20-14",
-              "cat": "🤖 Topp 20",
-              "sel": "Will Gordon",
-              "svs": 1.55,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Will Gordon (-13) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r4-t20-18",
-              "cat": "🤖 Topp 20",
-              "sel": "Zac Blair",
-              "svs": 1.6,
-              "mkt": 0,
-              "units": 1,
-              "conf": 3,
-              "rat": "Zac Blair (-12) på topp-20-gränsen. Med 1 runda(or) kvar krävs bara stabilitet för att hänga kvar."
-            },
-            {
-              "id": "auto-r4-low",
-              "cat": "🤖 Lägsta runda R5",
-              "sel": "Kristoffer Ventura",
-              "svs": 12.0,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Kristoffer Ventura (-14) spelar utan press och har taket att klippa en attack-runda. Stort longshot-pris för liten insats."
-            },
-            {
-              "id": "auto-r4-bf",
-              "cat": "🤖 Bogeyfri runda",
-              "sel": "Chad Ramey",
-              "svs": 5.5,
-              "mkt": 0,
-              "units": 0.5,
-              "conf": 2,
-              "rat": "Chad Ramey är en av få spelare med konsekventa rundor hittills — bogeyfri är en realistisk possibility. Liten insats, fin uppsida om approach-spelet håller."
-            }
-          ]
-        }
-      }
     },
     {
       "id": "live-rsm-classic",
@@ -550,7 +31,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-24T23:51:35+00:00",
+          "generatedAt": "2026-11-25T02:18:34+00:00",
           "headline": "R1 utfall: Marco Penge leder -17 — Michael Thorbjornsen jagar ett slag bakom",
           "insights": [
             {
@@ -681,7 +162,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-24T23:51:36+00:00",
+          "generatedAt": "2026-11-25T02:18:34+00:00",
           "headline": "R2 utfall: Marco Penge leder -17 — Michael Thorbjornsen jagar ett slag bakom",
           "insights": [
             {
@@ -812,7 +293,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-24T23:51:36+00:00",
+          "generatedAt": "2026-11-25T02:18:35+00:00",
           "headline": "R3 utfall: Marco Penge leder -17 — Michael Thorbjornsen jagar ett slag bakom",
           "insights": [
             {
@@ -943,7 +424,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-24T23:51:36+00:00",
+          "generatedAt": "2026-11-25T02:18:35+00:00",
           "headline": "Slutresultat: Marco Penge vann på -17 — vinst med ett slag över Michael Thorbjornsen",
           "insights": [
             {
@@ -1089,7 +570,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-24T23:51:37+00:00",
+          "generatedAt": "2026-11-25T02:18:35+00:00",
           "headline": "R1 utfall: Jeeno Thitikul leder -24 — Aki Iwai jagar 2 slag bakom",
           "insights": [
             {
@@ -1220,7 +701,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-24T23:51:37+00:00",
+          "generatedAt": "2026-11-25T02:18:36+00:00",
           "headline": "R2 utfall: Jeeno Thitikul leder -24 — Aki Iwai jagar 2 slag bakom",
           "insights": [
             {
@@ -1351,7 +832,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-24T23:51:37+00:00",
+          "generatedAt": "2026-11-25T02:18:36+00:00",
           "headline": "R3 utfall: Jeeno Thitikul leder -24 — Aki Iwai jagar 2 slag bakom",
           "insights": [
             {
@@ -1482,7 +963,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-24T23:51:37+00:00",
+          "generatedAt": "2026-11-25T02:18:36+00:00",
           "headline": "Slutresultat: Jeeno Thitikul vann på -24 — vinst med 2 slag över Aki Iwai",
           "insights": [
             {
@@ -1628,7 +1109,7 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-24T23:51:38+00:00",
+          "generatedAt": "2026-11-25T02:18:36+00:00",
           "headline": "Inför BMW Australian PGA Championship: fältet samlas på veckans bana",
           "insights": [
             {
