@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T01:44:23+00:00",
+  "generatedAt": "2026-11-26T03:28:19+00:00",
   "tournaments": [
     {
       "id": "live-hero-world-challenge",
@@ -17,7 +17,7 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-26T01:44:25+00:00",
+          "generatedAt": "2026-11-26T03:28:22+00:00",
           "headline": "Inför Hero World Challenge: fältet samlas på veckans bana",
           "insights": [
             {
@@ -57,13 +57,13 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-26T01:44:27+00:00",
-          "headline": "R1 utfall: Marco Penge leder -17 — Michael Thorbjornsen jagar ett slag bakom",
+          "generatedAt": "2026-11-26T03:28:24+00:00",
+          "headline": "R1 utfall: Marco Penge leder -16 — flera spelare delar ledningen",
           "insights": [
             {
               "icon": "list.number",
               "h": "Leaderboard live (R1)",
-              "b": "—  Marco Penge  -17\n—  Michael Thorbjornsen  -16\n—  Haotong Li  -16\n—  Max Greyserman  -16\n—  Jackson Koivun  -14\n—  Rasmus Højgaard  -14\n—  Harris English  -13\n—  Adrien Dumont de Chassart  -13\n—  Nick Dunlap  -12\n—  Brooks Koepka  -11\n\nKälla: ESPN."
+              "b": "—  Marco Penge  -16\n—  Haotong Li  -16\n—  Max Greyserman  -16\n—  Michael Thorbjornsen  -16\n—  Jackson Koivun  -14\n—  Rasmus Højgaard  -14\n—  Harris English  -13\n—  Adrien Dumont de Chassart  -13\n—  Nick Dunlap  -12\n—  Brooks Koepka  -11\n\nKälla: ESPN."
             },
             {
               "icon": "flag.fill",
@@ -73,7 +73,7 @@
             {
               "icon": "scope",
               "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 6 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
+              "b": "Topp 10 ligger inom 5 slag från ledaren. 6 spelare inom 3 slag — vinnar-poolen är bred."
             },
             {
               "icon": "wave.3.right",
@@ -91,43 +91,43 @@
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Marco Penge leder fältet på -17 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+              "rat": "Marco Penge leder fältet på -16 efter R1. Med 4 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 12-15% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
             },
             {
               "id": "auto-r1-w2",
               "cat": "🤖 Vinnare (värde)",
-              "sel": "Haotong Li",
-              "svs": 12.0,
+              "sel": "Max Greyserman",
+              "svs": 8.0,
               "mkt": 0,
               "units": 0.75,
               "conf": 2,
-              "rat": "Haotong Li ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+              "rat": "Max Greyserman ligger 0 slag (delar ledningen) bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
             },
             {
               "id": "auto-r1-t5-1",
               "cat": "🤖 Topp 5",
-              "sel": "Michael Thorbjornsen",
-              "svs": 2.5,
+              "sel": "Haotong Li",
+              "svs": 2.2,
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Michael Thorbjornsen (-16) sitter i topp-skiktet ett slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Haotong Li (-16) sitter i topp-skiktet 0 slag (delar ledningen) bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r1-t5-3",
               "cat": "🤖 Topp 5",
-              "sel": "Max Greyserman",
-              "svs": 2.5,
+              "sel": "Michael Thorbjornsen",
+              "svs": 2.2,
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Max Greyserman (-16) sitter i topp-skiktet ett slag bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Michael Thorbjornsen (-16) sitter i topp-skiktet 0 slag (delar ledningen) bakom ledaren. Med 4 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r1-t10-5",
               "cat": "🤖 Topp 10",
               "sel": "Rasmus Højgaard",
-              "svs": 2.4,
+              "svs": 2.2,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -137,7 +137,7 @@
               "id": "auto-r1-t10-7",
               "cat": "🤖 Topp 10",
               "sel": "Adrien Dumont de Chassart",
-              "svs": 2.6,
+              "svs": 2.4,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -147,7 +147,7 @@
               "id": "auto-r1-t20-14",
               "cat": "🤖 Topp 20",
               "sel": "Doug Ghim",
-              "svs": 2.2,
+              "svs": 2.1,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -157,7 +157,7 @@
               "id": "auto-r1-t20-18",
               "cat": "🤖 Topp 20",
               "sel": "Emiliano Grillo",
-              "svs": 2.2,
+              "svs": 2.1,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -188,13 +188,13 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-26T01:44:27+00:00",
-          "headline": "R2 utfall: Marco Penge leder -17 — Michael Thorbjornsen jagar ett slag bakom",
+          "generatedAt": "2026-11-26T03:28:24+00:00",
+          "headline": "R2 utfall: Marco Penge leder -16 — flera spelare delar ledningen",
           "insights": [
             {
               "icon": "list.number",
               "h": "Leaderboard live (R2)",
-              "b": "—  Marco Penge  -17\n—  Michael Thorbjornsen  -16\n—  Haotong Li  -16\n—  Max Greyserman  -16\n—  Jackson Koivun  -14\n—  Rasmus Højgaard  -14\n—  Harris English  -13\n—  Adrien Dumont de Chassart  -13\n—  Nick Dunlap  -12\n—  Brooks Koepka  -11\n\nKälla: ESPN."
+              "b": "—  Marco Penge  -16\n—  Haotong Li  -16\n—  Max Greyserman  -16\n—  Michael Thorbjornsen  -16\n—  Jackson Koivun  -14\n—  Rasmus Højgaard  -14\n—  Harris English  -13\n—  Adrien Dumont de Chassart  -13\n—  Nick Dunlap  -12\n—  Brooks Koepka  -11\n\nKälla: ESPN."
             },
             {
               "icon": "flag.fill",
@@ -204,7 +204,7 @@
             {
               "icon": "scope",
               "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 6 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
+              "b": "Topp 10 ligger inom 5 slag från ledaren. 6 spelare inom 3 slag — vinnar-poolen är bred."
             },
             {
               "icon": "wave.3.right",
@@ -222,43 +222,43 @@
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Marco Penge leder fältet på -17 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+              "rat": "Marco Penge leder fältet på -16 efter R2. Med 3 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 20-25% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
             },
             {
               "id": "auto-r2-w2",
               "cat": "🤖 Vinnare (värde)",
-              "sel": "Haotong Li",
-              "svs": 7.5,
+              "sel": "Max Greyserman",
+              "svs": 5.0,
               "mkt": 0,
               "units": 0.75,
               "conf": 2,
-              "rat": "Haotong Li ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+              "rat": "Max Greyserman ligger 0 slag (delar ledningen) bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
             },
             {
               "id": "auto-r2-t5-1",
               "cat": "🤖 Topp 5",
-              "sel": "Michael Thorbjornsen",
-              "svs": 2.5,
+              "sel": "Haotong Li",
+              "svs": 2.2,
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Michael Thorbjornsen (-16) sitter i topp-skiktet ett slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Haotong Li (-16) sitter i topp-skiktet 0 slag (delar ledningen) bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r2-t5-3",
               "cat": "🤖 Topp 5",
-              "sel": "Max Greyserman",
-              "svs": 2.5,
+              "sel": "Michael Thorbjornsen",
+              "svs": 2.2,
               "mkt": 0,
               "units": 1.5,
               "conf": 3,
-              "rat": "Max Greyserman (-16) sitter i topp-skiktet ett slag bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Michael Thorbjornsen (-16) sitter i topp-skiktet 0 slag (delar ledningen) bakom ledaren. Med 3 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r2-t10-5",
               "cat": "🤖 Topp 10",
               "sel": "Rasmus Højgaard",
-              "svs": 2.4,
+              "svs": 2.2,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -268,7 +268,7 @@
               "id": "auto-r2-t10-7",
               "cat": "🤖 Topp 10",
               "sel": "Adrien Dumont de Chassart",
-              "svs": 2.6,
+              "svs": 2.4,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -278,7 +278,7 @@
               "id": "auto-r2-t20-14",
               "cat": "🤖 Topp 20",
               "sel": "Doug Ghim",
-              "svs": 2.2,
+              "svs": 2.1,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -288,7 +288,7 @@
               "id": "auto-r2-t20-18",
               "cat": "🤖 Topp 20",
               "sel": "Emiliano Grillo",
-              "svs": 2.2,
+              "svs": 2.1,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -319,13 +319,13 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-26T01:44:27+00:00",
-          "headline": "R3 utfall: Marco Penge leder -17 — Michael Thorbjornsen jagar ett slag bakom",
+          "generatedAt": "2026-11-26T03:28:24+00:00",
+          "headline": "R3 utfall: Marco Penge leder -16 — flera spelare delar ledningen",
           "insights": [
             {
               "icon": "list.number",
               "h": "Leaderboard live (R3)",
-              "b": "—  Marco Penge  -17\n—  Michael Thorbjornsen  -16\n—  Haotong Li  -16\n—  Max Greyserman  -16\n—  Jackson Koivun  -14\n—  Rasmus Højgaard  -14\n—  Harris English  -13\n—  Adrien Dumont de Chassart  -13\n—  Nick Dunlap  -12\n—  Brooks Koepka  -11\n\nKälla: ESPN."
+              "b": "—  Marco Penge  -16\n—  Haotong Li  -16\n—  Max Greyserman  -16\n—  Michael Thorbjornsen  -16\n—  Jackson Koivun  -14\n—  Rasmus Højgaard  -14\n—  Harris English  -13\n—  Adrien Dumont de Chassart  -13\n—  Nick Dunlap  -12\n—  Brooks Koepka  -11\n\nKälla: ESPN."
             },
             {
               "icon": "flag.fill",
@@ -335,7 +335,7 @@
             {
               "icon": "scope",
               "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 6 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
+              "b": "Topp 10 ligger inom 5 slag från ledaren. 6 spelare inom 3 slag — vinnar-poolen är bred."
             },
             {
               "icon": "wave.3.right",
@@ -353,43 +353,43 @@
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Marco Penge leder fältet på -17 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+              "rat": "Marco Penge leder fältet på -16 efter R3. Med 2 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 40-50% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
             },
             {
               "id": "auto-r3-w2",
               "cat": "🤖 Vinnare (värde)",
-              "sel": "Haotong Li",
+              "sel": "Max Greyserman",
               "svs": 4.0,
               "mkt": 0,
               "units": 0.75,
               "conf": 2,
-              "rat": "Haotong Li ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+              "rat": "Max Greyserman ligger 0 slag (delar ledningen) bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
             },
             {
               "id": "auto-r3-t5-1",
               "cat": "🤖 Topp 5",
-              "sel": "Michael Thorbjornsen",
-              "svs": 1.9,
+              "sel": "Haotong Li",
+              "svs": 1.7,
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Michael Thorbjornsen (-16) sitter i topp-skiktet ett slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Haotong Li (-16) sitter i topp-skiktet 0 slag (delar ledningen) bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r3-t5-3",
               "cat": "🤖 Topp 5",
-              "sel": "Max Greyserman",
-              "svs": 1.9,
+              "sel": "Michael Thorbjornsen",
+              "svs": 1.7,
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Max Greyserman (-16) sitter i topp-skiktet ett slag bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Michael Thorbjornsen (-16) sitter i topp-skiktet 0 slag (delar ledningen) bakom ledaren. Med 2 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r3-t10-5",
               "cat": "🤖 Topp 10",
               "sel": "Rasmus Højgaard",
-              "svs": 1.7,
+              "svs": 1.6,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -399,7 +399,7 @@
               "id": "auto-r3-t10-7",
               "cat": "🤖 Topp 10",
               "sel": "Adrien Dumont de Chassart",
-              "svs": 1.8,
+              "svs": 1.7,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -409,7 +409,7 @@
               "id": "auto-r3-t20-14",
               "cat": "🤖 Topp 20",
               "sel": "Doug Ghim",
-              "svs": 1.55,
+              "svs": 1.5,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -419,7 +419,7 @@
               "id": "auto-r3-t20-18",
               "cat": "🤖 Topp 20",
               "sel": "Emiliano Grillo",
-              "svs": 1.55,
+              "svs": 1.5,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -450,13 +450,13 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-26T01:44:27+00:00",
-          "headline": "Slutresultat: Marco Penge vann på -17 — vinst med ett slag över Michael Thorbjornsen",
+          "generatedAt": "2026-11-26T03:28:24+00:00",
+          "headline": "Slutresultat: Marco Penge vann på -16 — playoff/oavgjord",
           "insights": [
             {
               "icon": "list.number",
               "h": "Slutresultat",
-              "b": "—  Marco Penge  -17\n—  Michael Thorbjornsen  -16\n—  Haotong Li  -16\n—  Max Greyserman  -16\n—  Jackson Koivun  -14\n—  Rasmus Højgaard  -14\n—  Harris English  -13\n—  Adrien Dumont de Chassart  -13\n—  Nick Dunlap  -12\n—  Brooks Koepka  -11\n\nKälla: ESPN."
+              "b": "—  Marco Penge  -16\n—  Haotong Li  -16\n—  Max Greyserman  -16\n—  Michael Thorbjornsen  -16\n—  Jackson Koivun  -14\n—  Rasmus Højgaard  -14\n—  Harris English  -13\n—  Adrien Dumont de Chassart  -13\n—  Nick Dunlap  -12\n—  Brooks Koepka  -11\n\nKälla: ESPN."
             },
             {
               "icon": "flag.fill",
@@ -466,7 +466,7 @@
             {
               "icon": "scope",
               "h": "Spridning i toppen",
-              "b": "Topp 10 ligger inom 6 slag från ledaren. 4 spelare inom 3 slag — vinnar-poolen är smal."
+              "b": "Topp 10 ligger inom 5 slag från ledaren. 6 spelare inom 3 slag — vinnar-poolen är bred."
             },
             {
               "icon": "wave.3.right",
@@ -484,43 +484,43 @@
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Marco Penge leder fältet på -17 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
+              "rat": "Marco Penge leder fältet på -16 efter R4. Med 1 runda(or) kvar är 54-håls-ledare-vinst statistiskt cirka 70-85% på PGA Tour. Indikativt pris baserat på position och rundor kvar — verifiera linjen hos Svenska Spel."
             },
             {
               "id": "auto-r4-w2",
               "cat": "🤖 Vinnare (värde)",
-              "sel": "Haotong Li",
+              "sel": "Max Greyserman",
               "svs": 4.0,
               "mkt": 0,
               "units": 0.75,
               "conf": 2,
-              "rat": "Haotong Li ligger ett slag bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
+              "rat": "Max Greyserman ligger 0 slag (delar ledningen) bakom ledaren. På en attack-runda kan han/hon ta sig in i finalbollen — indikativt longshot-pris."
             },
             {
               "id": "auto-r4-t5-1",
               "cat": "🤖 Topp 5",
-              "sel": "Michael Thorbjornsen",
-              "svs": 1.9,
+              "sel": "Haotong Li",
+              "svs": 1.7,
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Michael Thorbjornsen (-16) sitter i topp-skiktet ett slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Haotong Li (-16) sitter i topp-skiktet 0 slag (delar ledningen) bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r4-t5-3",
               "cat": "🤖 Topp 5",
-              "sel": "Max Greyserman",
-              "svs": 1.9,
+              "sel": "Michael Thorbjornsen",
+              "svs": 1.7,
               "mkt": 0,
               "units": 1.5,
               "conf": 4,
-              "rat": "Max Greyserman (-16) sitter i topp-skiktet ett slag bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
+              "rat": "Michael Thorbjornsen (-16) sitter i topp-skiktet 0 slag (delar ledningen) bakom ledaren. Med 1 runda(or) kvar är topp-5 ett rimligt scenario från denna position."
             },
             {
               "id": "auto-r4-t10-5",
               "cat": "🤖 Topp 10",
               "sel": "Rasmus Højgaard",
-              "svs": 1.7,
+              "svs": 1.6,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -530,7 +530,7 @@
               "id": "auto-r4-t10-7",
               "cat": "🤖 Topp 10",
               "sel": "Adrien Dumont de Chassart",
-              "svs": 1.8,
+              "svs": 1.7,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -540,7 +540,7 @@
               "id": "auto-r4-t20-14",
               "cat": "🤖 Topp 20",
               "sel": "Doug Ghim",
-              "svs": 1.55,
+              "svs": 1.5,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -550,7 +550,7 @@
               "id": "auto-r4-t20-18",
               "cat": "🤖 Topp 20",
               "sel": "Emiliano Grillo",
-              "svs": 1.55,
+              "svs": 1.5,
               "mkt": 0,
               "units": 1,
               "conf": 3,
@@ -610,7 +610,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-26T01:44:28+00:00",
+          "generatedAt": "2026-11-26T03:28:25+00:00",
           "headline": "R1 utfall: Jeeno Thitikul leder -24 — Aki Iwai jagar 2 slag bakom",
           "insights": [
             {
@@ -741,7 +741,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-26T01:44:28+00:00",
+          "generatedAt": "2026-11-26T03:28:25+00:00",
           "headline": "R2 utfall: Jeeno Thitikul leder -24 — Aki Iwai jagar 2 slag bakom",
           "insights": [
             {
@@ -872,7 +872,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-26T01:44:28+00:00",
+          "generatedAt": "2026-11-26T03:28:25+00:00",
           "headline": "R3 utfall: Jeeno Thitikul leder -24 — Aki Iwai jagar 2 slag bakom",
           "insights": [
             {
@@ -1003,7 +1003,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-26T01:44:29+00:00",
+          "generatedAt": "2026-11-26T03:28:26+00:00",
           "headline": "Slutresultat: Jeeno Thitikul vann på -24 — vinst med 2 slag över Aki Iwai",
           "insights": [
             {
@@ -1149,7 +1149,7 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-26T01:44:29+00:00",
+          "generatedAt": "2026-11-26T03:28:26+00:00",
           "headline": "Inför BMW Australian PGA Championship: fältet samlas på veckans bana",
           "insights": [
             {
@@ -1179,88 +1179,88 @@
               "id": "auto-preview-w1",
               "cat": "🤖 Outright (förhand)",
               "sel": "Min Woo Lee",
-              "svs": 8.5,
+              "svs": 8.0,
               "mkt": 0,
               "units": 1.0,
               "conf": 3,
-              "rat": "Min Woo Lee är en av SS:s top-1 favoriter pre-tournament (odds 8.50). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Min Woo Lee är en av SS:s top-1 favoriter pre-tournament (odds 8.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w2",
               "cat": "🤖 Outright (förhand)",
               "sel": "Daniel Hillier",
-              "svs": 12.0,
+              "svs": 10.0,
               "mkt": 0,
               "units": 1.0,
               "conf": 3,
-              "rat": "Daniel Hillier är en av SS:s top-2 favoriter pre-tournament (odds 12.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Daniel Hillier är en av SS:s top-2 favoriter pre-tournament (odds 10.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w3",
               "cat": "🤖 Outright (förhand)",
               "sel": "Sudarshan Yellamaraju",
-              "svs": 12.0,
+              "svs": 10.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Sudarshan Yellamaraju är en av SS:s top-3 favoriter pre-tournament (odds 12.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Sudarshan Yellamaraju är en av SS:s top-3 favoriter pre-tournament (odds 10.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w4",
               "cat": "🤖 Outright (förhand)",
               "sel": "Kazuma Kobori",
-              "svs": 13.0,
+              "svs": 11.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Kazuma Kobori är en av SS:s top-4 favoriter pre-tournament (odds 13.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Kazuma Kobori är en av SS:s top-4 favoriter pre-tournament (odds 11.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w5",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Haydn Barron",
-              "svs": 19.0,
+              "sel": "David Puig",
+              "svs": 17.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Haydn Barron är en av SS:s top-5 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "David Puig är en av SS:s top-5 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w6",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Wenyi Ding",
-              "svs": 19.0,
+              "sel": "Haydn Barron",
+              "svs": 17.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Wenyi Ding är en av SS:s top-6 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Haydn Barron är en av SS:s top-6 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w7",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Marc Leishman",
-              "svs": 19.0,
+              "sel": "Wenyi Ding",
+              "svs": 17.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Marc Leishman är en av SS:s top-7 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Wenyi Ding är en av SS:s top-7 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w8",
               "cat": "🤖 Outright (förhand)",
-              "sel": "David Puig",
+              "sel": "Byeong Hun An",
               "svs": 21.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "David Puig är en av SS:s top-8 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Byeong Hun An är en av SS:s top-8 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             }
           ]
         },
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-26T01:44:29+00:00",
+          "generatedAt": "2026-11-26T03:28:26+00:00",
           "headline": "Inför torsdag (R1): Min Woo Lee, Daniel Hillier, Sudarshan Yellamaraju toppar oddsen — lägg spelen innan utslag",
           "insights": [
             {
@@ -1271,7 +1271,7 @@
             {
               "icon": "star.fill",
               "h": "Svenska Spels favoriter (vinnare)",
-              "b": "8.50  Min Woo Lee\n12.00  Daniel Hillier\n12.00  Sudarshan Yellamaraju\n13.00  Kazuma Kobori\n19.00  Haydn Barron\n19.00  Marc Leishman"
+              "b": "8.00  Min Woo Lee\n10.00  Daniel Hillier\n10.00  Sudarshan Yellamaraju\n11.00  Kazuma Kobori\n17.00  David Puig\n17.00  Haydn Barron"
             },
             {
               "icon": "flag.fill",
@@ -1290,81 +1290,81 @@
               "id": "auto-preview-w1",
               "cat": "🤖 Outright (förhand)",
               "sel": "Min Woo Lee",
-              "svs": 8.5,
+              "svs": 8.0,
               "mkt": 0,
               "units": 1.0,
               "conf": 3,
-              "rat": "Min Woo Lee är en av SS:s top-1 favoriter pre-tournament (odds 8.50). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Min Woo Lee är en av SS:s top-1 favoriter pre-tournament (odds 8.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w2",
               "cat": "🤖 Outright (förhand)",
               "sel": "Daniel Hillier",
-              "svs": 12.0,
+              "svs": 10.0,
               "mkt": 0,
               "units": 1.0,
               "conf": 3,
-              "rat": "Daniel Hillier är en av SS:s top-2 favoriter pre-tournament (odds 12.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Daniel Hillier är en av SS:s top-2 favoriter pre-tournament (odds 10.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w3",
               "cat": "🤖 Outright (förhand)",
               "sel": "Sudarshan Yellamaraju",
-              "svs": 12.0,
+              "svs": 10.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Sudarshan Yellamaraju är en av SS:s top-3 favoriter pre-tournament (odds 12.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Sudarshan Yellamaraju är en av SS:s top-3 favoriter pre-tournament (odds 10.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w4",
               "cat": "🤖 Outright (förhand)",
               "sel": "Kazuma Kobori",
-              "svs": 13.0,
+              "svs": 11.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Kazuma Kobori är en av SS:s top-4 favoriter pre-tournament (odds 13.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Kazuma Kobori är en av SS:s top-4 favoriter pre-tournament (odds 11.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w5",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Haydn Barron",
-              "svs": 19.0,
+              "sel": "David Puig",
+              "svs": 17.0,
               "mkt": 0,
               "units": 0.7,
               "conf": 2,
-              "rat": "Haydn Barron är en av SS:s top-5 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "David Puig är en av SS:s top-5 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w6",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Wenyi Ding",
-              "svs": 19.0,
+              "sel": "Haydn Barron",
+              "svs": 17.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Wenyi Ding är en av SS:s top-6 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Haydn Barron är en av SS:s top-6 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w7",
               "cat": "🤖 Outright (förhand)",
-              "sel": "Marc Leishman",
-              "svs": 19.0,
+              "sel": "Wenyi Ding",
+              "svs": 17.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "Marc Leishman är en av SS:s top-7 favoriter pre-tournament (odds 19.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Wenyi Ding är en av SS:s top-7 favoriter pre-tournament (odds 17.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             },
             {
               "id": "auto-preview-w8",
               "cat": "🤖 Outright (förhand)",
-              "sel": "David Puig",
+              "sel": "Byeong Hun An",
               "svs": 21.0,
               "mkt": 0,
               "units": 0.5,
               "conf": 2,
-              "rat": "David Puig är en av SS:s top-8 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
+              "rat": "Byeong Hun An är en av SS:s top-8 favoriter pre-tournament (odds 21.00). Verifiera formen och kolla riktiga oddset på Svenska Spel innan spel."
             }
           ]
         }
@@ -1391,10 +1391,10 @@
               "win": {
                 "prob": 0.0988,
                 "fairOdds": 10.12,
-                "realSSOdds": 36.0,
-                "edgePct": 2.5568,
-                "kellyFraction": 0.0183,
-                "recommendedStakePct": 1.83,
+                "realSSOdds": 31.0,
+                "edgePct": 2.0628,
+                "kellyFraction": 0.0172,
+                "recommendedStakePct": 1.72,
                 "confidence": "Spelvärt"
               },
               "top5": {
@@ -1432,8 +1432,8 @@
               "win": {
                 "prob": 0.0928,
                 "fairOdds": 10.78,
-                "realSSOdds": 8.5,
-                "edgePct": -0.2112,
+                "realSSOdds": 8.0,
+                "edgePct": -0.2576,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1514,10 +1514,10 @@
               "win": {
                 "prob": 0.0531,
                 "fairOdds": 18.83,
-                "realSSOdds": 101.0,
-                "edgePct": 4.3631,
-                "kellyFraction": 0.0109,
-                "recommendedStakePct": 1.09,
+                "realSSOdds": 81.0,
+                "edgePct": 3.3011,
+                "kellyFraction": 0.0103,
+                "recommendedStakePct": 1.03,
                 "confidence": "Spelvärt"
               },
               "top5": {
@@ -1555,11 +1555,11 @@
               "win": {
                 "prob": 0.043,
                 "fairOdds": 23.26,
-                "realSSOdds": 21.0,
-                "edgePct": -0.097,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "realSSOdds": 61.0,
+                "edgePct": 1.623,
+                "kellyFraction": 0.0068,
+                "recommendedStakePct": 0.68,
+                "confidence": "Spelvärt"
               },
               "top5": {
                 "prob": 0.1818,
@@ -1596,10 +1596,10 @@
               "win": {
                 "prob": 0.0386,
                 "fairOdds": 25.91,
-                "realSSOdds": 101.0,
-                "edgePct": 2.8986,
-                "kellyFraction": 0.0072,
-                "recommendedStakePct": 0.72,
+                "realSSOdds": 81.0,
+                "edgePct": 2.1266,
+                "kellyFraction": 0.0066,
+                "recommendedStakePct": 0.66,
                 "confidence": "Spelvärt"
               },
               "top5": {
@@ -1637,8 +1637,8 @@
               "win": {
                 "prob": 0.038,
                 "fairOdds": 26.32,
-                "realSSOdds": 12.0,
-                "edgePct": -0.544,
+                "realSSOdds": 10.0,
+                "edgePct": -0.62,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1678,8 +1678,8 @@
               "win": {
                 "prob": 0.0364,
                 "fairOdds": 27.47,
-                "realSSOdds": 21.0,
-                "edgePct": -0.2356,
+                "realSSOdds": 17.0,
+                "edgePct": -0.3812,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1801,8 +1801,8 @@
               "win": {
                 "prob": 0.0269,
                 "fairOdds": 37.17,
-                "realSSOdds": 12.0,
-                "edgePct": -0.6772,
+                "realSSOdds": 10.0,
+                "edgePct": -0.731,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -1962,10 +1962,10 @@
               "win": {
                 "prob": 0.0152,
                 "fairOdds": 65.79,
-                "realSSOdds": 151.0,
-                "edgePct": 1.2952,
-                "kellyFraction": 0.0022,
-                "recommendedStakePct": 0.22,
+                "realSSOdds": 81.0,
+                "edgePct": 0.2312,
+                "kellyFraction": 0.0007,
+                "recommendedStakePct": 0.07,
                 "confidence": "Spelvärt"
               },
               "top5": {
@@ -2044,11 +2044,11 @@
               "win": {
                 "prob": 0.0135,
                 "fairOdds": 74.07,
-                "realSSOdds": 101.0,
-                "edgePct": 0.3635,
-                "kellyFraction": 0.0009,
-                "recommendedStakePct": 0.09,
-                "confidence": "Spelvärt"
+                "realSSOdds": 51.0,
+                "edgePct": -0.3115,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0767,
@@ -2085,8 +2085,8 @@
               "win": {
                 "prob": 0.0131,
                 "fairOdds": 76.34,
-                "realSSOdds": 13.0,
-                "edgePct": -0.8297,
+                "realSSOdds": 11.0,
+                "edgePct": -0.8559,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2126,8 +2126,8 @@
               "win": {
                 "prob": 0.0129,
                 "fairOdds": 77.52,
-                "realSSOdds": 41.0,
-                "edgePct": -0.4711,
+                "realSSOdds": 51.0,
+                "edgePct": -0.3421,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2167,11 +2167,11 @@
               "win": {
                 "prob": 0.0119,
                 "fairOdds": 84.03,
-                "realSSOdds": 91.0,
-                "edgePct": 0.0829,
-                "kellyFraction": 0.0002,
-                "recommendedStakePct": 0.02,
-                "confidence": "Bra läge"
+                "realSSOdds": 81.0,
+                "edgePct": -0.0361,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top5": {
                 "prob": 0.0671,
@@ -2372,11 +2372,11 @@
               "win": {
                 "prob": 0.0101,
                 "fairOdds": 99.01,
-                "realSSOdds": 91.0,
-                "edgePct": -0.0809,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "realSSOdds": 101.0,
+                "edgePct": 0.0201,
+                "kellyFraction": 0.0001,
+                "recommendedStakePct": 0.01,
+                "confidence": "Chansning"
               },
               "top5": {
                 "prob": 0.0576,
@@ -2413,8 +2413,8 @@
               "win": {
                 "prob": 0.0098,
                 "fairOdds": 102.04,
-                "realSSOdds": 41.0,
-                "edgePct": -0.5982,
+                "realSSOdds": 34.0,
+                "edgePct": -0.6668,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2454,11 +2454,11 @@
               "win": {
                 "prob": 0.0096,
                 "fairOdds": 104.17,
-                "realSSOdds": 51.0,
-                "edgePct": -0.5104,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "realSSOdds": 201.0,
+                "edgePct": 0.9296,
+                "kellyFraction": 0.0012,
+                "recommendedStakePct": 0.12,
+                "confidence": "Spelvärt"
               },
               "top5": {
                 "prob": 0.0552,
@@ -2536,8 +2536,8 @@
               "win": {
                 "prob": 0.009,
                 "fairOdds": 111.11,
-                "realSSOdds": 34.0,
-                "edgePct": -0.694,
+                "realSSOdds": 41.0,
+                "edgePct": -0.631,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2700,8 +2700,8 @@
               "win": {
                 "prob": 0.0079,
                 "fairOdds": 126.58,
-                "realSSOdds": 41.0,
-                "edgePct": -0.6761,
+                "realSSOdds": 51.0,
+                "edgePct": -0.5971,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2741,8 +2741,8 @@
               "win": {
                 "prob": 0.0078,
                 "fairOdds": 128.21,
-                "realSSOdds": 19.0,
-                "edgePct": -0.8518,
+                "realSSOdds": 34.0,
+                "edgePct": -0.7348,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2782,8 +2782,8 @@
               "win": {
                 "prob": 0.0077,
                 "fairOdds": 129.87,
-                "realSSOdds": 36.0,
-                "edgePct": -0.7228,
+                "realSSOdds": 21.0,
+                "edgePct": -0.8383,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2864,8 +2864,8 @@
               "win": {
                 "prob": 0.0073,
                 "fairOdds": 136.99,
-                "realSSOdds": 41.0,
-                "edgePct": -0.7007,
+                "realSSOdds": 21.0,
+                "edgePct": -0.8467,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -2943,11 +2943,11 @@
               "win": {
                 "prob": 0.0069,
                 "fairOdds": 144.93,
-                "realSSOdds": 91.0,
-                "edgePct": -0.3721,
-                "kellyFraction": 0.0,
-                "recommendedStakePct": 0.0,
-                "confidence": "Övervärderad"
+                "realSSOdds": 151.0,
+                "edgePct": 0.0419,
+                "kellyFraction": 0.0001,
+                "recommendedStakePct": 0.01,
+                "confidence": "Neutral"
               },
               "top5": {
                 "prob": 0.0425,
@@ -2984,8 +2984,8 @@
               "win": {
                 "prob": 0.0067,
                 "fairOdds": 149.25,
-                "realSSOdds": 101.0,
-                "edgePct": -0.3233,
+                "realSSOdds": 61.0,
+                "edgePct": -0.5913,
                 "kellyFraction": 0.0,
                 "recommendedStakePct": 0.0,
                 "confidence": "Övervärderad"
@@ -3024,18 +3024,18 @@
               "prob": 0.0988,
               "fairOdds": 10.12,
               "confidence": "Spelvärt",
-              "realSSOdds": 36.0,
-              "edgePct": 2.5568,
-              "kellyFraction": 0.0183,
-              "recommendedStakePct": 1.83
+              "realSSOdds": 31.0,
+              "edgePct": 2.0628,
+              "kellyFraction": 0.0172,
+              "recommendedStakePct": 1.72
             },
             {
               "name": "Min Woo Lee",
               "prob": 0.0928,
               "fairOdds": 10.78,
               "confidence": "Övervärderad",
-              "realSSOdds": 8.5,
-              "edgePct": -0.2112,
+              "realSSOdds": 8.0,
+              "edgePct": -0.2576,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
             },
@@ -3054,38 +3054,38 @@
               "prob": 0.0531,
               "fairOdds": 18.83,
               "confidence": "Spelvärt",
-              "realSSOdds": 101.0,
-              "edgePct": 4.3631,
-              "kellyFraction": 0.0109,
-              "recommendedStakePct": 1.09
+              "realSSOdds": 81.0,
+              "edgePct": 3.3011,
+              "kellyFraction": 0.0103,
+              "recommendedStakePct": 1.03
             },
             {
               "name": "Corey Conners",
               "prob": 0.043,
               "fairOdds": 23.26,
-              "confidence": "Övervärderad",
-              "realSSOdds": 21.0,
-              "edgePct": -0.097,
-              "kellyFraction": 0.0,
-              "recommendedStakePct": 0.0
+              "confidence": "Spelvärt",
+              "realSSOdds": 61.0,
+              "edgePct": 1.623,
+              "kellyFraction": 0.0068,
+              "recommendedStakePct": 0.68
             },
             {
               "name": "Ross Steelman",
               "prob": 0.0386,
               "fairOdds": 25.91,
               "confidence": "Spelvärt",
-              "realSSOdds": 101.0,
-              "edgePct": 2.8986,
-              "kellyFraction": 0.0072,
-              "recommendedStakePct": 0.72
+              "realSSOdds": 81.0,
+              "edgePct": 2.1266,
+              "kellyFraction": 0.0066,
+              "recommendedStakePct": 0.66
             },
             {
               "name": "Daniel Hillier",
               "prob": 0.038,
               "fairOdds": 26.32,
               "confidence": "Övervärderad",
-              "realSSOdds": 12.0,
-              "edgePct": -0.544,
+              "realSSOdds": 10.0,
+              "edgePct": -0.62,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
             },
@@ -3094,8 +3094,8 @@
               "prob": 0.0364,
               "fairOdds": 27.47,
               "confidence": "Övervärderad",
-              "realSSOdds": 21.0,
-              "edgePct": -0.2356,
+              "realSSOdds": 17.0,
+              "edgePct": -0.3812,
               "kellyFraction": 0.0,
               "recommendedStakePct": 0.0
             }
@@ -3352,7 +3352,7 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-26T01:44:33+00:00",
+          "generatedAt": "2026-11-26T03:28:29+00:00",
           "headline": "Inför Capital.com Australian Open: fältet samlas på veckans bana",
           "insights": [
             {
@@ -3392,7 +3392,7 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-26T01:44:34+00:00",
+          "generatedAt": "2026-11-26T03:28:30+00:00",
           "headline": "Inför Nedbank Golf Challenge: fältet samlas på veckans bana",
           "insights": [
             {

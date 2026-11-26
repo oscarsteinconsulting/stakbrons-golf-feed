@@ -7,46 +7,31 @@
   "par": 71,
   "yards": 0,
   "startDate": "2026-11-19T05:00Z",
-  "snapshotAt": "2026-11-26T01:44:28+00:00",
+  "snapshotAt": "2026-11-26T03:28:25+00:00",
   "headlines": {
-    "torsdag": "R1 utfall: Marco Penge leder -17 — Michael Thorbjornsen jagar ett slag bakom",
-    "fredag": "R2 utfall: Marco Penge leder -17 — Michael Thorbjornsen jagar ett slag bakom",
-    "lordag": "R3 utfall: Marco Penge leder -17 — Michael Thorbjornsen jagar ett slag bakom",
-    "sondag": "Slutresultat: Marco Penge vann på -17 — vinst med ett slag över Michael Thorbjornsen"
+    "torsdag": "R1 utfall: Marco Penge leder -16 — flera spelare delar ledningen",
+    "fredag": "R2 utfall: Marco Penge leder -16 — flera spelare delar ledningen",
+    "lordag": "R3 utfall: Marco Penge leder -16 — flera spelare delar ledningen",
+    "sondag": "Slutresultat: Marco Penge vann på -16 — playoff/oavgjord"
   },
   "finalLeaderboard": [
     {
-      "position": "1",
+      "position": "T1",
       "name": "Marco Penge",
       "country": "England",
-      "totalDisplay": "-17",
-      "totalValue": -17.0,
+      "totalDisplay": "-16",
+      "totalValue": -16.0,
       "rounds": [
         "-4",
         "-5",
         "-2",
         "-5",
-        "-1",
+        "-",
         "-"
       ]
     },
     {
-      "position": "T2",
-      "name": "Michael Thorbjornsen",
-      "country": "USA",
-      "totalDisplay": "-16",
-      "totalValue": -16.0,
-      "rounds": [
-        "-6",
-        "-3",
-        "-4",
-        "-3",
-        "E",
-        "-"
-      ]
-    },
-    {
-      "position": "T2",
+      "position": "T1",
       "name": "Haotong Li",
       "country": "China",
       "totalDisplay": "-16",
@@ -61,7 +46,7 @@
       ]
     },
     {
-      "position": "T2",
+      "position": "T1",
       "name": "Max Greyserman",
       "country": "USA",
       "totalDisplay": "-16",
@@ -71,6 +56,21 @@
         "E",
         "-5",
         "-4",
+        "-",
+        "-"
+      ]
+    },
+    {
+      "position": "T1",
+      "name": "Michael Thorbjornsen",
+      "country": "USA",
+      "totalDisplay": "-16",
+      "totalValue": -16.0,
+      "rounds": [
+        "-6",
+        "-3",
+        "-4",
+        "-3",
         "-",
         "-"
       ]
