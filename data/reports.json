@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T03:12:53+00:00",
+  "generatedAt": "2026-11-28T14:29:47+00:00",
   "tournaments": [
     {
       "id": "live-hero-world-challenge",
@@ -17,7 +17,7 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-28T03:12:55+00:00",
+          "generatedAt": "2026-11-28T14:29:50+00:00",
           "headline": "Inför Hero World Challenge: fältet samlas på veckans bana",
           "insights": [
             {
@@ -57,7 +57,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-28T03:12:56+00:00",
+          "generatedAt": "2026-11-28T14:29:51+00:00",
           "headline": "R1 utfall: Marco Penge leder -16 — flera spelare delar ledningen",
           "insights": [
             {
@@ -188,7 +188,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-28T03:12:56+00:00",
+          "generatedAt": "2026-11-28T14:29:52+00:00",
           "headline": "R2 utfall: Marco Penge leder -16 — flera spelare delar ledningen",
           "insights": [
             {
@@ -319,7 +319,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-28T03:12:57+00:00",
+          "generatedAt": "2026-11-28T14:29:52+00:00",
           "headline": "R3 utfall: Marco Penge leder -16 — flera spelare delar ledningen",
           "insights": [
             {
@@ -450,7 +450,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-28T03:12:57+00:00",
+          "generatedAt": "2026-11-28T14:29:52+00:00",
           "headline": "Slutresultat: Marco Penge vann på -16 — playoff/oavgjord",
           "insights": [
             {
@@ -610,7 +610,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-28T03:12:57+00:00",
+          "generatedAt": "2026-11-28T14:29:53+00:00",
           "headline": "R1 utfall: Jeeno Thitikul leder -24 — Aki Iwai jagar 2 slag bakom",
           "insights": [
             {
@@ -741,7 +741,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-28T03:12:58+00:00",
+          "generatedAt": "2026-11-28T14:29:53+00:00",
           "headline": "R2 utfall: Jeeno Thitikul leder -24 — Aki Iwai jagar 2 slag bakom",
           "insights": [
             {
@@ -872,7 +872,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-28T03:12:58+00:00",
+          "generatedAt": "2026-11-28T14:29:54+00:00",
           "headline": "R3 utfall: Jeeno Thitikul leder -24 — Aki Iwai jagar 2 slag bakom",
           "insights": [
             {
@@ -1003,7 +1003,7 @@
         "sondag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-28T03:12:58+00:00",
+          "generatedAt": "2026-11-28T14:29:54+00:00",
           "headline": "Slutresultat: Jeeno Thitikul vann på -24 — vinst med 2 slag över Aki Iwai",
           "insights": [
             {
@@ -1149,7 +1149,7 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-28T03:12:59+00:00",
+          "generatedAt": "2026-11-28T14:29:55+00:00",
           "headline": "Inför BMW Australian PGA Championship: fältet samlas på veckans bana",
           "insights": [
             {
@@ -1260,7 +1260,7 @@
         "torsdag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-28T03:12:59+00:00",
+          "generatedAt": "2026-11-28T14:29:55+00:00",
           "headline": "R1 utfall: Nicolai von Dellingshausen leder -13 — Tom McKibbin jagar 3 slag bakom",
           "insights": [
             {
@@ -1391,7 +1391,7 @@
         "fredag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-28T03:12:59+00:00",
+          "generatedAt": "2026-11-28T14:29:56+00:00",
           "headline": "R2 utfall: Nicolai von Dellingshausen leder -13 — Tom McKibbin jagar 3 slag bakom",
           "insights": [
             {
@@ -1522,7 +1522,7 @@
         "lordag": {
           "kind": "daily",
           "locked": false,
-          "generatedAt": "2026-11-28T03:12:59+00:00",
+          "generatedAt": "2026-11-28T14:29:56+00:00",
           "headline": "R3 live: Nicolai von Dellingshausen leder -13 — Tom McKibbin jagar 3 slag bakom",
           "insights": [
             {
@@ -1682,8 +1682,11 @@
               "top5": {
                 "prob": 0.8518,
                 "fairOdds": 1.17,
-                "estimatedSSOdds": 1.05,
-                "confidence": "Stark"
+                "realSSOdds": 1.05,
+                "edgePct": -0.1056,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.9549,
@@ -1717,8 +1720,11 @@
               "top5": {
                 "prob": 0.6986,
                 "fairOdds": 1.43,
-                "estimatedSSOdds": 1.29,
-                "confidence": "Stark"
+                "realSSOdds": 1.37,
+                "edgePct": -0.0429,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.8766,
@@ -1784,8 +1790,11 @@
               "top5": {
                 "prob": 0.3885,
                 "fairOdds": 2.57,
-                "estimatedSSOdds": 2.31,
-                "confidence": "Stark"
+                "realSSOdds": 1.15,
+                "edgePct": -0.5532,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.6418,
@@ -1819,8 +1828,11 @@
               "top5": {
                 "prob": 0.2923,
                 "fairOdds": 3.42,
-                "estimatedSSOdds": 3.08,
-                "confidence": "Stark"
+                "realSSOdds": 4.0,
+                "edgePct": 0.1692,
+                "kellyFraction": 0.0141,
+                "recommendedStakePct": 1.41,
+                "confidence": "Spelvärt"
               },
               "top10": {
                 "prob": 0.5459,
@@ -1854,8 +1866,11 @@
               "top5": {
                 "prob": 0.2745,
                 "fairOdds": 3.64,
-                "estimatedSSOdds": 3.28,
-                "confidence": "Stark"
+                "realSSOdds": 2.7,
+                "edgePct": -0.2588,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.5282,
@@ -1889,8 +1904,11 @@
               "top5": {
                 "prob": 0.239,
                 "fairOdds": 4.18,
-                "estimatedSSOdds": 3.76,
-                "confidence": "Stark"
+                "realSSOdds": 6.5,
+                "edgePct": 0.5535,
+                "kellyFraction": 0.0252,
+                "recommendedStakePct": 2.52,
+                "confidence": "Spelvärt"
               },
               "top10": {
                 "prob": 0.4811,
@@ -1956,8 +1974,11 @@
               "top5": {
                 "prob": 0.1894,
                 "fairOdds": 5.28,
-                "estimatedSSOdds": 4.75,
-                "confidence": "Lutar"
+                "realSSOdds": 6.0,
+                "edgePct": 0.1364,
+                "kellyFraction": 0.0068,
+                "recommendedStakePct": 0.68,
+                "confidence": "Bra läge"
               },
               "top10": {
                 "prob": 0.4198,
@@ -1982,17 +2003,20 @@
               "win": {
                 "prob": 0.0075,
                 "fairOdds": 133.33,
-                "realSSOdds": 176.0,
-                "edgePct": 0.32,
-                "kellyFraction": 0.0005,
-                "recommendedStakePct": 0.05,
+                "realSSOdds": 201.0,
+                "edgePct": 0.5075,
+                "kellyFraction": 0.0006,
+                "recommendedStakePct": 0.06,
                 "confidence": "Spelvärt"
               },
               "top5": {
                 "prob": 0.1106,
                 "fairOdds": 9.04,
-                "estimatedSSOdds": 8.14,
-                "confidence": "Jämn"
+                "realSSOdds": 7.0,
+                "edgePct": -0.2258,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.2911,
@@ -2026,8 +2050,11 @@
               "top5": {
                 "prob": 0.0897,
                 "fairOdds": 11.15,
-                "estimatedSSOdds": 10.04,
-                "confidence": "Jämn"
+                "realSSOdds": 7.0,
+                "edgePct": -0.3721,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.2425,
@@ -2093,8 +2120,11 @@
               "top5": {
                 "prob": 0.082,
                 "fairOdds": 12.2,
-                "estimatedSSOdds": 10.98,
-                "confidence": "Jämn"
+                "realSSOdds": 1.5,
+                "edgePct": -0.877,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.2304,
@@ -2160,8 +2190,11 @@
               "top5": {
                 "prob": 0.0727,
                 "fairOdds": 13.76,
-                "estimatedSSOdds": 12.38,
-                "confidence": "Jämn"
+                "realSSOdds": 17.0,
+                "edgePct": 0.2359,
+                "kellyFraction": 0.0037,
+                "recommendedStakePct": 0.37,
+                "confidence": "Spelvärt"
               },
               "top10": {
                 "prob": 0.2052,
@@ -2227,8 +2260,11 @@
               "top5": {
                 "prob": 0.061,
                 "fairOdds": 16.39,
-                "estimatedSSOdds": 14.75,
-                "confidence": "Svag"
+                "realSSOdds": 2.5,
+                "edgePct": -0.8475,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.1819,
@@ -2262,8 +2298,11 @@
               "top5": {
                 "prob": 0.0608,
                 "fairOdds": 16.45,
-                "estimatedSSOdds": 14.8,
-                "confidence": "Svag"
+                "realSSOdds": 2.75,
+                "edgePct": -0.8328,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.1821,
@@ -2393,8 +2432,11 @@
               "top5": {
                 "prob": 0.0507,
                 "fairOdds": 19.72,
-                "estimatedSSOdds": 17.75,
-                "confidence": "Svag"
+                "realSSOdds": 15.0,
+                "edgePct": -0.2395,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.1634,
@@ -2492,8 +2534,11 @@
               "top5": {
                 "prob": 0.0356,
                 "fairOdds": 28.09,
-                "estimatedSSOdds": 25.28,
-                "confidence": "Svag"
+                "realSSOdds": 15.0,
+                "edgePct": -0.466,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.1247,
@@ -2591,8 +2636,11 @@
               "top5": {
                 "prob": 0.0133,
                 "fairOdds": 75.19,
-                "estimatedSSOdds": 67.67,
-                "confidence": "Svag"
+                "realSSOdds": 17.0,
+                "edgePct": -0.7739,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.0556,
@@ -2626,8 +2674,11 @@
               "top5": {
                 "prob": 0.0125,
                 "fairOdds": 80.0,
-                "estimatedSSOdds": 72.0,
-                "confidence": "Svag"
+                "realSSOdds": 6.5,
+                "edgePct": -0.9187,
+                "kellyFraction": 0.0,
+                "recommendedStakePct": 0.0,
+                "confidence": "Övervärderad"
               },
               "top10": {
                 "prob": 0.0572,
@@ -3078,15 +3129,21 @@
               "name": "Nicolai von Dellingshausen",
               "prob": 0.8518,
               "fairOdds": 1.17,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.05
+              "confidence": "Övervärderad",
+              "realSSOdds": 1.05,
+              "edgePct": -0.1056,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
             },
             {
               "name": "Tom McKibbin",
               "prob": 0.6986,
               "fairOdds": 1.43,
-              "confidence": "Stark",
-              "estimatedSSOdds": 1.29
+              "confidence": "Övervärderad",
+              "realSSOdds": 1.37,
+              "edgePct": -0.0429,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
             },
             {
               "name": "Cameron Smith",
@@ -3099,29 +3156,41 @@
               "name": "Alex Noren",
               "prob": 0.3885,
               "fairOdds": 2.57,
-              "confidence": "Stark",
-              "estimatedSSOdds": 2.31
+              "confidence": "Övervärderad",
+              "realSSOdds": 1.15,
+              "edgePct": -0.5532,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
             },
             {
               "name": "Lars van der Vight",
               "prob": 0.2923,
               "fairOdds": 3.42,
-              "confidence": "Stark",
-              "estimatedSSOdds": 3.08
+              "confidence": "Spelvärt",
+              "realSSOdds": 4.0,
+              "edgePct": 0.1692,
+              "kellyFraction": 0.0141,
+              "recommendedStakePct": 1.41
             },
             {
               "name": "Daniel Hillier",
               "prob": 0.2745,
               "fairOdds": 3.64,
-              "confidence": "Stark",
-              "estimatedSSOdds": 3.28
+              "confidence": "Övervärderad",
+              "realSSOdds": 2.7,
+              "edgePct": -0.2588,
+              "kellyFraction": 0.0,
+              "recommendedStakePct": 0.0
             },
             {
               "name": "Sudarshan Yellamaraju",
               "prob": 0.239,
               "fairOdds": 4.18,
-              "confidence": "Stark",
-              "estimatedSSOdds": 3.76
+              "confidence": "Spelvärt",
+              "realSSOdds": 6.5,
+              "edgePct": 0.5535,
+              "kellyFraction": 0.0252,
+              "recommendedStakePct": 2.52
             },
             {
               "name": "Austen Truslow",
@@ -3260,6 +3329,39 @@
             "kellyFraction": 0.0169,
             "recommendedStakePct": 1.69,
             "confidence": "Spelvärt"
+          },
+          {
+            "name": "Kazuma Kobori",
+            "market": "top5",
+            "prob": 0.0727,
+            "fairOdds": 13.76,
+            "realSSOdds": 17.0,
+            "edgePct": 0.2359,
+            "kellyFraction": 0.0037,
+            "recommendedStakePct": 0.37,
+            "confidence": "Spelvärt"
+          },
+          {
+            "name": "Lars van der Vight",
+            "market": "top5",
+            "prob": 0.2923,
+            "fairOdds": 3.42,
+            "realSSOdds": 4.0,
+            "edgePct": 0.1692,
+            "kellyFraction": 0.0141,
+            "recommendedStakePct": 1.41,
+            "confidence": "Spelvärt"
+          },
+          {
+            "name": "David Puig",
+            "market": "top5",
+            "prob": 0.1894,
+            "fairOdds": 5.28,
+            "realSSOdds": 6.0,
+            "edgePct": 0.1364,
+            "kellyFraction": 0.0068,
+            "recommendedStakePct": 0.68,
+            "confidence": "Bra läge"
           }
         ]
       }
@@ -3280,7 +3382,7 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-28T03:13:02+00:00",
+          "generatedAt": "2026-11-28T14:29:58+00:00",
           "headline": "Inför Capital.com Australian Open: fältet samlas på veckans bana",
           "insights": [
             {
@@ -3320,7 +3422,7 @@
         "onsdag": {
           "kind": "preview",
           "locked": false,
-          "generatedAt": "2026-11-28T03:13:02+00:00",
+          "generatedAt": "2026-11-28T14:29:58+00:00",
           "headline": "Inför Nedbank Golf Challenge: fältet samlas på veckans bana",
           "insights": [
             {
